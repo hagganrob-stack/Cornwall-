@@ -18,6 +18,19 @@ const ONLY = (process.argv.find((a) => a.startsWith('--only=')) || '').split('='
 const REFETCH = process.argv.includes('--refetch');
 const SOURCES = ((process.argv.find((a) => a.startsWith('--sources=')) || '--sources=geograph,commons').split('=')[1]).split(',');
 const GEOGRAPH = 'https://www.geograph.org.uk/syndicator.php';
+// Optional: with a Geograph API key (env GEOGRAPH_API_KEY, never committed) we read each chosen
+// photo's size info and use the 800px rendition where the original is larger than 640px.
+const GEOGRAPH_KEY = process.env.GEOGRAPH_API_KEY || null;
+
+async function geographDetails(id) {
+  if (!GEOGRAPH_KEY) return null;
+  const file = `data/raw/geograph-photo/${id}.json`;
+  const cached = await fs.readFile(file, 'utf8').catch(() => null);
+  if (cached) return JSON.parse(cached);
+  await sleep(500);
+  // The key is only used in the request URL; cache files hold the response body only.
+  return cachedFetch(`https://api.geograph.org.uk/api/photo/${id}/${GEOGRAPH_KEY}?output=json`, file, { retries: 2 }).catch(() => null);
+}
 const ALLOWED = /^(cc0|public domain|pd|cc by(-sa)? \d(\.\d)?( [a-z]{2,})?)/i;
 const REJECT_TITLE = /\b(map|plan|diagram|sign|signs|notice|logo|chart|coat of arms|flag|drawing|postcard|ticket|interior|church|grave|memorial|plaque|bus|train|locomotive|car park sign|ship|vessel|boat)\b/i;
 
@@ -128,7 +141,7 @@ async function geographCandidates(place, kind) {
   const name = place.name.toLowerCase().replace(/\b(beach|bay|cove|sands)\b/g, '').trim();
   const nameRe = new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
   const plainName = (n) => n.replace(/\s+/g, '');
-  return (feed.items || [])
+  const picks = (feed.items || [])
     .map((it) => {
       const title = strip(it.title).replace(/^[A-Z]{1,2}\d{4,8}\s*:\s*/, '');
       const text = `${title} ${it.tags || ''}`;
@@ -166,8 +179,29 @@ async function geographCandidates(place, kind) {
     })
     .filter((c) => c.score > 0 && c.photographer && /creativecommons/.test(c.licenceUrl || ''))
     .sort((a, b) => b.score - a.score)
-    .slice(0, 3)
-    .map((c) => ({ ...c, retrieved: TODAY }));
+    .slice(0, 3);
+  const out = [];
+  for (const c of picks) {
+    const d = await geographDetails(c.file.slice('geograph:'.length));
+    if (d?.sizeinfo) {
+      const [w, h, , , ow, oh] = d.sizeinfo.map(Number);
+      const big = Math.max(ow || 0, oh || 0) > 640;
+      if (big) {
+        const k = 800 / Math.max(ow, oh);
+        c.url = c.thumbUrl = c.url.replace(/\.jpg$/, '_800x800.jpg');
+        c.width = Math.round(ow * Math.min(1, k));
+        c.height = Math.round(oh * Math.min(1, k));
+        c.score += 6;
+      } else {
+        c.width = w;
+        c.height = h;
+      }
+      if (c.width && c.height && c.height > c.width) c.score -= 15; // portrait crops badly in cards/heroes
+      c.originalSize = ow && oh ? `${ow}x${oh}` : null;
+    }
+    out.push({ ...c, retrieved: TODAY });
+  }
+  return out.sort((a, b) => b.score - a.score);
 }
 
 async function candidatesFor(place, kind) {
