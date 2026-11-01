@@ -4,30 +4,30 @@ Generated 2026-11-01.
 
 | Region | Towns | Beaches | Council dog rule | RNLI lifeguards | Photo |
 |---|---:|---:|---:|---:|---:|
-| North Coast | 24 | 76 | 9 | 28 | 76 |
-| West Cornwall (Penwith) | 15 | 32 | 10 | 9 | 32 |
-| The Lizard | 9 | 18 | 5 | 5 | 18 |
-| South Coast | 19 | 48 | 5 | 2 | 48 |
-| Bodmin Moor & East Cornwall | 13 | 4 | 1 | 1 | 4 |
-| **Total** | 80 | 178 | 30 | 45 | 178 |
+| North Coast | 24 | 81 | 13 | 32 | 81 |
+| West Cornwall (Penwith) | 15 | 37 | 15 | 11 | 37 |
+| The Lizard | 9 | 20 | 8 | 5 | 20 |
+| South Coast | 19 | 52 | 9 | 2 | 52 |
+| Bodmin Moor & East Cornwall | 13 | 9 | 3 | 4 | 9 |
+| **Total** | 80 | 199 | 48 | 54 | 199 |
 
 ## Field coverage (beaches)
 
 | Field | Has a sourced value |
 |---|---:|
-| Dog rules (Council-listed restriction) | 17% |
+| Dog rules (Council-listed restriction) | 24% |
 | Dog status stated (Council list checked: restricted or not listed) | 100% |
-| surface | 58% |
-| size | 84% |
+| surface | 57% |
+| size | 85% |
 | facing | 85% |
-| parking | 65% |
-| toilets | 45% |
-| cafeNearby | 37% |
-| accessibility | 30% |
+| parking | 66% |
+| toilets | 48% |
+| cafeNearby | 40% |
+| accessibility | 32% |
 | surf | 3% |
 | rockPools | 0% |
-| swimming | 25% |
-| lifeguards | 25% |
+| swimming | 27% |
+| lifeguards | 27% |
 | Photo (openly licensed) | 100% |
 | Towns with photo | 100% |
 
