@@ -30,7 +30,9 @@ async function overpass(name, query) {
 
 const AREA = 'area["ISO3166-2"="GB-CON"]->.c;';
 const [beachRes, amenityRes, coastRes] = [
-  await overpass('beaches', `[out:json][timeout:240];${AREA}nwr["natural"="beach"]["name"](area.c);out tags center geom;`),
+  // `out geom` (not `out tags ...`): relations need their members to build an outline. The cache name is
+  // versioned so a stale cache from the old query isn't reused.
+  await overpass('beaches-v2', `[out:json][timeout:240];${AREA}nwr["natural"="beach"]["name"](area.c);out geom;`),
   await overpass(
     'amenities',
     `[out:json][timeout:240];${AREA}(nwr["amenity"~"^(parking|toilets|cafe|ice_cream)$"](area.c);nwr["sport"="surfing"](area.c);nwr["shop"="surf"](area.c);nwr["leisure"="slipway"](area.c););out tags center;`
@@ -63,9 +65,20 @@ let raw = beachRes.elements
   .filter((el) => el.tags?.name && !EXCLUDE_NAMES.some((re) => re.test(el.tags.name)))
   .map((el) => {
     const outline = geometryPoints(el);
-    const c = el.type === 'node' ? { lat: el.lat, lng: el.lon } : el.center ? { lat: el.center.lat, lng: el.center.lon } : centroid(outline);
+    const c =
+      el.type === 'node'
+        ? { lat: el.lat, lng: el.lon }
+        : el.center
+          ? { lat: el.center.lat, lng: el.center.lon }
+          : outline
+            ? centroid(outline)
+            : el.bounds
+              ? { lat: (el.bounds.minlat + el.bounds.maxlat) / 2, lng: (el.bounds.minlon + el.bounds.maxlon) / 2 }
+              : null;
+    if (!c) return null;
     return { el, name: el.tags.name.trim(), lat: c.lat, lng: c.lng, outline, areaM2: outline ? polygonAreaM2(outline) : null };
-  });
+  })
+  .filter(Boolean);
 
 // Merge OSM features that share a name and sit within 1 km (beaches mapped in pieces, or a node + an area).
 const merged = [];
