@@ -4,12 +4,12 @@ Generated 2026-11-01.
 
 | Region | Towns | Beaches | Council dog rule | RNLI lifeguards | Photo |
 |---|---:|---:|---:|---:|---:|
-| North Coast | 24 | 76 | 0 | 27 | 0 |
-| West Cornwall (Penwith) | 15 | 32 | 0 | 9 | 0 |
-| The Lizard | 9 | 18 | 0 | 5 | 0 |
-| South Coast | 19 | 48 | 0 | 2 | 0 |
-| Bodmin Moor & East Cornwall | 13 | 4 | 0 | 1 | 0 |
-| **Total** | 80 | 178 | 0 | 44 | 0 |
+| North Coast | 24 | 76 | 0 | 27 | 76 |
+| West Cornwall (Penwith) | 15 | 32 | 0 | 9 | 32 |
+| The Lizard | 9 | 18 | 0 | 5 | 18 |
+| South Coast | 19 | 48 | 0 | 2 | 48 |
+| Bodmin Moor & East Cornwall | 13 | 4 | 0 | 1 | 4 |
+| **Total** | 80 | 178 | 0 | 44 | 178 |
 
 ## Field coverage (beaches)
 
@@ -28,6 +28,6 @@ Generated 2026-11-01.
 | rockPools | 0% |
 | swimming | 25% |
 | lifeguards | 25% |
-| Photo (openly licensed) | 0% |
+| Photo (openly licensed) | 100% |
 | Towns with photo | 100% |
 

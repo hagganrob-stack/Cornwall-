@@ -98,7 +98,122 @@
         "score": 64,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "summerleaze-beach",
+        "name": "Summerleaze Beach",
+        "km": 0.4
+      },
+      {
+        "slug": "compass-cove",
+        "name": "Compass Cove",
+        "km": 0.7
+      },
+      {
+        "slug": "middle-beach",
+        "name": "Middle Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "crooklets-beach",
+        "name": "Crooklets Beach",
+        "km": 1
+      },
+      {
+        "slug": "first-cove",
+        "name": "First Cove",
+        "km": 1.1
+      },
+      {
+        "slug": "maer-low-cliff-beach",
+        "name": "Maer Low Cliff beach",
+        "km": 1.3
+      },
+      {
+        "slug": "maer-high-cliff-beach",
+        "name": "Maer High Cliff Beach",
+        "km": 1.5
+      },
+      {
+        "slug": "furzy-cove",
+        "name": "Furzy Cove",
+        "km": 1.7
+      },
+      {
+        "slug": "pearces-cove",
+        "name": "Pearce's Cove",
+        "km": 1.8
+      },
+      {
+        "slug": "vinegar-cove",
+        "name": "Vinegar Cove",
+        "km": 1.9
+      },
+      {
+        "slug": "northcott-mouth-beach",
+        "name": "Northcott Mouth beach",
+        "km": 2.3
+      },
+      {
+        "slug": "westpark-beach",
+        "name": "Westpark Beach",
+        "km": 2.8
+      },
+      {
+        "slug": "sandy-mouth-beach",
+        "name": "Sandy Mouth Beach",
+        "km": 3.7
+      },
+      {
+        "slug": "warren-long-beach",
+        "name": "Warren Long Beach",
+        "km": 4
+      },
+      {
+        "slug": "eliza-beach",
+        "name": "Eliza Beach",
+        "km": 4.4
+      },
+      {
+        "slug": "widemouth-sands",
+        "name": "Widemouth Sands",
+        "km": 4.4
+      },
+      {
+        "slug": "warren-gutter-beach",
+        "name": "Warren Gutter Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "widemouth-bay",
+        "name": "Widemouth Bay",
+        "km": 4.1
+      },
+      {
+        "slug": "crackington-haven",
+        "name": "Crackington Haven",
+        "km": 11.5
+      },
+      {
+        "slug": "boscastle",
+        "name": "Boscastle",
+        "km": 18.5
+      },
+      {
+        "slug": "tintagel",
+        "name": "Tintagel",
+        "km": 23.3
+      },
+      {
+        "slug": "camelford",
+        "name": "Camelford",
+        "km": 24.9
+      }
+    ],
+    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km)."
   },
   {
     "slug": "widemouth-bay",
@@ -199,7 +314,62 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "widemouth-sands",
+        "name": "Widemouth Sands",
+        "km": 0.4
+      },
+      {
+        "slug": "compass-cove",
+        "name": "Compass Cove",
+        "km": 4
+      },
+      {
+        "slug": "summerleaze-beach",
+        "name": "Summerleaze Beach",
+        "km": 4.3
+      },
+      {
+        "slug": "middle-beach",
+        "name": "Middle Beach",
+        "km": 4.7
+      },
+      {
+        "slug": "crooklets-beach",
+        "name": "Crooklets Beach",
+        "km": 4.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "bude",
+        "name": "Bude",
+        "km": 4.1
+      },
+      {
+        "slug": "crackington-haven",
+        "name": "Crackington Haven",
+        "km": 8
+      },
+      {
+        "slug": "boscastle",
+        "name": "Boscastle",
+        "km": 15
+      },
+      {
+        "slug": "tintagel",
+        "name": "Tintagel",
+        "km": 19.9
+      },
+      {
+        "slug": "camelford",
+        "name": "Camelford",
+        "km": 21
+      }
+    ],
+    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km)."
   },
   {
     "slug": "crackington-haven",
@@ -300,7 +470,36 @@
         "score": 67,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "boscastle",
+        "name": "Boscastle",
+        "km": 7.1
+      },
+      {
+        "slug": "widemouth-bay",
+        "name": "Widemouth Bay",
+        "km": 8
+      },
+      {
+        "slug": "bude",
+        "name": "Bude",
+        "km": 11.5
+      },
+      {
+        "slug": "tintagel",
+        "name": "Tintagel",
+        "km": 12
+      },
+      {
+        "slug": "camelford",
+        "name": "Camelford",
+        "km": 13.7
+      }
+    ],
+    "description": "Crackington Haven is a village in North Coast. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Boscastle (7.1 km) and Widemouth Bay (8.0 km)."
   },
   {
     "slug": "boscastle",
@@ -401,7 +600,47 @@
         "score": 73,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "benoath-cove",
+        "name": "Benoath Cove",
+        "km": 3.6
+      },
+      {
+        "slug": "bossiney-haven",
+        "name": "Bossiney haven",
+        "km": 3.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "tintagel",
+        "name": "Tintagel",
+        "km": 5.1
+      },
+      {
+        "slug": "crackington-haven",
+        "name": "Crackington Haven",
+        "km": 7.1
+      },
+      {
+        "slug": "camelford",
+        "name": "Camelford",
+        "km": 7.7
+      },
+      {
+        "slug": "port-isaac",
+        "name": "Port Isaac",
+        "km": 14.4
+      },
+      {
+        "slug": "widemouth-bay",
+        "name": "Widemouth Bay",
+        "km": 15
+      }
+    ],
+    "description": "Boscastle is a village in North Coast. There are 2 named beaches within 5 km, the closest being Benoath Cove (3.6 km). The nearest other bases are Tintagel (5.1 km) and Crackington Haven (7.1 km)."
   },
   {
     "slug": "tintagel",
@@ -482,7 +721,52 @@
         "score": 56,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "bossiney-haven",
+        "name": "Bossiney haven",
+        "km": 1.3
+      },
+      {
+        "slug": "benoath-cove",
+        "name": "Benoath Cove",
+        "km": 1.5
+      },
+      {
+        "slug": "tregardock",
+        "name": "Tregardock",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "boscastle",
+        "name": "Boscastle",
+        "km": 5.1
+      },
+      {
+        "slug": "camelford",
+        "name": "Camelford",
+        "km": 7
+      },
+      {
+        "slug": "port-isaac",
+        "name": "Port Isaac",
+        "km": 9.5
+      },
+      {
+        "slug": "crackington-haven",
+        "name": "Crackington Haven",
+        "km": 12
+      },
+      {
+        "slug": "polzeath",
+        "name": "Polzeath",
+        "km": 15.3
+      }
+    ],
+    "description": "Tintagel is a visitor base in North Coast. There are 3 named beaches within 5 km, the closest being Bossiney haven (1.3 km). The nearest other bases are Boscastle (5.1 km) and Camelford (7.0 km)."
   },
   {
     "slug": "port-isaac",
@@ -583,7 +867,42 @@
         "score": 69,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "port-gaverne-beach",
+        "name": "Port Gaverne Beach",
+        "km": 0.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "polzeath",
+        "name": "Polzeath",
+        "km": 6.4
+      },
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 8
+      },
+      {
+        "slug": "wadebridge",
+        "name": "Wadebridge",
+        "km": 8.5
+      },
+      {
+        "slug": "tintagel",
+        "name": "Tintagel",
+        "km": 9.5
+      },
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 9.6
+      }
+    ],
+    "description": "Port Isaac is a village in North Coast. There is 1 named beach within 5 km, the closest being Port Gaverne Beach (500 m). The nearest other bases are Polzeath (6.4 km) and Rock (8.0 km)."
   },
   {
     "slug": "polzeath",
@@ -664,7 +983,77 @@
         "score": 68,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "hayle-bay",
+        "name": "Hayle Bay",
+        "km": 0.6
+      },
+      {
+        "slug": "pentireglaze-haven",
+        "name": "Pentireglaze Haven",
+        "km": 0.8
+      },
+      {
+        "slug": "pentire-haven",
+        "name": "Pentire Haven",
+        "km": 1
+      },
+      {
+        "slug": "greenaway-beach",
+        "name": "Greenaway Beach",
+        "km": 1.1
+      },
+      {
+        "slug": "gully",
+        "name": "Gully",
+        "km": 1.3
+      },
+      {
+        "slug": "jutty",
+        "name": "Jutty",
+        "km": 1.6
+      },
+      {
+        "slug": "daymer-bay",
+        "name": "Daymer Bay",
+        "km": 1.7
+      },
+      {
+        "slug": "brea-beach",
+        "name": "Brea Beach",
+        "km": 4.1
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 3.1
+      },
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 3.9
+      },
+      {
+        "slug": "trevone",
+        "name": "Trevone",
+        "km": 5.5
+      },
+      {
+        "slug": "port-isaac",
+        "name": "Port Isaac",
+        "km": 6.4
+      },
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 7
+      }
+    ],
+    "description": "Polzeath is a village in North Coast. There are 8 named beaches within 5 km, the closest being Hayle Bay (600 m). The nearest other bases are Rock (3.1 km) and Padstow (3.9 km)."
   },
   {
     "slug": "rock",
@@ -765,7 +1154,82 @@
         "score": 69,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "brea-beach",
+        "name": "Brea Beach",
+        "km": 1.2
+      },
+      {
+        "slug": "daymer-bay",
+        "name": "Daymer Bay",
+        "km": 2.2
+      },
+      {
+        "slug": "jutty",
+        "name": "Jutty",
+        "km": 2.5
+      },
+      {
+        "slug": "gully",
+        "name": "Gully",
+        "km": 2.6
+      },
+      {
+        "slug": "greenaway-beach",
+        "name": "Greenaway Beach",
+        "km": 2.8
+      },
+      {
+        "slug": "hayle-bay",
+        "name": "Hayle Bay",
+        "km": 3.6
+      },
+      {
+        "slug": "pentireglaze-haven",
+        "name": "Pentireglaze Haven",
+        "km": 3.9
+      },
+      {
+        "slug": "pentire-haven",
+        "name": "Pentire Haven",
+        "km": 4
+      },
+      {
+        "slug": "trevone-beach",
+        "name": "Trevone Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 1.8
+      },
+      {
+        "slug": "polzeath",
+        "name": "Polzeath",
+        "km": 3.1
+      },
+      {
+        "slug": "trevone",
+        "name": "Trevone",
+        "km": 4.5
+      },
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 6.1
+      },
+      {
+        "slug": "wadebridge",
+        "name": "Wadebridge",
+        "km": 6.3
+      }
+    ],
+    "description": "Rock is a village in North Coast. There are 9 named beaches within 5 km, the closest being Brea Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km)."
   },
   {
     "slug": "wadebridge",
@@ -866,7 +1330,36 @@
         "score": 67,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 6.3
+      },
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 7.7
+      },
+      {
+        "slug": "polzeath",
+        "name": "Polzeath",
+        "km": 8.4
+      },
+      {
+        "slug": "port-isaac",
+        "name": "Port Isaac",
+        "km": 8.5
+      },
+      {
+        "slug": "bodmin",
+        "name": "Bodmin",
+        "km": 9.3
+      }
+    ],
+    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km)."
   },
   {
     "slug": "padstow",
@@ -967,7 +1460,87 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "daymer-bay",
+        "name": "Daymer Bay",
+        "km": 2.3
+      },
+      {
+        "slug": "jutty",
+        "name": "Jutty",
+        "km": 2.6
+      },
+      {
+        "slug": "brea-beach",
+        "name": "Brea Beach",
+        "km": 2.6
+      },
+      {
+        "slug": "gully",
+        "name": "Gully",
+        "km": 2.8
+      },
+      {
+        "slug": "trevone-beach",
+        "name": "Trevone Beach",
+        "km": 3
+      },
+      {
+        "slug": "greenaway-beach",
+        "name": "Greenaway Beach",
+        "km": 3.1
+      },
+      {
+        "slug": "hayle-bay",
+        "name": "Hayle Bay",
+        "km": 4.3
+      },
+      {
+        "slug": "harlyn-bay",
+        "name": "Harlyn Bay",
+        "km": 4.5
+      },
+      {
+        "slug": "pentireglaze-haven",
+        "name": "Pentireglaze Haven",
+        "km": 4.6
+      },
+      {
+        "slug": "pentire-haven",
+        "name": "Pentire Haven",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 1.8
+      },
+      {
+        "slug": "trevone",
+        "name": "Trevone",
+        "km": 2.7
+      },
+      {
+        "slug": "polzeath",
+        "name": "Polzeath",
+        "km": 3.9
+      },
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 4.3
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 5.4
+      }
+    ],
+    "description": "Padstow is a visitor base in North Coast. There are 10 named beaches within 5 km, the closest being Daymer Bay (2.3 km). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km)."
   },
   {
     "slug": "trevone",
@@ -1068,7 +1641,102 @@
         "score": 70,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "trevone-beach",
+        "name": "Trevone Beach",
+        "km": 0.6
+      },
+      {
+        "slug": "harlyn-bay",
+        "name": "Harlyn Bay",
+        "km": 1.9
+      },
+      {
+        "slug": "mother-ivys-bay",
+        "name": "Mother Ivy's Bay",
+        "km": 3
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 3.6
+      },
+      {
+        "slug": "boobys-bay",
+        "name": "Booby's Bay",
+        "km": 3.7
+      },
+      {
+        "slug": "treyarnon-beach",
+        "name": "Treyarnon Beach",
+        "km": 3.9
+      },
+      {
+        "slug": "daymer-bay",
+        "name": "Daymer Bay",
+        "km": 3.9
+      },
+      {
+        "slug": "jutty",
+        "name": "Jutty",
+        "km": 4
+      },
+      {
+        "slug": "gully",
+        "name": "Gully",
+        "km": 4.2
+      },
+      {
+        "slug": "pepper-cove",
+        "name": "Pepper Cove",
+        "km": 4.2
+      },
+      {
+        "slug": "mackerel-cove",
+        "name": "Mackerel Cove",
+        "km": 4.4
+      },
+      {
+        "slug": "fox-cove",
+        "name": "Fox Cove",
+        "km": 4.4
+      },
+      {
+        "slug": "greenaway-beach",
+        "name": "Greenaway Beach",
+        "km": 4.4
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 1.6
+      },
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 2.7
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 2.9
+      },
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 4.5
+      },
+      {
+        "slug": "porthcothan",
+        "name": "Porthcothan",
+        "km": 4.9
+      }
+    ],
+    "description": "Trevone is a village in North Coast. There are 13 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km)."
   },
   {
     "slug": "harlyn",
@@ -1169,7 +1837,87 @@
         "score": 72,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "harlyn-bay",
+        "name": "Harlyn Bay",
+        "km": 0.5
+      },
+      {
+        "slug": "trevone-beach",
+        "name": "Trevone Beach",
+        "km": 1.5
+      },
+      {
+        "slug": "mother-ivys-bay",
+        "name": "Mother Ivy's Bay",
+        "km": 1.6
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 1.9
+      },
+      {
+        "slug": "boobys-bay",
+        "name": "Booby's Bay",
+        "km": 2
+      },
+      {
+        "slug": "treyarnon-beach",
+        "name": "Treyarnon Beach",
+        "km": 2.3
+      },
+      {
+        "slug": "pepper-cove",
+        "name": "Pepper Cove",
+        "km": 2.7
+      },
+      {
+        "slug": "mackerel-cove",
+        "name": "Mackerel Cove",
+        "km": 2.8
+      },
+      {
+        "slug": "fox-cove",
+        "name": "Fox Cove",
+        "km": 2.9
+      },
+      {
+        "slug": "porthcothan-beach",
+        "name": "Porthcothan Beach",
+        "km": 3.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 1.4
+      },
+      {
+        "slug": "trevone",
+        "name": "Trevone",
+        "km": 1.6
+      },
+      {
+        "slug": "porthcothan",
+        "name": "Porthcothan",
+        "km": 3.8
+      },
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 4.3
+      },
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 6.1
+      }
+    ],
+    "description": "Harlyn is a village in North Coast. There are 10 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km)."
   },
   {
     "slug": "constantine-bay",
@@ -1270,7 +2018,87 @@
         "score": 63,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 1
+      },
+      {
+        "slug": "treyarnon-beach",
+        "name": "Treyarnon Beach",
+        "km": 1
+      },
+      {
+        "slug": "pepper-cove",
+        "name": "Pepper Cove",
+        "km": 1.3
+      },
+      {
+        "slug": "boobys-bay",
+        "name": "Booby's Bay",
+        "km": 1.4
+      },
+      {
+        "slug": "harlyn-bay",
+        "name": "Harlyn Bay",
+        "km": 1.6
+      },
+      {
+        "slug": "fox-cove",
+        "name": "Fox Cove",
+        "km": 1.6
+      },
+      {
+        "slug": "mother-ivys-bay",
+        "name": "Mother Ivy's Bay",
+        "km": 1.7
+      },
+      {
+        "slug": "mackerel-cove",
+        "name": "Mackerel Cove",
+        "km": 2.4
+      },
+      {
+        "slug": "porthcothan-beach",
+        "name": "Porthcothan Beach",
+        "km": 2.5
+      },
+      {
+        "slug": "trevone-beach",
+        "name": "Trevone Beach",
+        "km": 2.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 1.4
+      },
+      {
+        "slug": "porthcothan",
+        "name": "Porthcothan",
+        "km": 2.5
+      },
+      {
+        "slug": "trevone",
+        "name": "Trevone",
+        "km": 2.9
+      },
+      {
+        "slug": "padstow",
+        "name": "Padstow",
+        "km": 5.4
+      },
+      {
+        "slug": "rock",
+        "name": "Rock",
+        "km": 7.3
+      }
+    ],
+    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km)."
   },
   {
     "slug": "porthcothan",
@@ -1371,7 +2199,102 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthcothan-beach",
+        "name": "Porthcothan Beach",
+        "km": 0.4
+      },
+      {
+        "slug": "fox-cove",
+        "name": "Fox Cove",
+        "km": 1.3
+      },
+      {
+        "slug": "pepper-cove",
+        "name": "Pepper Cove",
+        "km": 1.7
+      },
+      {
+        "slug": "treyarnon-beach",
+        "name": "Treyarnon Beach",
+        "km": 2
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 2.8
+      },
+      {
+        "slug": "boobys-bay",
+        "name": "Booby's Bay",
+        "km": 3.3
+      },
+      {
+        "slug": "trerathick",
+        "name": "Trerathick",
+        "km": 3.7
+      },
+      {
+        "slug": "high-cove",
+        "name": "High Cove",
+        "km": 3.8
+      },
+      {
+        "slug": "harlyn-bay",
+        "name": "Harlyn Bay",
+        "km": 4
+      },
+      {
+        "slug": "mother-ivys-bay",
+        "name": "Mother Ivy's Bay",
+        "km": 4.1
+      },
+      {
+        "slug": "mackerel-cove",
+        "name": "Mackerel Cove",
+        "km": 4.2
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 4.6
+      },
+      {
+        "slug": "dunes",
+        "name": "Dunes",
+        "km": 4.7
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 2.5
+      },
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 3.8
+      },
+      {
+        "slug": "trevone",
+        "name": "Trevone",
+        "km": 4.9
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 4.9
+      },
+      {
+        "slug": "st-mawgan",
+        "name": "St Mawgan",
+        "km": 6.2
+      }
+    ],
+    "description": "Porthcothan is a hamlet in North Coast. There are 13 named beaches within 5 km, the closest being Porthcothan Beach (400 m). 7 of them have RNLI lifeguard cover in season. The nearest other bases are Constantine Bay (2.5 km) and Harlyn (3.8 km)."
   },
   {
     "slug": "mawgan-porth",
@@ -1472,7 +2395,82 @@
         "score": 77,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "dunes",
+        "name": "Dunes",
+        "km": 0.2
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 0.4
+      },
+      {
+        "slug": "beacon-cove-mawgan-porth",
+        "name": "Beacon Cove",
+        "km": 0.8
+      },
+      {
+        "slug": "stem",
+        "name": "Stem",
+        "km": 1.1
+      },
+      {
+        "slug": "high-cove",
+        "name": "High Cove",
+        "km": 1.3
+      },
+      {
+        "slug": "trerathick",
+        "name": "Trerathick",
+        "km": 1.4
+      },
+      {
+        "slug": "watergate-beach",
+        "name": "Watergate Beach",
+        "km": 2.3
+      },
+      {
+        "slug": "whipsiderry-beach",
+        "name": "Whipsiderry Beach",
+        "km": 4.1
+      },
+      {
+        "slug": "porth-beach",
+        "name": "Porth Beach",
+        "km": 4.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-mawgan",
+        "name": "St Mawgan",
+        "km": 2.7
+      },
+      {
+        "slug": "porthcothan",
+        "name": "Porthcothan",
+        "km": 4.9
+      },
+      {
+        "slug": "newquay",
+        "name": "Newquay",
+        "km": 6.8
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 7.4
+      },
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 8.5
+      }
+    ],
+    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km)."
   },
   {
     "slug": "st-mawgan",
@@ -1573,7 +2571,77 @@
         "score": 39,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "dunes",
+        "name": "Dunes",
+        "km": 2.8
+      },
+      {
+        "slug": "beacon-cove-mawgan-porth",
+        "name": "Beacon Cove",
+        "km": 3
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 3.1
+      },
+      {
+        "slug": "stem",
+        "name": "Stem",
+        "km": 3.1
+      },
+      {
+        "slug": "watergate-beach",
+        "name": "Watergate Beach",
+        "km": 3.4
+      },
+      {
+        "slug": "high-cove",
+        "name": "High Cove",
+        "km": 3.6
+      },
+      {
+        "slug": "trerathick",
+        "name": "Trerathick",
+        "km": 3.7
+      },
+      {
+        "slug": "whipsiderry-beach",
+        "name": "Whipsiderry Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 2.7
+      },
+      {
+        "slug": "porthcothan",
+        "name": "Porthcothan",
+        "km": 6.2
+      },
+      {
+        "slug": "newquay",
+        "name": "Newquay",
+        "km": 7.7
+      },
+      {
+        "slug": "constantine-bay",
+        "name": "Constantine Bay",
+        "km": 8.4
+      },
+      {
+        "slug": "harlyn",
+        "name": "Harlyn",
+        "km": 9.3
+      }
+    ],
+    "description": "St Mawgan is a village in North Coast. There are 8 named beaches within 5 km, the closest being Dunes (2.8 km). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Mawgan Porth (2.7 km) and Porthcothan (6.2 km)."
   },
   {
     "slug": "newquay",
@@ -1674,7 +2742,102 @@
         "score": 73,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "towan-beach",
+        "name": "Towan Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "great-western-beach",
+        "name": "Great Western Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "harbour-beach-newquay",
+        "name": "Harbour Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "tolcarne-beach",
+        "name": "Tolcarne Beach",
+        "km": 0.9
+      },
+      {
+        "slug": "beacon-cove-newquay",
+        "name": "Beacon Cove",
+        "km": 0.9
+      },
+      {
+        "slug": "the-gannel",
+        "name": "The Gannel",
+        "km": 1.1
+      },
+      {
+        "slug": "fistral-beach",
+        "name": "Fistral Beach",
+        "km": 1.2
+      },
+      {
+        "slug": "lusty-glaze-beach",
+        "name": "Lusty Glaze Beach",
+        "km": 1.7
+      },
+      {
+        "slug": "porth-beach",
+        "name": "Porth Beach",
+        "km": 2.1
+      },
+      {
+        "slug": "crantock-beach",
+        "name": "Crantock Beach",
+        "km": 2.8
+      },
+      {
+        "slug": "whipsiderry-beach",
+        "name": "Whipsiderry Beach",
+        "km": 2.9
+      },
+      {
+        "slug": "porth-joke",
+        "name": "Porth Joke",
+        "km": 3.9
+      },
+      {
+        "slug": "watergate-beach",
+        "name": "Watergate Beach",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "crantock",
+        "name": "Crantock",
+        "km": 2.2
+      },
+      {
+        "slug": "holywell",
+        "name": "Holywell",
+        "km": 4.9
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 6.8
+      },
+      {
+        "slug": "st-mawgan",
+        "name": "St Mawgan",
+        "km": 7.7
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 9.1
+      }
+    ],
+    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km)."
   },
   {
     "slug": "crantock",
@@ -1775,7 +2938,97 @@
         "score": 55,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "crantock-beach",
+        "name": "Crantock Beach",
+        "km": 1.1
+      },
+      {
+        "slug": "the-gannel",
+        "name": "The Gannel",
+        "km": 1.2
+      },
+      {
+        "slug": "porth-joke",
+        "name": "Porth Joke",
+        "km": 2
+      },
+      {
+        "slug": "fistral-beach",
+        "name": "Fistral Beach",
+        "km": 2.1
+      },
+      {
+        "slug": "harbour-beach-newquay",
+        "name": "Harbour Beach",
+        "km": 2.4
+      },
+      {
+        "slug": "towan-beach",
+        "name": "Towan Beach",
+        "km": 2.4
+      },
+      {
+        "slug": "beacon-cove-newquay",
+        "name": "Beacon Cove",
+        "km": 2.5
+      },
+      {
+        "slug": "great-western-beach",
+        "name": "Great Western Beach",
+        "km": 2.7
+      },
+      {
+        "slug": "holywell-beach",
+        "name": "Holywell Beach",
+        "km": 2.8
+      },
+      {
+        "slug": "tolcarne-beach",
+        "name": "Tolcarne Beach",
+        "km": 3.1
+      },
+      {
+        "slug": "lusty-glaze-beach",
+        "name": "Lusty Glaze Beach",
+        "km": 3.9
+      },
+      {
+        "slug": "porth-beach",
+        "name": "Porth Beach",
+        "km": 4.4
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "newquay",
+        "name": "Newquay",
+        "km": 2.2
+      },
+      {
+        "slug": "holywell",
+        "name": "Holywell",
+        "km": 2.7
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 7.1
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 9
+      },
+      {
+        "slug": "st-mawgan",
+        "name": "St Mawgan",
+        "km": 9.9
+      }
+    ],
+    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km)."
   },
   {
     "slug": "holywell",
@@ -1856,7 +3109,72 @@
         "score": 32,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "holywell-beach",
+        "name": "Holywell Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "porth-joke",
+        "name": "Porth Joke",
+        "km": 1.8
+      },
+      {
+        "slug": "crantock-beach",
+        "name": "Crantock Beach",
+        "km": 2.5
+      },
+      {
+        "slug": "perran-beach-perranporth",
+        "name": "Perran Beach",
+        "km": 3
+      },
+      {
+        "slug": "the-gannel",
+        "name": "The Gannel",
+        "km": 3.8
+      },
+      {
+        "slug": "fistral-beach",
+        "name": "Fistral Beach",
+        "km": 4.6
+      },
+      {
+        "slug": "perran-beach-perranporth-2",
+        "name": "Perran Beach",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "crantock",
+        "name": "Crantock",
+        "km": 2.7
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 4.8
+      },
+      {
+        "slug": "newquay",
+        "name": "Newquay",
+        "km": 4.9
+      },
+      {
+        "slug": "st-agnes",
+        "name": "St Agnes",
+        "km": 9.5
+      },
+      {
+        "slug": "mawgan-porth",
+        "name": "Mawgan Porth",
+        "km": 11.6
+      }
+    ],
+    "description": "Holywell is a village in North Coast. There are 7 named beaches within 5 km, the closest being Holywell Beach (800 m). 5 of them have RNLI lifeguard cover in season. The nearest other bases are Crantock (2.7 km) and Perranporth (4.8 km)."
   },
   {
     "slug": "perranporth",
@@ -1937,7 +3255,52 @@
         "score": 71,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "perran-beach-perranporth-2",
+        "name": "Perran Beach",
+        "km": 0.4
+      },
+      {
+        "slug": "perran-beach-perranporth",
+        "name": "Perran Beach",
+        "km": 1.8
+      },
+      {
+        "slug": "trevaunance-cove",
+        "name": "Trevaunance Cove",
+        "km": 4.3
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "holywell",
+        "name": "Holywell",
+        "km": 4.8
+      },
+      {
+        "slug": "st-agnes",
+        "name": "St Agnes",
+        "km": 5
+      },
+      {
+        "slug": "crantock",
+        "name": "Crantock",
+        "km": 7.1
+      },
+      {
+        "slug": "porthtowan",
+        "name": "Porthtowan",
+        "km": 9
+      },
+      {
+        "slug": "newquay",
+        "name": "Newquay",
+        "km": 9.1
+      }
+    ],
+    "description": "Perranporth is a village in North Coast. There are 3 named beaches within 5 km, the closest being Perran Beach (400 m). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Holywell (4.8 km) and St Agnes (5.0 km)."
   },
   {
     "slug": "st-agnes",
@@ -2038,7 +3401,52 @@
         "score": 35,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "trevaunance-cove",
+        "name": "Trevaunance Cove",
+        "km": 0.9
+      },
+      {
+        "slug": "chapel-porth-beach",
+        "name": "Chapel Porth Beach",
+        "km": 2.6
+      },
+      {
+        "slug": "porthtowan-beach",
+        "name": "Porthtowan Beach",
+        "km": 3.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "porthtowan",
+        "name": "Porthtowan",
+        "km": 3.9
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 5
+      },
+      {
+        "slug": "portreath",
+        "name": "Portreath",
+        "km": 8.4
+      },
+      {
+        "slug": "holywell",
+        "name": "Holywell",
+        "km": 9.5
+      },
+      {
+        "slug": "crantock",
+        "name": "Crantock",
+        "km": 12
+      }
+    ],
+    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km)."
   },
   {
     "slug": "porthtowan",
@@ -2119,7 +3527,62 @@
         "score": 57,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthtowan-beach",
+        "name": "Porthtowan Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "chapel-porth-beach",
+        "name": "Chapel Porth Beach",
+        "km": 1.7
+      },
+      {
+        "slug": "trevaunance-cove",
+        "name": "Trevaunance Cove",
+        "km": 4.8
+      },
+      {
+        "slug": "portreath-beach",
+        "name": "Portreath Beach",
+        "km": 4.8
+      },
+      {
+        "slug": "amys-cove",
+        "name": "Amy's Cove",
+        "km": 4.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-agnes",
+        "name": "St Agnes",
+        "km": 3.9
+      },
+      {
+        "slug": "portreath",
+        "name": "Portreath",
+        "km": 4.5
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 9
+      },
+      {
+        "slug": "gwithian",
+        "name": "Gwithian",
+        "km": 12.6
+      },
+      {
+        "slug": "holywell",
+        "name": "Holywell",
+        "km": 13.4
+      }
+    ],
+    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km)."
   },
   {
     "slug": "portreath",
@@ -2220,7 +3683,57 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "portreath-beach",
+        "name": "Portreath Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "amys-cove",
+        "name": "Amy's Cove",
+        "km": 0.5
+      },
+      {
+        "slug": "greenbank-cove",
+        "name": "Greenbank Cove",
+        "km": 3.1
+      },
+      {
+        "slug": "porthtowan-beach",
+        "name": "Porthtowan Beach",
+        "km": 4.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "porthtowan",
+        "name": "Porthtowan",
+        "km": 4.5
+      },
+      {
+        "slug": "gwithian",
+        "name": "Gwithian",
+        "km": 8.2
+      },
+      {
+        "slug": "st-agnes",
+        "name": "St Agnes",
+        "km": 8.4
+      },
+      {
+        "slug": "hayle",
+        "name": "Hayle",
+        "km": 12.3
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 13.4
+      }
+    ],
+    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km)."
   },
   {
     "slug": "gwithian",
@@ -2301,7 +3814,42 @@
         "score": 57,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porth-kidney-sands",
+        "name": "Porth Kidney Sands",
+        "km": 5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "hayle",
+        "name": "Hayle",
+        "km": 4.4
+      },
+      {
+        "slug": "lelant",
+        "name": "Lelant",
+        "km": 5.5
+      },
+      {
+        "slug": "carbis-bay",
+        "name": "Carbis Bay",
+        "km": 6.2
+      },
+      {
+        "slug": "st-ives",
+        "name": "St Ives",
+        "km": 6.7
+      },
+      {
+        "slug": "portreath",
+        "name": "Portreath",
+        "km": 8.2
+      }
+    ],
+    "description": "Gwithian is a hamlet in North Coast. There is 1 named beach within 5 km, the closest being Porth Kidney Sands (5.0 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Hayle (4.4 km) and Lelant (5.5 km)."
   },
   {
     "slug": "hayle",
@@ -2402,7 +3950,52 @@
         "score": 69,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porth-kidney-sands",
+        "name": "Porth Kidney Sands",
+        "km": 1.9
+      },
+      {
+        "slug": "carbis-bay-beach",
+        "name": "Carbis Bay Beach",
+        "km": 3.5
+      },
+      {
+        "slug": "porthminster-beach",
+        "name": "Porthminster Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "lelant",
+        "name": "Lelant",
+        "km": 1.4
+      },
+      {
+        "slug": "carbis-bay",
+        "name": "Carbis Bay",
+        "km": 3.5
+      },
+      {
+        "slug": "gwithian",
+        "name": "Gwithian",
+        "km": 4.4
+      },
+      {
+        "slug": "st-ives",
+        "name": "St Ives",
+        "km": 5.4
+      },
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 8
+      }
+    ],
+    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Porth Kidney Sands (1.9 km). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km)."
   },
   {
     "slug": "lelant",
@@ -2483,7 +4076,72 @@
         "score": 51,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porth-kidney-sands",
+        "name": "Porth Kidney Sands",
+        "km": 1.2
+      },
+      {
+        "slug": "carbis-bay-beach",
+        "name": "Carbis Bay Beach",
+        "km": 2.5
+      },
+      {
+        "slug": "porthminster-beach",
+        "name": "Porthminster Beach",
+        "km": 3.9
+      },
+      {
+        "slug": "harbour-beach-st-ives",
+        "name": "Harbour Beach",
+        "km": 4.4
+      },
+      {
+        "slug": "bamaluz-beach",
+        "name": "Bamaluz Beach",
+        "km": 4.5
+      },
+      {
+        "slug": "porthgwidden-beach",
+        "name": "Porthgwidden Beach",
+        "km": 4.6
+      },
+      {
+        "slug": "porthmeor-beach",
+        "name": "Porthmeor Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "hayle",
+        "name": "Hayle",
+        "km": 1.4
+      },
+      {
+        "slug": "carbis-bay",
+        "name": "Carbis Bay",
+        "km": 2.4
+      },
+      {
+        "slug": "st-ives",
+        "name": "St Ives",
+        "km": 4.6
+      },
+      {
+        "slug": "gwithian",
+        "name": "Gwithian",
+        "km": 5.5
+      },
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 7.2
+      }
+    ],
+    "description": "Lelant is a village in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 4 of them have RNLI lifeguard cover in season. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km)."
   },
   {
     "slug": "carbis-bay",
@@ -2584,7 +4242,72 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "carbis-bay-beach",
+        "name": "Carbis Bay Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "porthminster-beach",
+        "name": "Porthminster Beach",
+        "km": 1.6
+      },
+      {
+        "slug": "porth-kidney-sands",
+        "name": "Porth Kidney Sands",
+        "km": 1.6
+      },
+      {
+        "slug": "harbour-beach-st-ives",
+        "name": "Harbour Beach",
+        "km": 2.1
+      },
+      {
+        "slug": "bamaluz-beach",
+        "name": "Bamaluz Beach",
+        "km": 2.3
+      },
+      {
+        "slug": "porthgwidden-beach",
+        "name": "Porthgwidden Beach",
+        "km": 2.4
+      },
+      {
+        "slug": "porthmeor-beach",
+        "name": "Porthmeor Beach",
+        "km": 2.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-ives",
+        "name": "St Ives",
+        "km": 2.3
+      },
+      {
+        "slug": "lelant",
+        "name": "Lelant",
+        "km": 2.4
+      },
+      {
+        "slug": "hayle",
+        "name": "Hayle",
+        "km": 3.5
+      },
+      {
+        "slug": "gwithian",
+        "name": "Gwithian",
+        "km": 6.2
+      },
+      {
+        "slug": "zennor",
+        "name": "Zennor",
+        "km": 7.3
+      }
+    ],
+    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km)."
   },
   {
     "slug": "st-ives",
@@ -2685,7 +4408,72 @@
         "score": 46,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "harbour-beach-st-ives",
+        "name": "Harbour Beach",
+        "km": 0.2
+      },
+      {
+        "slug": "porthmeor-beach",
+        "name": "Porthmeor Beach",
+        "km": 0.2
+      },
+      {
+        "slug": "bamaluz-beach",
+        "name": "Bamaluz Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "porthgwidden-beach",
+        "name": "Porthgwidden Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "porthminster-beach",
+        "name": "Porthminster Beach",
+        "km": 0.7
+      },
+      {
+        "slug": "carbis-bay-beach",
+        "name": "Carbis Bay Beach",
+        "km": 2.2
+      },
+      {
+        "slug": "porth-kidney-sands",
+        "name": "Porth Kidney Sands",
+        "km": 3.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "carbis-bay",
+        "name": "Carbis Bay",
+        "km": 2.3
+      },
+      {
+        "slug": "lelant",
+        "name": "Lelant",
+        "km": 4.6
+      },
+      {
+        "slug": "hayle",
+        "name": "Hayle",
+        "km": 5.4
+      },
+      {
+        "slug": "gwithian",
+        "name": "Gwithian",
+        "km": 6.7
+      },
+      {
+        "slug": "zennor",
+        "name": "Zennor",
+        "km": 6.8
+      }
+    ],
+    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Harbour Beach (200 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km)."
   },
   {
     "slug": "zennor",
@@ -2786,7 +4574,62 @@
         "score": 65,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthzennor-cove",
+        "name": "Porthzennor Cove",
+        "km": 0.8
+      },
+      {
+        "slug": "pendour-beach",
+        "name": "Pendour Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "veor-cove-beach",
+        "name": "Veor Cove Beach",
+        "km": 1
+      },
+      {
+        "slug": "porthglaze-beach",
+        "name": "Porthglaze Beach",
+        "km": 1.3
+      },
+      {
+        "slug": "treen-cove",
+        "name": "Treen Cove",
+        "km": 2
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-ives",
+        "name": "St Ives",
+        "km": 6.8
+      },
+      {
+        "slug": "carbis-bay",
+        "name": "Carbis Bay",
+        "km": 7.3
+      },
+      {
+        "slug": "pendeen",
+        "name": "Pendeen",
+        "km": 8.3
+      },
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 8.4
+      },
+      {
+        "slug": "lelant",
+        "name": "Lelant",
+        "km": 9.3
+      }
+    ],
+    "description": "Zennor is a village in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Porthzennor Cove (800 m). The nearest other bases are St Ives (6.8 km) and Carbis Bay (7.3 km)."
   },
   {
     "slug": "pendeen",
@@ -2887,7 +4730,57 @@
         "score": 56,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "boat-cove",
+        "name": "Boat Cove",
+        "km": 1.5
+      },
+      {
+        "slug": "portheras-cove",
+        "name": "Portheras Cove",
+        "km": 1.5
+      },
+      {
+        "slug": "porth-nanven",
+        "name": "Porth Nanven",
+        "km": 4.4
+      },
+      {
+        "slug": "progo",
+        "name": "Progo",
+        "km": 4.7
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-just",
+        "name": "St Just",
+        "km": 3.2
+      },
+      {
+        "slug": "zennor",
+        "name": "Zennor",
+        "km": 8.3
+      },
+      {
+        "slug": "sennen-cove",
+        "name": "Sennen Cove",
+        "km": 8.6
+      },
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 9.6
+      },
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 9.9
+      }
+    ],
+    "description": "Pendeen is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Boat Cove (1.5 km). The nearest other bases are St Just (3.2 km) and Zennor (8.3 km)."
   },
   {
     "slug": "st-just",
@@ -2968,7 +4861,67 @@
         "score": 27,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porth-nanven",
+        "name": "Porth Nanven",
+        "km": 1.6
+      },
+      {
+        "slug": "progo",
+        "name": "Progo",
+        "km": 1.8
+      },
+      {
+        "slug": "gwynver-beach",
+        "name": "Gwynver Beach",
+        "km": 3.9
+      },
+      {
+        "slug": "boat-cove",
+        "name": "Boat Cove",
+        "km": 4.7
+      },
+      {
+        "slug": "portheras-cove",
+        "name": "Portheras Cove",
+        "km": 4.7
+      },
+      {
+        "slug": "sennen-cove",
+        "name": "Sennen Cove",
+        "km": 4.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "pendeen",
+        "name": "Pendeen",
+        "km": 3.2
+      },
+      {
+        "slug": "sennen-cove",
+        "name": "Sennen Cove",
+        "km": 5.4
+      },
+      {
+        "slug": "porthcurno",
+        "name": "Porthcurno",
+        "km": 8.7
+      },
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 9.5
+      },
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 10.3
+      }
+    ],
+    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km)."
   },
   {
     "slug": "sennen-cove",
@@ -3049,7 +5002,67 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "sennen-cove",
+        "name": "Sennen Cove",
+        "km": 0.7
+      },
+      {
+        "slug": "gwynver-beach",
+        "name": "Gwynver Beach",
+        "km": 1.6
+      },
+      {
+        "slug": "nanjizal-or-mill-bay",
+        "name": "Nanjizal or Mill Bay",
+        "km": 2.7
+      },
+      {
+        "slug": "progo",
+        "name": "Progo",
+        "km": 4.1
+      },
+      {
+        "slug": "porth-nanven",
+        "name": "Porth Nanven",
+        "km": 4.6
+      },
+      {
+        "slug": "porthgwarra",
+        "name": "Porthgwarra",
+        "km": 5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "porthcurno",
+        "name": "Porthcurno",
+        "km": 4.6
+      },
+      {
+        "slug": "st-just",
+        "name": "St Just",
+        "km": 5.4
+      },
+      {
+        "slug": "pendeen",
+        "name": "Pendeen",
+        "km": 8.6
+      },
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 11.3
+      },
+      {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "km": 11.7
+      }
+    ],
+    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km)."
   },
   {
     "slug": "porthcurno",
@@ -3130,7 +5143,67 @@
         "score": 69,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthcurno",
+        "name": "Porthcurno",
+        "km": 0.7
+      },
+      {
+        "slug": "porth-chapel",
+        "name": "Porth Chapel",
+        "km": 0.9
+      },
+      {
+        "slug": "pedn-vounder",
+        "name": "Pedn Vounder",
+        "km": 1.2
+      },
+      {
+        "slug": "porthgwarra",
+        "name": "Porthgwarra",
+        "km": 1.6
+      },
+      {
+        "slug": "nanjizal-or-mill-bay",
+        "name": "Nanjizal or Mill Bay",
+        "km": 2.6
+      },
+      {
+        "slug": "sennen-cove",
+        "name": "Sennen Cove",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "sennen-cove",
+        "name": "Sennen Cove",
+        "km": 4.6
+      },
+      {
+        "slug": "st-just",
+        "name": "St Just",
+        "km": 8.7
+      },
+      {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "km": 9.3
+      },
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 10
+      },
+      {
+        "slug": "pendeen",
+        "name": "Pendeen",
+        "km": 11.5
+      }
+    ],
+    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km)."
   },
   {
     "slug": "mousehole",
@@ -3231,7 +5304,42 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "sandy-cove",
+        "name": "Sandy Cove",
+        "km": 1.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 2.6
+      },
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 4
+      },
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 6.5
+      },
+      {
+        "slug": "perranuthnoe",
+        "name": "Perranuthnoe",
+        "km": 7.6
+      },
+      {
+        "slug": "porthcurno",
+        "name": "Porthcurno",
+        "km": 9.3
+      }
+    ],
+    "description": "Mousehole is a village in West Cornwall (Penwith). There is 1 named beach within 5 km, the closest being Sandy Cove (1.9 km). The nearest other bases are Newlyn (2.6 km) and Penzance (4.0 km)."
   },
   {
     "slug": "newlyn",
@@ -3332,7 +5440,42 @@
         "score": 73,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "sandy-cove",
+        "name": "Sandy Cove",
+        "km": 0.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 1.8
+      },
+      {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "km": 2.6
+      },
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 5.8
+      },
+      {
+        "slug": "perranuthnoe",
+        "name": "Perranuthnoe",
+        "km": 7.6
+      },
+      {
+        "slug": "st-just",
+        "name": "St Just",
+        "km": 9.5
+      }
+    ],
+    "description": "Newlyn is a village in West Cornwall (Penwith). There is 1 named beach within 5 km, the closest being Sandy Cove (800 m). The nearest other bases are Penzance (1.8 km) and Mousehole (2.6 km)."
   },
   {
     "slug": "penzance",
@@ -3413,7 +5556,42 @@
         "score": 73,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "sandy-cove",
+        "name": "Sandy Cove",
+        "km": 2.1
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 1.8
+      },
+      {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "km": 4
+      },
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 4.5
+      },
+      {
+        "slug": "perranuthnoe",
+        "name": "Perranuthnoe",
+        "km": 6.5
+      },
+      {
+        "slug": "zennor",
+        "name": "Zennor",
+        "km": 8.4
+      }
+    ],
+    "description": "Penzance is a visitor base in West Cornwall (Penwith). There is 1 named beach within 5 km, the closest being Sandy Cove (2.1 km). The nearest other bases are Newlyn (1.8 km) and Mousehole (4.0 km)."
   },
   {
     "slug": "marazion",
@@ -3494,7 +5672,62 @@
         "score": 53,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "perranuthnoe-beach",
+        "name": "Perranuthnoe Beach",
+        "km": 2.5
+      },
+      {
+        "slug": "piskies-cove",
+        "name": "Piskies Cove",
+        "km": 4.5
+      },
+      {
+        "slug": "bessys-cove",
+        "name": "Bessy's Cove",
+        "km": 4.7
+      },
+      {
+        "slug": "kings-cove",
+        "name": "King's Cove",
+        "km": 4.8
+      },
+      {
+        "slug": "kenneggy-cove",
+        "name": "Kenneggy Cove",
+        "km": 5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "perranuthnoe",
+        "name": "Perranuthnoe",
+        "km": 2.2
+      },
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 4.5
+      },
+      {
+        "slug": "newlyn",
+        "name": "Newlyn",
+        "km": 5.8
+      },
+      {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "km": 6.5
+      },
+      {
+        "slug": "praa-sands",
+        "name": "Praa Sands",
+        "km": 6.6
+      }
+    ],
+    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Perranuthnoe Beach (2.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km)."
   },
   {
     "slug": "perranuthnoe",
@@ -3595,7 +5828,67 @@
         "score": 59,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "perranuthnoe-beach",
+        "name": "Perranuthnoe Beach",
+        "km": 0.4
+      },
+      {
+        "slug": "piskies-cove",
+        "name": "Piskies Cove",
+        "km": 2.4
+      },
+      {
+        "slug": "bessys-cove",
+        "name": "Bessy's Cove",
+        "km": 2.5
+      },
+      {
+        "slug": "kings-cove",
+        "name": "King's Cove",
+        "km": 2.7
+      },
+      {
+        "slug": "kenneggy-cove",
+        "name": "Kenneggy Cove",
+        "km": 2.7
+      },
+      {
+        "slug": "praa-sands",
+        "name": "Praa Sands",
+        "km": 4.3
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 2.2
+      },
+      {
+        "slug": "praa-sands",
+        "name": "Praa Sands",
+        "km": 4.4
+      },
+      {
+        "slug": "penzance",
+        "name": "Penzance",
+        "km": 6.5
+      },
+      {
+        "slug": "lelant",
+        "name": "Lelant",
+        "km": 7.6
+      },
+      {
+        "slug": "mousehole",
+        "name": "Mousehole",
+        "km": 7.6
+      }
+    ],
+    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km)."
   },
   {
     "slug": "praa-sands",
@@ -3696,7 +5989,77 @@
         "score": 67,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "praa-sands",
+        "name": "Praa Sands",
+        "km": 0.4
+      },
+      {
+        "slug": "hendra-beach",
+        "name": "Hendra Beach",
+        "km": 0.9
+      },
+      {
+        "slug": "kenneggy-cove",
+        "name": "Kenneggy Cove",
+        "km": 1.8
+      },
+      {
+        "slug": "rinsey",
+        "name": "Rinsey",
+        "km": 1.9
+      },
+      {
+        "slug": "kings-cove",
+        "name": "King's Cove",
+        "km": 2.2
+      },
+      {
+        "slug": "bessys-cove",
+        "name": "Bessy's Cove",
+        "km": 2.3
+      },
+      {
+        "slug": "piskies-cove",
+        "name": "Piskies Cove",
+        "km": 2.6
+      },
+      {
+        "slug": "perranuthnoe-beach",
+        "name": "Perranuthnoe Beach",
+        "km": 4.2
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "perranuthnoe",
+        "name": "Perranuthnoe",
+        "km": 4.4
+      },
+      {
+        "slug": "porthleven",
+        "name": "Porthleven",
+        "km": 5.4
+      },
+      {
+        "slug": "marazion",
+        "name": "Marazion",
+        "km": 6.6
+      },
+      {
+        "slug": "helston",
+        "name": "Helston",
+        "km": 8
+      },
+      {
+        "slug": "hayle",
+        "name": "Hayle",
+        "km": 9.4
+      }
+    ],
+    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km)."
   },
   {
     "slug": "porthleven",
@@ -3797,7 +6160,62 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthleven-sands",
+        "name": "Porthleven Sands",
+        "km": 1.2
+      },
+      {
+        "slug": "loe-bar",
+        "name": "Loe Bar",
+        "km": 2.2
+      },
+      {
+        "slug": "gunwalloe-beach",
+        "name": "Gunwalloe Beach",
+        "km": 3.4
+      },
+      {
+        "slug": "rinsey",
+        "name": "Rinsey",
+        "km": 3.7
+      },
+      {
+        "slug": "hendra-beach",
+        "name": "Hendra Beach",
+        "km": 4.7
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "helston",
+        "name": "Helston",
+        "km": 3.6
+      },
+      {
+        "slug": "praa-sands",
+        "name": "Praa Sands",
+        "km": 5.4
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 7.9
+      },
+      {
+        "slug": "mullion",
+        "name": "Mullion",
+        "km": 8.3
+      },
+      {
+        "slug": "perranuthnoe",
+        "name": "Perranuthnoe",
+        "km": 9.7
+      }
+    ],
+    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km)."
   },
   {
     "slug": "helston",
@@ -3898,7 +6316,52 @@
         "score": 54,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthleven-sands",
+        "name": "Porthleven Sands",
+        "km": 3.7
+      },
+      {
+        "slug": "loe-bar",
+        "name": "Loe Bar",
+        "km": 3.8
+      },
+      {
+        "slug": "gunwalloe-beach",
+        "name": "Gunwalloe Beach",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "porthleven",
+        "name": "Porthleven",
+        "km": 3.6
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 4.7
+      },
+      {
+        "slug": "praa-sands",
+        "name": "Praa Sands",
+        "km": 8
+      },
+      {
+        "slug": "mullion",
+        "name": "Mullion",
+        "km": 8.6
+      },
+      {
+        "slug": "helford",
+        "name": "Helford",
+        "km": 9.8
+      }
+    ],
+    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km)."
   },
   {
     "slug": "mullion",
@@ -3999,7 +6462,62 @@
         "score": 56,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "pedn-y-ke",
+        "name": "Pedn-y-ke",
+        "km": 1.1
+      },
+      {
+        "slug": "poldhu-cove",
+        "name": "Poldhu Cove",
+        "km": 1.6
+      },
+      {
+        "slug": "church-cove",
+        "name": "Church Cove",
+        "km": 2.2
+      },
+      {
+        "slug": "dollar-cove",
+        "name": "Dollar Cove",
+        "km": 2.5
+      },
+      {
+        "slug": "gunwalloe-beach",
+        "name": "Gunwalloe Beach",
+        "km": 4.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "cadgwith",
+        "name": "Cadgwith",
+        "km": 6.2
+      },
+      {
+        "slug": "the-lizard",
+        "name": "The Lizard",
+        "km": 7
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 8.1
+      },
+      {
+        "slug": "porthleven",
+        "name": "Porthleven",
+        "km": 8.3
+      },
+      {
+        "slug": "helston",
+        "name": "Helston",
+        "km": 8.6
+      }
+    ],
+    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Pedn-y-ke (1.1 km). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km)."
   },
   {
     "slug": "the-lizard",
@@ -4100,7 +6618,47 @@
         "score": 32,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "housel-bay",
+        "name": "Housel Bay",
+        "km": 0.8
+      },
+      {
+        "slug": "pentreath",
+        "name": "Pentreath",
+        "km": 1
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "cadgwith",
+        "name": "Cadgwith",
+        "km": 2.7
+      },
+      {
+        "slug": "mullion",
+        "name": "Mullion",
+        "km": 7
+      },
+      {
+        "slug": "coverack",
+        "name": "Coverack",
+        "km": 9.7
+      },
+      {
+        "slug": "st-keverne",
+        "name": "St Keverne",
+        "km": 12.3
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 14.2
+      }
+    ],
+    "description": "The Lizard is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Housel Bay (800 m). The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km)."
   },
   {
     "slug": "cadgwith",
@@ -4201,7 +6759,57 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "kennack-sands",
+        "name": "Kennack Sands",
+        "km": 2.5
+      },
+      {
+        "slug": "housel-bay",
+        "name": "Housel Bay",
+        "km": 3
+      },
+      {
+        "slug": "pentreath",
+        "name": "Pentreath",
+        "km": 3.4
+      },
+      {
+        "slug": "downas-cove",
+        "name": "Downas Cove",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "the-lizard",
+        "name": "The Lizard",
+        "km": 2.7
+      },
+      {
+        "slug": "mullion",
+        "name": "Mullion",
+        "km": 6.2
+      },
+      {
+        "slug": "coverack",
+        "name": "Coverack",
+        "km": 7.1
+      },
+      {
+        "slug": "st-keverne",
+        "name": "St Keverne",
+        "km": 9.6
+      },
+      {
+        "slug": "helford",
+        "name": "Helford",
+        "km": 12.1
+      }
+    ],
+    "description": "Cadgwith is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Kennack Sands (2.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km)."
   },
   {
     "slug": "coverack",
@@ -4302,7 +6910,57 @@
         "score": 70,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthbeer-cove",
+        "name": "Porthbeer Cove",
+        "km": 0.8
+      },
+      {
+        "slug": "downas-cove",
+        "name": "Downas Cove",
+        "km": 2.4
+      },
+      {
+        "slug": "leggan-cove",
+        "name": "Leggan Cove",
+        "km": 3.8
+      },
+      {
+        "slug": "kennack-sands",
+        "name": "Kennack Sands",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-keverne",
+        "name": "St Keverne",
+        "km": 3.2
+      },
+      {
+        "slug": "cadgwith",
+        "name": "Cadgwith",
+        "km": 7.1
+      },
+      {
+        "slug": "helford",
+        "name": "Helford",
+        "km": 8.4
+      },
+      {
+        "slug": "the-lizard",
+        "name": "The Lizard",
+        "km": 9.7
+      },
+      {
+        "slug": "mullion",
+        "name": "Mullion",
+        "km": 10.4
+      }
+    ],
+    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km)."
   },
   {
     "slug": "st-keverne",
@@ -4383,7 +7041,47 @@
         "score": 27,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "leggan-cove",
+        "name": "Leggan Cove",
+        "km": 1.7
+      },
+      {
+        "slug": "porthbeer-cove",
+        "name": "Porthbeer Cove",
+        "km": 3.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "coverack",
+        "name": "Coverack",
+        "km": 3.2
+      },
+      {
+        "slug": "helford",
+        "name": "Helford",
+        "km": 5.9
+      },
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 7.5
+      },
+      {
+        "slug": "cadgwith",
+        "name": "Cadgwith",
+        "km": 9.6
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 10
+      }
+    ],
+    "description": "St Keverne is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Leggan Cove (1.7 km). The nearest other bases are Coverack (3.2 km) and Helford (5.9 km)."
   },
   {
     "slug": "gweek",
@@ -4464,7 +7162,42 @@
         "score": 73,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "penarvon-cove",
+        "name": "Penarvon Cove",
+        "km": 5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "helston",
+        "name": "Helston",
+        "km": 4.7
+      },
+      {
+        "slug": "helford",
+        "name": "Helford",
+        "km": 5.1
+      },
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 7.4
+      },
+      {
+        "slug": "porthleven",
+        "name": "Porthleven",
+        "km": 7.9
+      },
+      {
+        "slug": "mullion",
+        "name": "Mullion",
+        "km": 8.1
+      }
+    ],
+    "description": "Gweek is a visitor base in The Lizard. There is 1 named beach within 5 km, the closest being Penarvon Cove (5.0 km). The nearest other bases are Helston (4.7 km) and Helford (5.1 km)."
   },
   {
     "slug": "helford",
@@ -4545,7 +7278,77 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "penarvon-cove",
+        "name": "Penarvon Cove",
+        "km": 0.2
+      },
+      {
+        "slug": "the-bar-sand-and-shingle-tidal-area",
+        "name": "The Bar (sand & shingle) tidal area",
+        "km": 0.8
+      },
+      {
+        "slug": "passage-cove-sand-and-shingle-tidal-area",
+        "name": "Passage Cove (sand & shingle) tidal area",
+        "km": 1
+      },
+      {
+        "slug": "trebah",
+        "name": "Trebah",
+        "km": 1.4
+      },
+      {
+        "slug": "bosahan-cove",
+        "name": "Bosahan Cove",
+        "km": 1.6
+      },
+      {
+        "slug": "grebe-beach",
+        "name": "Grebe Beach",
+        "km": 2.1
+      },
+      {
+        "slug": "rosemullion-beach",
+        "name": "Rosemullion Beach",
+        "km": 3.8
+      },
+      {
+        "slug": "maenporth-beach",
+        "name": "Maenporth Beach",
+        "km": 4.7
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 3.3
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 5.1
+      },
+      {
+        "slug": "st-keverne",
+        "name": "St Keverne",
+        "km": 5.9
+      },
+      {
+        "slug": "coverack",
+        "name": "Coverack",
+        "km": 8.4
+      },
+      {
+        "slug": "falmouth",
+        "name": "Falmouth",
+        "km": 8.4
+      }
+    ],
+    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km)."
   },
   {
     "slug": "falmouth",
@@ -4646,7 +7449,72 @@
         "score": 72,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "gyllyngvase-beach",
+        "name": "Gyllyngvase Beach",
+        "km": 1.2
+      },
+      {
+        "slug": "swanpool-beach",
+        "name": "Swanpool Beach",
+        "km": 1.7
+      },
+      {
+        "slug": "arthurs-beach-sunny-cove",
+        "name": "Arthur's Beach (Sunny Cove)",
+        "km": 2.6
+      },
+      {
+        "slug": "maenporth-beach",
+        "name": "Maenporth Beach",
+        "km": 3.8
+      },
+      {
+        "slug": "great-molunan",
+        "name": "Great Molunan",
+        "km": 3.9
+      },
+      {
+        "slug": "little-molunan",
+        "name": "Little Molunan",
+        "km": 4
+      },
+      {
+        "slug": "cellars-beach",
+        "name": "Cellars Beach",
+        "km": 4.3
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "flushing",
+        "name": "Flushing",
+        "km": 1.1
+      },
+      {
+        "slug": "mylor-bridge",
+        "name": "Mylor Bridge",
+        "km": 3.4
+      },
+      {
+        "slug": "st-mawes",
+        "name": "St Mawes",
+        "km": 3.9
+      },
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 5.2
+      },
+      {
+        "slug": "portscatho",
+        "name": "Portscatho",
+        "km": 7.2
+      }
+    ],
+    "description": "Falmouth is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being Gyllyngvase Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km)."
   },
   {
     "slug": "mawnan-smith",
@@ -4747,7 +7615,92 @@
         "score": 58,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "maenporth-beach",
+        "name": "Maenporth Beach",
+        "km": 1.5
+      },
+      {
+        "slug": "grebe-beach",
+        "name": "Grebe Beach",
+        "km": 1.5
+      },
+      {
+        "slug": "rosemullion-beach",
+        "name": "Rosemullion Beach",
+        "km": 1.9
+      },
+      {
+        "slug": "trebah",
+        "name": "Trebah",
+        "km": 2
+      },
+      {
+        "slug": "passage-cove-sand-and-shingle-tidal-area",
+        "name": "Passage Cove (sand & shingle) tidal area",
+        "km": 2.3
+      },
+      {
+        "slug": "bosahan-cove",
+        "name": "Bosahan Cove",
+        "km": 2.5
+      },
+      {
+        "slug": "the-bar-sand-and-shingle-tidal-area",
+        "name": "The Bar (sand & shingle) tidal area",
+        "km": 2.7
+      },
+      {
+        "slug": "arthurs-beach-sunny-cove",
+        "name": "Arthur's Beach (Sunny Cove)",
+        "km": 2.8
+      },
+      {
+        "slug": "penarvon-cove",
+        "name": "Penarvon Cove",
+        "km": 3.2
+      },
+      {
+        "slug": "swanpool-beach",
+        "name": "Swanpool Beach",
+        "km": 3.5
+      },
+      {
+        "slug": "gyllyngvase-beach",
+        "name": "Gyllyngvase Beach",
+        "km": 4.3
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "helford",
+        "name": "Helford",
+        "km": 3.3
+      },
+      {
+        "slug": "falmouth",
+        "name": "Falmouth",
+        "km": 5.2
+      },
+      {
+        "slug": "flushing",
+        "name": "Flushing",
+        "km": 6.1
+      },
+      {
+        "slug": "gweek",
+        "name": "Gweek",
+        "km": 7.4
+      },
+      {
+        "slug": "st-keverne",
+        "name": "St Keverne",
+        "km": 7.5
+      }
+    ],
+    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km)."
   },
   {
     "slug": "flushing",
@@ -4828,7 +7781,77 @@
         "score": 56,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "gyllyngvase-beach",
+        "name": "Gyllyngvase Beach",
+        "km": 2.3
+      },
+      {
+        "slug": "swanpool-beach",
+        "name": "Swanpool Beach",
+        "km": 2.8
+      },
+      {
+        "slug": "arthurs-beach-sunny-cove",
+        "name": "Arthur's Beach (Sunny Cove)",
+        "km": 3.7
+      },
+      {
+        "slug": "loe-beach",
+        "name": "Loe Beach",
+        "km": 4.4
+      },
+      {
+        "slug": "great-molunan",
+        "name": "Great Molunan",
+        "km": 4.5
+      },
+      {
+        "slug": "little-molunan",
+        "name": "Little Molunan",
+        "km": 4.6
+      },
+      {
+        "slug": "cellars-beach",
+        "name": "Cellars Beach",
+        "km": 4.6
+      },
+      {
+        "slug": "maenporth-beach",
+        "name": "Maenporth Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "falmouth",
+        "name": "Falmouth",
+        "km": 1.1
+      },
+      {
+        "slug": "mylor-bridge",
+        "name": "Mylor Bridge",
+        "km": 2.3
+      },
+      {
+        "slug": "st-mawes",
+        "name": "St Mawes",
+        "km": 4
+      },
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 6.1
+      },
+      {
+        "slug": "portscatho",
+        "name": "Portscatho",
+        "km": 6.9
+      }
+    ],
+    "description": "Flushing is a village in South Coast. There are 8 named beaches within 5 km, the closest being Gyllyngvase Beach (2.3 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km)."
   },
   {
     "slug": "mylor-bridge",
@@ -4909,7 +7932,52 @@
         "score": 23,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "loe-beach",
+        "name": "Loe Beach",
+        "km": 2.8
+      },
+      {
+        "slug": "gyllyngvase-beach",
+        "name": "Gyllyngvase Beach",
+        "km": 4.6
+      },
+      {
+        "slug": "swanpool-beach",
+        "name": "Swanpool Beach",
+        "km": 5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "flushing",
+        "name": "Flushing",
+        "km": 2.3
+      },
+      {
+        "slug": "falmouth",
+        "name": "Falmouth",
+        "km": 3.4
+      },
+      {
+        "slug": "st-mawes",
+        "name": "St Mawes",
+        "km": 5.3
+      },
+      {
+        "slug": "portscatho",
+        "name": "Portscatho",
+        "km": 7.2
+      },
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 8
+      }
+    ],
+    "description": "Mylor Bridge is a village in South Coast. There are 3 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km)."
   },
   {
     "slug": "truro",
@@ -5010,7 +8078,36 @@
         "score": 73,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "mylor-bridge",
+        "name": "Mylor Bridge",
+        "km": 8.9
+      },
+      {
+        "slug": "portscatho",
+        "name": "Portscatho",
+        "km": 10.8
+      },
+      {
+        "slug": "flushing",
+        "name": "Flushing",
+        "km": 11
+      },
+      {
+        "slug": "perranporth",
+        "name": "Perranporth",
+        "km": 11.6
+      },
+      {
+        "slug": "st-mawes",
+        "name": "St Mawes",
+        "km": 11.9
+      }
+    ],
+    "description": "Truro is a visitor base in South Coast. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Mylor Bridge (8.9 km) and Portscatho (10.8 km)."
   },
   {
     "slug": "st-mawes",
@@ -5111,7 +8208,77 @@
         "score": 47,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "cellars-beach",
+        "name": "Cellars Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "great-molunan",
+        "name": "Great Molunan",
+        "km": 1.4
+      },
+      {
+        "slug": "little-molunan",
+        "name": "Little Molunan",
+        "km": 1.6
+      },
+      {
+        "slug": "porthbeor-beach",
+        "name": "Porthbeor Beach",
+        "km": 1.8
+      },
+      {
+        "slug": "towan",
+        "name": "Towan",
+        "km": 2.3
+      },
+      {
+        "slug": "gyllyngvase-beach",
+        "name": "Gyllyngvase Beach",
+        "km": 4.1
+      },
+      {
+        "slug": "porthcurnick",
+        "name": "Porthcurnick",
+        "km": 4.3
+      },
+      {
+        "slug": "swanpool-beach",
+        "name": "Swanpool Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "portscatho",
+        "name": "Portscatho",
+        "km": 3.6
+      },
+      {
+        "slug": "falmouth",
+        "name": "Falmouth",
+        "km": 3.9
+      },
+      {
+        "slug": "flushing",
+        "name": "Flushing",
+        "km": 4
+      },
+      {
+        "slug": "mylor-bridge",
+        "name": "Mylor Bridge",
+        "km": 5.3
+      },
+      {
+        "slug": "mawnan-smith",
+        "name": "Mawnan Smith",
+        "km": 8.2
+      }
+    ],
+    "description": "St Mawes is a village in South Coast. There are 8 named beaches within 5 km, the closest being Cellars Beach (800 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km)."
   },
   {
     "slug": "portscatho",
@@ -5192,7 +8359,77 @@
         "score": 67,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthcurnick",
+        "name": "Porthcurnick",
+        "km": 0.7
+      },
+      {
+        "slug": "porthbean",
+        "name": "Porthbean",
+        "km": 1.6
+      },
+      {
+        "slug": "towan",
+        "name": "Towan",
+        "km": 2.4
+      },
+      {
+        "slug": "porthbeor-beach",
+        "name": "Porthbeor Beach",
+        "km": 3.6
+      },
+      {
+        "slug": "cellars-beach",
+        "name": "Cellars Beach",
+        "km": 3.8
+      },
+      {
+        "slug": "carne-and-pendower-beach",
+        "name": "Carne and Pendower Beach",
+        "km": 3.9
+      },
+      {
+        "slug": "great-molunan",
+        "name": "Great Molunan",
+        "km": 4.7
+      },
+      {
+        "slug": "little-molunan",
+        "name": "Little Molunan",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-mawes",
+        "name": "St Mawes",
+        "km": 3.6
+      },
+      {
+        "slug": "flushing",
+        "name": "Flushing",
+        "km": 6.9
+      },
+      {
+        "slug": "falmouth",
+        "name": "Falmouth",
+        "km": 7.2
+      },
+      {
+        "slug": "mylor-bridge",
+        "name": "Mylor Bridge",
+        "km": 7.2
+      },
+      {
+        "slug": "portloe",
+        "name": "Portloe",
+        "km": 7.3
+      }
+    ],
+    "description": "Portscatho is a village in South Coast. There are 8 named beaches within 5 km, the closest being Porthcurnick (700 m). The nearest other bases are St Mawes (3.6 km) and Flushing (6.9 km)."
   },
   {
     "slug": "portloe",
@@ -5293,7 +8530,52 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "perbean-beach",
+        "name": "Perbean Beach",
+        "km": 3.4
+      },
+      {
+        "slug": "carne-and-pendower-beach",
+        "name": "Carne and Pendower Beach",
+        "km": 3.7
+      },
+      {
+        "slug": "porthluney-beach",
+        "name": "Porthluney Beach",
+        "km": 4.1
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "portscatho",
+        "name": "Portscatho",
+        "km": 7.3
+      },
+      {
+        "slug": "gorran-haven",
+        "name": "Gorran Haven",
+        "km": 7.6
+      },
+      {
+        "slug": "mevagissey",
+        "name": "Mevagissey",
+        "km": 9.4
+      },
+      {
+        "slug": "st-mawes",
+        "name": "St Mawes",
+        "km": 10.9
+      },
+      {
+        "slug": "truro",
+        "name": "Truro",
+        "km": 12.4
+      }
+    ],
+    "description": "Portloe is a village in South Coast. There are 3 named beaches within 5 km, the closest being Perbean Beach (3.4 km). The nearest other bases are Portscatho (7.3 km) and Gorran Haven (7.6 km)."
   },
   {
     "slug": "gorran-haven",
@@ -5374,7 +8656,92 @@
         "score": 44,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "perhaver-beach",
+        "name": "Perhaver Beach",
+        "km": 0.4
+      },
+      {
+        "slug": "little-perhaver-beach",
+        "name": "Little Perhaver Beach",
+        "km": 0.4
+      },
+      {
+        "slug": "great-perhaver-beach",
+        "name": "Great Perhaver Beach",
+        "km": 0.7
+      },
+      {
+        "slug": "vault-beach",
+        "name": "Vault Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "hemmick-beach",
+        "name": "Hemmick Beach",
+        "km": 1.9
+      },
+      {
+        "slug": "colona-beach",
+        "name": "Colona Beach",
+        "km": 2.2
+      },
+      {
+        "slug": "polkirt-beach",
+        "name": "Polkirt Beach",
+        "km": 2.7
+      },
+      {
+        "slug": "porthluney-beach",
+        "name": "Porthluney Beach",
+        "km": 3.6
+      },
+      {
+        "slug": "little-polstreath",
+        "name": "Little Polstreath",
+        "km": 3.6
+      },
+      {
+        "slug": "polstreath",
+        "name": "Polstreath",
+        "km": 3.8
+      },
+      {
+        "slug": "perbean-beach",
+        "name": "Perbean Beach",
+        "km": 4.4
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "mevagissey",
+        "name": "Mevagissey",
+        "km": 3.2
+      },
+      {
+        "slug": "portloe",
+        "name": "Portloe",
+        "km": 7.6
+      },
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 10.5
+      },
+      {
+        "slug": "st-austell",
+        "name": "St Austell",
+        "km": 10.8
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 13.5
+      }
+    ],
+    "description": "Gorran Haven is a village in South Coast. There are 11 named beaches within 5 km, the closest being Perhaver Beach (400 m). The nearest other bases are Mevagissey (3.2 km) and Portloe (7.6 km)."
   },
   {
     "slug": "mevagissey",
@@ -5475,7 +8842,87 @@
         "score": 77,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "little-polstreath",
+        "name": "Little Polstreath",
+        "km": 0.5
+      },
+      {
+        "slug": "polkirt-beach",
+        "name": "Polkirt Beach",
+        "km": 0.6
+      },
+      {
+        "slug": "polstreath",
+        "name": "Polstreath",
+        "km": 0.6
+      },
+      {
+        "slug": "colona-beach",
+        "name": "Colona Beach",
+        "km": 2
+      },
+      {
+        "slug": "pentewan-beach",
+        "name": "Pentewan Beach",
+        "km": 2
+      },
+      {
+        "slug": "great-perhaver-beach",
+        "name": "Great Perhaver Beach",
+        "km": 2.7
+      },
+      {
+        "slug": "little-perhaver-beach",
+        "name": "Little Perhaver Beach",
+        "km": 3.1
+      },
+      {
+        "slug": "perhaver-beach",
+        "name": "Perhaver Beach",
+        "km": 3.2
+      },
+      {
+        "slug": "vault-beach",
+        "name": "Vault Beach",
+        "km": 3.9
+      },
+      {
+        "slug": "hemmick-beach",
+        "name": "Hemmick Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "gorran-haven",
+        "name": "Gorran Haven",
+        "km": 3.2
+      },
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 7.3
+      },
+      {
+        "slug": "st-austell",
+        "name": "St Austell",
+        "km": 7.6
+      },
+      {
+        "slug": "portloe",
+        "name": "Portloe",
+        "km": 9.4
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 10.6
+      }
+    ],
+    "description": "Mevagissey is a visitor base in South Coast. There are 10 named beaches within 5 km, the closest being Little Polstreath (500 m). The nearest other bases are Gorran Haven (3.2 km) and Charlestown (7.3 km)."
   },
   {
     "slug": "st-austell",
@@ -5576,7 +9023,57 @@
         "score": 33,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "porthpean-beach",
+        "name": "Porthpean Beach",
+        "km": 2.6
+      },
+      {
+        "slug": "duporth-beach",
+        "name": "Duporth Beach",
+        "km": 2.6
+      },
+      {
+        "slug": "silvermine-beach",
+        "name": "Silvermine Beach",
+        "km": 3.5
+      },
+      {
+        "slug": "crinnis-beach",
+        "name": "Crinnis Beach",
+        "km": 4.4
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 2.6
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 6.4
+      },
+      {
+        "slug": "mevagissey",
+        "name": "Mevagissey",
+        "km": 7.6
+      },
+      {
+        "slug": "gorran-haven",
+        "name": "Gorran Haven",
+        "km": 10.8
+      },
+      {
+        "slug": "fowey",
+        "name": "Fowey",
+        "km": 11.2
+      }
+    ],
+    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). The nearest other bases are Charlestown (2.6 km) and Par (6.4 km)."
   },
   {
     "slug": "charlestown",
@@ -5677,7 +9174,72 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "duporth-beach",
+        "name": "Duporth Beach",
+        "km": 0.6
+      },
+      {
+        "slug": "porthpean-beach",
+        "name": "Porthpean Beach",
+        "km": 1.2
+      },
+      {
+        "slug": "crinnis-beach",
+        "name": "Crinnis Beach",
+        "km": 1.9
+      },
+      {
+        "slug": "silvermine-beach",
+        "name": "Silvermine Beach",
+        "km": 2.2
+      },
+      {
+        "slug": "shorthorn-beach",
+        "name": "Shorthorn Beach",
+        "km": 2.6
+      },
+      {
+        "slug": "spit-beach",
+        "name": "Spit Beach",
+        "km": 3.7
+      },
+      {
+        "slug": "par-sands",
+        "name": "Par Sands",
+        "km": 4.6
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "st-austell",
+        "name": "St Austell",
+        "km": 2.6
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 4.2
+      },
+      {
+        "slug": "mevagissey",
+        "name": "Mevagissey",
+        "km": 7.3
+      },
+      {
+        "slug": "fowey",
+        "name": "Fowey",
+        "km": 8.6
+      },
+      {
+        "slug": "polruan",
+        "name": "Polruan",
+        "km": 8.8
+      }
+    ],
+    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). The nearest other bases are St Austell (2.6 km) and Par (4.2 km)."
   },
   {
     "slug": "par",
@@ -5778,7 +9340,77 @@
         "score": 62,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "spit-beach",
+        "name": "Spit Beach",
+        "km": 1
+      },
+      {
+        "slug": "par-sands",
+        "name": "Par Sands",
+        "km": 1.1
+      },
+      {
+        "slug": "booley-beach",
+        "name": "Booley Beach",
+        "km": 1.6
+      },
+      {
+        "slug": "shorthorn-beach",
+        "name": "Shorthorn Beach",
+        "km": 1.7
+      },
+      {
+        "slug": "crinnis-beach",
+        "name": "Crinnis Beach",
+        "km": 2.4
+      },
+      {
+        "slug": "coombe-haven",
+        "name": "Coombe Haven",
+        "km": 4.5
+      },
+      {
+        "slug": "duporth-beach",
+        "name": "Duporth Beach",
+        "km": 4.6
+      },
+      {
+        "slug": "readymoney-cove-beach",
+        "name": "Readymoney Cove Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 4.2
+      },
+      {
+        "slug": "fowey",
+        "name": "Fowey",
+        "km": 5.1
+      },
+      {
+        "slug": "polruan",
+        "name": "Polruan",
+        "km": 5.5
+      },
+      {
+        "slug": "st-austell",
+        "name": "St Austell",
+        "km": 6.4
+      },
+      {
+        "slug": "lostwithiel",
+        "name": "Lostwithiel",
+        "km": 7
+      }
+    ],
+    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km)."
   },
   {
     "slug": "fowey",
@@ -5859,7 +9491,67 @@
         "score": 57,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "readymoney-cove-beach",
+        "name": "Readymoney Cove Beach",
+        "km": 0.9
+      },
+      {
+        "slug": "coombe-haven",
+        "name": "Coombe Haven",
+        "km": 1.5
+      },
+      {
+        "slug": "lantic-bay",
+        "name": "Lantic Bay",
+        "km": 2.4
+      },
+      {
+        "slug": "little-lantic-bay",
+        "name": "Little Lantic Bay",
+        "km": 2.7
+      },
+      {
+        "slug": "booley-beach",
+        "name": "Booley Beach",
+        "km": 3.6
+      },
+      {
+        "slug": "par-sands",
+        "name": "Par Sands",
+        "km": 4.1
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "polruan",
+        "name": "Polruan",
+        "km": 0.8
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 5.1
+      },
+      {
+        "slug": "lostwithiel",
+        "name": "Lostwithiel",
+        "km": 8.3
+      },
+      {
+        "slug": "polperro",
+        "name": "Polperro",
+        "km": 8.4
+      },
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 8.6
+      }
+    ],
+    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). The nearest other bases are Polruan (800 m) and Par (5.1 km)."
   },
   {
     "slug": "polruan",
@@ -5940,7 +9632,67 @@
         "score": 55,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "readymoney-cove-beach",
+        "name": "Readymoney Cove Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "coombe-haven",
+        "name": "Coombe Haven",
+        "km": 1.3
+      },
+      {
+        "slug": "lantic-bay",
+        "name": "Lantic Bay",
+        "km": 2.1
+      },
+      {
+        "slug": "little-lantic-bay",
+        "name": "Little Lantic Bay",
+        "km": 2.4
+      },
+      {
+        "slug": "booley-beach",
+        "name": "Booley Beach",
+        "km": 4
+      },
+      {
+        "slug": "par-sands",
+        "name": "Par Sands",
+        "km": 4.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "fowey",
+        "name": "Fowey",
+        "km": 0.8
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 5.5
+      },
+      {
+        "slug": "polperro",
+        "name": "Polperro",
+        "km": 8.2
+      },
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 8.8
+      },
+      {
+        "slug": "lostwithiel",
+        "name": "Lostwithiel",
+        "km": 9.1
+      }
+    ],
+    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). The nearest other bases are Fowey (800 m) and Par (5.5 km)."
   },
   {
     "slug": "lostwithiel",
@@ -6041,7 +9793,36 @@
         "score": 68,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 7
+      },
+      {
+        "slug": "bodmin",
+        "name": "Bodmin",
+        "km": 8.1
+      },
+      {
+        "slug": "fowey",
+        "name": "Fowey",
+        "km": 8.3
+      },
+      {
+        "slug": "polruan",
+        "name": "Polruan",
+        "km": 9.1
+      },
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 10.5
+      }
+    ],
+    "description": "Lostwithiel is a visitor base in South Coast. No named beaches are mapped within 5 km. The nearest other bases are Par (7.0 km) and Bodmin (8.1 km)."
   },
   {
     "slug": "polperro",
@@ -6142,7 +9923,62 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "polpero-beach",
+        "name": "Polpero Beach",
+        "km": 0.2
+      },
+      {
+        "slug": "giggen-cove",
+        "name": "Giggen Cove",
+        "km": 0.8
+      },
+      {
+        "slug": "lekerock-cove",
+        "name": "Lekerock Cove",
+        "km": 1.4
+      },
+      {
+        "slug": "talland-sand",
+        "name": "Talland Sand",
+        "km": 1.6
+      },
+      {
+        "slug": "samphire-beach",
+        "name": "Samphire Beach",
+        "km": 3.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "looe",
+        "name": "Looe",
+        "km": 5.1
+      },
+      {
+        "slug": "polruan",
+        "name": "Polruan",
+        "km": 8.2
+      },
+      {
+        "slug": "fowey",
+        "name": "Fowey",
+        "km": 8.4
+      },
+      {
+        "slug": "seaton",
+        "name": "Seaton",
+        "km": 10.1
+      },
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 11.1
+      }
+    ],
+    "description": "Polperro is a visitor base in South Coast. There are 5 named beaches within 5 km, the closest being Polpero Beach (200 m). The nearest other bases are Looe (5.1 km) and Polruan (8.2 km)."
   },
   {
     "slug": "looe",
@@ -6243,7 +10079,72 @@
         "score": 75,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "east-looe-beach",
+        "name": "East Looe Beach",
+        "km": 0.2
+      },
+      {
+        "slug": "plaidy-beach",
+        "name": "Plaidy Beach",
+        "km": 1.3
+      },
+      {
+        "slug": "millendreath-beach",
+        "name": "Millendreath Beach",
+        "km": 1.6
+      },
+      {
+        "slug": "samphire-beach",
+        "name": "Samphire Beach",
+        "km": 1.9
+      },
+      {
+        "slug": "talland-sand",
+        "name": "Talland Sand",
+        "km": 3.5
+      },
+      {
+        "slug": "lekerock-cove",
+        "name": "Lekerock Cove",
+        "km": 3.9
+      },
+      {
+        "slug": "giggen-cove",
+        "name": "Giggen Cove",
+        "km": 4.4
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "seaton",
+        "name": "Seaton",
+        "km": 5
+      },
+      {
+        "slug": "polperro",
+        "name": "Polperro",
+        "km": 5.1
+      },
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 6
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 10.2
+      },
+      {
+        "slug": "liskeard",
+        "name": "Liskeard",
+        "km": 11.4
+      }
+    ],
+    "description": "Looe is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being East Looe Beach (200 m). The nearest other bases are Seaton (5.0 km) and Polperro (5.1 km)."
   },
   {
     "slug": "seaton",
@@ -6344,7 +10245,62 @@
         "score": 74,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "seaton-beach",
+        "name": "Seaton Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "downderry-beach",
+        "name": "Downderry Beach",
+        "km": 1.8
+      },
+      {
+        "slug": "millendreath-beach",
+        "name": "Millendreath Beach",
+        "km": 3.5
+      },
+      {
+        "slug": "plaidy-beach",
+        "name": "Plaidy Beach",
+        "km": 3.8
+      },
+      {
+        "slug": "east-looe-beach",
+        "name": "East Looe Beach",
+        "km": 4.8
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 1.3
+      },
+      {
+        "slug": "looe",
+        "name": "Looe",
+        "km": 5
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 5.5
+      },
+      {
+        "slug": "polperro",
+        "name": "Polperro",
+        "km": 10.1
+      },
+      {
+        "slug": "liskeard",
+        "name": "Liskeard",
+        "km": 11.2
+      }
+    ],
+    "description": "Seaton is a village in South Coast. There are 5 named beaches within 5 km, the closest being Seaton Beach (300 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Downderry (1.3 km) and Looe (5.0 km)."
   },
   {
     "slug": "bodmin",
@@ -6425,7 +10381,36 @@
         "score": 48,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "lostwithiel",
+        "name": "Lostwithiel",
+        "km": 8.1
+      },
+      {
+        "slug": "wadebridge",
+        "name": "Wadebridge",
+        "km": 9.3
+      },
+      {
+        "slug": "st-neot",
+        "name": "St Neot",
+        "km": 11.7
+      },
+      {
+        "slug": "par",
+        "name": "Par",
+        "km": 13.6
+      },
+      {
+        "slug": "charlestown",
+        "name": "Charlestown",
+        "km": 15.5
+      }
+    ],
+    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km)."
   },
   {
     "slug": "camelford",
@@ -6526,7 +10511,36 @@
         "score": 72,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "tintagel",
+        "name": "Tintagel",
+        "km": 7
+      },
+      {
+        "slug": "boscastle",
+        "name": "Boscastle",
+        "km": 7.7
+      },
+      {
+        "slug": "port-isaac",
+        "name": "Port Isaac",
+        "km": 11
+      },
+      {
+        "slug": "crackington-haven",
+        "name": "Crackington Haven",
+        "km": 13.7
+      },
+      {
+        "slug": "wadebridge",
+        "name": "Wadebridge",
+        "km": 15.8
+      }
+    ],
+    "description": "Camelford is a town in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Tintagel (7.0 km) and Boscastle (7.7 km)."
   },
   {
     "slug": "launceston",
@@ -6627,7 +10641,36 @@
         "score": 56,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "callington",
+        "name": "Callington",
+        "km": 15.3
+      },
+      {
+        "slug": "calstock",
+        "name": "Calstock",
+        "km": 18.9
+      },
+      {
+        "slug": "liskeard",
+        "name": "Liskeard",
+        "km": 21.5
+      },
+      {
+        "slug": "widemouth-bay",
+        "name": "Widemouth Bay",
+        "km": 22
+      },
+      {
+        "slug": "st-neot",
+        "name": "St Neot",
+        "km": 22.2
+      }
+    ],
+    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km)."
   },
   {
     "slug": "liskeard",
@@ -6728,7 +10771,36 @@
         "score": 56,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "st-neot",
+        "name": "St Neot",
+        "km": 7.4
+      },
+      {
+        "slug": "seaton",
+        "name": "Seaton",
+        "km": 11.2
+      },
+      {
+        "slug": "looe",
+        "name": "Looe",
+        "km": 11.4
+      },
+      {
+        "slug": "callington",
+        "name": "Callington",
+        "km": 11.9
+      },
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 12.3
+      }
+    ],
+    "description": "Liskeard is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are St Neot (7.4 km) and Seaton (11.2 km)."
   },
   {
     "slug": "st-neot",
@@ -6829,7 +10901,36 @@
         "score": 46,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "liskeard",
+        "name": "Liskeard",
+        "km": 7.4
+      },
+      {
+        "slug": "lostwithiel",
+        "name": "Lostwithiel",
+        "km": 11.3
+      },
+      {
+        "slug": "bodmin",
+        "name": "Bodmin",
+        "km": 11.7
+      },
+      {
+        "slug": "looe",
+        "name": "Looe",
+        "km": 16.2
+      },
+      {
+        "slug": "polperro",
+        "name": "Polperro",
+        "km": 17
+      }
+    ],
+    "description": "St Neot is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Liskeard (7.4 km) and Lostwithiel (11.3 km)."
   },
   {
     "slug": "callington",
@@ -6910,7 +11011,36 @@
         "score": 50,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "calstock",
+        "name": "Calstock",
+        "km": 7.5
+      },
+      {
+        "slug": "liskeard",
+        "name": "Liskeard",
+        "km": 11.9
+      },
+      {
+        "slug": "saltash",
+        "name": "Saltash",
+        "km": 12.7
+      },
+      {
+        "slug": "launceston",
+        "name": "Launceston",
+        "km": 15.3
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 15.7
+      }
+    ],
+    "description": "Callington is a visitor base in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Calstock (7.5 km) and Liskeard (11.9 km)."
   },
   {
     "slug": "calstock",
@@ -7011,7 +11141,36 @@
         "score": 72,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "callington",
+        "name": "Callington",
+        "km": 7.5
+      },
+      {
+        "slug": "saltash",
+        "name": "Saltash",
+        "km": 9.8
+      },
+      {
+        "slug": "torpoint",
+        "name": "Torpoint",
+        "km": 13.5
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 16.8
+      },
+      {
+        "slug": "kingsand",
+        "name": "Kingsand",
+        "km": 18.1
+      }
+    ],
+    "description": "Calstock is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Callington (7.5 km) and Saltash (9.8 km)."
   },
   {
     "slug": "saltash",
@@ -7112,7 +11271,36 @@
         "score": 72,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "torpoint",
+        "name": "Torpoint",
+        "km": 3.8
+      },
+      {
+        "slug": "kingsand",
+        "name": "Kingsand",
+        "km": 8.3
+      },
+      {
+        "slug": "cawsand",
+        "name": "Cawsand",
+        "km": 8.5
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 8.8
+      },
+      {
+        "slug": "calstock",
+        "name": "Calstock",
+        "km": 9.8
+      }
+    ],
+    "description": "Saltash is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Torpoint (3.8 km) and Kingsand (8.3 km)."
   },
   {
     "slug": "torpoint",
@@ -7213,7 +11401,36 @@
         "score": 53,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [],
+    "nearbyTowns": [
+      {
+        "slug": "saltash",
+        "name": "Saltash",
+        "km": 3.8
+      },
+      {
+        "slug": "kingsand",
+        "name": "Kingsand",
+        "km": 4.6
+      },
+      {
+        "slug": "cawsand",
+        "name": "Cawsand",
+        "km": 4.8
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 8.1
+      },
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 12.3
+      }
+    ],
+    "description": "Torpoint is a town in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Saltash (3.8 km) and Kingsand (4.6 km)."
   },
   {
     "slug": "cawsand",
@@ -7314,7 +11531,42 @@
         "score": 66,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "sharrow-beach",
+        "name": "Sharrow Beach",
+        "km": 4.4
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "kingsand",
+        "name": "Kingsand",
+        "km": 0.3
+      },
+      {
+        "slug": "torpoint",
+        "name": "Torpoint",
+        "km": 4.8
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 8.4
+      },
+      {
+        "slug": "saltash",
+        "name": "Saltash",
+        "km": 8.5
+      },
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 12.4
+      }
+    ],
+    "description": "Cawsand is a village in Bodmin Moor & East Cornwall. There is 1 named beach within 5 km, the closest being Sharrow Beach (4.4 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Kingsand (300 m) and Torpoint (4.8 km)."
   },
   {
     "slug": "kingsand",
@@ -7395,7 +11647,42 @@
         "score": 76,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "sharrow-beach",
+        "name": "Sharrow Beach",
+        "km": 4.5
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "cawsand",
+        "name": "Cawsand",
+        "km": 0.3
+      },
+      {
+        "slug": "torpoint",
+        "name": "Torpoint",
+        "km": 4.6
+      },
+      {
+        "slug": "saltash",
+        "name": "Saltash",
+        "km": 8.3
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 8.4
+      },
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 12.5
+      }
+    ],
+    "description": "Kingsand is a village in Bodmin Moor & East Cornwall. There is 1 named beach within 5 km, the closest being Sharrow Beach (4.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Cawsand (300 m) and Torpoint (4.6 km)."
   },
   {
     "slug": "downderry",
@@ -7476,7 +11763,67 @@
         "score": 64,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "downderry-beach",
+        "name": "Downderry Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "seaton-beach",
+        "name": "Seaton Beach",
+        "km": 1.1
+      },
+      {
+        "slug": "hoodny-cove",
+        "name": "Hoodny Cove",
+        "km": 3.9
+      },
+      {
+        "slug": "finnygook-beach",
+        "name": "Finnygook Beach",
+        "km": 4.5
+      },
+      {
+        "slug": "millendreath-beach",
+        "name": "Millendreath Beach",
+        "km": 4.7
+      },
+      {
+        "slug": "plaidy-beach",
+        "name": "Plaidy Beach",
+        "km": 4.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "seaton",
+        "name": "Seaton",
+        "km": 1.3
+      },
+      {
+        "slug": "portwrinkle",
+        "name": "Portwrinkle",
+        "km": 4.2
+      },
+      {
+        "slug": "looe",
+        "name": "Looe",
+        "km": 6
+      },
+      {
+        "slug": "polperro",
+        "name": "Polperro",
+        "km": 11.1
+      },
+      {
+        "slug": "liskeard",
+        "name": "Liskeard",
+        "km": 12.3
+      }
+    ],
+    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 6 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km)."
   },
   {
     "slug": "portwrinkle",
@@ -7557,6 +11904,56 @@
         "score": 74,
         "retrieved": "2026-11-01"
       }
-    ]
+    ],
+    "beachesNearby": [
+      {
+        "slug": "finnygook-beach",
+        "name": "Finnygook Beach",
+        "km": 0.2
+      },
+      {
+        "slug": "hoodny-cove",
+        "name": "Hoodny Cove",
+        "km": 0.4
+      },
+      {
+        "slug": "downderry-beach",
+        "name": "Downderry Beach",
+        "km": 3.8
+      },
+      {
+        "slug": "sharrow-beach",
+        "name": "Sharrow Beach",
+        "km": 3.9
+      }
+    ],
+    "nearbyTowns": [
+      {
+        "slug": "downderry",
+        "name": "Downderry",
+        "km": 4.2
+      },
+      {
+        "slug": "seaton",
+        "name": "Seaton",
+        "km": 5.5
+      },
+      {
+        "slug": "torpoint",
+        "name": "Torpoint",
+        "km": 8.1
+      },
+      {
+        "slug": "cawsand",
+        "name": "Cawsand",
+        "km": 8.4
+      },
+      {
+        "slug": "kingsand",
+        "name": "Kingsand",
+        "km": 8.4
+      }
+    ],
+    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Finnygook Beach (200 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km)."
   }
 ]
