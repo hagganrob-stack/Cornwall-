@@ -1,19 +1,23 @@
 #!/usr/bin/env node
-// Find openly licensed photos for every beach and town on Wikimedia Commons, by coordinates and name.
-// Commons hosts a large mirror of Geograph Britain & Ireland (CC BY-SA 2.0); those files keep a
-// link back to the original Geograph page. Google imagery is never used.
+// Find openly licensed photos for every beach and town by coordinates and name, from:
+//   - Geograph Britain & Ireland (public GeoRSS/JSON feed, no key; CC BY-SA 2.0, ~640px images)
+//   - Wikimedia Commons (larger files, best for heroes; rate-limited from shared IPs, so slow)
+// Google imagery is never used.
 //
 // Stores up to 3 candidates per place with URL, photographer, licence and source link, and flags
 // the 20 strongest overall as hero candidates (heroCandidate: true) for Rob to approve
 // (set hero: true on the one to use). Manual choices are preserved across runs.
 //
-// Usage: node scripts/images.mjs [--only=beaches|towns] [--refetch]
+// Usage: node scripts/images.mjs [--only=beaches|towns] [--sources=geograph,commons] [--refetch]
+// Results from a source not run this time are kept, so the two sources can be run separately.
 import fs from 'node:fs/promises';
 import { cachedFetch, readJson, writeJson, slugify, haversineKm, sleep, TODAY } from './lib/util.mjs';
 
 const API = 'https://commons.wikimedia.org/w/api.php';
 const ONLY = (process.argv.find((a) => a.startsWith('--only=')) || '').split('=')[1];
 const REFETCH = process.argv.includes('--refetch');
+const SOURCES = ((process.argv.find((a) => a.startsWith('--sources=')) || '--sources=geograph,commons').split('=')[1]).split(',');
+const GEOGRAPH = 'https://www.geograph.org.uk/syndicator.php';
 const ALLOWED = /^(cc0|public domain|pd|cc by(-sa)? \d(\.\d)?( [a-z]{2,})?)/i;
 const REJECT_TITLE = /\b(map|plan|diagram|sign|signs|notice|logo|chart|coat of arms|flag|drawing|postcard|ticket|interior|church|grave|memorial|plaque|bus|train|locomotive|car park sign|ship|vessel|boat)\b/i;
 
@@ -26,10 +30,10 @@ async function api(params, cacheKey) {
   const hit = await fs.readFile(file, 'utf8').catch(() => null);
   if (hit) return JSON.parse(hit);
   await sleep(600); // be polite: well under Wikimedia's rate limits
-  return cachedFetch(url, file, { retries: 5 });
+  return cachedFetch(url, file, { retries: 3 });
 }
 
-async function candidatesFor(place, kind) {
+async function commonsCandidates(place, kind) {
   const radius = kind === 'town' ? 1200 : 450;
   // One request per place: geosearch as a generator, with image info + categories for each hit.
   const info = await api(
@@ -107,6 +111,73 @@ async function candidatesFor(place, kind) {
     .map(({ _nameMatch, mime, ...c }) => ({ ...c, retrieved: TODAY }));
 }
 
+const GEO_REJECT = /\b(road|lane|junction|track|footpath sign|sign|signpost|bus|chapel|church|house|cottage|farm|field|gate|stile|postbox|telephone|bench|plaque|memorial|interior|car park|bridge|hedge|barn|trig|mine|engine house|stack)\b/i;
+const GEO_GOOD = /\b(beach|sands?|cove|bay|coast|sea|surf|harbour|shore|waves|tide|rock ?pools?|cliffs?|view|towans|dunes?|porth)\b/i;
+
+const TOWN_GOOD = /\b(harbour|beach|bay|view|views|from|overlooking|panorama|seafront|quay|coast|across|estuary|river|creek|cove|looking|sunset|aerial|moor|tor|valley)\b/i;
+const TOWN_REJECT = /\b(street|st|road|rd|lane|crescent|terrace|junction|close|avenue|way|drive|chapel|church|methodist|bungalows?|houses?|shop|shops|cafe|pub|inn|hotel|garage|bank|station|bus|car|cars|suvs?|car park|sign|signs|toilets|postbox|telephone|plaque|interior|memorial|grave|school|surgery|estate|works|roundabout|bridge)\b/i;
+
+async function geographCandidates(place, kind) {
+  const km = kind === 'town' ? 1 : 0.5;
+  const url = `${GEOGRAPH}?${new URLSearchParams({ q: `${place.lat},${place.lng}`, distance: String(km), format: 'JSON', perpage: '50' })}`;
+  const file = `data/raw/geograph/${kind}-${place.slug}.json`;
+  if (REFETCH) await fs.rm(file, { force: true });
+  const cached = await fs.readFile(file, 'utf8').catch(() => null);
+  if (!cached) await sleep(1000);
+  const feed = cached ? JSON.parse(cached) : await cachedFetch(url, file, { retries: 3 });
+  const name = place.name.toLowerCase().replace(/\b(beach|bay|cove|sands)\b/g, '').trim();
+  const nameRe = new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+  const plainName = (n) => n.replace(/\s+/g, '');
+  return (feed.items || [])
+    .map((it) => {
+      const title = strip(it.title).replace(/^[A-Z]{1,2}\d{4,8}\s*:\s*/, '');
+      const text = `${title} ${it.tags || ''}`;
+      const dist = Math.round(haversineKm(place, { lat: +it.lat, lng: +it.long }) * 1000);
+      let score = 0;
+      if (nameRe.test(title) || title.toLowerCase().replace(/\s+/g, '').includes(plainName(name))) score += 40;
+      if (kind === 'beach' ? GEO_GOOD.test(text) : true) score += kind === 'beach' ? 15 : 5;
+      if (kind === 'beach' && GEO_REJECT.test(title)) score -= 30;
+      if (kind === 'town' && TOWN_GOOD.test(title)) score += 20;
+      if (kind === 'town' && TOWN_REJECT.test(title)) score -= 30;
+      score -= dist / (kind === 'town' ? 80 : 30);
+      const year = +(it.imageTaken || '').slice(0, 4);
+      if (year >= 2015) score += 8;
+      else if (year && year < 2008) score -= 8;
+      score += 4; // ~640px standard size
+      return {
+        file: `geograph:${it.guid}`,
+        title,
+        description: '',
+        url: it.thumb.replace(/_\d+x\d+\.jpg$/, '.jpg'),
+        thumbUrl: it.thumb.replace(/_\d+x\d+\.jpg$/, '.jpg'),
+        width: null, // standard Geograph size (longest side ~640px); measured at build time
+        height: null,
+        photographer: it.author,
+        licence: /by-sa\/2\.0/.test(it.licence) ? 'CC BY-SA 2.0' : it.licence,
+        licenceUrl: it.licence?.replace(/^http:/, 'https:'),
+        sourceUrl: it.link,
+        via: 'Geograph',
+        geographUrl: it.link,
+        dateTaken: it.imageTaken || null,
+        distanceM: dist,
+        quality: null,
+        score: Math.round(score),
+      };
+    })
+    .filter((c) => c.score > 0 && c.photographer && /creativecommons/.test(c.licenceUrl || ''))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 3)
+    .map((c) => ({ ...c, retrieved: TODAY }));
+}
+
+async function candidatesFor(place, kind) {
+  const found = [];
+  if (SOURCES.includes('geograph')) found.push(...(await geographCandidates(place, kind).catch((e) => (console.warn(`  ! geograph ${place.slug}: ${e.message}`), []))));
+  if (SOURCES.includes('commons')) found.push(...(await commonsCandidates(place, kind).catch((e) => (console.warn(`  ! commons ${place.slug}: ${e.message}`), []))));
+  return found;
+}
+const sourceOf = (im) => (im.file.startsWith('geograph:') ? 'geograph' : 'commons');
+
 async function run(file, kind) {
   const places = await readJson(file);
   if (!places) return [];
@@ -118,7 +189,9 @@ async function run(file, kind) {
       console.warn(`  ! ${p.slug}: ${e.message}`);
       return [];
     });
-    const merged = [...keep, ...found.filter((f) => !keep.some((k) => k.file === f.file))].slice(0, 3);
+    const other = (p.images || []).filter((im) => !im.hero && !im.manual && !SOURCES.includes(sourceOf(im)));
+    const pool = [...other, ...found].filter((f, i, a) => !keep.some((k) => k.file === f.file) && a.findIndex((x) => x.file === f.file) === i);
+    const merged = [...keep, ...pool.sort((a, b) => b.score - a.score)].slice(0, 4);
     p.images = merged;
     if (i % 25 === 0) console.log(`  ${kind}s: ${i}/${places.length}`);
   }
