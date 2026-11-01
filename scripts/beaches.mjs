@@ -13,7 +13,7 @@
 import fs from 'node:fs/promises';
 import { cachedFetch, readJson, writeJson, slugify, haversineKm, TODAY, NOT_STATED } from './lib/util.mjs';
 import { polygonAreaM2, centroid, distanceToBeachM, seawardBearing, compass } from './lib/geo.mjs';
-import { DOG_MATCHES, LIFEGUARD_MATCHES, EXCLUDE_NAMES } from './lib/matching.mjs';
+import { DOG_MATCHES, LIFEGUARD_MATCHES, EXCLUDE_NAMES, EXTRA_BEACHES } from './lib/matching.mjs';
 
 const OVERPASS = process.env.OVERPASS_URL || 'https://overpass-api.de/api/interpreter';
 const REFETCH = process.argv.includes('--refetch');
@@ -40,6 +40,31 @@ const [beachRes, amenityRes, coastRes] = [
   await overpass('coastline', `[out:json][timeout:240];way["natural"="coastline"](${BBOX});out geom;`),
 ];
 
+// Curated extra beaches: fetch exactly the pinned OSM features from the main OSM API (one small,
+// cached request each; doesn't depend on Overpass). Returned in Overpass `out geom` shape.
+async function osmFeature(id) {
+  const [type, num] = id.split('/');
+  if (type === 'node') {
+    const d = await cachedFetch(`https://api.openstreetmap.org/api/0.6/node/${num}.json`, `data/raw/osm/node-${num}.json`, { retries: 3, minDelay: 300 });
+    const n = d.elements[0];
+    return { type, id: n.id, lat: n.lat, lon: n.lon, tags: n.tags || {} };
+  }
+  if (type === 'way') {
+    const d = await cachedFetch(`https://api.openstreetmap.org/api/0.6/way/${num}/full.json`, `data/raw/osm/way-${num}.json`, { retries: 3, minDelay: 300 });
+    const nodes = new Map(d.elements.filter((e) => e.type === 'node').map((e) => [e.id, e]));
+    const w = d.elements.find((e) => e.type === 'way');
+    return { type, id: w.id, tags: w.tags || {}, geometry: w.nodes.map((i) => ({ lat: nodes.get(i).lat, lon: nodes.get(i).lon })) };
+  }
+  throw new Error(`EXTRA_BEACHES: unsupported OSM type in ${id}`);
+}
+const extraEls = [];
+for (const x of EXTRA_BEACHES) {
+  for (const id of [].concat(x.osm)) {
+    const el = await osmFeature(id);
+    extraEls.push({ ...el, tags: { ...el.tags, name: x.name }, _curated: x });
+  }
+}
+
 const towns = await readJson('data/towns.json');
 const regions = await readJson('data/regions.json');
 const dogData = await readJson('data/dog-restrictions.json');
@@ -61,7 +86,7 @@ function geometryPoints(el) {
   return null;
 }
 
-let raw = beachRes.elements
+let raw = [...beachRes.elements, ...extraEls]
   .filter((el) => el.tags?.name && !EXCLUDE_NAMES.some((re) => re.test(el.tags.name)))
   .map((el) => {
     const outline = geometryPoints(el);
@@ -300,6 +325,7 @@ const beaches = merged.map((b) => {
     wikidata: tagOf(b, 'wikidata') || null,
     wikipedia: tagOf(b, 'wikipedia') || null,
     access: tagOf(b, 'access') || null,
+    ...(b.parts.some((p) => p._curated) ? { curated: { reason: b.parts.find((p) => p._curated)._curated.why, note: 'Name added by hand; location and tags from the linked OpenStreetMap feature.' } } : {}),
     lastChecked: TODAY,
     ourNotes: prev.ourNotes || '',
     weVisited: prev.weVisited || false,

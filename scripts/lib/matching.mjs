@@ -36,6 +36,22 @@ export const DOG_MATCHES = {
   'trevone-beach-padstow': ['Trevone Beach'],
   'widemouth-beach-bude': ['Widemouth Sands'],
   'summerleaze-bude': ['Summerleaze Beach'],
+  // Beaches added via EXTRA_BEACHES:
+  'cadgwith-cove-cadgwith': ['Cadgwith Cove'],
+  'cawsand-beach-cawsand': ['Cawsand Beach'],
+  'crackington-haven-bude': ['Crackington Haven'],
+  'harveys-towans-godrevy-point-hayle': ['Hayle Towans Beach', 'Gwithian Beach', 'Godrevy Beach'], // one order covers the whole stretch
+  'kynance-cove-the-lizard': ['Kynance Cove'],
+  'mousehole-beach-to-skilly-beach': ['Mousehole Beach'],
+  'wherry-town-to-battery-rocks': ['Wherry Town Beach'],
+  'longrock-level-crossing-to-marazion': ['Long Rock Beach', 'Marazion Beach'],
+  'polurrian-cove-beach-mullion': ['Polurrian Cove'],
+  'portmellon-cove-mevagissey': ['Portmellon Cove'],
+  'portwrinkle-harbour': ['Portwrinkle Harbour Beach'],
+  'st-georges-well-padstow': ["St George's Cove"],
+  'summers-beach-st-mawes': ['Summers Beach'],
+  'tattams-beach-portscatho': ['Tattams Beach'],
+  'tunnel-beach-falmouth': ['Tunnel Beach'],
 };
 
 // OSM beach name, or OSM id ("relation/123") where a name is shared -> RNLI lifeguard unit name
@@ -44,7 +60,51 @@ export const LIFEGUARD_MATCHES = {
   'Hayle Bay': 'Polzeath', // OSM name for Polzeath beach
   'relation/2177116': 'Perran Sands', // northern part of Perran Beach
   'relation/2177117': 'Perranporth', // southern part, at Perranporth itself
+  // Beaches added via EXTRA_BEACHES:
+  'Marazion Beach': 'Marazion',
+  'Long Rock Beach': null, // touches Marazion; the RNLI unit is listed once, on Marazion Beach
+  'Crackington Haven': 'Crackington Haven',
+  'Godrevy Beach': 'Godrevy',
+  'Gwithian Beach': 'Gwithian North',
+  'Hayle Towans Beach': 'Hayle Towans',
+  'Trebarwith Strand': 'Trebarwith',
+  'Tregantle Beach': 'Tregantle',
+  'Freathy Beach': 'Freathy',
+  'Tregonhawke Beach': 'Tregonhawke',
 };
 
 // OSM "beaches" that aren't visitor beaches (tidal mud banks, private estate frontages...).
-export const EXCLUDE_NAMES = [];
+export const EXCLUDE_NAMES = [
+  /^Pedn-y-ke$/, // OSM name on the Polurrian Cove sand; re-added below as "Polurrian Cove"
+];
+
+// Well-known beaches with no NAMED natural=beach feature in OSM (the sand is mapped unnamed, or only
+// the bay/cove is named). Each pins a visitor-facing name to one specific OSM feature, which supplies
+// the location, outline and tags. `osm` is one id or several pieces (merged into one beach); a
+// node (village or bay point) is used only where no beach outline is mapped. `why` records the reason.
+const DOG = 'On the Cornwall Council dog-restriction list';
+const RNLI = 'RNLI lifeguarded beach';
+export const EXTRA_BEACHES = [
+  { name: 'Kynance Cove', osm: ['way/806052833', 'way/806052832'], why: DOG },
+  { name: 'Marazion Beach', osm: ['way/1379189903', 'way/777263840'], why: `${DOG}; ${RNLI}` },
+  { name: 'Long Rock Beach', osm: ['way/304641319', 'way/304356215'], why: DOG },
+  { name: 'Crackington Haven', osm: ['way/174329462', 'way/1201179415'], why: `${DOG}; ${RNLI}` },
+  { name: 'Cawsand Beach', osm: ['way/225174218', 'way/998427718'], why: DOG },
+  { name: 'Mousehole Beach', osm: 'way/112525060', why: DOG },
+  { name: 'Godrevy Beach', osm: ['way/888289247', 'way/888270743'], why: `${DOG}; ${RNLI}` },
+  { name: 'Gwithian Beach', osm: 'way/889139690', why: `${DOG}; ${RNLI}` },
+  { name: 'Hayle Towans Beach', osm: 'way/183752234', why: `${DOG}; ${RNLI}` },
+  { name: 'Trebarwith Strand', osm: ['way/316315372', 'way/1175389713'], why: RNLI },
+  { name: 'Tregantle Beach', osm: ['way/289885394', 'way/1200952703'], why: RNLI },
+  { name: 'Freathy Beach', osm: ['way/225176331', 'way/998195545'], why: RNLI },
+  { name: 'Tregonhawke Beach', osm: 'way/225175786', why: RNLI },
+  { name: 'Cadgwith Cove', osm: 'node/29282484', why: `${DOG} (no beach outline mapped; located at Cadgwith village)` },
+  { name: 'Tunnel Beach', osm: 'way/471365539', why: DOG },
+  { name: 'Polurrian Cove', osm: 'way/191932830', why: DOG },
+  { name: 'Portmellon Cove', osm: 'way/162210379', why: DOG },
+  { name: 'Summers Beach', osm: 'way/1521269265', why: DOG },
+  { name: 'Tattams Beach', osm: 'way/169472721', why: DOG },
+  { name: 'Portwrinkle Harbour Beach', osm: 'way/997966126', why: DOG },
+  { name: 'Wherry Town Beach', osm: 'way/1009579600', why: DOG },
+  { name: "St George's Cove", osm: 'way/866442991', why: DOG },
+];
