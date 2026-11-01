@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "north-coast",
+    "name": "North Coast",
+    "status": "draft",
+    "summary": "The Atlantic-facing coast from Bude in the far north-east down to Gwithian and Godrevy on St Ives Bay, including Padstow, Newquay, Perranporth and St Agnes.",
+    "boundaryNote": "Draft boundary: Devon border at Marsland Mouth to Godrevy Point. Hayle and St Ives are in West Cornwall."
+  },
+  {
+    "slug": "west-cornwall",
+    "name": "West Cornwall (Penwith)",
+    "status": "draft",
+    "summary": "The Penwith peninsula west of Hayle: St Ives, Zennor, St Just, Sennen, Porthcurno, Mousehole, Penzance and Mount's Bay as far east as Praa Sands.",
+    "boundaryNote": "Draft boundary: Hayle estuary on the north coast to Praa Sands on Mount's Bay."
+  },
+  {
+    "slug": "the-lizard",
+    "name": "The Lizard",
+    "status": "draft",
+    "summary": "The Lizard peninsula, mainland Britain's most southerly point, from Porthleven and Helston round to Coverack and the Helford River.",
+    "boundaryNote": "Draft boundary: Porthleven to the south bank of the Helford River."
+  },
+  {
+    "slug": "south-coast",
+    "name": "South Coast",
+    "status": "draft",
+    "summary": "The sheltered south coast from Falmouth and the Roseland to Mevagissey, St Austell Bay, Fowey, Polperro and Looe, plus Truro on the Fal.",
+    "boundaryNote": "Draft boundary: north bank of the Helford River to Seaton. Truro is included here as it sits at the head of the Fal."
+  },
+  {
+    "slug": "bodmin-moor-east-cornwall",
+    "name": "Bodmin Moor & East Cornwall",
+    "status": "draft",
+    "summary": "Inland Cornwall around Bodmin Moor, Launceston and Liskeard, the Tamar Valley, and the Rame Peninsula with Whitsand Bay, Cawsand and Kingsand.",
+    "boundaryNote": "Draft boundary: everything east of Seaton on the south coast plus inland towns not on the north coast. Bodmin and Camelford are included here."
+  }
+]

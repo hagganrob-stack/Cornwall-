@@ -1,0 +1,16 @@
+{
+  "name": "one-week-in-cornwall",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data:towns": "node scripts/towns.mjs",
+    "data:dogs": "node scripts/dogs.mjs",
+    "data:lifeguards": "node scripts/lifeguards.mjs",
+    "data:beaches": "node scripts/beaches.mjs",
+    "data:images": "node scripts/images.mjs",
+    "data:describe": "node scripts/describe.mjs",
+    "data:report": "node scripts/report.mjs",
+    "data": "npm run data:towns && npm run data:dogs && npm run data:lifeguards && npm run data:beaches && npm run data:images && npm run data:describe && npm run data:report"
+  },
+  "engines": { "node": ">=22.21" }
+}

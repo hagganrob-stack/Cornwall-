@@ -1,0 +1,1193 @@
+{
+  "source": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+  "pageLastUpdated": "23/10/2026",
+  "orders": [
+    {
+      "label": "Public Space Protection Order - Dogs on Beaches",
+      "url": "https://www.cornwall.gov.uk/media/cr5p5n33/sealed-public-spaces-protection-dogs-on-beaches-order-10032026.pdf"
+    },
+    {
+      "label": "Public Space Protection Order - Dogs on Leads",
+      "url": "https://www.cornwall.gov.uk/media/qrnkqyrr/public-space-protection-order-dogs-on-leads-order-2026.pdf"
+    }
+  ],
+  "retrieved": "2026-11-01",
+  "entries": [
+    {
+      "id": "cadgwith-cove-cadgwith",
+      "councilName": "Cadgwith Cove, Cadgwith",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/tohk1pdn/cadgwith-cove-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "carbis-bay-beach-carbis-bay",
+      "councilName": "Carbis Bay Beach, Carbis Bay",
+      "restriction": "prohibited",
+      "datesText": "15 May - 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/fqbk50f4/carbis-bay-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "carnsew-pool",
+      "councilName": "Carnsew Pool",
+      "restriction": "prohibited",
+      "datesText": "All year ban",
+      "timesText": "24 hour prohibition",
+      "dates": {
+        "allYear": true,
+        "from": null,
+        "to": null
+      },
+      "times": {
+        "allDay": true,
+        "from": null,
+        "to": null
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/x4jkj3ae/carnsew-pool-hayle-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "castle-beach-falmouth",
+      "councilName": "Castle Beach, Falmouth",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/pailxoah/castle-beach-falmouth-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "cawsand-beach-cawsand",
+      "councilName": "Cawsand Beach, Cawsand",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/krwfwcu2/cawsand-torpoint-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "chapel-porth-beach-st-agnes",
+      "councilName": "Chapel Porth Beach, St Agnes",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/g5zop3ql/chapel-porth-st-agnes-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "church-cove-gunwalloe",
+      "councilName": "Church Cove, Gunwalloe",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/ip4awuru/church-cove-gunwalloe-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "copperhouse-pool",
+      "councilName": "Copperhouse Pool",
+      "restriction": "prohibited",
+      "datesText": "All year ban",
+      "timesText": "24 hour prohibition",
+      "dates": {
+        "allYear": true,
+        "from": null,
+        "to": null
+      },
+      "times": {
+        "allDay": true,
+        "from": null,
+        "to": null
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/0vugrv5r/copperhouse-pool-hayle-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "crackington-haven-bude",
+      "councilName": "Crackington Haven, Bude",
+      "restriction": "prohibited",
+      "datesText": "15 May - 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/gg2lnawm/crackington-haven-bude-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "crooklets-beach-bude",
+      "councilName": "Crooklets Beach, Bude",
+      "restriction": "prohibited",
+      "datesText": "15 May - 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/nxvfsqgd/crooklets-beach-bude-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "gyllyngvase-beach-falmouth",
+      "councilName": "Gyllyngvase Beach, Falmouth",
+      "restriction": "prohibited",
+      "datesText": "15 May - 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/e3rdjphm/gyllyngvase-beach-falmouth-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "harveys-towans-godrevy-point-hayle",
+      "councilName": "Harveys Towans - Godrevy Point, Hayle",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/5xpoetxf/hayle-towans-to-godrevy-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "hayle-estuary",
+      "councilName": "Hayle Estuary",
+      "restriction": "prohibited",
+      "datesText": "All year ban",
+      "timesText": "24 hour prohibition",
+      "dates": {
+        "allYear": true,
+        "from": null,
+        "to": null
+      },
+      "times": {
+        "allDay": true,
+        "from": null,
+        "to": null
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/2aakf2dz/hayle-estuary-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "hoodny-beach-portwrinkle",
+      "councilName": "Hoodny Beach, Portwrinkle",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": null,
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "housel-bay-the-lizard",
+      "councilName": "Housel Bay, The Lizard",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/vc3i5rqo/housel-bay-the-lizard-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "kennack-sands-beach-the-lizard",
+      "councilName": "Kennack Sands Beach, The Lizard",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/counumt2/kennack-sands-the-lizard-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "kynance-cove-the-lizard",
+      "councilName": "Kynance Cove, The Lizard",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/xagbvmjt/kynance-cove-the-lizard-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "maenporth-beach-falmouth",
+      "councilName": "Maenporth Beach, Falmouth",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/244pvxlj/maenporth-beach-falmouth-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "mousehole-beach-to-skilly-beach",
+      "councilName": "Mousehole Beach to Skilly Beach",
+      "restriction": "prohibited",
+      "datesText": "1 July– 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": null,
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "wherry-town-to-battery-rocks",
+      "councilName": "Wherry Town to Battery Rocks",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/oj5jin0w/wherry-town-to-battery-rock-penzance-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "longrock-level-crossing-to-marazion",
+      "councilName": "Longrock level crossing to Marazion",
+      "restriction": "prohibited",
+      "datesText": "1 July – 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/hmeplwvv/penzance-to-marizion-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "perranuthnoe",
+      "councilName": "Perranuthnoe",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": null,
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "poldhu-beach-mullion",
+      "councilName": "Poldhu Beach, Mullion",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/fyydnq3w/poldhu-beach-mullion-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "polurrian-cove-beach-mullion",
+      "councilName": "Polurrian Cove Beach, Mullion",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/skykreji/polurrian-cove-mullion-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "polzeath-beach-polzeath",
+      "councilName": "Polzeath Beach, Polzeath",
+      "restriction": "prohibited",
+      "datesText": "15 May – 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/chmmqmh4/polzeath-beach-beach-maps.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porth-beach-porth",
+      "councilName": "Porth Beach, Porth",
+      "restriction": "prohibited",
+      "datesText": "1 July – 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/i4vab0pt/porth-beach-newquay-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthcurno-beach-porthcurno",
+      "councilName": "Porthcurno Beach, Porthcurno",
+      "restriction": "prohibited",
+      "datesText": "1 July – 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/byxdxdj4/porth-curno-beach-beach-maps.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthgwarra-beach-st-levan",
+      "councilName": "Porthgwarra Beach, St Levan",
+      "restriction": "prohibited",
+      "datesText": "1 July – 31 August",
+      "timesText": "10am –6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/2cmhw43c/porthgwarra-beach-st-levan-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthgwidden-beach-st-ives",
+      "councilName": "Porthgwidden Beach, St Ives",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/l0ybx4gb/porthgwidden-beach-st-ives-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthleven-west-porthleven",
+      "councilName": "Porthleven West, Porthleven",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/m1abgbhc/porthleven-west-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthmeor-beach-st-ives",
+      "councilName": "Porthmeor Beach, St Ives",
+      "restriction": "prohibited",
+      "datesText": "15 May - 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/djbpkvx1/porthmeor-st-ives-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthminster-beach-st-ives",
+      "councilName": "Porthminster Beach, St Ives",
+      "restriction": "prohibited",
+      "datesText": "15 May - 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/4yqdq4ud/porthminster-st-ives-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthpean-beach-st-austell",
+      "councilName": "Porthpean Beach, St Austell",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/x4qighg5/porthpean-st-austell-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "porthtowan-beach-porthtowan",
+      "councilName": "Porthtowan Beach, Porthtowan",
+      "restriction": "prohibited",
+      "datesText": "15 May – 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/lrgfmpj4/porthtowan-beach-beach-maps.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "portmellon-cove-mevagissey",
+      "councilName": "Portmellon Cove, Mevagissey",
+      "restriction": "prohibited",
+      "datesText": "1 July – 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/3h0ajev0/portmellon-cove-mevagissey-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "portreath-beach-including-harbour-portreath",
+      "councilName": "Portreath Beach including Harbour, Portreath",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/g5zhwrut/portreath-beach-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "portwrinkle-harbour",
+      "councilName": "Portwrinkle Harbour",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": null,
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "praa-sands-beach-praa-sands",
+      "councilName": "Praa Sands Beach, Praa Sands",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/rcvlfskd/praa-sands-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "readymoney-cove-fowey",
+      "councilName": "Readymoney Cove, Fowey",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/rajnltsd/readymoney-cove-fowey-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "sennen-beach-sennen",
+      "councilName": "Sennen Beach, Sennen",
+      "restriction": "prohibited",
+      "datesText": "15 May – 30 September",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/csiads3d/sennen-beach-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "st-georges-well-padstow",
+      "councilName": "St George’s Well, Padstow",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/yaijfylt/st-georges-padstow-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "st-ives-harbour-beach-st-ives",
+      "councilName": "St Ives Harbour Beach, St Ives",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am – 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/qppjoid1/st-ives-harbour-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "summers-beach-st-mawes",
+      "councilName": "Summer’s Beach, St Mawes",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/enxnw2ms/summers-beach-st-mawes-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "swanpool-beach-falmouth",
+      "councilName": "Swanpool Beach, Falmouth",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/2i1hnzbh/swanpool-beach-falmouth-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "tattams-beach-portscatho",
+      "councilName": "Tattam’s Beach, Portscatho",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/xeievzfk/porthscatho-beach-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "trevone-beach-padstow",
+      "councilName": "Trevone Beach, Padstow",
+      "restriction": "prohibited",
+      "datesText": "15 May – 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/r42btftl/trevone-beach-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "tunnel-beach-falmouth",
+      "councilName": "Tunnel Beach, Falmouth",
+      "restriction": "prohibited",
+      "datesText": "1 July - 31 August",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "07-01",
+        "to": "08-31"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/emld1rif/tunnel-beach-falmouth-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "widemouth-beach-bude",
+      "councilName": "Widemouth Beach, Bude",
+      "restriction": "prohibited",
+      "datesText": "15 May – 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-15",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": "https://www.cornwall.gov.uk/media/wv2jd23n/widmouth-bay-bude-beach-map.pdf",
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    },
+    {
+      "id": "summerleaze-bude",
+      "councilName": "Summerleaze, Bude",
+      "restriction": "leads",
+      "datesText": "21 May – 30 September",
+      "timesText": "10am - 6pm",
+      "dates": {
+        "allYear": false,
+        "from": "05-21",
+        "to": "09-30"
+      },
+      "times": {
+        "allDay": false,
+        "from": "10:00",
+        "to": "18:00"
+      },
+      "mapPdf": null,
+      "source": {
+        "label": "Cornwall Council – Dogs on beaches (Public Spaces Protection Order)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026",
+        "retrieved": "2026-11-01"
+      }
+    }
+  ]
+}

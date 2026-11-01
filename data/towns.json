@@ -1,0 +1,1522 @@
+[
+  {
+    "slug": "bude",
+    "name": "Bude",
+    "region": "north-coast",
+    "lat": 50.82853,
+    "lng": -4.54694,
+    "placeType": "town",
+    "osm": "https://www.openstreetmap.org/node/33795930",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/33795930",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "widemouth-bay",
+    "name": "Widemouth Bay",
+    "region": "north-coast",
+    "lat": 50.79194,
+    "lng": -4.5537,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/33795979",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/33795979",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "crackington-haven",
+    "name": "Crackington Haven",
+    "region": "north-coast",
+    "lat": 50.74031,
+    "lng": -4.63197,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/33796011",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/33796011",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "boscastle",
+    "name": "Boscastle",
+    "region": "north-coast",
+    "lat": 50.68954,
+    "lng": -4.69237,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/401881392",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/401881392",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "tintagel",
+    "name": "Tintagel",
+    "region": "north-coast",
+    "lat": 50.66421,
+    "lng": -4.75262,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5818328",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5818328",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "port-isaac",
+    "name": "Port Isaac",
+    "region": "north-coast",
+    "lat": 50.59388,
+    "lng": -4.82999,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/280487798",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/280487798",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "polzeath",
+    "name": "Polzeath",
+    "region": "north-coast",
+    "lat": 50.57284,
+    "lng": -4.9149,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1595260024",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1595260024",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "rock",
+    "name": "Rock",
+    "region": "north-coast",
+    "lat": 50.54468,
+    "lng": -4.91181,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1595259983",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1595259983",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "wadebridge",
+    "name": "Wadebridge",
+    "region": "north-coast",
+    "lat": 50.51714,
+    "lng": -4.83402,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5844030",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5844030",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "padstow",
+    "name": "Padstow",
+    "region": "north-coast",
+    "lat": 50.54038,
+    "lng": -4.93699,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/3520296",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/3520296",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "trevone",
+    "name": "Trevone",
+    "region": "north-coast",
+    "lat": 50.54105,
+    "lng": -4.97467,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29289585",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29289585",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "harlyn",
+    "name": "Harlyn",
+    "region": "north-coast",
+    "lat": 50.53848,
+    "lng": -4.99764,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1745986241",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1745986241",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "constantine-bay",
+    "name": "Constantine Bay",
+    "region": "north-coast",
+    "lat": 50.53008,
+    "lng": -5.01185,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1745986253",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1745986253",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "porthcothan",
+    "name": "Porthcothan",
+    "region": "north-coast",
+    "lat": 50.50861,
+    "lng": -5.02235,
+    "placeType": "hamlet",
+    "osm": "https://www.openstreetmap.org/node/762869382",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/762869382",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "mawgan-porth",
+    "name": "Mawgan Porth",
+    "region": "north-coast",
+    "lat": 50.46487,
+    "lng": -5.03193,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/10701492534",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/10701492534",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-mawgan",
+    "name": "St Mawgan",
+    "region": "north-coast",
+    "lat": 50.45479,
+    "lng": -4.99778,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29289277",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29289277",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "newquay",
+    "name": "Newquay",
+    "region": "north-coast",
+    "lat": 50.41344,
+    "lng": -5.08488,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5844073",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5844073",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "crantock",
+    "name": "Crantock",
+    "region": "north-coast",
+    "lat": 50.40162,
+    "lng": -5.11012,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5891964",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5891964",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "holywell",
+    "name": "Holywell",
+    "region": "north-coast",
+    "lat": 50.38676,
+    "lng": -5.13949,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29289147",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29289147",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "perranporth",
+    "name": "Perranporth",
+    "region": "north-coast",
+    "lat": 50.34442,
+    "lng": -5.15384,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1600818794",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1600818794",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-agnes",
+    "name": "St Agnes",
+    "region": "north-coast",
+    "lat": 50.31228,
+    "lng": -5.20379,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29288752",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29288752",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "porthtowan",
+    "name": "Porthtowan",
+    "region": "north-coast",
+    "lat": 50.28499,
+    "lng": -5.23931,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/10221149857",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/10221149857",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "portreath",
+    "name": "Portreath",
+    "region": "north-coast",
+    "lat": 50.26087,
+    "lng": -5.28968,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5869799",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5869799",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "gwithian",
+    "name": "Gwithian",
+    "region": "north-coast",
+    "lat": 50.22088,
+    "lng": -5.3858,
+    "placeType": "hamlet",
+    "osm": "https://www.openstreetmap.org/node/29226342",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29226342",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "hayle",
+    "name": "Hayle",
+    "region": "west-cornwall",
+    "lat": 50.18714,
+    "lng": -5.41782,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5845294",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5845294",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "lelant",
+    "name": "Lelant",
+    "region": "west-cornwall",
+    "lat": 50.18406,
+    "lng": -5.43702,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29172761",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29172761",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "carbis-bay",
+    "name": "Carbis Bay",
+    "region": "west-cornwall",
+    "lat": 50.19679,
+    "lng": -5.46463,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29171794",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29171794",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-ives",
+    "name": "St Ives",
+    "region": "west-cornwall",
+    "lat": 50.21491,
+    "lng": -5.47951,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5845435",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5845435",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "zennor",
+    "name": "Zennor",
+    "region": "west-cornwall",
+    "lat": 50.19193,
+    "lng": -5.56742,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29171765",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29171765",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "pendeen",
+    "name": "Pendeen",
+    "region": "west-cornwall",
+    "lat": 50.15133,
+    "lng": -5.66528,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29170535",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29170535",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-just",
+    "name": "St Just",
+    "region": "west-cornwall",
+    "lat": 50.12438,
+    "lng": -5.67974,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5867630",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5867630",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "sennen-cove",
+    "name": "Sennen Cove",
+    "region": "west-cornwall",
+    "lat": 50.07763,
+    "lng": -5.70216,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29170134",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29170134",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "porthcurno",
+    "name": "Porthcurno",
+    "region": "west-cornwall",
+    "lat": 50.04765,
+    "lng": -5.65698,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29169816",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29169816",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "mousehole",
+    "name": "Mousehole",
+    "region": "west-cornwall",
+    "lat": 50.08399,
+    "lng": -5.53896,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29170208",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29170208",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "newlyn",
+    "name": "Newlyn",
+    "region": "west-cornwall",
+    "lat": 50.10626,
+    "lng": -5.55002,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29170199",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29170199",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "penzance",
+    "name": "Penzance",
+    "region": "west-cornwall",
+    "lat": 50.11948,
+    "lng": -5.53525,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5845647",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5845647",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "marazion",
+    "name": "Marazion",
+    "region": "west-cornwall",
+    "lat": 50.12393,
+    "lng": -5.47277,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5846798",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5846798",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "perranuthnoe",
+    "name": "Perranuthnoe",
+    "region": "west-cornwall",
+    "lat": 50.11553,
+    "lng": -5.44431,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5869189",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5869189",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "praa-sands",
+    "name": "Praa Sands",
+    "region": "west-cornwall",
+    "lat": 50.10501,
+    "lng": -5.38542,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29164648",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29164648",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "porthleven",
+    "name": "Porthleven",
+    "region": "the-lizard",
+    "lat": 50.08492,
+    "lng": -5.31666,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5847010",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5847010",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "helston",
+    "name": "Helston",
+    "region": "the-lizard",
+    "lat": 50.10167,
+    "lng": -5.27303,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5846911",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5846911",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "mullion",
+    "name": "Mullion",
+    "region": "the-lizard",
+    "lat": 50.02706,
+    "lng": -5.24271,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1610373889",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1610373889",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "the-lizard",
+    "name": "The Lizard",
+    "region": "the-lizard",
+    "lat": 49.96877,
+    "lng": -5.20392,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29269852",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29269852",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "cadgwith",
+    "name": "Cadgwith",
+    "region": "the-lizard",
+    "lat": 49.98794,
+    "lng": -5.18038,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29282484",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29282484",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "coverack",
+    "name": "Coverack",
+    "region": "the-lizard",
+    "lat": 50.02249,
+    "lng": -5.0972,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285196",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285196",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-keverne",
+    "name": "St Keverne",
+    "region": "the-lizard",
+    "lat": 50.05044,
+    "lng": -5.08807,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285197",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285197",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "gweek",
+    "name": "Gweek",
+    "region": "the-lizard",
+    "lat": 50.09679,
+    "lng": -5.20803,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5886593",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5886593",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "helford",
+    "name": "Helford",
+    "region": "the-lizard",
+    "lat": 50.09314,
+    "lng": -5.13697,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1603294698",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1603294698",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "falmouth",
+    "name": "Falmouth",
+    "region": "south-coast",
+    "lat": 50.15522,
+    "lng": -5.06883,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5822224",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5822224",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "mawnan-smith",
+    "name": "Mawnan Smith",
+    "region": "south-coast",
+    "lat": 50.11686,
+    "lng": -5.10946,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285357",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285357",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "flushing",
+    "name": "Flushing",
+    "region": "south-coast",
+    "lat": 50.16542,
+    "lng": -5.07023,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285388",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285388",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "mylor-bridge",
+    "name": "Mylor Bridge",
+    "region": "south-coast",
+    "lat": 50.1853,
+    "lng": -5.07658,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/660525978",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/660525978",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "truro",
+    "name": "Truro",
+    "region": "south-coast",
+    "lat": 50.26332,
+    "lng": -5.05181,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5821558",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5821558",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-mawes",
+    "name": "St Mawes",
+    "region": "south-coast",
+    "lat": 50.15861,
+    "lng": -5.01483,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285389",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285389",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "portscatho",
+    "name": "Portscatho",
+    "region": "south-coast",
+    "lat": 50.17974,
+    "lng": -4.97565,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285392",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285392",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "portloe",
+    "name": "Portloe",
+    "region": "south-coast",
+    "lat": 50.21846,
+    "lng": -4.89287,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285395",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285395",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "gorran-haven",
+    "name": "Gorran Haven",
+    "region": "south-coast",
+    "lat": 50.24123,
+    "lng": -4.79276,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/29285520",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29285520",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "mevagissey",
+    "name": "Mevagissey",
+    "region": "south-coast",
+    "lat": 50.26967,
+    "lng": -4.78722,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5822297",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5822297",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-austell",
+    "name": "St Austell",
+    "region": "south-coast",
+    "lat": 50.33814,
+    "lng": -4.79418,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5822504",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5822504",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "charlestown",
+    "name": "Charlestown",
+    "region": "south-coast",
+    "lat": 50.33299,
+    "lng": -4.75776,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/311747096",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/311747096",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "par",
+    "name": "Par",
+    "region": "south-coast",
+    "lat": 50.34942,
+    "lng": -4.70509,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/3924348878",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/3924348878",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "fowey",
+    "name": "Fowey",
+    "region": "south-coast",
+    "lat": 50.33578,
+    "lng": -4.6366,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5828035",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5828035",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "polruan",
+    "name": "Polruan",
+    "region": "south-coast",
+    "lat": 50.3286,
+    "lng": -4.63458,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/322059867",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/322059867",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "lostwithiel",
+    "name": "Lostwithiel",
+    "region": "south-coast",
+    "lat": 50.40748,
+    "lng": -4.66782,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5847019",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5847019",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "polperro",
+    "name": "Polperro",
+    "region": "south-coast",
+    "lat": 50.33151,
+    "lng": -4.51902,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5839692",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5839692",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "looe",
+    "name": "Looe",
+    "region": "south-coast",
+    "lat": 50.35227,
+    "lng": -4.4542,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5839318",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5839318",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "seaton",
+    "name": "Seaton",
+    "region": "south-coast",
+    "lat": 50.36655,
+    "lng": -4.38768,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/1624608735",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1624608735",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "bodmin",
+    "name": "Bodmin",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.47073,
+    "lng": -4.72432,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5843821",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5843821",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "camelford",
+    "name": "Camelford",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.62098,
+    "lng": -4.68033,
+    "placeType": "town",
+    "osm": "https://www.openstreetmap.org/node/287252752",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/287252752",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "launceston",
+    "name": "Launceston",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.63651,
+    "lng": -4.36044,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5762837",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5762837",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "liskeard",
+    "name": "Liskeard",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.45463,
+    "lng": -4.46442,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5843808",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5843808",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "st-neot",
+    "name": "St Neot",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.48188,
+    "lng": -4.55943,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5951174",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5951174",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "callington",
+    "name": "Callington",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.50257,
+    "lng": -4.31336,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5847057",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5847057",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "calstock",
+    "name": "Calstock",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.497,
+    "lng": -4.207,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5758505",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5758505",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "saltash",
+    "name": "Saltash",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.40867,
+    "lng": -4.21122,
+    "placeType": "administrative",
+    "osm": "https://www.openstreetmap.org/relation/5758275",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/relation/5758275",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "torpoint",
+    "name": "Torpoint",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.37573,
+    "lng": -4.19912,
+    "placeType": "town",
+    "osm": "https://www.openstreetmap.org/node/29627060",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/29627060",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "cawsand",
+    "name": "Cawsand",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.33233,
+    "lng": -4.20275,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/320748936",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/320748936",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "kingsand",
+    "name": "Kingsand",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.33424,
+    "lng": -4.20065,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/320749075",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/320749075",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "downderry",
+    "name": "Downderry",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.36198,
+    "lng": -4.37069,
+    "placeType": "village",
+    "osm": "https://www.openstreetmap.org/node/338474254",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/338474254",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  },
+  {
+    "slug": "portwrinkle",
+    "name": "Portwrinkle",
+    "region": "bodmin-moor-east-cornwall",
+    "lat": 50.36163,
+    "lng": -4.31123,
+    "placeType": "hamlet",
+    "osm": "https://www.openstreetmap.org/node/1120474102",
+    "sources": [
+      {
+        "label": "OpenStreetMap (via Nominatim)",
+        "url": "https://www.openstreetmap.org/node/1120474102",
+        "licence": "ODbL"
+      }
+    ],
+    "lastChecked": "2026-11-01",
+    "ourNotes": "",
+    "weVisited": false
+  }
+]

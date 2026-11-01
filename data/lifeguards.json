@@ -1,0 +1,517 @@
+{
+  "source": {
+    "label": "RNLI open data – RNLI Lifeguard Units",
+    "url": "https://data-rnli.opendata.arcgis.com/datasets/RNLI::rnli-lifeguard-units",
+    "api": "https://services1.arcgis.com/evM5NkxAYjTi6XPw/arcgis/rest/services/RNLI_Lifeguard_Units/FeatureServer/0",
+    "licence": "RNLI GIS Open Data Licence",
+    "attribution": "Contains Open Data licensed under the GIS Open Data Licence",
+    "retrieved": "2026-11-01"
+  },
+  "note": "Lifeguard cover is seasonal. Patrol dates and times are published on each RNLI beach page.",
+  "units": [
+    {
+      "name": "Beach View",
+      "lat": 50.20443,
+      "lng": -5.41636,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Beach-View-Beach"
+    },
+    {
+      "name": "Black Rock",
+      "lat": 50.78849,
+      "lng": -4.55774,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2006,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Black-Rock-Beach"
+    },
+    {
+      "name": "Booby's",
+      "lat": 50.53814,
+      "lng": -5.02436,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Padstow-Boobys-Beach"
+    },
+    {
+      "name": "Carbis Bay",
+      "lat": 50.19829,
+      "lng": -5.46518,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/St-Ives-Carbis-Bay-Beach"
+    },
+    {
+      "name": "Chapel Porth",
+      "lat": 50.30027,
+      "lng": -5.23434,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/chapel-porth-beach"
+    },
+    {
+      "name": "Constantine",
+      "lat": 50.53224,
+      "lng": -5.02248,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Padstow-Constantine-Beach"
+    },
+    {
+      "name": "Crackington Haven",
+      "lat": 50.74122,
+      "lng": -4.63377,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Crackington-Haven-Beach"
+    },
+    {
+      "name": "Crantock",
+      "lat": 50.40668,
+      "lng": -5.11838,
+      "councilArea": "Cornwall",
+      "supportCentre": "Newquay",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Newquay-Crantock-Beach"
+    },
+    {
+      "name": "Crooklets",
+      "lat": 50.8346,
+      "lng": -4.55411,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2006,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Crooklets-Beach"
+    },
+    {
+      "name": "Fistral",
+      "lat": 50.41797,
+      "lng": -5.0979,
+      "councilArea": "Cornwall",
+      "supportCentre": "Newquay",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Newquay-Fistral-Beach"
+    },
+    {
+      "name": "Freathy",
+      "lat": 50.34593,
+      "lng": -4.25402,
+      "councilArea": "Cornwall",
+      "supportCentre": "Torpoint",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/freathy-beach"
+    },
+    {
+      "name": "Godrevy",
+      "lat": 50.2317,
+      "lng": -5.39151,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Godrevy-Beach"
+    },
+    {
+      "name": "Great Western",
+      "lat": 50.4163,
+      "lng": -5.076,
+      "councilArea": "Cornwall",
+      "supportCentre": "Newquay",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Newquay-Great-Western-Beach"
+    },
+    {
+      "name": "Gunwalloe",
+      "lat": 50.03909,
+      "lng": -5.26668,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/gunwalloe-beach"
+    },
+    {
+      "name": "Gwenver",
+      "lat": 50.08826,
+      "lng": -5.68796,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/gwenver-beach"
+    },
+    {
+      "name": "Gwithian North",
+      "lat": 50.22424,
+      "lng": -5.39584,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": null,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Gwithian-North-Beach"
+    },
+    {
+      "name": "Gyllyngvase",
+      "lat": 50.14454,
+      "lng": -5.06854,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Falmouth-Gyllyngvase-Beach"
+    },
+    {
+      "name": "Harlyn",
+      "lat": 50.53966,
+      "lng": -4.99464,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Padstow-Harlyn-Beach"
+    },
+    {
+      "name": "Hayle Towans",
+      "lat": 50.19744,
+      "lng": -5.42984,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-towans-beach"
+    },
+    {
+      "name": "Holywell Bay",
+      "lat": 50.3914,
+      "lng": -5.14518,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Newquay-Holywell-Bay-Beach"
+    },
+    {
+      "name": "Kennack",
+      "lat": 50.00578,
+      "lng": -5.16344,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/kennack-beach"
+    },
+    {
+      "name": "Marazion",
+      "lat": 50.12457,
+      "lng": -5.47706,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/marazion-beach"
+    },
+    {
+      "name": "Mawgan Porth",
+      "lat": 50.46617,
+      "lng": -5.03162,
+      "councilArea": "Cornwall",
+      "supportCentre": "Newquay",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/mawgan-porth-beach"
+    },
+    {
+      "name": "Mexico Towans",
+      "lat": 50.20076,
+      "lng": -5.4235,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Mexico-Towans-Beach"
+    },
+    {
+      "name": "Northcott",
+      "lat": 50.84832,
+      "lng": -4.5547,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2006,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/northcott-beach"
+    },
+    {
+      "name": "Perran Sands",
+      "lat": 50.35867,
+      "lng": -5.15105,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/perran-sands-beach"
+    },
+    {
+      "name": "Perranporth",
+      "lat": 50.34958,
+      "lng": -5.15315,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/perranporth-beach"
+    },
+    {
+      "name": "Poldhu Cove",
+      "lat": 50.03389,
+      "lng": -5.25987,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/poldhu-cove-beach"
+    },
+    {
+      "name": "Polurrian Cove",
+      "lat": 50.02414,
+      "lng": -5.25597,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/polurrian-cove-beach"
+    },
+    {
+      "name": "Polzeath",
+      "lat": 50.5736,
+      "lng": -4.9141,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/polzeath-beach"
+    },
+    {
+      "name": "Porth",
+      "lat": 50.42404,
+      "lng": -5.05818,
+      "councilArea": "Cornwall",
+      "supportCentre": "Newquay",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Newquay-Porth-Beach"
+    },
+    {
+      "name": "Porthcothan",
+      "lat": 50.50884,
+      "lng": -5.02324,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthcothan-beach"
+    },
+    {
+      "name": "Porthcurno",
+      "lat": 50.04354,
+      "lng": -5.65155,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Padstow-Porthcothan-Beach"
+    },
+    {
+      "name": "Porthkidney",
+      "lat": 50.19341,
+      "lng": -5.43947,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Porthkidney-Beach"
+    },
+    {
+      "name": "Porthleven",
+      "lat": 50.08099,
+      "lng": -5.31365,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthleven-beach"
+    },
+    {
+      "name": "Porthmeor",
+      "lat": 50.21494,
+      "lng": -5.48315,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/St-Ives-Porthmeor-Beach"
+    },
+    {
+      "name": "Porthminster",
+      "lat": 50.20863,
+      "lng": -5.4763,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/St-Ives-Porthminster-Beach"
+    },
+    {
+      "name": "Porthtowan",
+      "lat": 50.28671,
+      "lng": -5.24226,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/porthtowan-beach"
+    },
+    {
+      "name": "Portreath",
+      "lat": 50.26082,
+      "lng": -5.29391,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/portreath-beach"
+    },
+    {
+      "name": "Praa Sands",
+      "lat": 50.1037,
+      "lng": -5.3898,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/praa-sands-beach"
+    },
+    {
+      "name": "Sandymouth",
+      "lat": 50.86111,
+      "lng": -4.55619,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2006,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Sandymouth-Beach"
+    },
+    {
+      "name": "Sennen",
+      "lat": 50.08023,
+      "lng": -5.69408,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/sennen-beach"
+    },
+    {
+      "name": "Sharrow",
+      "lat": 50.34733,
+      "lng": -4.25908,
+      "councilArea": "Cornwall",
+      "supportCentre": "Torpoint",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/sharrow-beach"
+    },
+    {
+      "name": "St Agnes",
+      "lat": 50.31927,
+      "lng": -5.2019,
+      "councilArea": "Cornwall",
+      "supportCentre": "Perranporth",
+      "since": 2002,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/st-agnes-beach"
+    },
+    {
+      "name": "Summerleaze",
+      "lat": 50.83224,
+      "lng": -4.55336,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2006,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Summerleaze-Beach"
+    },
+    {
+      "name": "Towan",
+      "lat": 50.41491,
+      "lng": -5.08444,
+      "councilArea": "Cornwall",
+      "supportCentre": "Newquay",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Newquay-Towan-Beach"
+    },
+    {
+      "name": "Trebarwith",
+      "lat": 50.6448,
+      "lng": -4.761,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Trebarwith-Strand-Beach"
+    },
+    {
+      "name": "Tregantle",
+      "lat": 50.35316,
+      "lng": -4.27104,
+      "councilArea": "Cornwall",
+      "supportCentre": "Torpoint",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Whitsand-Bay-Tregantle-Beach"
+    },
+    {
+      "name": "Tregonhawke",
+      "lat": 50.34058,
+      "lng": -4.24192,
+      "councilArea": "Cornwall",
+      "supportCentre": "Torpoint",
+      "since": 2001,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Whitsand-Bay-Tregonhawke-Beach"
+    },
+    {
+      "name": "Trevone",
+      "lat": 50.54555,
+      "lng": -4.97693,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Padstow-Trevone-Beach"
+    },
+    {
+      "name": "Treyarnon",
+      "lat": 50.52637,
+      "lng": -5.0223,
+      "councilArea": "Cornwall",
+      "supportCentre": "Padstow",
+      "since": 2004,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Padstow-Treyarnon-Beach"
+    },
+    {
+      "name": "Upton Towans",
+      "lat": 50.20873,
+      "lng": -5.40995,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": 2008,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Upton-Towans-Beach"
+    },
+    {
+      "name": "Widemouth",
+      "lat": 50.79301,
+      "lng": -4.55689,
+      "councilArea": "Cornwall",
+      "supportCentre": "Bude",
+      "since": 2006,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/widemouth-beach"
+    },
+    {
+      "name": "Perranuthnoe",
+      "lat": 50.11226,
+      "lng": -5.44229,
+      "councilArea": "Cornwall",
+      "supportCentre": "Helston",
+      "since": 2016,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/perranuthnoe-beach"
+    },
+    {
+      "name": "Seaton",
+      "lat": 50.36363,
+      "lng": -4.38404,
+      "councilArea": "Cornwall",
+      "supportCentre": "Torpoint",
+      "since": 2017,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/seaton-beach"
+    },
+    {
+      "name": "Gwithian South",
+      "lat": 50.22424,
+      "lng": -5.39584,
+      "councilArea": "Cornwall",
+      "supportCentre": "Hayle",
+      "since": null,
+      "rnliPage": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Gwithian-South-Beach"
+    }
+  ]
+}

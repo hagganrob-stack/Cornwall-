@@ -1,0 +1,7 @@
+{
+  "north-coast": ["Bude", "Widemouth Bay", "Crackington Haven", "Boscastle", "Tintagel", "Port Isaac", "Polzeath", "Rock", "Wadebridge", "Padstow", "Trevone", "Harlyn", "Constantine Bay", "Porthcothan", "Mawgan Porth", "St Mawgan", "Newquay", "Crantock", "Holywell", "Perranporth", "St Agnes", "Porthtowan", "Portreath", "Gwithian"],
+  "west-cornwall": ["Hayle", "Lelant", "Carbis Bay", "St Ives", "Zennor", "Pendeen", "St Just", "Sennen Cove", "Porthcurno", "Mousehole", "Newlyn", "Penzance", "Marazion", "Perranuthnoe", "Praa Sands"],
+  "the-lizard": ["Porthleven", "Helston", "Mullion", "The Lizard", "Cadgwith", "Coverack", "St Keverne", "Gweek", "Helford"],
+  "south-coast": ["Falmouth", "Mawnan Smith", "Flushing", "Mylor Bridge", "Truro", "St Mawes", "Portscatho", "Portloe", "Gorran Haven", "Mevagissey", "St Austell", "Charlestown", "Par", "Fowey", "Polruan", "Lostwithiel", "Polperro", "Looe", "Seaton"],
+  "bodmin-moor-east-cornwall": ["Bodmin", "Camelford", "Launceston", "Liskeard", "St Neot", "Callington", "Calstock", "Saltash", "Torpoint", "Cawsand", "Kingsand", "Downderry", "Portwrinkle"]
+}
