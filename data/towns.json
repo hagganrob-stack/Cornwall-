@@ -213,7 +213,7 @@
         "km": 24.9
       }
     ],
-    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km)."
+    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. 14 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km)."
   },
   {
     "slug": "widemouth-bay",
@@ -369,7 +369,7 @@
         "km": 21
       }
     ],
-    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km)."
+    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km)."
   },
   {
     "slug": "crackington-haven",
@@ -1053,7 +1053,7 @@
         "km": 7
       }
     ],
-    "description": "Polzeath is a village in North Coast. There are 8 named beaches within 5 km, the closest being Hayle Bay (600 m). The nearest other bases are Rock (3.1 km) and Padstow (3.9 km)."
+    "description": "Polzeath is a village in North Coast. There are 8 named beaches within 5 km, the closest being Hayle Bay (600 m). 1 of them has RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Rock (3.1 km) and Padstow (3.9 km)."
   },
   {
     "slug": "rock",
@@ -1229,7 +1229,7 @@
         "km": 6.3
       }
     ],
-    "description": "Rock is a village in North Coast. There are 9 named beaches within 5 km, the closest being Brea Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km)."
+    "description": "Rock is a village in North Coast. There are 9 named beaches within 5 km, the closest being Brea Beach (1.2 km). 2 of them have RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km)."
   },
   {
     "slug": "wadebridge",
@@ -1540,7 +1540,7 @@
         "km": 5.4
       }
     ],
-    "description": "Padstow is a visitor base in North Coast. There are 10 named beaches within 5 km, the closest being Daymer Bay (2.3 km). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km)."
+    "description": "Padstow is a visitor base in North Coast. There are 10 named beaches within 5 km, the closest being Daymer Bay (2.3 km). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km)."
   },
   {
     "slug": "trevone",
@@ -1736,7 +1736,7 @@
         "km": 4.9
       }
     ],
-    "description": "Trevone is a village in North Coast. There are 13 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km)."
+    "description": "Trevone is a village in North Coast. There are 13 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km)."
   },
   {
     "slug": "harlyn",
@@ -1917,7 +1917,7 @@
         "km": 6.1
       }
     ],
-    "description": "Harlyn is a village in North Coast. There are 10 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km)."
+    "description": "Harlyn is a village in North Coast. There are 10 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km)."
   },
   {
     "slug": "constantine-bay",
@@ -2098,7 +2098,7 @@
         "km": 7.3
       }
     ],
-    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km)."
+    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km)."
   },
   {
     "slug": "porthcothan",
@@ -2470,7 +2470,7 @@
         "km": 8.5
       }
     ],
-    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km)."
+    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km)."
   },
   {
     "slug": "st-mawgan",
@@ -2837,7 +2837,7 @@
         "km": 9.1
       }
     ],
-    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km)."
+    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km)."
   },
   {
     "slug": "crantock",
@@ -3028,7 +3028,7 @@
         "km": 9.9
       }
     ],
-    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km)."
+    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. 11 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km)."
   },
   {
     "slug": "holywell",
@@ -3446,7 +3446,7 @@
         "km": 12
       }
     ],
-    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km)."
+    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km)."
   },
   {
     "slug": "porthtowan",
@@ -3582,7 +3582,7 @@
         "km": 13.4
       }
     ],
-    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km)."
+    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km)."
   },
   {
     "slug": "portreath",
@@ -3733,7 +3733,7 @@
         "km": 13.4
       }
     ],
-    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km)."
+    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km)."
   },
   {
     "slug": "gwithian",
@@ -3995,7 +3995,7 @@
         "km": 8
       }
     ],
-    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Porth Kidney Sands (1.9 km). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km)."
+    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Porth Kidney Sands (1.9 km). 3 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km)."
   },
   {
     "slug": "lelant",
@@ -4141,7 +4141,7 @@
         "km": 7.2
       }
     ],
-    "description": "Lelant is a village in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 4 of them have RNLI lifeguard cover in season. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km)."
+    "description": "Lelant is a village in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km)."
   },
   {
     "slug": "carbis-bay",
@@ -4307,7 +4307,7 @@
         "km": 7.3
       }
     ],
-    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km)."
+    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km)."
   },
   {
     "slug": "st-ives",
@@ -4473,7 +4473,7 @@
         "km": 6.8
       }
     ],
-    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Harbour Beach (200 m). 4 of them have RNLI lifeguard cover in season. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km)."
+    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Harbour Beach (200 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km)."
   },
   {
     "slug": "zennor",
@@ -4921,7 +4921,7 @@
         "km": 10.3
       }
     ],
-    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km)."
+    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km)."
   },
   {
     "slug": "sennen-cove",
@@ -5062,7 +5062,7 @@
         "km": 11.7
       }
     ],
-    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km)."
+    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km)."
   },
   {
     "slug": "porthcurno",
@@ -5203,7 +5203,7 @@
         "km": 11.5
       }
     ],
-    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km)."
+    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km)."
   },
   {
     "slug": "mousehole",
@@ -5727,7 +5727,7 @@
         "km": 6.6
       }
     ],
-    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Perranuthnoe Beach (2.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km)."
+    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Perranuthnoe Beach (2.5 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km)."
   },
   {
     "slug": "perranuthnoe",
@@ -5888,7 +5888,7 @@
         "km": 7.6
       }
     ],
-    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km)."
+    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km)."
   },
   {
     "slug": "praa-sands",
@@ -6059,7 +6059,7 @@
         "km": 9.4
       }
     ],
-    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km)."
+    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km)."
   },
   {
     "slug": "porthleven",
@@ -6215,7 +6215,7 @@
         "km": 9.7
       }
     ],
-    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km)."
+    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km)."
   },
   {
     "slug": "helston",
@@ -6361,7 +6361,7 @@
         "km": 9.8
       }
     ],
-    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km)."
+    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km)."
   },
   {
     "slug": "mullion",
@@ -6517,7 +6517,7 @@
         "km": 8.6
       }
     ],
-    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Pedn-y-ke (1.1 km). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km)."
+    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Pedn-y-ke (1.1 km). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km)."
   },
   {
     "slug": "the-lizard",
@@ -6658,7 +6658,7 @@
         "km": 14.2
       }
     ],
-    "description": "The Lizard is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Housel Bay (800 m). The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km)."
+    "description": "The Lizard is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Housel Bay (800 m). 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km)."
   },
   {
     "slug": "cadgwith",
@@ -6809,7 +6809,7 @@
         "km": 12.1
       }
     ],
-    "description": "Cadgwith is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Kennack Sands (2.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km)."
+    "description": "Cadgwith is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Kennack Sands (2.5 km). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km)."
   },
   {
     "slug": "coverack",
@@ -6960,7 +6960,7 @@
         "km": 10.4
       }
     ],
-    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km)."
+    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km)."
   },
   {
     "slug": "st-keverne",
@@ -7348,7 +7348,7 @@
         "km": 8.4
       }
     ],
-    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km)."
+    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km)."
   },
   {
     "slug": "falmouth",
@@ -7514,7 +7514,7 @@
         "km": 7.2
       }
     ],
-    "description": "Falmouth is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being Gyllyngvase Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km)."
+    "description": "Falmouth is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being Gyllyngvase Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km)."
   },
   {
     "slug": "mawnan-smith",
@@ -7700,7 +7700,7 @@
         "km": 7.5
       }
     ],
-    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km)."
+    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km)."
   },
   {
     "slug": "flushing",
@@ -7851,7 +7851,7 @@
         "km": 6.9
       }
     ],
-    "description": "Flushing is a village in South Coast. There are 8 named beaches within 5 km, the closest being Gyllyngvase Beach (2.3 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km)."
+    "description": "Flushing is a village in South Coast. There are 8 named beaches within 5 km, the closest being Gyllyngvase Beach (2.3 km). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km)."
   },
   {
     "slug": "mylor-bridge",
@@ -7977,7 +7977,7 @@
         "km": 8
       }
     ],
-    "description": "Mylor Bridge is a village in South Coast. There are 3 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km)."
+    "description": "Mylor Bridge is a village in South Coast. There are 3 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km)."
   },
   {
     "slug": "truro",
@@ -8278,7 +8278,7 @@
         "km": 8.2
       }
     ],
-    "description": "St Mawes is a village in South Coast. There are 8 named beaches within 5 km, the closest being Cellars Beach (800 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km)."
+    "description": "St Mawes is a village in South Coast. There are 8 named beaches within 5 km, the closest being Cellars Beach (800 m). 1 of them has RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km)."
   },
   {
     "slug": "portscatho",
@@ -9073,7 +9073,7 @@
         "km": 11.2
       }
     ],
-    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). The nearest other bases are Charlestown (2.6 km) and Par (6.4 km)."
+    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Charlestown (2.6 km) and Par (6.4 km)."
   },
   {
     "slug": "charlestown",
@@ -9239,7 +9239,7 @@
         "km": 8.8
       }
     ],
-    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). The nearest other bases are St Austell (2.6 km) and Par (4.2 km)."
+    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). 6 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Austell (2.6 km) and Par (4.2 km)."
   },
   {
     "slug": "par",
@@ -9410,7 +9410,7 @@
         "km": 7
       }
     ],
-    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km)."
+    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km)."
   },
   {
     "slug": "fowey",
@@ -9551,7 +9551,7 @@
         "km": 8.6
       }
     ],
-    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). The nearest other bases are Polruan (800 m) and Par (5.1 km)."
+    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Polruan (800 m) and Par (5.1 km)."
   },
   {
     "slug": "polruan",
@@ -9692,7 +9692,7 @@
         "km": 9.1
       }
     ],
-    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). The nearest other bases are Fowey (800 m) and Par (5.5 km)."
+    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Fowey (800 m) and Par (5.5 km)."
   },
   {
     "slug": "lostwithiel",
@@ -11823,7 +11823,7 @@
         "km": 12.3
       }
     ],
-    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 6 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km)."
+    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 6 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km)."
   },
   {
     "slug": "portwrinkle",
@@ -11954,6 +11954,6 @@
         "km": 8.4
       }
     ],
-    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Finnygook Beach (200 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km)."
+    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Finnygook Beach (200 m). 1 of them has RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km)."
   }
 ]

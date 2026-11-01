@@ -194,7 +194,8 @@ function rockPoolsFact(b) {
 
 function lifeguardFact(b) {
   const units = lifeguardData.units;
-  const manual = LIFEGUARD_MATCHES[b.name];
+  const osmId = `${b.parts[0].type}/${b.parts[0].id}`;
+  const manual = osmId in LIFEGUARD_MATCHES ? LIFEGUARD_MATCHES[osmId] : LIFEGUARD_MATCHES[b.name];
   let unit = manual !== undefined ? units.find((u) => u.name === manual) : null;
   if (manual === undefined) {
     const norm = (s) => s.toLowerCase().replace(/\b(beach|bay|cove|sands|the)\b/g, '').replace(/[^a-z]/g, '');
@@ -215,7 +216,7 @@ const fmtDate = (md) => {
 };
 
 function dogFact(b) {
-  const entryId = Object.entries(DOG_MATCHES).find(([, names]) => names.some((n) => (n instanceof RegExp ? n.test(b.name) : n === b.name) && within(b, n)))?.[0];
+  const entryId = Object.entries(DOG_MATCHES).find(([, names]) => names.some((n) => dogNameMatches(n, b)))?.[0];
   const entry = entryId && dogData.entries.find((e) => e.id === entryId);
   const osmDog = tagOf(b, 'dog');
   if (entry) {
@@ -250,10 +251,12 @@ function dogFact(b) {
     source: { ...COUNCIL_SOURCE, pageLastUpdated: dogData.pageLastUpdated },
   };
 }
-// Guard against the same name elsewhere in Cornwall (e.g. two "Church Cove"s): matches can carry a near point.
-function within(b, n) {
-  const near = DOG_MATCHES.__near?.get?.(n);
-  return !near || haversineKm(b, near) < 3;
+// A match is a string (exact name), a RegExp, or { name, near: [lat, lng] } for names that occur
+// more than once in Cornwall (e.g. two "Harbour Beach"es): the beach must then be within 3 km of `near`.
+function dogNameMatches(n, b) {
+  if (n instanceof RegExp) return n.test(b.name);
+  if (typeof n === 'string') return n === b.name;
+  return n.name === b.name && haversineKm(b, { lat: n.near[0], lng: n.near[1] }) < 3;
 }
 
 const roundM = (m) => (m < 100 ? `${Math.max(10, Math.round(m / 10) * 10)} m` : `${Math.round(m / 50) * 50} m`);
