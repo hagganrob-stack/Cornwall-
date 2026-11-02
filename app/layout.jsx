@@ -10,8 +10,8 @@ const outfit = Outfit({ subsets: ['latin'], weight: ['600', '700', '800'], varia
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
-  title: { default: `${SITE_NAME}: plan your own week, beach by beach`, template: `%s | ${SITE_NAME}` },
-  description: 'Every named beach in Cornwall with dog rules from Cornwall Council, RNLI lifeguard cover and facilities from OpenStreetMap, each fact linked to its source.',
+  title: { default: `${SITE_NAME}: plan your favourite week of the year`, template: `%s | ${SITE_NAME}` },
+  description: 'A friendly, one-stop guide to planning your own week in Cornwall: where to stay, which beach suits which day, dog rules, lifeguards, rainy-day plans and what to pair with what.',
   // Whole site noindexed until GO_LIVE=true.
   alternates: { canonical: '/' },
   openGraph: { siteName: SITE_NAME, locale: 'en_GB', type: 'website' },

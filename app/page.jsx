@@ -4,7 +4,6 @@ import { beaches, towns, regions, heroImage, isLifeguarded, beachBySlug, latestC
 import { ROUNDUPS, roundupBeaches, roundupPath } from '../lib/roundups';
 import { TTD_ROUNDUPS, ttdRoundupItems, ttdRoundupPath } from '../lib/ttd';
 import { attractions } from '../lib/data';
-import Hero from '../components/Hero';
 import Byline from '../components/Byline';
 import PlaceCard, { CardGrid } from '../components/PlaceCard';
 import { Container, SectionHeading } from '../components/Blocks';
@@ -13,33 +12,76 @@ const FEATURED = ['porthcurno', 'kynance-cove', 'summerleaze-beach', 'godrevy-be
 
 export default function Home() {
   const lifeguarded = beaches.filter(isLifeguarded).length;
-  const dogFree = beaches.filter((b) => !b.dogs.councilListed).length;
-  const hero = heroImage(beachBySlug('porthcurno')) || heroImage(beaches[0]);
   const featured = FEATURED.map(beachBySlug).filter(Boolean);
   return (
     <>
-      <Hero image={hero} title="Plan your own week in Cornwall" kicker="Beaches, towns and the facts that matter">
-        <p className="mt-4 max-w-2xl text-lg text-white/90">
-          {beaches.length} beaches and {towns.length} places to stay, with dog rules, lifeguards, parking and toilets checked against official sources.
-        </p>
-        <div className="mt-6 flex flex-wrap gap-3">
-          <Link href="/beaches/" className="rounded-full bg-seaglass-500 px-6 py-3 font-semibold text-atlantic-950 no-underline hover:bg-seaglass-300">Find a beach</Link>
-          <Link href="/towns/" className="rounded-full bg-white/15 px-6 py-3 font-semibold text-white no-underline ring-1 ring-white/40 backdrop-blur hover:bg-white/25">Choose a base</Link>
+      {/* Big header: Rob's own photo (public/images/home-hero.jpg). */}
+      <section className="relative isolate overflow-hidden">
+        <div className="relative h-[88vh] min-h-[560px] max-h-[900px] w-full">
+          <Image src="/images/home-hero.jpg" alt="Families paddling in clear turquoise water on a sandy Cornish beach under a blue sky" fill priority sizes="100vw" className="object-cover object-[50%_60%]" />
+          <div className="absolute inset-0 bg-gradient-to-b from-atlantic-950/55 via-atlantic-950/10 to-atlantic-950/70" />
+          <div className="absolute inset-0 hidden bg-gradient-to-r from-atlantic-950/70 via-atlantic-950/30 to-transparent sm:block" />
         </div>
-      </Hero>
+        <div className="absolute inset-0 flex items-end sm:items-center">
+          <div className="mx-auto w-full max-w-6xl px-4 pb-12 sm:px-6 sm:pb-0">
+            <p className="mb-3 text-sm font-semibold uppercase tracking-[0.18em] text-seaglass-300">One Week in Cornwall</p>
+            <h1 className="max-w-3xl text-5xl leading-[1.05] text-white [text-shadow:0_2px_24px_rgba(6,26,46,0.45)] sm:text-6xl lg:text-7xl">Plan your favourite week of the year</h1>
+            <p className="mt-5 max-w-2xl text-lg text-white [text-shadow:0_1px_12px_rgba(6,26,46,0.6)] sm:text-xl">
+              A friendly, one-stop guide to planning your own week in Cornwall: where to base yourself, which beach suits which day, what to do when it rains, and how to fit it all together.
+            </p>
+            <div className="mt-8 flex flex-wrap gap-3">
+              <Link href="/towns/" className="rounded-full bg-seaglass-500 px-6 py-3 font-semibold text-atlantic-950 no-underline hover:bg-seaglass-300">Choose your base</Link>
+              <Link href="/beaches/" className="rounded-full bg-white/15 px-6 py-3 font-semibold text-white no-underline ring-1 ring-white/40 backdrop-blur hover:bg-white/25">Find a beach</Link>
+              <Link href="/things-to-do/" className="rounded-full bg-white/15 px-6 py-3 font-semibold text-white no-underline ring-1 ring-white/40 backdrop-blur hover:bg-white/25">Things to do</Link>
+            </div>
+          </div>
+        </div>
+      </section>
 
-      <Container className="mt-8">
-        <Byline lastChecked={latestChecked(beaches)} sourcesHref="/editorial-policy/" />
+      <Container className="mt-14">
+        <div className="grid gap-10 lg:grid-cols-[1.1fr_1fr] lg:items-start">
+          <div>
+            <p className="text-sm font-semibold uppercase tracking-wider text-seaglass-600">What this guide is</p>
+            <h2 className="mt-1 text-3xl sm:text-4xl">Everything you need to plan your week, in one place</h2>
+            <div className="prose-copy mt-5">
+              <p>
+                You’ve got one precious week in Cornwall and a hundred places you could go. This guide is here to help you make the most of it, like a friend who knows the county and has done the homework for you.
+              </p>
+              <p>
+                Instead of a ready-made itinerary, you get everything you need to plan your own: dog rules for every beach by month, where the lifeguards are, where to park, rainy-day backups, how long to allow for each place, and what’s nearby to pair it with. Every fact links to where it came from, so you can trust it.
+              </p>
+            </div>
+            <div className="mt-4">
+              <Byline lastChecked={latestChecked(beaches)} sourcesHref="/editorial-policy/" />
+            </div>
+          </div>
+          <ol className="grid gap-4 sm:grid-cols-2">
+            {[
+              ['1', 'Choose your base', `Pick from ${towns.length} towns and villages and see what’s within reach of each.`, '/towns/'],
+              ['2', 'Line up your beaches', `${beaches.length} beaches with dog rules, lifeguards, parking and which way they face.`, '/beaches/'],
+              ['3', 'Have a rainy-day plan', `${ttdRoundupItems(TTD_ROUNDUPS['rainy-day']).length} places with indoor space for when the weather turns.`, '/things-to-do/rainy-day/'],
+              ['4', 'Fit it all together', 'Each guide says how long to allow, when to go and what to pair it with nearby.', '/things-to-do/'],
+            ].map(([n, t, d, h]) => (
+              <li key={n}>
+                <Link href={h} className="block h-full rounded-2xl bg-sand-50 p-5 no-underline ring-1 ring-sand-200 transition hover:-translate-y-0.5 hover:shadow-md">
+                  <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-atlantic-900 text-sm font-bold text-seaglass-300">{n}</span>
+                  <span className="mt-3 block font-[family-name:var(--font-display)] text-lg font-bold text-atlantic-900">{t}</span>
+                  <span className="mt-1 block text-[15px] text-atlantic-950/75">{d}</span>
+                </Link>
+              </li>
+            ))}
+          </ol>
+        </div>
       </Container>
 
-      <Container className="mt-10">
+      <Container className="mt-14">
         <dl className="grid grid-cols-1 gap-4 sm:grid-cols-3">
           {[
-            [beaches.length, 'named beaches'],
+            [beaches.length, 'beaches, every one checked for dog rules'],
             [lifeguarded, 'with RNLI lifeguards in season'],
-            [dogFree, 'with no Council dog restriction'],
+            [attractions.length, 'things to do, from gardens to rainy-day museums'],
           ].map(([n, l]) => (
-            <div key={l} className="rounded-2xl bg-sand-50 p-6 ring-1 ring-sand-200">
+            <div key={l} className="rounded-2xl bg-white p-6 ring-1 ring-atlantic-950/10">
               <dt className="sr-only">{l}</dt>
               <dd>
                 <span className="block font-[family-name:var(--font-display)] text-4xl font-extrabold text-atlantic-900">{n}</span>
