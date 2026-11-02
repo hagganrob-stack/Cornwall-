@@ -125,6 +125,7 @@ export default async function BeachPage({ params }) {
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
           <OsmMap lat={b.lat} lng={b.lng} label={name} />
           <Nearby title="Nearby beaches" items={b.nearbyBeaches?.slice(0, 6)} base="/beaches/" />
+          <Nearby title="Things to do nearby" items={b.nearbyAttractions?.slice(0, 5)} base="/things-to-do/" />
           <Nearby title="Nearby towns and villages" items={b.nearbyTowns?.slice(0, 4)} base="/towns/" />
           {inRoundups.length ? (
             <div className="flex flex-wrap gap-2">

@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { beaches, towns, regions, regionBySlug, heroImage, townName, latestChecked } from '../../../lib/data';
+import { beaches, towns, regions, attractions, regionBySlug, heroImage, townName, latestChecked } from '../../../lib/data';
 import Hero from '../../../components/Hero';
 import Byline from '../../../components/Byline';
 import PlaceCard, { CardGrid } from '../../../components/PlaceCard';
@@ -32,6 +32,14 @@ export default async function RegionPage({ params }) {
         <CardGrid cols={4}>
           {rt.map((t) => (
             <PlaceCard key={t.slug} place={t} href={`/towns/${t.slug}/`} meta={`${(t.beachesNearby || []).length} beaches within 5 km`} />
+          ))}
+        </CardGrid>
+      </Container>
+      <Container className="mt-16">
+        <SectionHeading kicker="Days out" action={<a href="/things-to-do/" className="text-sm font-semibold no-underline">All things to do →</a>}>{attractions.filter((a) => a.region === r.slug).length} things to do</SectionHeading>
+        <CardGrid cols={4}>
+          {attractions.filter((a) => a.region === r.slug).map((a) => (
+            <PlaceCard key={a.slug} place={a} attraction href={`/things-to-do/${a.slug}/`} meta={`${a.category} · near ${townName(a.town)}`} />
           ))}
         </CardGrid>
       </Container>

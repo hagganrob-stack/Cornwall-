@@ -213,7 +213,34 @@
         "km": 24.9
       }
     ],
-    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. 14 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km)."
+    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. 14 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "the-castle-bude",
+        "name": "The Castle Bude",
+        "km": 0.1
+      },
+      {
+        "slug": "the-bude-tunnel",
+        "name": "The Bude Tunnel",
+        "km": 0.4
+      },
+      {
+        "slug": "compass-point",
+        "name": "Compass Point",
+        "km": 0.7
+      },
+      {
+        "slug": "saint-winwaloe-church-and-poundstock-gildhouse",
+        "name": "Saint Winwaloe Church & Poundstock Gildhouse",
+        "km": 6.9
+      },
+      {
+        "slug": "penhallam-manor",
+        "name": "Penhallam Manor",
+        "km": 9.1
+      }
+    ]
   },
   {
     "slug": "widemouth-bay",
@@ -369,7 +396,34 @@
         "km": 21
       }
     ],
-    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km)."
+    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "saint-winwaloe-church-and-poundstock-gildhouse",
+        "name": "Saint Winwaloe Church & Poundstock Gildhouse",
+        "km": 2.8
+      },
+      {
+        "slug": "compass-point",
+        "name": "Compass Point",
+        "km": 4.1
+      },
+      {
+        "slug": "the-castle-bude",
+        "name": "The Castle Bude",
+        "km": 4.1
+      },
+      {
+        "slug": "the-bude-tunnel",
+        "name": "The Bude Tunnel",
+        "km": 4.5
+      },
+      {
+        "slug": "penhallam-manor",
+        "name": "Penhallam Manor",
+        "km": 5.4
+      }
+    ]
   },
   {
     "slug": "crackington-haven",
@@ -505,7 +559,44 @@
         "km": 13.7
       }
     ],
-    "description": "Crackington Haven is a village in North Coast. There is 1 named beach within 5 km, the closest being Crackington Haven (400 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Boscastle (7.1 km) and Widemouth Bay (8.0 km)."
+    "description": "Crackington Haven is a village in North Coast. There is 1 named beach within 5 km, the closest being Crackington Haven (400 m). 1 of them has RNLI lifeguard cover in season. 7 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Boscastle (7.1 km) and Widemouth Bay (8.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "pentargon-waterfall",
+        "name": "Pentargon Waterfall",
+        "km": 5.9
+      },
+      {
+        "slug": "saint-winwaloe-church-and-poundstock-gildhouse",
+        "name": "Saint Winwaloe Church & Poundstock Gildhouse",
+        "km": 6.4
+      },
+      {
+        "slug": "national-trust-boscastle",
+        "name": "National Trust - Boscastle",
+        "km": 7.1
+      },
+      {
+        "slug": "the-museum-of-witchcraft-and-magic",
+        "name": "The Museum of Witchcraft and Magic",
+        "km": 7.1
+      },
+      {
+        "slug": "penhallam-manor",
+        "name": "Penhallam Manor",
+        "km": 8.1
+      },
+      {
+        "slug": "warbstow-bury",
+        "name": "Warbstow Bury",
+        "km": 8.3
+      },
+      {
+        "slug": "ladies-window",
+        "name": "Ladies Window",
+        "km": 9
+      }
+    ]
   },
   {
     "slug": "boscastle",
@@ -646,7 +737,74 @@
         "km": 15
       }
     ],
-    "description": "Boscastle is a village in North Coast. There are 2 named beaches within 5 km, the closest being Benoath Cove (3.6 km). The nearest other bases are Tintagel (5.1 km) and Crackington Haven (7.1 km)."
+    "description": "Boscastle is a village in North Coast. There are 2 named beaches within 5 km, the closest being Benoath Cove (3.6 km). 13 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Tintagel (5.1 km) and Crackington Haven (7.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-boscastle",
+        "name": "National Trust - Boscastle",
+        "km": 0.2
+      },
+      {
+        "slug": "the-museum-of-witchcraft-and-magic",
+        "name": "The Museum of Witchcraft and Magic",
+        "km": 0.2
+      },
+      {
+        "slug": "pentargon-waterfall",
+        "name": "Pentargon Waterfall",
+        "km": 1.2
+      },
+      {
+        "slug": "ladies-window",
+        "name": "Ladies Window",
+        "km": 2.3
+      },
+      {
+        "slug": "rocky-valley",
+        "name": "Rocky Valley",
+        "km": 3.2
+      },
+      {
+        "slug": "st-nectans-waterfall",
+        "name": "St Nectan's Waterfall",
+        "km": 3.2
+      },
+      {
+        "slug": "national-trust-tintagel-old-post-office",
+        "name": "National Trust - Tintagel Old Post Office",
+        "km": 5.1
+      },
+      {
+        "slug": "tintagel-toy-museum",
+        "name": "Tintagel Toy Museum",
+        "km": 5.1
+      },
+      {
+        "slug": "merlins-cave",
+        "name": "Merlin's Cave",
+        "km": 5.3
+      },
+      {
+        "slug": "tintagel-castle",
+        "name": "Tintagel Castle",
+        "km": 5.3
+      },
+      {
+        "slug": "vale-of-avalon-arthurian-centre",
+        "name": "Vale of Avalon / Arthurian Centre",
+        "km": 5.8
+      },
+      {
+        "slug": "davidstow-airfield-and-cornwall-at-war-museum",
+        "name": "Davidstow Airfield and Cornwall at War Museum",
+        "km": 6.3
+      },
+      {
+        "slug": "raf-davidstow-moor-memorial-museum",
+        "name": "RAF Davidstow Moor Memorial Museum",
+        "km": 6.4
+      }
+    ]
   },
   {
     "slug": "tintagel",
@@ -777,7 +935,74 @@
         "km": 15.3
       }
     ],
-    "description": "Tintagel is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Bossiney haven (1.3 km). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Boscastle (5.1 km) and Camelford (7.0 km)."
+    "description": "Tintagel is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Bossiney haven (1.3 km). 1 of them has RNLI lifeguard cover in season. 13 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Boscastle (5.1 km) and Camelford (7.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "tintagel-toy-museum",
+        "name": "Tintagel Toy Museum",
+        "km": 0
+      },
+      {
+        "slug": "national-trust-tintagel-old-post-office",
+        "name": "National Trust - Tintagel Old Post Office",
+        "km": 0.1
+      },
+      {
+        "slug": "tintagel-castle",
+        "name": "Tintagel Castle",
+        "km": 0.5
+      },
+      {
+        "slug": "merlins-cave",
+        "name": "Merlin's Cave",
+        "km": 0.7
+      },
+      {
+        "slug": "rocky-valley",
+        "name": "Rocky Valley",
+        "km": 1.9
+      },
+      {
+        "slug": "st-nectans-waterfall",
+        "name": "St Nectan's Waterfall",
+        "km": 2.6
+      },
+      {
+        "slug": "ladies-window",
+        "name": "Ladies Window",
+        "km": 3
+      },
+      {
+        "slug": "national-trust-boscastle",
+        "name": "National Trust - Boscastle",
+        "km": 5
+      },
+      {
+        "slug": "the-museum-of-witchcraft-and-magic",
+        "name": "The Museum of Witchcraft and Magic",
+        "km": 5
+      },
+      {
+        "slug": "vale-of-avalon-arthurian-centre",
+        "name": "Vale of Avalon / Arthurian Centre",
+        "km": 6
+      },
+      {
+        "slug": "pentargon-waterfall",
+        "name": "Pentargon Waterfall",
+        "km": 6.3
+      },
+      {
+        "slug": "davidstow-airfield-and-cornwall-at-war-museum",
+        "name": "Davidstow Airfield and Cornwall at War Museum",
+        "km": 8.6
+      },
+      {
+        "slug": "raf-davidstow-moor-memorial-museum",
+        "name": "RAF Davidstow Moor Memorial Museum",
+        "km": 8.7
+      }
+    ]
   },
   {
     "slug": "port-isaac",
@@ -913,7 +1138,44 @@
         "km": 9.6
       }
     ],
-    "description": "Port Isaac is a village in North Coast. There is 1 named beach within 5 km, the closest being Port Gaverne Beach (500 m). The nearest other bases are Polzeath (6.4 km) and Rock (8.0 km)."
+    "description": "Port Isaac is a village in North Coast. There is 1 named beach within 5 km, the closest being Port Gaverne Beach (500 m). 7 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Polzeath (6.4 km) and Rock (8.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-tintagel-old-post-office",
+        "name": "National Trust - Tintagel Old Post Office",
+        "km": 9.5
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 9.5
+      },
+      {
+        "slug": "tintagel-toy-museum",
+        "name": "Tintagel Toy Museum",
+        "km": 9.5
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 9.6
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 9.6
+      },
+      {
+        "slug": "tintagel-castle",
+        "name": "Tintagel Castle",
+        "km": 9.6
+      },
+      {
+        "slug": "merlins-cave",
+        "name": "Merlin's Cave",
+        "km": 9.7
+      }
+    ]
   },
   {
     "slug": "polzeath",
@@ -1069,7 +1331,34 @@
         "km": 7
       }
     ],
-    "description": "Polzeath is a village in North Coast. There are 9 named beaches within 5 km, the closest being Hayle Bay (600 m). 1 of them has RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Rock (3.1 km) and Padstow (3.9 km)."
+    "description": "Polzeath is a village in North Coast. There are 9 named beaches within 5 km, the closest being Hayle Bay (600 m). 1 of them has RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Rock (3.1 km) and Padstow (3.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 3.7
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 3.9
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 4.1
+      },
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 8.9
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 9.3
+      }
+    ]
   },
   {
     "slug": "rock",
@@ -1250,7 +1539,44 @@
         "km": 6.3
       }
     ],
-    "description": "Rock is a village in North Coast. There are 10 named beaches within 5 km, the closest being Brea Beach (1.2 km). 2 of them have RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km)."
+    "description": "Rock is a village in North Coast. There are 10 named beaches within 5 km, the closest being Brea Beach (1.2 km). 2 of them have RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 1.8
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 1.8
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 1.9
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 6.2
+      },
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 8.7
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 9
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 9.7
+      }
+    ]
   },
   {
     "slug": "wadebridge",
@@ -1380,7 +1706,59 @@
         "km": 9.3
       }
     ],
-    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km)."
+    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "pencarrow-house-and-garden",
+        "name": "Pencarrow House & Garden",
+        "km": 4.9
+      },
+      {
+        "slug": "bodmin-and-wenford-railway-boscarne-junction",
+        "name": "Bodmin & Wenford Railway (Boscarne Junction)",
+        "km": 7.1
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 7.5
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 7.5
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 7.8
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 7.8
+      },
+      {
+        "slug": "bodmin-jail-museum",
+        "name": "Bodmin Jail Museum",
+        "km": 8.8
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 9.2
+      },
+      {
+        "slug": "discovering42",
+        "name": "Discovering42",
+        "km": 9.2
+      },
+      {
+        "slug": "bodmin-town-museum",
+        "name": "Bodmin Town Museum",
+        "km": 9.6
+      }
+    ]
   },
   {
     "slug": "padstow",
@@ -1566,7 +1944,49 @@
         "km": 5.4
       }
     ],
-    "description": "Padstow is a visitor base in North Coast. There are 11 named beaches within 5 km, the closest being St George's Cove (1.2 km). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km)."
+    "description": "Padstow is a visitor base in North Coast. There are 11 named beaches within 5 km, the closest being St George's Cove (1.2 km). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 0.1
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 0.2
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 0.3
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 5.6
+      },
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 7
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 7.2
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 9.2
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 9.4
+      }
+    ]
   },
   {
     "slug": "trevone",
@@ -1767,7 +2187,54 @@
         "km": 4.9
       }
     ],
-    "description": "Trevone is a village in North Coast. There are 14 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km)."
+    "description": "Trevone is a village in North Coast. There are 14 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. 9 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 2.6
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 2.7
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 2.8
+      },
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 4.4
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 5.4
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 6.5
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 7.8
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 9.7
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "harlyn",
@@ -1953,7 +2420,49 @@
         "km": 6.1
       }
     ],
-    "description": "Harlyn is a village in North Coast. There are 11 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km)."
+    "description": "Harlyn is a village in North Coast. There are 11 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 2.9
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 4.2
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 4.3
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 4.4
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 4.4
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 6.8
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 7.2
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 9.2
+      }
+    ]
   },
   {
     "slug": "constantine-bay",
@@ -2134,7 +2643,49 @@
         "km": 7.3
       }
     ],
-    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km)."
+    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 2.7
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 3.3
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 5.4
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 5.5
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 5.5
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 5.6
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 7.3
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 8.3
+      }
+    ]
   },
   {
     "slug": "porthcothan",
@@ -2330,7 +2881,59 @@
         "km": 6.2
       }
     ],
-    "description": "Porthcothan is a hamlet in North Coast. There are 13 named beaches within 5 km, the closest being Porthcothan Beach (400 m). 7 of them have RNLI lifeguard cover in season. The nearest other bases are Constantine Bay (2.5 km) and Harlyn (3.8 km)."
+    "description": "Porthcothan is a hamlet in North Coast. There are 13 named beaches within 5 km, the closest being Porthcothan Beach (400 m). 7 of them have RNLI lifeguard cover in season. 10 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Constantine Bay (2.5 km) and Harlyn (3.8 km).",
+    "attractionsNearby": [
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 0.9
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 3.1
+      },
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 4.6
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 6.2
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 6.8
+      },
+      {
+        "slug": "national-lobster-hatchery",
+        "name": "National Lobster Hatchery",
+        "km": 7
+      },
+      {
+        "slug": "the-ghost-walk-padstow",
+        "name": "The Ghost Walk Padstow",
+        "km": 7
+      },
+      {
+        "slug": "the-jubilee-queen",
+        "name": "The Jubilee Queen",
+        "km": 7.1
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 8.9
+      },
+      {
+        "slug": "trevelgue-head",
+        "name": "Trevelgue Head",
+        "km": 9.5
+      }
+    ]
   },
   {
     "slug": "mawgan-porth",
@@ -2506,7 +3109,104 @@
         "km": 8.5
       }
     ],
-    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km)."
+    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 1.8
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 2.6
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 4.1
+      },
+      {
+        "slug": "trevelgue-head",
+        "name": "Trevelgue Head",
+        "km": 4.8
+      },
+      {
+        "slug": "newquay-zoo",
+        "name": "Newquay Zoo",
+        "km": 6.5
+      },
+      {
+        "slug": "towan-headland",
+        "name": "Towan Headland",
+        "km": 6.5
+      },
+      {
+        "slug": "blue-reef-aquarium-newquay",
+        "name": "Blue Reef Aquarium Newquay",
+        "km": 6.7
+      },
+      {
+        "slug": "newquay-activity-centre-surf-school",
+        "name": "Newquay Activity Centre Surf School",
+        "km": 6.7
+      },
+      {
+        "slug": "the-killacourt",
+        "name": "The Killacourt",
+        "km": 6.7
+      },
+      {
+        "slug": "trenance-gardens",
+        "name": "Trenance Gardens",
+        "km": 6.7
+      },
+      {
+        "slug": "pirates-quest-adventure-golf",
+        "name": "Pirate's Quest Adventure Golf",
+        "km": 6.9
+      },
+      {
+        "slug": "rage-cage-newquay",
+        "name": "Rage Cage Newquay",
+        "km": 6.9
+      },
+      {
+        "slug": "lane-theatre",
+        "name": "Lane Theatre",
+        "km": 7.3
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 7.6
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 7.7
+      },
+      {
+        "slug": "trerice",
+        "name": "Trerice",
+        "km": 8.7
+      },
+      {
+        "slug": "springfield-fun-park",
+        "name": "Springfield Fun Park",
+        "km": 9.3
+      },
+      {
+        "slug": "trevose-head-lighthouse",
+        "name": "Trevose Head Lighthouse",
+        "km": 9.4
+      },
+      {
+        "slug": "lappa-valley",
+        "name": "Lappa Valley",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "st-mawgan",
@@ -2677,7 +3377,104 @@
         "km": 9.3
       }
     ],
-    "description": "St Mawgan is a village in North Coast. There are 8 named beaches within 5 km, the closest being Dunes (2.8 km). 2 of them have RNLI lifeguard cover in season. The nearest other bases are Mawgan Porth (2.7 km) and Porthcothan (6.2 km)."
+    "description": "St Mawgan is a village in North Coast. There are 8 named beaches within 5 km, the closest being Dunes (2.8 km). 2 of them have RNLI lifeguard cover in season. 19 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Mawgan Porth (2.7 km) and Porthcothan (6.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 0.1
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 3.8
+      },
+      {
+        "slug": "cornish-birds-of-prey",
+        "name": "Cornish Birds Of Prey",
+        "km": 5.2
+      },
+      {
+        "slug": "macdonalds-farm",
+        "name": "Macdonald's Farm",
+        "km": 5.3
+      },
+      {
+        "slug": "trevelgue-head",
+        "name": "Trevelgue Head",
+        "km": 5.6
+      },
+      {
+        "slug": "camel-creek-family-adventure-park",
+        "name": "Camel Creek Family Adventure Park",
+        "km": 6.2
+      },
+      {
+        "slug": "springfield-fun-park",
+        "name": "Springfield Fun Park",
+        "km": 6.7
+      },
+      {
+        "slug": "newquay-zoo",
+        "name": "Newquay Zoo",
+        "km": 7
+      },
+      {
+        "slug": "lane-theatre",
+        "name": "Lane Theatre",
+        "km": 7.3
+      },
+      {
+        "slug": "trenance-gardens",
+        "name": "Trenance Gardens",
+        "km": 7.3
+      },
+      {
+        "slug": "blue-reef-aquarium-newquay",
+        "name": "Blue Reef Aquarium Newquay",
+        "km": 7.5
+      },
+      {
+        "slug": "the-killacourt",
+        "name": "The Killacourt",
+        "km": 7.5
+      },
+      {
+        "slug": "newquay-activity-centre-surf-school",
+        "name": "Newquay Activity Centre Surf School",
+        "km": 7.7
+      },
+      {
+        "slug": "pirates-quest-adventure-golf",
+        "name": "Pirate's Quest Adventure Golf",
+        "km": 7.7
+      },
+      {
+        "slug": "rage-cage-newquay",
+        "name": "Rage Cage Newquay",
+        "km": 7.7
+      },
+      {
+        "slug": "towan-headland",
+        "name": "Towan Headland",
+        "km": 7.9
+      },
+      {
+        "slug": "trerice",
+        "name": "Trerice",
+        "km": 8.1
+      },
+      {
+        "slug": "screech-owl-sanctuary-and-animal-park",
+        "name": "Screech Owl Sanctuary & Animal Park",
+        "km": 8.6
+      },
+      {
+        "slug": "lappa-valley",
+        "name": "Lappa Valley",
+        "km": 9.4
+      }
+    ]
   },
   {
     "slug": "newquay",
@@ -2873,7 +3670,94 @@
         "km": 9.1
       }
     ],
-    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km)."
+    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. 17 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "pirates-quest-adventure-golf",
+        "name": "Pirate's Quest Adventure Golf",
+        "km": 0.1
+      },
+      {
+        "slug": "blue-reef-aquarium-newquay",
+        "name": "Blue Reef Aquarium Newquay",
+        "km": 0.2
+      },
+      {
+        "slug": "rage-cage-newquay",
+        "name": "Rage Cage Newquay",
+        "km": 0.2
+      },
+      {
+        "slug": "the-killacourt",
+        "name": "The Killacourt",
+        "km": 0.2
+      },
+      {
+        "slug": "newquay-activity-centre-surf-school",
+        "name": "Newquay Activity Centre Surf School",
+        "km": 0.3
+      },
+      {
+        "slug": "trenance-gardens",
+        "name": "Trenance Gardens",
+        "km": 0.9
+      },
+      {
+        "slug": "newquay-zoo",
+        "name": "Newquay Zoo",
+        "km": 1.1
+      },
+      {
+        "slug": "towan-headland",
+        "name": "Towan Headland",
+        "km": 1.7
+      },
+      {
+        "slug": "trevelgue-head",
+        "name": "Trevelgue Head",
+        "km": 2.2
+      },
+      {
+        "slug": "lane-theatre",
+        "name": "Lane Theatre",
+        "km": 2.5
+      },
+      {
+        "slug": "trerice",
+        "name": "Trerice",
+        "km": 4.5
+      },
+      {
+        "slug": "lappa-valley",
+        "name": "Lappa Valley",
+        "km": 5.3
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 7.7
+      },
+      {
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "name": "National Trust - Carnewas at Bedruthan",
+        "km": 8.4
+      },
+      {
+        "slug": "chapel-rock-pool",
+        "name": "Chapel Rock Pool",
+        "km": 8.8
+      },
+      {
+        "slug": "perranzabuloe-museum",
+        "name": "Perranzabuloe Museum",
+        "km": 8.8
+      },
+      {
+        "slug": "perranporth-boating-lake",
+        "name": "Perranporth Boating Lake",
+        "km": 9.3
+      }
+    ]
   },
   {
     "slug": "crantock",
@@ -3064,7 +3948,89 @@
         "km": 9.9
       }
     ],
-    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. 11 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km)."
+    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. 11 aren’t on Cornwall Council’s dog restriction list. 16 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "newquay-activity-centre-surf-school",
+        "name": "Newquay Activity Centre Surf School",
+        "km": 2.2
+      },
+      {
+        "slug": "pirates-quest-adventure-golf",
+        "name": "Pirate's Quest Adventure Golf",
+        "km": 2.2
+      },
+      {
+        "slug": "rage-cage-newquay",
+        "name": "Rage Cage Newquay",
+        "km": 2.2
+      },
+      {
+        "slug": "blue-reef-aquarium-newquay",
+        "name": "Blue Reef Aquarium Newquay",
+        "km": 2.4
+      },
+      {
+        "slug": "the-killacourt",
+        "name": "The Killacourt",
+        "km": 2.4
+      },
+      {
+        "slug": "towan-headland",
+        "name": "Towan Headland",
+        "km": 2.7
+      },
+      {
+        "slug": "trenance-gardens",
+        "name": "Trenance Gardens",
+        "km": 2.8
+      },
+      {
+        "slug": "newquay-zoo",
+        "name": "Newquay Zoo",
+        "km": 3.1
+      },
+      {
+        "slug": "lane-theatre",
+        "name": "Lane Theatre",
+        "km": 3.9
+      },
+      {
+        "slug": "trevelgue-head",
+        "name": "Trevelgue Head",
+        "km": 4.4
+      },
+      {
+        "slug": "trerice",
+        "name": "Trerice",
+        "km": 5.4
+      },
+      {
+        "slug": "lappa-valley",
+        "name": "Lappa Valley",
+        "km": 5.7
+      },
+      {
+        "slug": "chapel-rock-pool",
+        "name": "Chapel Rock Pool",
+        "km": 6.8
+      },
+      {
+        "slug": "perranzabuloe-museum",
+        "name": "Perranzabuloe Museum",
+        "km": 6.8
+      },
+      {
+        "slug": "perranporth-boating-lake",
+        "name": "Perranporth Boating Lake",
+        "km": 7.2
+      },
+      {
+        "slug": "the-japanese-garden",
+        "name": "The Japanese Garden",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "holywell",
@@ -3210,7 +4176,89 @@
         "km": 11.6
       }
     ],
-    "description": "Holywell is a village in North Coast. There are 7 named beaches within 5 km, the closest being Holywell Beach (800 m). 5 of them have RNLI lifeguard cover in season. The nearest other bases are Crantock (2.7 km) and Perranporth (4.8 km)."
+    "description": "Holywell is a village in North Coast. There are 7 named beaches within 5 km, the closest being Holywell Beach (800 m). 5 of them have RNLI lifeguard cover in season. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Crantock (2.7 km) and Perranporth (4.8 km).",
+    "attractionsNearby": [
+      {
+        "slug": "chapel-rock-pool",
+        "name": "Chapel Rock Pool",
+        "km": 4.4
+      },
+      {
+        "slug": "perranzabuloe-museum",
+        "name": "Perranzabuloe Museum",
+        "km": 4.6
+      },
+      {
+        "slug": "newquay-activity-centre-surf-school",
+        "name": "Newquay Activity Centre Surf School",
+        "km": 4.9
+      },
+      {
+        "slug": "pirates-quest-adventure-golf",
+        "name": "Pirate's Quest Adventure Golf",
+        "km": 4.9
+      },
+      {
+        "slug": "rage-cage-newquay",
+        "name": "Rage Cage Newquay",
+        "km": 4.9
+      },
+      {
+        "slug": "blue-reef-aquarium-newquay",
+        "name": "Blue Reef Aquarium Newquay",
+        "km": 5
+      },
+      {
+        "slug": "perranporth-boating-lake",
+        "name": "Perranporth Boating Lake",
+        "km": 5
+      },
+      {
+        "slug": "the-killacourt",
+        "name": "The Killacourt",
+        "km": 5
+      },
+      {
+        "slug": "towan-headland",
+        "name": "Towan Headland",
+        "km": 5.1
+      },
+      {
+        "slug": "trenance-gardens",
+        "name": "Trenance Gardens",
+        "km": 5.4
+      },
+      {
+        "slug": "newquay-zoo",
+        "name": "Newquay Zoo",
+        "km": 5.7
+      },
+      {
+        "slug": "lane-theatre",
+        "name": "Lane Theatre",
+        "km": 6.1
+      },
+      {
+        "slug": "trevelgue-head",
+        "name": "Trevelgue Head",
+        "km": 7
+      },
+      {
+        "slug": "lappa-valley",
+        "name": "Lappa Valley",
+        "km": 7.1
+      },
+      {
+        "slug": "trerice",
+        "name": "Trerice",
+        "km": 7.2
+      },
+      {
+        "slug": "saint-agnes-museum",
+        "name": "Saint Agnes Museum",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "perranporth",
@@ -3336,7 +4384,89 @@
         "km": 9.1
       }
     ],
-    "description": "Perranporth is a village in North Coast. There are 3 named beaches within 5 km, the closest being Perran Beach (400 m). 3 of them have RNLI lifeguard cover in season. The nearest other bases are Holywell (4.8 km) and St Agnes (5.0 km)."
+    "description": "Perranporth is a village in North Coast. There are 3 named beaches within 5 km, the closest being Perran Beach (400 m). 3 of them have RNLI lifeguard cover in season. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Holywell (4.8 km) and St Agnes (5.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "perranporth-boating-lake",
+        "name": "Perranporth Boating Lake",
+        "km": 0.2
+      },
+      {
+        "slug": "perranzabuloe-museum",
+        "name": "Perranzabuloe Museum",
+        "km": 0.3
+      },
+      {
+        "slug": "chapel-rock-pool",
+        "name": "Chapel Rock Pool",
+        "km": 0.5
+      },
+      {
+        "slug": "saint-agnes-museum",
+        "name": "Saint Agnes Museum",
+        "km": 5.4
+      },
+      {
+        "slug": "wheal-coates",
+        "name": "Wheal Coates",
+        "km": 7
+      },
+      {
+        "slug": "lappa-valley",
+        "name": "Lappa Valley",
+        "km": 8.7
+      },
+      {
+        "slug": "pirates-quest-adventure-golf",
+        "name": "Pirate's Quest Adventure Golf",
+        "km": 9.1
+      },
+      {
+        "slug": "rage-cage-newquay",
+        "name": "Rage Cage Newquay",
+        "km": 9.1
+      },
+      {
+        "slug": "newquay-activity-centre-surf-school",
+        "name": "Newquay Activity Centre Surf School",
+        "km": 9.2
+      },
+      {
+        "slug": "the-killacourt",
+        "name": "The Killacourt",
+        "km": 9.2
+      },
+      {
+        "slug": "blue-reef-aquarium-newquay",
+        "name": "Blue Reef Aquarium Newquay",
+        "km": 9.3
+      },
+      {
+        "slug": "trenance-gardens",
+        "name": "Trenance Gardens",
+        "km": 9.3
+      },
+      {
+        "slug": "lane-theatre",
+        "name": "Lane Theatre",
+        "km": 9.4
+      },
+      {
+        "slug": "newquay-zoo",
+        "name": "Newquay Zoo",
+        "km": 9.5
+      },
+      {
+        "slug": "trerice",
+        "name": "Trerice",
+        "km": 9.5
+      },
+      {
+        "slug": "towan-headland",
+        "name": "Towan Headland",
+        "km": 9.8
+      }
+    ]
   },
   {
     "slug": "st-agnes",
@@ -3482,7 +4612,59 @@
         "km": 12
       }
     ],
-    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km)."
+    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 10 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "saint-agnes-museum",
+        "name": "Saint Agnes Museum",
+        "km": 0.5
+      },
+      {
+        "slug": "wheal-coates",
+        "name": "Wheal Coates",
+        "km": 2.1
+      },
+      {
+        "slug": "perranporth-boating-lake",
+        "name": "Perranporth Boating Lake",
+        "km": 4.9
+      },
+      {
+        "slug": "chapel-rock-pool",
+        "name": "Chapel Rock Pool",
+        "km": 5.2
+      },
+      {
+        "slug": "perranzabuloe-museum",
+        "name": "Perranzabuloe Museum",
+        "km": 5.3
+      },
+      {
+        "slug": "cornwall-gold",
+        "name": "Cornwall Gold",
+        "km": 7.2
+      },
+      {
+        "slug": "poldice-mine",
+        "name": "Poldice Mine",
+        "km": 8.1
+      },
+      {
+        "slug": "moseley-heritage-museum",
+        "name": "Moseley Heritage Museum",
+        "km": 8.6
+      },
+      {
+        "slug": "kresen-kernow",
+        "name": "Kresen Kernow",
+        "km": 8.9
+      },
+      {
+        "slug": "national-trust-east-pool-mine",
+        "name": "National Trust - East Pool Mine",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "porthtowan",
@@ -3618,7 +4800,79 @@
         "km": 13.4
       }
     ],
-    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km)."
+    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 8 with indoor space for a rainy day. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "wheal-coates",
+        "name": "Wheal Coates",
+        "km": 2.3
+      },
+      {
+        "slug": "cornwall-gold",
+        "name": "Cornwall Gold",
+        "km": 3.6
+      },
+      {
+        "slug": "saint-agnes-museum",
+        "name": "Saint Agnes Museum",
+        "km": 3.6
+      },
+      {
+        "slug": "moseley-heritage-museum",
+        "name": "Moseley Heritage Museum",
+        "km": 5
+      },
+      {
+        "slug": "kresen-kernow",
+        "name": "Kresen Kernow",
+        "km": 5.6
+      },
+      {
+        "slug": "national-trust-east-pool-mine",
+        "name": "National Trust - East Pool Mine",
+        "km": 6.2
+      },
+      {
+        "slug": "poldice-mine",
+        "name": "Poldice Mine",
+        "km": 6.8
+      },
+      {
+        "slug": "basset-monument",
+        "name": "Basset Monument",
+        "km": 7.1
+      },
+      {
+        "slug": "tuckingmill-valley-park",
+        "name": "Tuckingmill Valley Park",
+        "km": 7.4
+      },
+      {
+        "slug": "perranporth-boating-lake",
+        "name": "Perranporth Boating Lake",
+        "km": 8.8
+      },
+      {
+        "slug": "locked-in",
+        "name": "Locked In",
+        "km": 9.1
+      },
+      {
+        "slug": "chapel-rock-pool",
+        "name": "Chapel Rock Pool",
+        "km": 9.2
+      },
+      {
+        "slug": "perranzabuloe-museum",
+        "name": "Perranzabuloe Museum",
+        "km": 9.2
+      },
+      {
+        "slug": "king-edward-mine-museum",
+        "name": "King Edward Mine Museum",
+        "km": 9.4
+      }
+    ]
   },
   {
     "slug": "portreath",
@@ -3769,7 +5023,69 @@
         "km": 13.4
       }
     ],
-    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km)."
+    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "cornwall-gold",
+        "name": "Cornwall Gold",
+        "km": 3.5
+      },
+      {
+        "slug": "moseley-heritage-museum",
+        "name": "Moseley Heritage Museum",
+        "km": 3.8
+      },
+      {
+        "slug": "national-trust-east-pool-mine",
+        "name": "National Trust - East Pool Mine",
+        "km": 3.9
+      },
+      {
+        "slug": "tuckingmill-valley-park",
+        "name": "Tuckingmill Valley Park",
+        "km": 4
+      },
+      {
+        "slug": "kresen-kernow",
+        "name": "Kresen Kernow",
+        "km": 4.9
+      },
+      {
+        "slug": "locked-in",
+        "name": "Locked In",
+        "km": 5.1
+      },
+      {
+        "slug": "basset-monument",
+        "name": "Basset Monument",
+        "km": 5.3
+      },
+      {
+        "slug": "wheal-coates",
+        "name": "Wheal Coates",
+        "km": 6.4
+      },
+      {
+        "slug": "king-edward-mine-museum",
+        "name": "King Edward Mine Museum",
+        "km": 6.5
+      },
+      {
+        "slug": "national-trust-godrevy",
+        "name": "National Trust - Godrevy",
+        "km": 7.8
+      },
+      {
+        "slug": "saint-agnes-museum",
+        "name": "Saint Agnes Museum",
+        "km": 8
+      },
+      {
+        "slug": "poldice-mine",
+        "name": "Poldice Mine",
+        "km": 8.8
+      }
+    ]
   },
   {
     "slug": "gwithian",
@@ -3900,7 +5216,79 @@
         "km": 8.2
       }
     ],
-    "description": "Gwithian is a hamlet in North Coast. There are 4 named beaches within 5 km, the closest being Gwithian Beach (800 m). 4 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Hayle (4.4 km) and Lelant (5.5 km)."
+    "description": "Gwithian is a hamlet in North Coast. There are 4 named beaches within 5 km, the closest being Gwithian Beach (800 m). 4 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Hayle (4.4 km) and Lelant (5.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-godrevy",
+        "name": "National Trust - Godrevy",
+        "km": 1.1
+      },
+      {
+        "slug": "upton-towans-nature-reserve",
+        "name": "Upton Towans Nature Reserve",
+        "km": 2.2
+      },
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 5.4
+      },
+      {
+        "slug": "locked-in",
+        "name": "Locked In",
+        "km": 5.6
+      },
+      {
+        "slug": "st-ives-head",
+        "name": "St Ives Head",
+        "km": 6.4
+      },
+      {
+        "slug": "st-ives-museum",
+        "name": "St. Ives Museum",
+        "km": 6.5
+      },
+      {
+        "slug": "tate-st-ives",
+        "name": "Tate St Ives",
+        "km": 6.9
+      },
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 7.2
+      },
+      {
+        "slug": "tuckingmill-valley-park",
+        "name": "Tuckingmill Valley Park",
+        "km": 7.2
+      },
+      {
+        "slug": "king-edward-mine-museum",
+        "name": "King Edward Mine Museum",
+        "km": 8.1
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 8.4
+      },
+      {
+        "slug": "national-trust-east-pool-mine",
+        "name": "National Trust - East Pool Mine",
+        "km": 8.9
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 9.4
+      },
+      {
+        "slug": "basset-monument",
+        "name": "Basset Monument",
+        "km": 9.7
+      }
+    ]
   },
   {
     "slug": "hayle",
@@ -4056,7 +5444,79 @@
         "km": 8
       }
     ],
-    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Hayle Towans Beach (1.7 km). 5 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km)."
+    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Hayle Towans Beach (1.7 km). 5 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 1
+      },
+      {
+        "slug": "upton-towans-nature-reserve",
+        "name": "Upton Towans Nature Reserve",
+        "km": 2.4
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 4.5
+      },
+      {
+        "slug": "national-trust-godrevy",
+        "name": "National Trust - Godrevy",
+        "km": 5.3
+      },
+      {
+        "slug": "st-ives-museum",
+        "name": "St. Ives Museum",
+        "km": 5.3
+      },
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 5.4
+      },
+      {
+        "slug": "st-ives-head",
+        "name": "St Ives Head",
+        "km": 5.4
+      },
+      {
+        "slug": "tate-st-ives",
+        "name": "Tate St Ives",
+        "km": 5.5
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 6.9
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 8
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 8.4
+      },
+      {
+        "slug": "locked-in",
+        "name": "Locked In",
+        "km": 8.5
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 9
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 9.2
+      }
+    ]
   },
   {
     "slug": "lelant",
@@ -4207,7 +5667,79 @@
         "km": 7.2
       }
     ],
-    "description": "Lelant is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km)."
+    "description": "Lelant is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 1
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 3.1
+      },
+      {
+        "slug": "upton-towans-nature-reserve",
+        "name": "Upton Towans Nature Reserve",
+        "km": 3.3
+      },
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 4.5
+      },
+      {
+        "slug": "st-ives-museum",
+        "name": "St. Ives Museum",
+        "km": 4.5
+      },
+      {
+        "slug": "st-ives-head",
+        "name": "St Ives Head",
+        "km": 4.7
+      },
+      {
+        "slug": "tate-st-ives",
+        "name": "Tate St Ives",
+        "km": 4.7
+      },
+      {
+        "slug": "national-trust-godrevy",
+        "name": "National Trust - Godrevy",
+        "km": 6.2
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 6.6
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 7.2
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 7.6
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 7.8
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 8.1
+      },
+      {
+        "slug": "locked-in",
+        "name": "Locked In",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "carbis-bay",
@@ -4378,7 +5910,79 @@
         "km": 7.3
       }
     ],
-    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km)."
+    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 2.1
+      },
+      {
+        "slug": "st-ives-museum",
+        "name": "St. Ives Museum",
+        "km": 2.3
+      },
+      {
+        "slug": "tate-st-ives",
+        "name": "Tate St Ives",
+        "km": 2.4
+      },
+      {
+        "slug": "st-ives-head",
+        "name": "St Ives Head",
+        "km": 2.5
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 2.7
+      },
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 3.4
+      },
+      {
+        "slug": "upton-towans-nature-reserve",
+        "name": "Upton Towans Nature Reserve",
+        "km": 4.1
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 5.7
+      },
+      {
+        "slug": "national-trust-godrevy",
+        "name": "National Trust - Godrevy",
+        "km": 6.6
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 6.7
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 7.3
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 9
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 10
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "st-ives",
@@ -4549,7 +6153,64 @@
         "km": 6.8
       }
     ],
-    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Harbour Beach (200 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km)."
+    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Harbour Beach (200 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "tate-st-ives",
+        "name": "Tate St Ives",
+        "km": 0.2
+      },
+      {
+        "slug": "st-ives-museum",
+        "name": "St. Ives Museum",
+        "km": 0.3
+      },
+      {
+        "slug": "st-ives-head",
+        "name": "St Ives Head",
+        "km": 0.5
+      },
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 0.7
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 4.6
+      },
+      {
+        "slug": "upton-towans-nature-reserve",
+        "name": "Upton Towans Nature Reserve",
+        "km": 5
+      },
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 5.6
+      },
+      {
+        "slug": "national-trust-godrevy",
+        "name": "National Trust - Godrevy",
+        "km": 6.7
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 6.7
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 7.4
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 8.9
+      }
+    ]
   },
   {
     "slug": "zennor",
@@ -4705,7 +6366,104 @@
         "km": 9.3
       }
     ],
-    "description": "Zennor is a village in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Porthzennor Cove (800 m). The nearest other bases are St Ives (6.8 km) and Carbis Bay (7.3 km)."
+    "description": "Zennor is a village in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Porthzennor Cove (800 m). 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are St Ives (6.8 km) and Carbis Bay (7.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 3.9
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 4
+      },
+      {
+        "slug": "men-an-tol",
+        "name": "Mên-an-Tol",
+        "km": 4.6
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 4.7
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 5.4
+      },
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 6.2
+      },
+      {
+        "slug": "tate-st-ives",
+        "name": "Tate St Ives",
+        "km": 6.6
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 6.8
+      },
+      {
+        "slug": "st-ives-museum",
+        "name": "St. Ives Museum",
+        "km": 7
+      },
+      {
+        "slug": "st-ives-head",
+        "name": "St Ives Head",
+        "km": 7.1
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 7.2
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 7.5
+      },
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 8.5
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 8.6
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 8.7
+      },
+      {
+        "slug": "geevor-tin-mine-museum",
+        "name": "Geevor Tin Mine Museum",
+        "km": 8.9
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 9
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 9.1
+      },
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 9.2
+      }
+    ]
   },
   {
     "slug": "pendeen",
@@ -4856,7 +6614,89 @@
         "km": 9.9
       }
     ],
-    "description": "Pendeen is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Boat Cove (1.5 km). The nearest other bases are St Just (3.2 km) and Zennor (8.3 km)."
+    "description": "Pendeen is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Boat Cove (1.5 km). 16 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are St Just (3.2 km) and Zennor (8.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "geevor-tin-mine-museum",
+        "name": "Geevor Tin Mine Museum",
+        "km": 0.8
+      },
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 2
+      },
+      {
+        "slug": "the-count-house-botallack-mine",
+        "name": "The Count House, Botallack Mine",
+        "km": 2.1
+      },
+      {
+        "slug": "cape-cornwall",
+        "name": "Cape Cornwall",
+        "km": 4.2
+      },
+      {
+        "slug": "men-an-tol",
+        "name": "Mên-an-Tol",
+        "km": 4.4
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 4.7
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 5.2
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 5.8
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 7.5
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 7.7
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 9
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 9.7
+      },
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 9.8
+      },
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 9.9
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 9.9
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "st-just",
@@ -4997,7 +6837,99 @@
         "km": 10.3
       }
     ],
-    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km)."
+    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 1.8
+      },
+      {
+        "slug": "the-count-house-botallack-mine",
+        "name": "The Count House, Botallack Mine",
+        "km": 1.9
+      },
+      {
+        "slug": "cape-cornwall",
+        "name": "Cape Cornwall",
+        "km": 2.1
+      },
+      {
+        "slug": "geevor-tin-mine-museum",
+        "name": "Geevor Tin Mine Museum",
+        "km": 3.1
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 4
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 6.3
+      },
+      {
+        "slug": "men-an-tol",
+        "name": "Mên-an-Tol",
+        "km": 6.6
+      },
+      {
+        "slug": "lands-end",
+        "name": "Land's End",
+        "km": 6.9
+      },
+      {
+        "slug": "aardman-presents-a-grand-experience",
+        "name": "Aardman presents: A Grand Experience",
+        "km": 7
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 7.3
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 7.4
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 8
+      },
+      {
+        "slug": "pk-porthcurno",
+        "name": "PK Porthcurno",
+        "km": 8.8
+      },
+      {
+        "slug": "the-merry-maidens-stone-circle",
+        "name": "The Merry Maidens Stone Circle",
+        "km": 9.2
+      },
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 9.3
+      },
+      {
+        "slug": "the-minack-theatre",
+        "name": "The Minack Theatre",
+        "km": 9.5
+      },
+      {
+        "slug": "logan-rock",
+        "name": "Logan Rock",
+        "km": 9.7
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "sennen-cove",
@@ -5138,7 +7070,69 @@
         "km": 11.7
       }
     ],
-    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km)."
+    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "lands-end",
+        "name": "Land's End",
+        "km": 1.5
+      },
+      {
+        "slug": "aardman-presents-a-grand-experience",
+        "name": "Aardman presents: A Grand Experience",
+        "km": 1.6
+      },
+      {
+        "slug": "pk-porthcurno",
+        "name": "PK Porthcurno",
+        "km": 4.8
+      },
+      {
+        "slug": "cape-cornwall",
+        "name": "Cape Cornwall",
+        "km": 5.5
+      },
+      {
+        "slug": "the-minack-theatre",
+        "name": "The Minack Theatre",
+        "km": 5.5
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 5.6
+      },
+      {
+        "slug": "logan-rock",
+        "name": "Logan Rock",
+        "km": 6.2
+      },
+      {
+        "slug": "the-count-house-botallack-mine",
+        "name": "The Count House, Botallack Mine",
+        "km": 7
+      },
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 7
+      },
+      {
+        "slug": "the-merry-maidens-stone-circle",
+        "name": "The Merry Maidens Stone Circle",
+        "km": 8.2
+      },
+      {
+        "slug": "geevor-tin-mine-museum",
+        "name": "Geevor Tin Mine Museum",
+        "km": 8.4
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 9.5
+      }
+    ]
   },
   {
     "slug": "porthcurno",
@@ -5279,7 +7273,64 @@
         "km": 11.5
       }
     ],
-    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km)."
+    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "pk-porthcurno",
+        "name": "PK Porthcurno",
+        "km": 0.2
+      },
+      {
+        "slug": "the-minack-theatre",
+        "name": "The Minack Theatre",
+        "km": 0.9
+      },
+      {
+        "slug": "logan-rock",
+        "name": "Logan Rock",
+        "km": 1.6
+      },
+      {
+        "slug": "aardman-presents-a-grand-experience",
+        "name": "Aardman presents: A Grand Experience",
+        "km": 4.5
+      },
+      {
+        "slug": "lands-end",
+        "name": "Land's End",
+        "km": 4.5
+      },
+      {
+        "slug": "the-merry-maidens-stone-circle",
+        "name": "The Merry Maidens Stone Circle",
+        "km": 5.2
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 6.3
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 8.9
+      },
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 9.3
+      },
+      {
+        "slug": "cape-cornwall",
+        "name": "Cape Cornwall",
+        "km": 9.6
+      },
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 9.6
+      }
+    ]
   },
   {
     "slug": "mousehole",
@@ -5425,7 +7476,104 @@
         "km": 9.3
       }
     ],
-    "description": "Mousehole is a village in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Mousehole Beach (100 m). 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Newlyn (2.6 km) and Penzance (4.0 km)."
+    "description": "Mousehole is a village in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Mousehole Beach (100 m). 1 isn’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Newlyn (2.6 km) and Penzance (4.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 2.1
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 3.3
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 3.6
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 3.6
+      },
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 3.9
+      },
+      {
+        "slug": "the-merry-maidens-stone-circle",
+        "name": "The Merry Maidens Stone Circle",
+        "km": 4.1
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 4.1
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 5.2
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 5.7
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 6.3
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 7.1
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 8.3
+      },
+      {
+        "slug": "logan-rock",
+        "name": "Logan Rock",
+        "km": 8.4
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 8.6
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 8.7
+      },
+      {
+        "slug": "pk-porthcurno",
+        "name": "PK Porthcurno",
+        "km": 9.3
+      },
+      {
+        "slug": "the-minack-theatre",
+        "name": "The Minack Theatre",
+        "km": 9.3
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 9.4
+      },
+      {
+        "slug": "men-an-tol",
+        "name": "Mên-an-Tol",
+        "km": 9.5
+      }
+    ]
   },
   {
     "slug": "newlyn",
@@ -5576,7 +7724,109 @@
         "km": 9.5
       }
     ],
-    "description": "Newlyn is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Wherry Town Beach (600 m). 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Penzance (1.8 km) and Mousehole (2.6 km)."
+    "description": "Newlyn is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Wherry Town Beach (600 m). 1 isn’t on Cornwall Council’s dog restriction list. 20 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Penzance (1.8 km) and Mousehole (2.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 0.9
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 1.1
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 1.3
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 1.4
+      },
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 1.7
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 2.1
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 2.6
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 4.6
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 5.3
+      },
+      {
+        "slug": "the-merry-maidens-stone-circle",
+        "name": "The Merry Maidens Stone Circle",
+        "km": 5.3
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 5.8
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 6
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 6.1
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 6.4
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 6.8
+      },
+      {
+        "slug": "men-an-tol",
+        "name": "Mên-an-Tol",
+        "km": 7
+      },
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 8.3
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 9.1
+      },
+      {
+        "slug": "logan-rock",
+        "name": "Logan Rock",
+        "km": 9.5
+      },
+      {
+        "slug": "pk-porthcurno",
+        "name": "PK Porthcurno",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "penzance",
@@ -5712,7 +7962,99 @@
         "km": 8.4
       }
     ],
-    "description": "Penzance is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Wherry Town Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Newlyn (1.8 km) and Mousehole (4.0 km)."
+    "description": "Penzance is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Wherry Town Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Newlyn (1.8 km) and Mousehole (4.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 0.1
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 0.4
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 0.5
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 0.7
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 2.4
+      },
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 2.7
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 2.8
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 3.2
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 4.1
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 4.6
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 4.7
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 5.5
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 6.2
+      },
+      {
+        "slug": "men-an-tol",
+        "name": "Mên-an-Tol",
+        "km": 6.6
+      },
+      {
+        "slug": "the-merry-maidens-stone-circle",
+        "name": "The Merry Maidens Stone Circle",
+        "km": 7.1
+      },
+      {
+        "slug": "carn-euny-ancient-village",
+        "name": "Carn Euny Ancient Village",
+        "km": 7.3
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 7.3
+      },
+      {
+        "slug": "tregeseal-stone-circle",
+        "name": "Tregeseal Stone Circle",
+        "km": 8.9
+      }
+    ]
   },
   {
     "slug": "marazion",
@@ -5858,7 +8200,94 @@
         "km": 6.6
       }
     ],
-    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Marazion Beach (100 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km)."
+    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Marazion Beach (100 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 17 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 0.9
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 2.8
+      },
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 4.5
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 4.7
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 4.9
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 4.9
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 5.5
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 5.5
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 6.3
+      },
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 6.5
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 6.7
+      },
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 7
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 7.7
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 8.2
+      },
+      {
+        "slug": "lanyon-quoit",
+        "name": "Lanyon Quoit",
+        "km": 9.4
+      },
+      {
+        "slug": "boskednan-stone-circle",
+        "name": "Boskednan Stone Circle",
+        "km": 9.5
+      },
+      {
+        "slug": "escape-time",
+        "name": "Escape Time",
+        "km": 9.6
+      }
+    ]
   },
   {
     "slug": "perranuthnoe",
@@ -6029,7 +8458,79 @@
         "km": 7.6
       }
     ],
-    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 3 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km)."
+    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 3 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 2.4
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 5
+      },
+      {
+        "slug": "escape-rooms-cornwall-penzance",
+        "name": "Escape Rooms Cornwall - Penzance",
+        "km": 6.5
+      },
+      {
+        "slug": "morrab-gardens",
+        "name": "Morrab Gardens",
+        "km": 6.6
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 6.6
+      },
+      {
+        "slug": "penlee-house-gallery-and-museum",
+        "name": "Penlee House Gallery & Museum",
+        "km": 6.8
+      },
+      {
+        "slug": "penzance-promenade",
+        "name": "Penzance Promenade",
+        "km": 6.8
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 6.9
+      },
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 7.2
+      },
+      {
+        "slug": "rogers-tower",
+        "name": "Roger's Tower",
+        "km": 7.5
+      },
+      {
+        "slug": "kernow-coasteering",
+        "name": "Kernow Coasteering",
+        "km": 8.1
+      },
+      {
+        "slug": "chysauster-ancient-village",
+        "name": "Chysauster Ancient Village",
+        "km": 8.5
+      },
+      {
+        "slug": "national-trust-trengwainton-garden",
+        "name": "National Trust - Trengwainton Garden",
+        "km": 8.9
+      },
+      {
+        "slug": "trewidden-garden-and-tearoom",
+        "name": "Trewidden Garden and Tearoom",
+        "km": 9.6
+      }
+    ]
   },
   {
     "slug": "praa-sands",
@@ -6200,7 +8701,49 @@
         "km": 9.4
       }
     ],
-    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km)."
+    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 4.1
+      },
+      {
+        "slug": "st-michaels-mount",
+        "name": "St Michael's Mount",
+        "km": 6.7
+      },
+      {
+        "slug": "helston-railway",
+        "name": "Helston Railway",
+        "km": 7.2
+      },
+      {
+        "slug": "coronation-park",
+        "name": "Coronation Park",
+        "km": 7.6
+      },
+      {
+        "slug": "museum-of-cornish-life",
+        "name": "Museum of Cornish Life",
+        "km": 7.9
+      },
+      {
+        "slug": "paradise-park-and-junglebarn",
+        "name": "Paradise Park and JungleBarn",
+        "km": 8.7
+      },
+      {
+        "slug": "tremenheere-sculpture-gardens",
+        "name": "Tremenheere Sculpture Gardens",
+        "km": 9.3
+      },
+      {
+        "slug": "trencrom-hill",
+        "name": "Trencrom Hill",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "porthleven",
@@ -6356,7 +8899,64 @@
         "km": 9.7
       }
     ],
-    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km)."
+    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "coronation-park",
+        "name": "Coronation Park",
+        "km": 3.1
+      },
+      {
+        "slug": "museum-of-cornish-life",
+        "name": "Museum of Cornish Life",
+        "km": 3.5
+      },
+      {
+        "slug": "rnas-culdrose-public-viewing-area",
+        "name": "RNAS Culdrose public viewing area",
+        "km": 5.5
+      },
+      {
+        "slug": "helston-railway",
+        "name": "Helston Railway",
+        "km": 5.6
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 6.6
+      },
+      {
+        "slug": "the-marconi-centre",
+        "name": "The Marconi Centre",
+        "km": 7.1
+      },
+      {
+        "slug": "poldark-mine-and-the-cornish-national-heritage-collection",
+        "name": "Poldark Mine & The Cornish National Heritage Collection",
+        "km": 7.9
+      },
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 8
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 8.1
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 8.7
+      },
+      {
+        "slug": "mullion-cove",
+        "name": "Mullion Cove",
+        "km": 8.8
+      }
+    ]
   },
   {
     "slug": "helston",
@@ -6502,7 +9102,74 @@
         "km": 9.8
       }
     ],
-    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km)."
+    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "museum-of-cornish-life",
+        "name": "Museum of Cornish Life",
+        "km": 0.1
+      },
+      {
+        "slug": "coronation-park",
+        "name": "Coronation Park",
+        "km": 0.6
+      },
+      {
+        "slug": "rnas-culdrose-public-viewing-area",
+        "name": "RNAS Culdrose public viewing area",
+        "km": 3.2
+      },
+      {
+        "slug": "helston-railway",
+        "name": "Helston Railway",
+        "km": 3.9
+      },
+      {
+        "slug": "poldark-mine-and-the-cornish-national-heritage-collection",
+        "name": "Poldark Mine & The Cornish National Heritage Collection",
+        "km": 4.6
+      },
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 4.8
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 6.4
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 7.2
+      },
+      {
+        "slug": "national-trust-godolphin",
+        "name": "National Trust - Godolphin",
+        "km": 7.3
+      },
+      {
+        "slug": "the-marconi-centre",
+        "name": "The Marconi Centre",
+        "km": 8
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 9.5
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 9.6
+      },
+      {
+        "slug": "mullion-cove",
+        "name": "Mullion Cove",
+        "km": 9.7
+      }
+    ]
   },
   {
     "slug": "mullion",
@@ -6658,7 +9325,64 @@
         "km": 8.6
       }
     ],
-    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Polurrian Cove (1.1 km). 3 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km)."
+    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Polurrian Cove (1.1 km). 3 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "the-marconi-centre",
+        "name": "The Marconi Centre",
+        "km": 1.6
+      },
+      {
+        "slug": "mullion-cove",
+        "name": "Mullion Cove",
+        "km": 1.7
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 2.7
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 3.3
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 5.9
+      },
+      {
+        "slug": "national-trust-old-serpentine-works",
+        "name": "National Trust - Old Serpentine Works",
+        "km": 5.9
+      },
+      {
+        "slug": "rnas-culdrose-public-viewing-area",
+        "name": "RNAS Culdrose public viewing area",
+        "km": 6.2
+      },
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 8
+      },
+      {
+        "slug": "national-trust-lizard-point",
+        "name": "National Trust - Lizard Point",
+        "km": 8
+      },
+      {
+        "slug": "coronation-park",
+        "name": "Coronation Park",
+        "km": 8.4
+      },
+      {
+        "slug": "museum-of-cornish-life",
+        "name": "Museum of Cornish Life",
+        "km": 8.6
+      }
+    ]
   },
   {
     "slug": "the-lizard",
@@ -6809,7 +9533,44 @@
         "km": 14.2
       }
     ],
-    "description": "The Lizard is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Housel Bay (800 m). 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km)."
+    "description": "The Lizard is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Housel Bay (800 m). 1 isn’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km. The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-lizard-point",
+        "name": "National Trust - Lizard Point",
+        "km": 1.1
+      },
+      {
+        "slug": "national-trust-old-serpentine-works",
+        "name": "National Trust - Old Serpentine Works",
+        "km": 3.9
+      },
+      {
+        "slug": "mullion-cove",
+        "name": "Mullion Cove",
+        "km": 6.4
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 7
+      },
+      {
+        "slug": "the-marconi-centre",
+        "name": "The Marconi Centre",
+        "km": 8.1
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 8.7
+      },
+      {
+        "slug": "terence-coventry-sculpture-park",
+        "name": "Terence Coventry Sculpture Park",
+        "km": 9.1
+      }
+    ]
   },
   {
     "slug": "cadgwith",
@@ -6970,7 +9731,49 @@
         "km": 12.1
       }
     ],
-    "description": "Cadgwith is a village in The Lizard. There are 6 named beaches within 5 km, the closest being Cadgwith Cove (0 m). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km)."
+    "description": "Cadgwith is a village in The Lizard. There are 6 named beaches within 5 km, the closest being Cadgwith Cove (0 m). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-old-serpentine-works",
+        "name": "National Trust - Old Serpentine Works",
+        "km": 1.2
+      },
+      {
+        "slug": "national-trust-lizard-point",
+        "name": "National Trust - Lizard Point",
+        "km": 3.7
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 4.9
+      },
+      {
+        "slug": "mullion-cove",
+        "name": "Mullion Cove",
+        "km": 6.3
+      },
+      {
+        "slug": "terence-coventry-sculpture-park",
+        "name": "Terence Coventry Sculpture Park",
+        "km": 6.5
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 7.1
+      },
+      {
+        "slug": "the-marconi-centre",
+        "name": "The Marconi Centre",
+        "km": 7.6
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 9.4
+      }
+    ]
   },
   {
     "slug": "coverack",
@@ -7121,7 +9924,39 @@
         "km": 10.4
       }
     ],
-    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km)."
+    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 6 attractions are listed within 10 km. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "terence-coventry-sculpture-park",
+        "name": "Terence Coventry Sculpture Park",
+        "km": 0.8
+      },
+      {
+        "slug": "national-trust-old-serpentine-works",
+        "name": "National Trust - Old Serpentine Works",
+        "km": 6.1
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 7.1
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 9
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 9.2
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 9.7
+      }
+    ]
   },
   {
     "slug": "st-keverne",
@@ -7242,7 +10077,49 @@
         "km": 10
       }
     ],
-    "description": "St Keverne is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Leggan Cove (1.7 km). The nearest other bases are Coverack (3.2 km) and Helford (5.9 km)."
+    "description": "St Keverne is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Leggan Cove (1.7 km). 8 attractions are listed within 10 km. The nearest other bases are Coverack (3.2 km) and Helford (5.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "terence-coventry-sculpture-park",
+        "name": "Terence Coventry Sculpture Park",
+        "km": 4
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 6.8
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 8
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 8.1
+      },
+      {
+        "slug": "national-trust-old-serpentine-works",
+        "name": "National Trust - Old Serpentine Works",
+        "km": 8.4
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 9.4
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 9.7
+      },
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 9.8
+      }
+    ]
   },
   {
     "slug": "gweek",
@@ -7358,7 +10235,84 @@
         "km": 8.1
       }
     ],
-    "description": "Gweek is a visitor base in The Lizard. There is 1 named beach within 5 km, the closest being Penarvon Cove (5.0 km). The nearest other bases are Helston (4.7 km) and Helford (5.1 km)."
+    "description": "Gweek is a visitor base in The Lizard. There is 1 named beach within 5 km, the closest being Penarvon Cove (5.0 km). 15 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Helston (4.7 km) and Helford (5.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 0.2
+      },
+      {
+        "slug": "rnas-culdrose-public-viewing-area",
+        "name": "RNAS Culdrose public viewing area",
+        "km": 2.7
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 2.9
+      },
+      {
+        "slug": "museum-of-cornish-life",
+        "name": "Museum of Cornish Life",
+        "km": 4.8
+      },
+      {
+        "slug": "coronation-park",
+        "name": "Coronation Park",
+        "km": 5.1
+      },
+      {
+        "slug": "poldark-mine-and-the-cornish-national-heritage-collection",
+        "name": "Poldark Mine & The Cornish National Heritage Collection",
+        "km": 5.3
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 5.7
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 6.6
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 6.7
+      },
+      {
+        "slug": "helston-railway",
+        "name": "Helston Railway",
+        "km": 7.4
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 7.4
+      },
+      {
+        "slug": "the-marconi-centre",
+        "name": "The Marconi Centre",
+        "km": 8.4
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 8.5
+      },
+      {
+        "slug": "mullion-cove",
+        "name": "Mullion Cove",
+        "km": 9.7
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 9.8
+      }
+    ]
   },
   {
     "slug": "helford",
@@ -7509,7 +10463,104 @@
         "km": 8.4
       }
     ],
-    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km)."
+    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). 7 aren’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 2.3
+      },
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 4.9
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 4.9
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 5.3
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 6.3
+      },
+      {
+        "slug": "rnas-culdrose-public-viewing-area",
+        "name": "RNAS Culdrose public viewing area",
+        "km": 7.4
+      },
+      {
+        "slug": "bonython-estate-gardens",
+        "name": "Bonython Estate Gardens",
+        "km": 7.9
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 7.9
+      },
+      {
+        "slug": "the-lizard-heritage-coast",
+        "name": "The Lizard Heritage Coast",
+        "km": 8.1
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 8.2
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 8.4
+      },
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 8.4
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 8.4
+      },
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 8.5
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 8.7
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 8.8
+      },
+      {
+        "slug": "terence-coventry-sculpture-park",
+        "name": "Terence Coventry Sculpture Park",
+        "km": 9
+      },
+      {
+        "slug": "poldark-mine-and-the-cornish-national-heritage-collection",
+        "name": "Poldark Mine & The Cornish National Heritage Collection",
+        "km": 9.1
+      },
+      {
+        "slug": "museum-of-cornish-life",
+        "name": "Museum of Cornish Life",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "falmouth",
@@ -7685,7 +10736,79 @@
         "km": 7.2
       }
     ],
-    "description": "Falmouth is a visitor base in South Coast. There are 9 named beaches within 5 km, the closest being Tunnel Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km)."
+    "description": "Falmouth is a visitor base in South Coast. There are 9 named beaches within 5 km, the closest being Tunnel Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 0.1
+      },
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 0.2
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 0.3
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 0.7
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 0.8
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 1.9
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 2.2
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 3.3
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 4
+      },
+      {
+        "slug": "national-trust-st-anthony-head",
+        "name": "National Trust - St Anthony Head",
+        "km": 4.2
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 6.2
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 6.6
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 7.3
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 7.4
+      }
+    ]
   },
   {
     "slug": "mawnan-smith",
@@ -7871,7 +10994,89 @@
         "km": 7.5
       }
     ],
-    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km)."
+    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 1
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 2.2
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 4.6
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 5
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 5.1
+      },
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 5.1
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 5.2
+      },
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 5.2
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 5.5
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 5.5
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 5.6
+      },
+      {
+        "slug": "cornish-seal-sanctuary",
+        "name": "Cornish Seal Sanctuary",
+        "km": 7.3
+      },
+      {
+        "slug": "national-trust-st-anthony-head",
+        "name": "National Trust - St Anthony Head",
+        "km": 7.4
+      },
+      {
+        "slug": "halliggye-fogou",
+        "name": "Halliggye Fogou",
+        "km": 8
+      },
+      {
+        "slug": "poldark-mine-and-the-cornish-national-heritage-collection",
+        "name": "Poldark Mine & The Cornish National Heritage Collection",
+        "km": 9.9
+      },
+      {
+        "slug": "rnas-culdrose-public-viewing-area",
+        "name": "RNAS Culdrose public viewing area",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "flushing",
@@ -8032,7 +11237,84 @@
         "km": 6.9
       }
     ],
-    "description": "Flushing is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tunnel Beach (2.2 km). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km)."
+    "description": "Flushing is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tunnel Beach (2.2 km). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 15 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 1
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 1.1
+      },
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 1.1
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 1.5
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 1.7
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 2.7
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 3.1
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 3.7
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 4.1
+      },
+      {
+        "slug": "national-trust-st-anthony-head",
+        "name": "National Trust - St Anthony Head",
+        "km": 4.8
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 6.3
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 6.4
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 6.8
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 7.1
+      },
+      {
+        "slug": "boscawen-park",
+        "name": "Boscawen Park",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "mylor-bridge",
@@ -8163,7 +11445,109 @@
         "km": 8
       }
     ],
-    "description": "Mylor Bridge is a village in South Coast. There are 4 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km)."
+    "description": "Mylor Bridge is a village in South Coast. There are 4 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 20 attractions are listed within 10 km, 8 with indoor space for a rainy day. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 3.2
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 3.3
+      },
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 3.3
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 3.5
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 3.9
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 3.9
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 4.7
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 4.9
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 4.9
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 5.2
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 5.8
+      },
+      {
+        "slug": "national-trust-st-anthony-head",
+        "name": "National Trust - St Anthony Head",
+        "km": 6.5
+      },
+      {
+        "slug": "via-ferrata-cornwall",
+        "name": "Via Ferrata Cornwall",
+        "km": 7.3
+      },
+      {
+        "slug": "boscawen-park",
+        "name": "Boscawen Park",
+        "km": 7.9
+      },
+      {
+        "slug": "enigma-escape-cornwall",
+        "name": "Enigma Escape Cornwall",
+        "km": 8.7
+      },
+      {
+        "slug": "cornwall-museum-and-art-gallery",
+        "name": "Cornwall Museum and Art Gallery",
+        "km": 8.9
+      },
+      {
+        "slug": "truro-cathedral",
+        "name": "Truro Cathedral",
+        "km": 8.9
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 9
+      },
+      {
+        "slug": "victoria-gardens",
+        "name": "Victoria Gardens",
+        "km": 9
+      },
+      {
+        "slug": "poldice-mine",
+        "name": "Poldice Mine",
+        "km": 9.2
+      }
+    ]
   },
   {
     "slug": "truro",
@@ -8293,7 +11677,59 @@
         "km": 11.9
       }
     ],
-    "description": "Truro is a visitor base in South Coast. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Mylor Bridge (8.9 km) and Portscatho (10.8 km)."
+    "description": "Truro is a visitor base in South Coast. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 10 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Mylor Bridge (8.9 km) and Portscatho (10.8 km).",
+    "attractionsNearby": [
+      {
+        "slug": "enigma-escape-cornwall",
+        "name": "Enigma Escape Cornwall",
+        "km": 0.1
+      },
+      {
+        "slug": "truro-cathedral",
+        "name": "Truro Cathedral",
+        "km": 0.1
+      },
+      {
+        "slug": "cornwall-museum-and-art-gallery",
+        "name": "Cornwall Museum and Art Gallery",
+        "km": 0.2
+      },
+      {
+        "slug": "victoria-gardens",
+        "name": "Victoria Gardens",
+        "km": 0.5
+      },
+      {
+        "slug": "boscawen-park",
+        "name": "Boscawen Park",
+        "km": 1.5
+      },
+      {
+        "slug": "the-roseland-heritage-coast",
+        "name": "The Roseland Heritage Coast",
+        "km": 3.8
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 5.3
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 5.4
+      },
+      {
+        "slug": "poldice-mine",
+        "name": "Poldice Mine",
+        "km": 8.6
+      },
+      {
+        "slug": "trewithen",
+        "name": "Trewithen",
+        "km": 9
+      }
+    ]
   },
   {
     "slug": "st-mawes",
@@ -8479,7 +11915,74 @@
         "km": 8.2
       }
     ],
-    "description": "St Mawes is a village in South Coast. There are 11 named beaches within 5 km, the closest being Summers Beach (300 m). 1 of them has RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km)."
+    "description": "St Mawes is a village in South Coast. There are 11 named beaches within 5 km, the closest being Summers Beach (300 m). 1 of them has RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-st-anthony-head",
+        "name": "National Trust - St Anthony Head",
+        "km": 1.8
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 2.6
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 2.7
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 3.4
+      },
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 4
+      },
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 4
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 4.1
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 4.7
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 6.6
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 6.6
+      },
+      {
+        "slug": "penjerrick-garden",
+        "name": "Penjerrick Garden",
+        "km": 6.9
+      },
+      {
+        "slug": "raze-the-roof-family-entertainment-centre",
+        "name": "Raze the Roof, Family Entertainment Centre",
+        "km": 7.7
+      },
+      {
+        "slug": "glendurgan",
+        "name": "Glendurgan",
+        "km": 9.1
+      }
+    ]
   },
   {
     "slug": "portscatho",
@@ -8640,7 +12143,64 @@
         "km": 7.3
       }
     ],
-    "description": "Portscatho is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tattams Beach (100 m). 8 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Mawes (3.6 km) and Flushing (6.9 km)."
+    "description": "Portscatho is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tattams Beach (100 m). 8 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are St Mawes (3.6 km) and Flushing (6.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-st-anthony-head",
+        "name": "National Trust - St Anthony Head",
+        "km": 5
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 5.6
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 5.9
+      },
+      {
+        "slug": "pendennis-point",
+        "name": "Pendennis Point",
+        "km": 6.2
+      },
+      {
+        "slug": "pendennis-castle",
+        "name": "Pendennis Castle",
+        "km": 6.3
+      },
+      {
+        "slug": "national-maritime-museum-cornwall",
+        "name": "National Maritime Museum Cornwall",
+        "km": 6.9
+      },
+      {
+        "slug": "kernow-escape",
+        "name": "Kernow Escape",
+        "km": 7.3
+      },
+      {
+        "slug": "st-mawes-ferry",
+        "name": "St Mawes Ferry",
+        "km": 7.3
+      },
+      {
+        "slug": "falmouth-art-gallery",
+        "name": "Falmouth Art Gallery",
+        "km": 7.4
+      },
+      {
+        "slug": "kimberley-park",
+        "name": "Kimberley Park",
+        "km": 8
+      },
+      {
+        "slug": "boscawen-park",
+        "name": "Boscawen Park",
+        "km": 9.3
+      }
+    ]
   },
   {
     "slug": "portloe",
@@ -8786,7 +12346,44 @@
         "km": 12.4
       }
     ],
-    "description": "Portloe is a village in South Coast. There are 3 named beaches within 5 km, the closest being Perbean Beach (3.4 km). The nearest other bases are Portscatho (7.3 km) and Gorran Haven (7.6 km)."
+    "description": "Portloe is a village in South Coast. There are 3 named beaches within 5 km, the closest being Perbean Beach (3.4 km). 7 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Portscatho (7.3 km) and Gorran Haven (7.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "trewithen",
+        "name": "Trewithen",
+        "km": 8.5
+      },
+      {
+        "slug": "the-lost-gardens-of-heligan",
+        "name": "The Lost Gardens of Heligan",
+        "km": 9.4
+      },
+      {
+        "slug": "mevagissey-aquarium",
+        "name": "Mevagissey Aquarium",
+        "km": 9.5
+      },
+      {
+        "slug": "mevagissey-museum",
+        "name": "Mevagissey Museum",
+        "km": 9.6
+      },
+      {
+        "slug": "king-harry-ferry",
+        "name": "King Harry Ferry",
+        "km": 9.7
+      },
+      {
+        "slug": "the-roseland-heritage-coast",
+        "name": "The Roseland Heritage Coast",
+        "km": 9.9
+      },
+      {
+        "slug": "national-trust-trelissick-garden",
+        "name": "National Trust - Trelissick Garden",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "gorran-haven",
@@ -8957,7 +12554,24 @@
         "km": 13.5
       }
     ],
-    "description": "Gorran Haven is a village in South Coast. There are 12 named beaches within 5 km, the closest being Perhaver Beach (400 m). 11 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Mevagissey (3.2 km) and Portloe (7.6 km)."
+    "description": "Gorran Haven is a village in South Coast. There are 12 named beaches within 5 km, the closest being Perhaver Beach (400 m). 11 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Mevagissey (3.2 km) and Portloe (7.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "mevagissey-aquarium",
+        "name": "Mevagissey Aquarium",
+        "km": 3.1
+      },
+      {
+        "slug": "mevagissey-museum",
+        "name": "Mevagissey Museum",
+        "km": 3.3
+      },
+      {
+        "slug": "the-lost-gardens-of-heligan",
+        "name": "The Lost Gardens of Heligan",
+        "km": 5.2
+      }
+    ]
   },
   {
     "slug": "mevagissey",
@@ -9143,7 +12757,44 @@
         "km": 10.6
       }
     ],
-    "description": "Mevagissey is a visitor base in South Coast. There are 11 named beaches within 5 km, the closest being Little Polstreath (500 m). 10 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Gorran Haven (3.2 km) and Charlestown (7.3 km)."
+    "description": "Mevagissey is a visitor base in South Coast. There are 11 named beaches within 5 km, the closest being Little Polstreath (500 m). 10 aren’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Gorran Haven (3.2 km) and Charlestown (7.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "mevagissey-aquarium",
+        "name": "Mevagissey Aquarium",
+        "km": 0.2
+      },
+      {
+        "slug": "mevagissey-museum",
+        "name": "Mevagissey Museum",
+        "km": 0.2
+      },
+      {
+        "slug": "the-lost-gardens-of-heligan",
+        "name": "The Lost Gardens of Heligan",
+        "km": 2.6
+      },
+      {
+        "slug": "poltair-park",
+        "name": "Poltair Park",
+        "km": 7.8
+      },
+      {
+        "slug": "menacuddle-well",
+        "name": "Menacuddle Well",
+        "km": 8.4
+      },
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 8.4
+      },
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 9
+      }
+    ]
   },
   {
     "slug": "st-austell",
@@ -9294,7 +12945,74 @@
         "km": 11.2
       }
     ],
-    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Charlestown (2.6 km) and Par (6.4 km)."
+    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). 3 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Charlestown (2.6 km) and Par (6.4 km).",
+    "attractionsNearby": [
+      {
+        "slug": "poltair-park",
+        "name": "Poltair Park",
+        "km": 0.6
+      },
+      {
+        "slug": "menacuddle-well",
+        "name": "Menacuddle Well",
+        "km": 0.8
+      },
+      {
+        "slug": "wheal-martyn-clay-works",
+        "name": "Wheal Martyn Clay Works",
+        "km": 3
+      },
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 3.1
+      },
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 4.1
+      },
+      {
+        "slug": "eden-project",
+        "name": "Eden Project",
+        "km": 4.3
+      },
+      {
+        "slug": "hangloose-adventure",
+        "name": "Hangloose Adventure",
+        "km": 4.5
+      },
+      {
+        "slug": "the-lost-gardens-of-heligan",
+        "name": "The Lost Gardens of Heligan",
+        "km": 6
+      },
+      {
+        "slug": "cornwall-falconry",
+        "name": "Cornwall falconry",
+        "km": 6.3
+      },
+      {
+        "slug": "tregargus-valley",
+        "name": "Tregargus Valley",
+        "km": 6.5
+      },
+      {
+        "slug": "roche-rock",
+        "name": "Roche Rock",
+        "km": 7.5
+      },
+      {
+        "slug": "mevagissey-museum",
+        "name": "Mevagissey Museum",
+        "km": 7.6
+      },
+      {
+        "slug": "mevagissey-aquarium",
+        "name": "Mevagissey Aquarium",
+        "km": 7.7
+      }
+    ]
   },
   {
     "slug": "charlestown",
@@ -9460,7 +13178,99 @@
         "km": 8.8
       }
     ],
-    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). 6 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are St Austell (2.6 km) and Par (4.2 km)."
+    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). 6 aren’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are St Austell (2.6 km) and Par (4.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 1.1
+      },
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 1.9
+      },
+      {
+        "slug": "poltair-park",
+        "name": "Poltair Park",
+        "km": 2.1
+      },
+      {
+        "slug": "menacuddle-well",
+        "name": "Menacuddle Well",
+        "km": 3
+      },
+      {
+        "slug": "hangloose-adventure",
+        "name": "Hangloose Adventure",
+        "km": 3.1
+      },
+      {
+        "slug": "eden-project",
+        "name": "Eden Project",
+        "km": 3.2
+      },
+      {
+        "slug": "wheal-martyn-clay-works",
+        "name": "Wheal Martyn Clay Works",
+        "km": 4.9
+      },
+      {
+        "slug": "the-lost-gardens-of-heligan",
+        "name": "The Lost Gardens of Heligan",
+        "km": 6.6
+      },
+      {
+        "slug": "cornwall-falconry",
+        "name": "Cornwall falconry",
+        "km": 6.8
+      },
+      {
+        "slug": "mevagissey-museum",
+        "name": "Mevagissey Museum",
+        "km": 7.3
+      },
+      {
+        "slug": "mevagissey-aquarium",
+        "name": "Mevagissey Aquarium",
+        "km": 7.4
+      },
+      {
+        "slug": "national-trust-fowey-estuary",
+        "name": "National Trust - Fowey Estuary",
+        "km": 7.4
+      },
+      {
+        "slug": "st-catherines-castle",
+        "name": "St Catherine's Castle",
+        "km": 8.1
+      },
+      {
+        "slug": "fowey-aquarium",
+        "name": "Fowey Aquarium",
+        "km": 8.7
+      },
+      {
+        "slug": "fowey-river-gallery",
+        "name": "Fowey River Gallery",
+        "km": 8.8
+      },
+      {
+        "slug": "tregargus-valley",
+        "name": "Tregargus Valley",
+        "km": 9.1
+      },
+      {
+        "slug": "hall-walk",
+        "name": "Hall Walk",
+        "km": 9.2
+      },
+      {
+        "slug": "roche-rock",
+        "name": "Roche Rock",
+        "km": 9.2
+      }
+    ]
   },
   {
     "slug": "par",
@@ -9631,7 +13441,79 @@
         "km": 7
       }
     ],
-    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). 7 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km)."
+    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). 7 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 2.3
+      },
+      {
+        "slug": "hangloose-adventure",
+        "name": "Hangloose Adventure",
+        "km": 2.6
+      },
+      {
+        "slug": "eden-project",
+        "name": "Eden Project",
+        "km": 3.1
+      },
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 3.3
+      },
+      {
+        "slug": "national-trust-fowey-estuary",
+        "name": "National Trust - Fowey Estuary",
+        "km": 4.6
+      },
+      {
+        "slug": "st-catherines-castle",
+        "name": "St Catherine's Castle",
+        "km": 4.9
+      },
+      {
+        "slug": "fowey-aquarium",
+        "name": "Fowey Aquarium",
+        "km": 5.2
+      },
+      {
+        "slug": "fowey-river-gallery",
+        "name": "Fowey River Gallery",
+        "km": 5.3
+      },
+      {
+        "slug": "hall-walk",
+        "name": "Hall Walk",
+        "km": 5.6
+      },
+      {
+        "slug": "poltair-park",
+        "name": "Poltair Park",
+        "km": 5.8
+      },
+      {
+        "slug": "menacuddle-well",
+        "name": "Menacuddle Well",
+        "km": 6.5
+      },
+      {
+        "slug": "cornwall-falconry",
+        "name": "Cornwall falconry",
+        "km": 6.8
+      },
+      {
+        "slug": "wheal-martyn-clay-works",
+        "name": "Wheal Martyn Clay Works",
+        "km": 7.4
+      },
+      {
+        "slug": "restormel-castle",
+        "name": "Restormel Castle",
+        "km": 8.4
+      }
+    ]
   },
   {
     "slug": "fowey",
@@ -9772,7 +13654,74 @@
         "km": 8.6
       }
     ],
-    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Polruan (800 m) and Par (5.1 km)."
+    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). 5 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Polruan (800 m) and Par (5.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "fowey-aquarium",
+        "name": "Fowey Aquarium",
+        "km": 0.2
+      },
+      {
+        "slug": "fowey-river-gallery",
+        "name": "Fowey River Gallery",
+        "km": 0.2
+      },
+      {
+        "slug": "hall-walk",
+        "name": "Hall Walk",
+        "km": 0.8
+      },
+      {
+        "slug": "st-catherines-castle",
+        "name": "St Catherine's Castle",
+        "km": 1
+      },
+      {
+        "slug": "national-trust-fowey-estuary",
+        "name": "National Trust - Fowey Estuary",
+        "km": 1.7
+      },
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 7.2
+      },
+      {
+        "slug": "hangloose-adventure",
+        "name": "Hangloose Adventure",
+        "km": 7.7
+      },
+      {
+        "slug": "eden-project",
+        "name": "Eden Project",
+        "km": 8.1
+      },
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 8.1
+      },
+      {
+        "slug": "polperro-model-village",
+        "name": "Polperro Model Village",
+        "km": 8.2
+      },
+      {
+        "slug": "polperro-harbour-heritage-museum",
+        "name": "Polperro Harbour Heritage Museum",
+        "km": 8.5
+      },
+      {
+        "slug": "porfell-wildlife-park-and-sanctuary",
+        "name": "Porfell Wildlife Park & Sanctuary",
+        "km": 9.2
+      },
+      {
+        "slug": "restormel-castle",
+        "name": "Restormel Castle",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "polruan",
@@ -9913,7 +13862,69 @@
         "km": 9.1
       }
     ],
-    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Fowey (800 m) and Par (5.5 km)."
+    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). 5 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Fowey (800 m) and Par (5.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "fowey-aquarium",
+        "name": "Fowey Aquarium",
+        "km": 0.7
+      },
+      {
+        "slug": "st-catherines-castle",
+        "name": "St Catherine's Castle",
+        "km": 0.7
+      },
+      {
+        "slug": "fowey-river-gallery",
+        "name": "Fowey River Gallery",
+        "km": 0.9
+      },
+      {
+        "slug": "hall-walk",
+        "name": "Hall Walk",
+        "km": 1.3
+      },
+      {
+        "slug": "national-trust-fowey-estuary",
+        "name": "National Trust - Fowey Estuary",
+        "km": 1.4
+      },
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 7.5
+      },
+      {
+        "slug": "hangloose-adventure",
+        "name": "Hangloose Adventure",
+        "km": 8.1
+      },
+      {
+        "slug": "polperro-model-village",
+        "name": "Polperro Model Village",
+        "km": 8.1
+      },
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 8.3
+      },
+      {
+        "slug": "polperro-harbour-heritage-museum",
+        "name": "Polperro Harbour Heritage Museum",
+        "km": 8.4
+      },
+      {
+        "slug": "eden-project",
+        "name": "Eden Project",
+        "km": 8.6
+      },
+      {
+        "slug": "porfell-wildlife-park-and-sanctuary",
+        "name": "Porfell Wildlife Park & Sanctuary",
+        "km": 9.8
+      }
+    ]
   },
   {
     "slug": "lostwithiel",
@@ -10043,7 +14054,109 @@
         "km": 10.5
       }
     ],
-    "description": "Lostwithiel is a visitor base in South Coast. No named beaches are mapped within 5 km. The nearest other bases are Par (7.0 km) and Bodmin (8.1 km)."
+    "description": "Lostwithiel is a visitor base in South Coast. No named beaches are mapped within 5 km. 20 attractions are listed within 10 km, 8 with indoor space for a rainy day. The nearest other bases are Par (7.0 km) and Bodmin (8.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "restormel-castle",
+        "name": "Restormel Castle",
+        "km": 1.6
+      },
+      {
+        "slug": "national-trust-lanhydrock-house-and-garden",
+        "name": "National Trust - Lanhydrock - House and Garden",
+        "km": 4.3
+      },
+      {
+        "slug": "porfell-wildlife-park-and-sanctuary",
+        "name": "Porfell Wildlife Park & Sanctuary",
+        "km": 6.8
+      },
+      {
+        "slug": "cardinham-woods",
+        "name": "Cardinham Woods",
+        "km": 7
+      },
+      {
+        "slug": "bodmin-keep",
+        "name": "Bodmin Keep",
+        "km": 7.2
+      },
+      {
+        "slug": "hangloose-adventure",
+        "name": "Hangloose Adventure",
+        "km": 7.4
+      },
+      {
+        "slug": "cornwall-falconry",
+        "name": "Cornwall falconry",
+        "km": 7.6
+      },
+      {
+        "slug": "eden-project",
+        "name": "Eden Project",
+        "km": 7.6
+      },
+      {
+        "slug": "bodmin-town-museum",
+        "name": "Bodmin Town Museum",
+        "km": 7.9
+      },
+      {
+        "slug": "hall-walk",
+        "name": "Hall Walk",
+        "km": 8
+      },
+      {
+        "slug": "super-tramp-bodmin-trampoline-park",
+        "name": "Super Tramp Bodmin Trampoline Park",
+        "km": 8.2
+      },
+      {
+        "slug": "discovering42",
+        "name": "Discovering42",
+        "km": 8.3
+      },
+      {
+        "slug": "fowey-river-gallery",
+        "name": "Fowey River Gallery",
+        "km": 8.3
+      },
+      {
+        "slug": "fowey-aquarium",
+        "name": "Fowey Aquarium",
+        "km": 8.4
+      },
+      {
+        "slug": "bodmin-jail-museum",
+        "name": "Bodmin Jail Museum",
+        "km": 8.6
+      },
+      {
+        "slug": "kidzworld-adventure-play",
+        "name": "Kidzworld Adventure Play",
+        "km": 8.6
+      },
+      {
+        "slug": "st-catherines-castle",
+        "name": "St Catherine's Castle",
+        "km": 9
+      },
+      {
+        "slug": "national-trust-fowey-estuary",
+        "name": "National Trust - Fowey Estuary",
+        "km": 9.3
+      },
+      {
+        "slug": "pinetum-gardens",
+        "name": "Pinetum Gardens",
+        "km": 9.4
+      },
+      {
+        "slug": "bodmin-and-wenford-railway-boscarne-junction",
+        "name": "Bodmin & Wenford Railway (Boscarne Junction)",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "polperro",
@@ -10199,7 +14312,54 @@
         "km": 11.1
       }
     ],
-    "description": "Polperro is a visitor base in South Coast. There are 5 named beaches within 5 km, the closest being Polpero Beach (200 m). The nearest other bases are Looe (5.1 km) and Polruan (8.2 km)."
+    "description": "Polperro is a visitor base in South Coast. There are 5 named beaches within 5 km, the closest being Polpero Beach (200 m). 9 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Looe (5.1 km) and Polruan (8.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "polperro-harbour-heritage-museum",
+        "name": "Polperro Harbour Heritage Museum",
+        "km": 0.2
+      },
+      {
+        "slug": "polperro-model-village",
+        "name": "Polperro Model Village",
+        "km": 0.2
+      },
+      {
+        "slug": "duloe-stone-circle",
+        "name": "Duloe Stone Circle",
+        "km": 7.8
+      },
+      {
+        "slug": "hall-walk",
+        "name": "Hall Walk",
+        "km": 7.8
+      },
+      {
+        "slug": "fowey-river-gallery",
+        "name": "Fowey River Gallery",
+        "km": 8.1
+      },
+      {
+        "slug": "fowey-aquarium",
+        "name": "Fowey Aquarium",
+        "km": 8.2
+      },
+      {
+        "slug": "st-catherines-castle",
+        "name": "St Catherine's Castle",
+        "km": 8.9
+      },
+      {
+        "slug": "porfell-wildlife-park-and-sanctuary",
+        "name": "Porfell Wildlife Park & Sanctuary",
+        "km": 9.2
+      },
+      {
+        "slug": "national-trust-fowey-estuary",
+        "name": "National Trust - Fowey Estuary",
+        "km": 9.6
+      }
+    ]
   },
   {
     "slug": "looe",
@@ -10365,7 +14525,34 @@
         "km": 11.4
       }
     ],
-    "description": "Looe is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being East Looe Beach (200 m). The nearest other bases are Seaton (5.0 km) and Polperro (5.1 km)."
+    "description": "Looe is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being East Looe Beach (200 m). 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Seaton (5.0 km) and Polperro (5.1 km).",
+    "attractionsNearby": [
+      {
+        "slug": "polperro-harbour-heritage-museum",
+        "name": "Polperro Harbour Heritage Museum",
+        "km": 5
+      },
+      {
+        "slug": "polperro-model-village",
+        "name": "Polperro Model Village",
+        "km": 5.3
+      },
+      {
+        "slug": "duloe-stone-circle",
+        "name": "Duloe Stone Circle",
+        "km": 5.5
+      },
+      {
+        "slug": "adrenalin-quarry",
+        "name": "Adrenalin Quarry",
+        "km": 8.7
+      },
+      {
+        "slug": "kartworld",
+        "name": "Kartworld",
+        "km": 8.7
+      }
+    ]
   },
   {
     "slug": "seaton",
@@ -10521,7 +14708,34 @@
         "km": 11.2
       }
     ],
-    "description": "Seaton is a village in South Coast. There are 5 named beaches within 5 km, the closest being Seaton Beach (300 m). 1 of them has RNLI lifeguard cover in season. The nearest other bases are Downderry (1.3 km) and Looe (5.0 km)."
+    "description": "Seaton is a village in South Coast. There are 5 named beaches within 5 km, the closest being Seaton Beach (300 m). 1 of them has RNLI lifeguard cover in season. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Downderry (1.3 km) and Looe (5.0 km).",
+    "attractionsNearby": [
+      {
+        "slug": "port-eliot-house-and-gardens",
+        "name": "Port Eliot House & Gardens",
+        "km": 6.5
+      },
+      {
+        "slug": "adrenalin-quarry",
+        "name": "Adrenalin Quarry",
+        "km": 7.1
+      },
+      {
+        "slug": "kartworld",
+        "name": "Kartworld",
+        "km": 7.1
+      },
+      {
+        "slug": "duloe-stone-circle",
+        "name": "Duloe Stone Circle",
+        "km": 7.7
+      },
+      {
+        "slug": "polperro-harbour-heritage-museum",
+        "name": "Polperro Harbour Heritage Museum",
+        "km": 9.9
+      }
+    ]
   },
   {
     "slug": "bodmin",
@@ -10631,7 +14845,64 @@
         "km": 15.5
       }
     ],
-    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km)."
+    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 11 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "discovering42",
+        "name": "Discovering42",
+        "km": 0.3
+      },
+      {
+        "slug": "bodmin-town-museum",
+        "name": "Bodmin Town Museum",
+        "km": 0.4
+      },
+      {
+        "slug": "bodmin-jail-museum",
+        "name": "Bodmin Jail Museum",
+        "km": 0.5
+      },
+      {
+        "slug": "bodmin-keep",
+        "name": "Bodmin Keep",
+        "km": 0.9
+      },
+      {
+        "slug": "super-tramp-bodmin-trampoline-park",
+        "name": "Super Tramp Bodmin Trampoline Park",
+        "km": 1.7
+      },
+      {
+        "slug": "bodmin-and-wenford-railway-boscarne-junction",
+        "name": "Bodmin & Wenford Railway (Boscarne Junction)",
+        "km": 2.6
+      },
+      {
+        "slug": "cardinham-woods",
+        "name": "Cardinham Woods",
+        "km": 3.3
+      },
+      {
+        "slug": "national-trust-lanhydrock-house-and-garden",
+        "name": "National Trust - Lanhydrock - House and Garden",
+        "km": 3.8
+      },
+      {
+        "slug": "pencarrow-house-and-garden",
+        "name": "Pencarrow House & Garden",
+        "km": 5
+      },
+      {
+        "slug": "restormel-castle",
+        "name": "Restormel Castle",
+        "km": 6.6
+      },
+      {
+        "slug": "cornwall-falconry",
+        "name": "Cornwall falconry",
+        "km": 9.3
+      }
+    ]
   },
   {
     "slug": "camelford",
@@ -10761,7 +15032,74 @@
         "km": 15.8
       }
     ],
-    "description": "Camelford is a town in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Tintagel (7.0 km) and Boscastle (7.7 km)."
+    "description": "Camelford is a town in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 13 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Tintagel (7.0 km) and Boscastle (7.7 km).",
+    "attractionsNearby": [
+      {
+        "slug": "vale-of-avalon-arthurian-centre",
+        "name": "Vale of Avalon / Arthurian Centre",
+        "km": 2
+      },
+      {
+        "slug": "davidstow-airfield-and-cornwall-at-war-museum",
+        "name": "Davidstow Airfield and Cornwall at War Museum",
+        "km": 4.3
+      },
+      {
+        "slug": "raf-davidstow-moor-memorial-museum",
+        "name": "RAF Davidstow Moor Memorial Museum",
+        "km": 4.4
+      },
+      {
+        "slug": "st-nectans-waterfall",
+        "name": "St Nectan's Waterfall",
+        "km": 5.5
+      },
+      {
+        "slug": "rocky-valley",
+        "name": "Rocky Valley",
+        "km": 6.8
+      },
+      {
+        "slug": "national-trust-tintagel-old-post-office",
+        "name": "National Trust - Tintagel Old Post Office",
+        "km": 6.9
+      },
+      {
+        "slug": "tintagel-toy-museum",
+        "name": "Tintagel Toy Museum",
+        "km": 7
+      },
+      {
+        "slug": "tintagel-castle",
+        "name": "Tintagel Castle",
+        "km": 7.5
+      },
+      {
+        "slug": "ladies-window",
+        "name": "Ladies Window",
+        "km": 7.6
+      },
+      {
+        "slug": "merlins-cave",
+        "name": "Merlin's Cave",
+        "km": 7.7
+      },
+      {
+        "slug": "national-trust-boscastle",
+        "name": "National Trust - Boscastle",
+        "km": 7.8
+      },
+      {
+        "slug": "the-museum-of-witchcraft-and-magic",
+        "name": "The Museum of Witchcraft and Magic",
+        "km": 7.8
+      },
+      {
+        "slug": "pentargon-waterfall",
+        "name": "Pentargon Waterfall",
+        "km": 8.4
+      }
+    ]
   },
   {
     "slug": "launceston",
@@ -10891,7 +15229,39 @@
         "km": 22.2
       }
     ],
-    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km)."
+    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 6 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "english-heritage-launceston-castle",
+        "name": "English Heritage - Launceston Castle",
+        "km": 0.1
+      },
+      {
+        "slug": "launceston-castle",
+        "name": "Launceston Castle",
+        "km": 0.1
+      },
+      {
+        "slug": "national-trust-lawrence-house",
+        "name": "National Trust - Lawrence House",
+        "km": 0.2
+      },
+      {
+        "slug": "launceston-steam-railway",
+        "name": "Launceston Steam Railway",
+        "km": 0.5
+      },
+      {
+        "slug": "trethorne-leisure-park",
+        "name": "Trethorne Leisure Park",
+        "km": 4.8
+      },
+      {
+        "slug": "hidden-valley",
+        "name": "Hidden Valley",
+        "km": 5.3
+      }
+    ]
   },
   {
     "slug": "liskeard",
@@ -11021,7 +15391,74 @@
         "km": 12.3
       }
     ],
-    "description": "Liskeard is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are St Neot (7.4 km) and Seaton (11.2 km)."
+    "description": "Liskeard is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 13 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are St Neot (7.4 km) and Seaton (11.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "liskeard-museum",
+        "name": "Liskeard Museum",
+        "km": 0
+      },
+      {
+        "slug": "stuart-house",
+        "name": "Stuart House",
+        "km": 0.1
+      },
+      {
+        "slug": "adrenalin-quarry",
+        "name": "Adrenalin Quarry",
+        "km": 4.4
+      },
+      {
+        "slug": "kartworld",
+        "name": "Kartworld",
+        "km": 4.4
+      },
+      {
+        "slug": "king-donierts-stone",
+        "name": "King Doniert's Stone",
+        "km": 4.6
+      },
+      {
+        "slug": "golitha-falls-national-nature-reserve",
+        "name": "Golitha Falls National Nature Reserve",
+        "km": 4.8
+      },
+      {
+        "slug": "duloe-stone-circle",
+        "name": "Duloe Stone Circle",
+        "km": 6.4
+      },
+      {
+        "slug": "carnglaze-caverns",
+        "name": "Carnglaze Caverns",
+        "km": 6.8
+      },
+      {
+        "slug": "hurlers-stone-circles",
+        "name": "Hurlers Stone Circles",
+        "km": 6.9
+      },
+      {
+        "slug": "the-cheesewring",
+        "name": "The Cheesewring",
+        "km": 7.9
+      },
+      {
+        "slug": "porfell-wildlife-park-and-sanctuary",
+        "name": "Porfell Wildlife Park & Sanctuary",
+        "km": 9.3
+      },
+      {
+        "slug": "cadson-bury-hill-fort-national-trust",
+        "name": "Cadson Bury Hill Fort - National Trust",
+        "km": 9.6
+      },
+      {
+        "slug": "alpaca-trekking-with-moor-view-alpacas",
+        "name": "Alpaca Trekking with Moor View Alpacas",
+        "km": 10
+      }
+    ]
   },
   {
     "slug": "st-neot",
@@ -11151,7 +15588,59 @@
         "km": 17
       }
     ],
-    "description": "St Neot is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Liskeard (7.4 km) and Lostwithiel (11.3 km)."
+    "description": "St Neot is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Liskeard (7.4 km) and Lostwithiel (11.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "carnglaze-caverns",
+        "name": "Carnglaze Caverns",
+        "km": 1
+      },
+      {
+        "slug": "golitha-falls-national-nature-reserve",
+        "name": "Golitha Falls National Nature Reserve",
+        "km": 4
+      },
+      {
+        "slug": "king-donierts-stone",
+        "name": "King Doniert's Stone",
+        "km": 5.2
+      },
+      {
+        "slug": "alpaca-trekking-with-moor-view-alpacas",
+        "name": "Alpaca Trekking with Moor View Alpacas",
+        "km": 6.9
+      },
+      {
+        "slug": "liskeard-museum",
+        "name": "Liskeard Museum",
+        "km": 7.4
+      },
+      {
+        "slug": "stuart-house",
+        "name": "Stuart House",
+        "km": 7.4
+      },
+      {
+        "slug": "hurlers-stone-circles",
+        "name": "Hurlers Stone Circles",
+        "km": 8.1
+      },
+      {
+        "slug": "porfell-wildlife-park-and-sanctuary",
+        "name": "Porfell Wildlife Park & Sanctuary",
+        "km": 8.4
+      },
+      {
+        "slug": "cardinham-woods",
+        "name": "Cardinham Woods",
+        "km": 8.5
+      },
+      {
+        "slug": "the-cheesewring",
+        "name": "The Cheesewring",
+        "km": 8.6
+      }
+    ]
   },
   {
     "slug": "callington",
@@ -11261,7 +15750,29 @@
         "km": 15.7
       }
     ],
-    "description": "Callington is a visitor base in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. The nearest other bases are Calstock (7.5 km) and Liskeard (11.9 km)."
+    "description": "Callington is a visitor base in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 4 attractions are listed within 10 km. The nearest other bases are Calstock (7.5 km) and Liskeard (11.9 km).",
+    "attractionsNearby": [
+      {
+        "slug": "dupath-well",
+        "name": "Dupath Well",
+        "km": 1.5
+      },
+      {
+        "slug": "cadson-bury-hill-fort-national-trust",
+        "name": "Cadson Bury Hill Fort - National Trust",
+        "km": 2.7
+      },
+      {
+        "slug": "national-trust-cotehele",
+        "name": "National Trust - Cotehele",
+        "km": 6.3
+      },
+      {
+        "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
+        "name": "The Cornish Maize Maze And Fun Farm Ltd",
+        "km": 7
+      }
+    ]
   },
   {
     "slug": "calstock",
@@ -11391,7 +15902,29 @@
         "km": 18.1
       }
     ],
-    "description": "Calstock is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Callington (7.5 km) and Saltash (9.8 km)."
+    "description": "Calstock is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 4 attractions are listed within 10 km. The nearest other bases are Callington (7.5 km) and Saltash (9.8 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-cotehele",
+        "name": "National Trust - Cotehele",
+        "km": 1.3
+      },
+      {
+        "slug": "dupath-well",
+        "name": "Dupath Well",
+        "km": 6.1
+      },
+      {
+        "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
+        "name": "The Cornish Maize Maze And Fun Farm Ltd",
+        "km": 7
+      },
+      {
+        "slug": "cadson-bury-hill-fort-national-trust",
+        "name": "Cadson Bury Hill Fort - National Trust",
+        "km": 9.3
+      }
+    ]
   },
   {
     "slug": "saltash",
@@ -11521,7 +16054,39 @@
         "km": 9.8
       }
     ],
-    "description": "Saltash is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. The nearest other bases are Torpoint (3.8 km) and Kingsand (8.3 km)."
+    "description": "Saltash is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 6 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Torpoint (3.8 km) and Kingsand (8.3 km).",
+    "attractionsNearby": [
+      {
+        "slug": "antony-woodland-garden-and-woodland-walk",
+        "name": "Antony Woodland Garden & Woodland Walk",
+        "km": 2.6
+      },
+      {
+        "slug": "national-trust-antony",
+        "name": "National Trust - Antony",
+        "km": 2.8
+      },
+      {
+        "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
+        "name": "The Cornish Maize Maze And Fun Farm Ltd",
+        "km": 5.8
+      },
+      {
+        "slug": "mount-edgcumbe-house-and-country-park",
+        "name": "Mount Edgcumbe House and Country Park",
+        "km": 6.5
+      },
+      {
+        "slug": "port-eliot-house-and-gardens",
+        "name": "Port Eliot House & Gardens",
+        "km": 7.1
+      },
+      {
+        "slug": "national-trust-cotehele",
+        "name": "National Trust - Cotehele",
+        "km": 9.8
+      }
+    ]
   },
   {
     "slug": "torpoint",
@@ -11662,7 +16227,34 @@
         "km": 12.3
       }
     ],
-    "description": "Torpoint is a town in Bodmin Moor & East Cornwall. There are 2 named beaches within 5 km, the closest being Cawsand Beach (5.0 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. The nearest other bases are Saltash (3.8 km) and Kingsand (4.6 km)."
+    "description": "Torpoint is a town in Bodmin Moor & East Cornwall. There are 2 named beaches within 5 km, the closest being Cawsand Beach (5.0 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Saltash (3.8 km) and Kingsand (4.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "national-trust-antony",
+        "name": "National Trust - Antony",
+        "km": 2.3
+      },
+      {
+        "slug": "antony-woodland-garden-and-woodland-walk",
+        "name": "Antony Woodland Garden & Woodland Walk",
+        "km": 2.6
+      },
+      {
+        "slug": "mount-edgcumbe-house-and-country-park",
+        "name": "Mount Edgcumbe House and Country Park",
+        "km": 2.9
+      },
+      {
+        "slug": "port-eliot-house-and-gardens",
+        "name": "Port Eliot House & Gardens",
+        "km": 8.2
+      },
+      {
+        "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
+        "name": "The Cornish Maize Maze And Fun Farm Ltd",
+        "km": 9.3
+      }
+    ]
   },
   {
     "slug": "cawsand",
@@ -11813,7 +16405,24 @@
         "km": 12.4
       }
     ],
-    "description": "Cawsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (200 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Kingsand (300 m) and Torpoint (4.8 km)."
+    "description": "Cawsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (200 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Kingsand (300 m) and Torpoint (4.8 km).",
+    "attractionsNearby": [
+      {
+        "slug": "mount-edgcumbe-house-and-country-park",
+        "name": "Mount Edgcumbe House and Country Park",
+        "km": 3.1
+      },
+      {
+        "slug": "national-trust-antony",
+        "name": "National Trust - Antony",
+        "km": 6.1
+      },
+      {
+        "slug": "antony-woodland-garden-and-woodland-walk",
+        "name": "Antony Woodland Garden & Woodland Walk",
+        "km": 6.6
+      }
+    ]
   },
   {
     "slug": "kingsand",
@@ -11944,7 +16553,24 @@
         "km": 12.5
       }
     ],
-    "description": "Kingsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (400 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Cawsand (300 m) and Torpoint (4.6 km)."
+    "description": "Kingsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (400 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Cawsand (300 m) and Torpoint (4.6 km).",
+    "attractionsNearby": [
+      {
+        "slug": "mount-edgcumbe-house-and-country-park",
+        "name": "Mount Edgcumbe House and Country Park",
+        "km": 2.8
+      },
+      {
+        "slug": "national-trust-antony",
+        "name": "National Trust - Antony",
+        "km": 6
+      },
+      {
+        "slug": "antony-woodland-garden-and-woodland-walk",
+        "name": "Antony Woodland Garden & Woodland Walk",
+        "km": 6.4
+      }
+    ]
   },
   {
     "slug": "downderry",
@@ -12090,7 +16716,29 @@
         "km": 12.3
       }
     ],
-    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km)."
+    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 4 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km).",
+    "attractionsNearby": [
+      {
+        "slug": "port-eliot-house-and-gardens",
+        "name": "Port Eliot House & Gardens",
+        "km": 5.8
+      },
+      {
+        "slug": "adrenalin-quarry",
+        "name": "Adrenalin Quarry",
+        "km": 8
+      },
+      {
+        "slug": "kartworld",
+        "name": "Kartworld",
+        "km": 8
+      },
+      {
+        "slug": "duloe-stone-circle",
+        "name": "Duloe Stone Circle",
+        "km": 9
+      }
+    ]
   },
   {
     "slug": "portwrinkle",
@@ -12236,6 +16884,33 @@
         "km": 8.4
       }
     ],
-    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Finnygook Beach (200 m). 3 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km)."
+    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Finnygook Beach (200 m). 3 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km).",
+    "attractionsNearby": [
+      {
+        "slug": "port-eliot-house-and-gardens",
+        "name": "Port Eliot House & Gardens",
+        "km": 4
+      },
+      {
+        "slug": "antony-woodland-garden-and-woodland-walk",
+        "name": "Antony Woodland Garden & Woodland Walk",
+        "km": 6.5
+      },
+      {
+        "slug": "national-trust-antony",
+        "name": "National Trust - Antony",
+        "km": 6.5
+      },
+      {
+        "slug": "mount-edgcumbe-house-and-country-park",
+        "name": "Mount Edgcumbe House and Country Park",
+        "km": 9.6
+      },
+      {
+        "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
+        "name": "The Cornish Maize Maze And Fun Farm Ltd",
+        "km": 10
+      }
+    ]
   }
 ]

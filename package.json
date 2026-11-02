@@ -13,7 +13,9 @@
     "data:images": "node scripts/images.mjs",
     "data:describe": "node scripts/describe.mjs",
     "data:report": "node scripts/report.mjs",
-    "data": "npm run data:towns && npm run data:dogs && npm run data:lifeguards && npm run data:beaches && npm run data:images && npm run data:describe && npm run data:report"
+    "data": "npm run data:towns && npm run data:dogs && npm run data:lifeguards && npm run data:beaches && npm run data:attractions && npm run data:images && npm run data:attraction-images && npm run data:describe && npm run data:report",
+    "data:attractions": "node scripts/attractions.mjs",
+    "data:attraction-images": "node scripts/images.mjs --only=attractions"
   },
   "engines": {
     "node": ">=22.21"

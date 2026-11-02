@@ -4,11 +4,12 @@ import { heroImage, displayName, imgSrc } from '../lib/data';
 import { Credit } from './Photo';
 import MapCard from './MapCard';
 import Badges from './Badges';
+import AttractionBadges from './AttractionBadges';
 
 // Large image card for a beach or town. Credit sits under the image, as plain text (the card is a link).
-export default function PlaceCard({ place, href, meta, beach = false, size = 'md' }) {
+export default function PlaceCard({ place, href, meta, beach = false, attraction = false, size = 'md' }) {
   const img = heroImage(place);
-  const name = beach ? displayName(place) : place.name;
+  const name = beach ? displayName(place) : place.customTitle || place.name;
   return (
     <div className="group">
       <Link href={href} className="block overflow-hidden rounded-2xl bg-white no-underline shadow-sm ring-1 ring-atlantic-950/5 transition hover:-translate-y-0.5 hover:shadow-lg">
@@ -23,6 +24,7 @@ export default function PlaceCard({ place, href, meta, beach = false, size = 'md
           <h3 className="text-lg text-atlantic-900 group-hover:text-seaglass-600">{name}</h3>
           {meta ? <p className="mt-0.5 text-sm text-atlantic-950/60">{meta}</p> : null}
           {beach ? <Badges b={place} className="mt-3" /> : null}
+          {attraction ? <AttractionBadges a={place} className="mt-3" /> : null}
         </div>
       </Link>
       {img ? <Credit image={img} linked={false} className="mt-1 px-1" /> : null}

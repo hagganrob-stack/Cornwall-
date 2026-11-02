@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { towns, townBySlug, regionBySlug, beachBySlug, heroImage } from '../../../lib/data';
+import { towns, townBySlug, regionBySlug, beachBySlug, attractionBySlug, heroImage } from '../../../lib/data';
+import { TTD_ROUNDUPS, townTtdItems, townTtdPath, MIN_TOWN_TTD } from '../../../lib/ttd';
 import { ROUNDUPS, townRoundupBeaches, townRoundupPath, MIN_TOWN_ROUNDUP } from '../../../lib/roundups';
 import Hero from '../../../components/Hero';
 import Byline from '../../../components/Byline';
@@ -30,7 +31,11 @@ export default async function TownPage({ params }) {
   if (!t) notFound();
   const region = regionBySlug(t.region);
   const near = (t.beachesNearby || []).map((n) => ({ ...n, b: beachBySlug(n.slug) })).filter((n) => n.b);
-  const combos = Object.values(ROUNDUPS).map((r) => ({ r, n: townRoundupBeaches(t, r).length })).filter((x) => x.n >= MIN_TOWN_ROUNDUP);
+  const combos = [
+    ...Object.values(ROUNDUPS).map((r) => ({ r, n: townRoundupBeaches(t, r).length, href: townRoundupPath(t, r), what: 'beaches' })).filter((x) => x.n >= MIN_TOWN_ROUNDUP),
+    ...Object.values(TTD_ROUNDUPS).map((r) => ({ r, n: townTtdItems(t, r).length, href: townTtdPath(t, r), what: 'things to do' })).filter((x) => x.n >= MIN_TOWN_TTD),
+  ];
+  const ttd = (t.attractionsNearby || []).map((n) => ({ ...n, a: attractionBySlug(n.slug) })).filter((n) => n.a);
   return (
     <article>
       <JsonLd data={townLd(t, `/towns/${t.slug}/`)} />
@@ -45,9 +50,9 @@ export default async function TownPage({ params }) {
           <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{t.description}</p>
           {combos.length ? (
             <div className="mt-6 flex flex-wrap gap-2">
-              {combos.map(({ r, n }) => (
-                <Link key={r.slug} href={townRoundupPath(t, r)} className="chip bg-seaglass-100 px-4 py-2 text-sm text-atlantic-900 no-underline hover:bg-seaglass-300">
-                  {n} {r.label.toLowerCase()} beaches nearby →
+              {combos.map(({ r, n, href, what }) => (
+                <Link key={href} href={href} className="chip bg-seaglass-100 px-4 py-2 text-sm text-atlantic-900 no-underline hover:bg-seaglass-300">
+                  {n} {r.label.toLowerCase()} {what} nearby →
                 </Link>
               ))}
             </div>
@@ -64,7 +69,20 @@ export default async function TownPage({ params }) {
               <p className="text-atlantic-950/70">No named beaches are mapped within 5 km.</p>
             )}
           </section>
-          {/* Attractions and food & drink sections will slot in here. */}
+          <section className="mt-14">
+            <SectionHeading kicker="Within 10 km">Things to do near {t.name}</SectionHeading>
+            {ttd.length ? (
+              <CardGrid cols={2}>
+                {ttd.slice(0, 8).map(({ a, km }) => (
+                  <PlaceCard key={a.slug} place={a} attraction href={`/things-to-do/${a.slug}/`} meta={`${a.category} · ${km} km`} />
+                ))}
+              </CardGrid>
+            ) : (
+              <p className="text-atlantic-950/70">We haven’t listed any attractions within 10 km yet.</p>
+            )}
+            {ttd.length > 8 ? <p className="mt-4"><Link href="/things-to-do/">See all {ttd.length} nearby in the things-to-do finder →</Link></p> : null}
+          </section>
+          {/* Food & drink will slot in here (Phase 3). */}
           <StayNearby place={t} />
           <AuthorBio />
           <Sources sources={t.sources} lastChecked={t.lastChecked} />

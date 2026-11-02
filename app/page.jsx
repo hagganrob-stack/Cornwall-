@@ -2,6 +2,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { beaches, towns, regions, heroImage, isLifeguarded, beachBySlug, latestChecked, displayName, townName, imgSrc } from '../lib/data';
 import { ROUNDUPS, roundupBeaches, roundupPath } from '../lib/roundups';
+import { TTD_ROUNDUPS, ttdRoundupItems, ttdRoundupPath } from '../lib/ttd';
+import { attractions } from '../lib/data';
 import Hero from '../components/Hero';
 import Byline from '../components/Byline';
 import PlaceCard, { CardGrid } from '../components/PlaceCard';
@@ -61,6 +63,28 @@ export default function Home() {
                 <div className="absolute bottom-0 p-6">
                   <h3 className="text-2xl text-white sm:text-3xl">{r.title.replace(' in Cornwall', '')}</h3>
                   <p className="mt-1 text-white/85">{list.length} beaches →</p>
+                </div>
+              </Link>
+            );
+          })}
+        </div>
+      </Container>
+
+      <Container className="mt-16">
+        <SectionHeading kicker={`${attractions.length} days out`} action={<Link href="/things-to-do/" className="text-sm font-semibold no-underline">All things to do →</Link>}>
+          Things to do, whatever the weather
+        </SectionHeading>
+        <div className="grid gap-6 sm:grid-cols-3">
+          {Object.values(TTD_ROUNDUPS).map((r) => {
+            const list = ttdRoundupItems(r);
+            const img = heroImage(list.find((a) => heroImage(a)?.width > 1200) || list.find((a) => heroImage(a)));
+            return (
+              <Link key={r.slug} href={ttdRoundupPath(r)} className="group relative block aspect-[4/3] overflow-hidden rounded-3xl bg-gradient-to-br from-seaglass-500 to-atlantic-900 no-underline">
+                {img ? <Image src={imgSrc(img)} alt="" fill sizes="(min-width: 640px) 33vw, 100vw" className="object-cover transition duration-500 group-hover:scale-[1.03]" /> : null}
+                <div className="absolute inset-0 bg-gradient-to-t from-atlantic-950/85 to-atlantic-950/10" />
+                <div className="absolute bottom-0 p-6">
+                  <h3 className="text-2xl text-white">{r.title.replace(' in Cornwall', '')}</h3>
+                  <p className="mt-1 text-white/85">{list.length} places →</p>
                 </div>
               </Link>
             );

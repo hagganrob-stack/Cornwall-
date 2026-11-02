@@ -8,6 +8,7 @@ import { readJson, writeJson, haversineKm, listJoin, NOT_STATED } from './lib/ut
 
 const beaches = await readJson('data/beaches.json');
 const towns = await readJson('data/towns.json');
+const attractions = (await readJson('data/attractions.json')) || [];
 const regions = await readJson('data/regions.json');
 const regionName = (slug) => regions.find((r) => r.slug === slug)?.name || slug;
 const townBy = Object.fromEntries(towns.map((t) => [t.slug, t]));
@@ -45,6 +46,23 @@ for (const t of towns) {
     .map((o) => ({ slug: o.slug, name: o.name, km: +haversineKm(t, o).toFixed(1) }))
     .sort((x, y) => x.km - y.km)
     .slice(0, 5);
+}
+
+// Attractions: within 10 km of a town (they are sparser than beaches), 5 km of a beach.
+const ATTR_TOWN_KM = 10;
+const near = (from, list, km, n) =>
+  list
+    .filter((o) => o !== from)
+    .map((o) => ({ slug: o.slug, name: o.name, km: +haversineKm(from, o).toFixed(1) }))
+    .filter((o) => o.km <= km)
+    .sort((x, y) => x.km - y.km)
+    .slice(0, n);
+for (const b of beaches) b.nearbyAttractions = near(b, attractions, 5, 6);
+for (const t of towns) t.attractionsNearby = near(t, attractions, ATTR_TOWN_KM, 999);
+for (const a of attractions) {
+  a.nearbyAttractions = near(a, attractions, 10, 6);
+  a.nearbyBeaches = near(a, beaches, 8, 6);
+  a.nearbyTowns = near(a, towns, 15, 3);
 }
 
 // ---------- beach guide fields (derived from facts; `basis` says how) --------------------------
@@ -144,6 +162,11 @@ function describeTown(t) {
   } else {
     s.push(pick(['There are no named beaches mapped within 5 km, so plan on a short drive to the coast.', 'No named beaches are mapped within 5 km.']));
   }
+  const ttd = t.attractionsNearby || [];
+  if (ttd.length) {
+    const indoor = ttd.filter(({ slug }) => attractions.find((a) => a.slug === slug)?.rainyDay.value === 'yes').length;
+    s.push(`${ttd.length === 1 ? 'One attraction is' : `${ttd.length} attractions are`} listed within ${ATTR_TOWN_KM} km${indoor ? `, ${indoor === 1 ? 'one' : indoor} with indoor space for a rainy day` : ''}.`);
+  }
   const nt = t.nearbyTowns.slice(0, 2);
   s.push(`The nearest other bases are ${listJoin(nt.map((n) => `${n.name} (${kmText(n.km)})`))}.`);
   return s.join(' ');
@@ -155,6 +178,45 @@ for (const b of beaches) {
 }
 for (const t of towns) t.description = describeTown(t);
 
+// ---------- attractions ---------------------------------------------------------------------------
+const article = (w) => (/^[aeiou]/i.test(w) ? 'an' : 'a');
+function attractionGuide(a) {
+  const suits = [];
+  if (known(a.kids)) suits.push('families with children');
+  if (known(a.rainyDay)) suits.push(a.setting.value === 'indoor' ? 'a rainy day (it’s indoors)' : 'a changeable day (there’s indoor space)');
+  if (a.setting.value === 'outdoor') suits.push('a dry day outdoors');
+  if (a.entry.value === 'free') suits.push('a day out without an entry fee');
+  const best = [];
+  if (a.setting.value === 'outdoor') best.push('On a dry day');
+  if (known(a.rainyDay)) best.push('Any day, including wet ones');
+  if (a.hours?.closedDays?.length && a.hours.closedDays.length < 7) best.push(`Not on ${listJoin(a.hours.closedDays)}, when the listing shows it closed`);
+  if (a.hours?.closedDays?.length === 7) best.push('Check the website: the listing currently shows it closed every day, which often means it is out of season');
+  return {
+    whoItSuits: suits.length ? suits : null,
+    howLongToAllow: known(a.allow) ? a.allow.value : null,
+    bestTimeToGo: best.length ? best : null,
+    method: 'Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation.',
+  };
+}
+function describeAttraction(a) {
+  const town = townBy[a.town];
+  const cat = (a.category || 'attraction').toLowerCase().replace(/^tourist attraction$/, 'attraction');
+  const where = a.townDistanceKm < 1 ? `in ${town.name}` : `${kmText(a.townDistanceKm)} from ${town.name}`;
+  const s = [`${a.name} is ${article(cat)} ${cat} ${where}, in ${regionName(a.region)}.`];
+  if (known(a.setting)) s.push(a.setting.value === 'indoor and outdoor' ? 'It has both indoor and outdoor areas.' : a.setting.value === 'indoor' ? 'It’s indoors, so it works on a rainy day.' : 'It’s outdoors, so it’s best on a dry day.');
+  if (known(a.kids)) s.push('It’s aimed at families with children.');
+  if (a.entry.value === 'free') s.push('Its website says entry is free.');
+  if (a.entry.value === 'paid') s.push('There’s an entry charge; prices are on its website.');
+  const nb = a.nearbyBeaches?.[0];
+  if (nb) s.push(`The nearest beach is ${nb.name} (${kmText(nb.km)}).`);
+  return s.join(' ');
+}
+for (const a of attractions) {
+  a.guide = attractionGuide(a);
+  a.description = describeAttraction(a);
+}
+if (attractions.length) await writeJson('data/attractions.json', attractions);
+
 await writeJson('data/beaches.json', beaches);
 await writeJson('data/towns.json', towns);
-console.log(`Described ${beaches.length} beaches and ${towns.length} towns.`);
+console.log(`Described ${beaches.length} beaches, ${towns.length} towns and ${attractions.length} attractions.`);

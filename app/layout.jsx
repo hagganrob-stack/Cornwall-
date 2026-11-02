@@ -21,7 +21,8 @@ export const metadata = {
 const NAV = [
   ['Beaches', '/beaches/'],
   ['Dog-friendly', '/beaches/dog-friendly/'],
-  ['Family-friendly', '/beaches/family-friendly/'],
+  ['Things to do', '/things-to-do/'],
+  ['Rainy day', '/things-to-do/rainy-day/'],
   ['Towns', '/towns/'],
 ];
 

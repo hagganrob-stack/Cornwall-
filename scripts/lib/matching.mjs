@@ -108,3 +108,16 @@ export const EXTRA_BEACHES = [
   { name: 'Wherry Town Beach', osm: 'way/1009579600', why: DOG },
   { name: "St George's Cove", osm: 'way/866442991', why: DOG },
 ];
+
+// Attractions: Google place_ids or exact Google titles to leave out (not visitor attractions, closed, duplicates).
+export const ATTRACTION_EXCLUDE = [
+  // Not visitor attractions: car parks, shops, food & drink, harbour authorities, local recreation grounds.
+  'Bude Town Centre', 'Pendennis Castle Car Park', 'Land\'s End Sign', 'Roly\'s Fudge Pantry Looe', 'Treguddick Distillery',
+  'Field of Dreams', 'Launceston Road Recreation Ground', 'Cargreen Park', 'Camborne Park', 'Porthleven Harbour & Dock Co',
+  'Mevagissey Harbour', 'Polperro Harbour', 'Boscastle Harbour', 'Little Petherick Creek Bridge - Camel Trail',
+];
+// Google title -> the name we show, where Google's listing title is a marketing string.
+export const ATTRACTION_RENAME = {
+  'Paradise Park and JungleBarn Cornwall': 'Paradise Park and JungleBarn',
+  'Bodmin Railway - Boscarne Junction Station': 'Bodmin & Wenford Railway (Boscarne Junction)',
+};

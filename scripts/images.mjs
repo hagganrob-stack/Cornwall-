@@ -47,7 +47,7 @@ async function api(params, cacheKey) {
 }
 
 async function commonsCandidates(place, kind) {
-  const radius = kind === 'town' ? 1200 : 450;
+  const radius = kind === 'town' ? 1200 : kind === 'attraction' ? 500 : 450;
   // One request per place: geosearch as a generator, with image info + categories for each hit.
   const info = await api(
     {
@@ -68,7 +68,7 @@ async function commonsCandidates(place, kind) {
     `gen-${kind}-${place.slug}`
   );
   const pages = info.query?.pages || [];
-  const name = place.name.toLowerCase().replace(/\b(beach|bay|cove|sands)\b/g, '').trim();
+  const name = coreName(place, kind);
   const nameRe = new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
 
   return pages
@@ -105,7 +105,7 @@ async function commonsCandidates(place, kind) {
       };
     })
     .filter(Boolean)
-    .filter((c) => /jpeg|png/.test(c.mime) && ALLOWED.test(c.licence) && c.photographer && c.width >= 1000 && c.width >= c.height * 1.1 && !REJECT_TITLE.test(c.title))
+    .filter((c) => /jpeg|png/.test(c.mime) && ALLOWED.test(c.licence) && c.photographer && c.width >= 1000 && c.width >= c.height * 1.1 && (kind === 'attraction' ? c._nameMatch && !ATTR_REJECT.test(c.title) : !REJECT_TITLE.test(c.title)))
     .map((c) => {
       let score = 0;
       if (c._nameMatch) score += 40;
@@ -124,6 +124,18 @@ async function commonsCandidates(place, kind) {
     .map(({ _nameMatch, mime, ...c }) => ({ ...c, retrieved: TODAY }));
 }
 
+// The part of a place's name that photo titles are likely to use.
+function coreName(place, kind) {
+  let n = place.name.toLowerCase();
+  if (kind === 'attraction') n = n.replace(/^(national trust|english heritage)\s*[-–]\s*/, '').replace(/\(.*?\)/g, '').replace(/\b(the|cornwall|museum|gardens?|park|and|&)\b/g, ' ');
+  else n = n.replace(/\b(beach|bay|cove|sands)\b/g, '');
+  n = n.replace(/\s+/g, ' ').trim();
+  return n.length >= 4 ? n : place.name.toLowerCase();
+}
+
+// Attraction photos that name the place but don't show it.
+const ATTR_REJECT = /\b(sign|signs|signpost|car park|parking|nr|near|toilets|bus stop|postbox|road|lane|junction)\b/i;
+
 const GEO_REJECT = /\b(road|lane|junction|track|footpath sign|sign|signpost|bus|chapel|church|house|cottage|farm|field|gate|stile|postbox|telephone|bench|plaque|memorial|interior|car park|bridge|hedge|barn|trig|mine|engine house|stack)\b/i;
 const GEO_GOOD = /\b(beach|sands?|cove|bay|coast|sea|surf|harbour|shore|waves|tide|rock ?pools?|cliffs?|view|towans|dunes?|porth)\b/i;
 
@@ -131,14 +143,14 @@ const TOWN_GOOD = /\b(harbour|beach|bay|view|views|from|overlooking|panorama|sea
 const TOWN_REJECT = /\b(street|st|road|rd|lane|crescent|terrace|junction|close|avenue|way|drive|chapel|church|methodist|bungalows?|houses?|shop|shops|cafe|pub|inn|hotel|garage|bank|station|bus|car|cars|suvs?|car park|sign|signs|toilets|postbox|telephone|plaque|interior|memorial|grave|school|surgery|estate|works|roundabout|bridge)\b/i;
 
 async function geographCandidates(place, kind) {
-  const km = kind === 'town' ? 1 : 0.5;
+  const km = kind === 'town' ? 1 : kind === 'attraction' ? 0.6 : 0.5;
   const url = `${GEOGRAPH}?${new URLSearchParams({ q: `${place.lat},${place.lng}`, distance: String(km), format: 'JSON', perpage: '50' })}`;
   const file = `data/raw/geograph/${kind}-${place.slug}.json`;
   if (REFETCH) await fs.rm(file, { force: true });
   const cached = await fs.readFile(file, 'utf8').catch(() => null);
   if (!cached) await sleep(1000);
   const feed = cached ? JSON.parse(cached) : await cachedFetch(url, file, { retries: 3 });
-  const name = place.name.toLowerCase().replace(/\b(beach|bay|cove|sands)\b/g, '').trim();
+  const name = coreName(place, kind);
   const nameRe = new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
   const plainName = (n) => n.replace(/\s+/g, '');
   const picks = (feed.items || [])
@@ -148,6 +160,8 @@ async function geographCandidates(place, kind) {
       const dist = Math.round(haversineKm(place, { lat: +it.lat, lng: +it.long }) * 1000);
       let score = 0;
       if (nameRe.test(title) || title.toLowerCase().replace(/\s+/g, '').includes(plainName(name))) score += 40;
+      const named = nameRe.test(title) || title.toLowerCase().replace(/\s+/g, '').includes(plainName(name));
+      if (kind === 'attraction' && (!named || ATTR_REJECT.test(title))) return null; // attractions: only photos that name the place
       if (kind === 'beach' ? GEO_GOOD.test(text) : true) score += kind === 'beach' ? 15 : 5;
       if (kind === 'beach' && GEO_REJECT.test(title)) score -= 30;
       if (kind === 'town' && TOWN_GOOD.test(title)) score += 20;
@@ -177,7 +191,7 @@ async function geographCandidates(place, kind) {
         score: Math.round(score),
       };
     })
-    .filter((c) => c.score > 0 && c.photographer && /creativecommons/.test(c.licenceUrl || ''))
+    .filter((c) => c && c.score > 0 && c.photographer && /creativecommons/.test(c.licenceUrl || ''))
     .sort((a, b) => b.score - a.score)
     .slice(0, 3);
   const out = [];
@@ -234,6 +248,12 @@ async function run(file, kind) {
 }
 
 const all = [];
+if (ONLY === 'attractions') {
+  await run('data/attractions.json', 'attraction');
+  const a = (await readJson('data/attractions.json')) || [];
+  console.log(`${a.filter((x) => x.images?.length).length}/${a.length} attractions have an openly licensed photo that names them.`);
+  process.exit(0);
+}
 if (ONLY !== 'beaches') all.push(...(await run('data/towns.json', 'town')));
 if (ONLY !== 'towns') all.push(...(await run('data/beaches.json', 'beach')));
 
