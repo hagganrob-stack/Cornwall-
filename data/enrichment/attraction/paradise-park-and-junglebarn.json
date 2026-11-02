@@ -1,0 +1,89 @@
+{
+  "slug": "paradise-park-and-junglebarn",
+  "written": "2026-11-02",
+  "overview": [
+    "Paradise Park is a family-run wildlife sanctuary in Hayle, set in 14 acres of subtropical gardens, and it’s especially strong on birds: more than 1,200 of them from around 130 species, including hundreds of parrots, penguins, flamingos and eagles. It also has red pandas, red squirrels, otters and a farm.",
+    "Its secret weapon for a Cornish holiday is JungleBarn, a big indoor play centre with giant slides and a toddler zone, so it works whatever the weather does. It’s also home to conservation work for endangered parrots and Cornwall’s own red-billed chough."
+  ],
+  "expect": [
+    {
+      "title": "Birds",
+      "text": "Scarlet and blue-throated macaws, Humboldt penguins, Caribbean flamingos in the walled garden, golden and bald eagles, kookaburras and hornbills, plus a walk-through aviary of tropical parrots.",
+      "source": 1
+    },
+    {
+      "title": "Mammals and farm",
+      "text": "Red pandas, red squirrels, Asian otters and tiny harvest mice, and a Fun Farm with miniature donkeys, pygmy goats, sheep and guinea pigs.",
+      "source": 1
+    },
+    {
+      "title": "JungleBarn",
+      "text": "Indoor soft play with giant slides and a toddler area with a ball fountain, for when the rain comes in.",
+      "source": 0
+    },
+    {
+      "title": "Gardens",
+      "text": "A signed route takes you through the Victorian walled garden, a shady jungle walk, the farm, a picnic lawn and play areas.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Return tickets",
+      "text": "If you think you’ll come back, buy a cheap return ticket before you leave.",
+      "source": 0
+    },
+    {
+      "label": "Seasonal events",
+      "text": "There are special events at different times of year, including a Santa’s grotto in December.",
+      "source": 0
+    },
+    {
+      "label": "Food and drink",
+      "text": "There’s a family pub on site with a large beer garden where dogs are welcome.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A strong rainy-day plan for families around St Ives Bay, with the indoor play to fall back on. On a fine day, combine it with the huge beaches at Hayle and Gwithian.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "hayle-towans-beach",
+        "why": "miles of golden sand across the bay"
+      },
+      {
+        "kind": "beach",
+        "slug": "porth-kidney-sands",
+        "why": "a big quiet beach on the other side of the estuary"
+      },
+      {
+        "kind": "attraction",
+        "slug": "trencrom-hill",
+        "why": "a short climb with views over two coasts"
+      }
+    ]
+  },
+  "tips": [
+    "Pack socks for JungleBarn.",
+    "Buy your return ticket before you leave if there’s any chance you’ll be back."
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 0,
+      "note": "Paid entry, with cheap return tickets"
+    }
+  },
+  "sources": [
+    {
+      "label": "Paradise Park",
+      "url": "https://paradisepark.org.uk/"
+    },
+    {
+      "label": "Paradise Park – About us",
+      "url": "https://paradisepark.org.uk/about-us/"
+    }
+  ]
+}

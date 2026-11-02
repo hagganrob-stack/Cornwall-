@@ -1,0 +1,82 @@
+{
+  "slug": "national-trust-carnewas-at-bedruthan",
+  "written": "2026-11-02",
+  "overview": [
+    "Carnewas is the National Trust clifftop above Bedruthan, between Newquay and Padstow, and it’s where you come for one of the classic views of the north coast: a line of giant rock stacks marching along the beach far below. It’s an easy place to stop, with a car park, shop and tea room right by the viewpoints.",
+    "One important thing to know: you can’t get down to Bedruthan beach. Cliff falls damaged the staircase in 2019, and it remains closed with no safe alternative route, so enjoy the view from the top."
+  ],
+  "expect": [
+    {
+      "title": "The view",
+      "text": "Short paths from the car park lead to viewpoints looking down on the stacks, with the coast stretching away towards Trevose Head.",
+      "source": 0
+    },
+    {
+      "title": "Clifftop walks",
+      "text": "About three-quarters of a mile of the South West Coast Path runs through the site, so you can easily stretch it into a longer walk.",
+      "source": 0
+    },
+    {
+      "title": "Tea room and shop",
+      "text": "The tea room (not run by the Trust) sells drinks and food, and there’s a gift shop with local products, plus picnic tables on the grass.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "The beach is closed",
+      "text": "The stairs to Bedruthan beach have been closed since a rock fall in 2019. Don’t try to find another way down: the cliffs are unstable, the currents are strong and you could be cut off by the tide.",
+      "source": 1
+    },
+    {
+      "label": "Parking",
+      "text": "Pay and display for most visitors; parking is free if you’re a National Trust member or have a Blue Badge. The machines need exact change in coins, or use the parking app, ideally downloaded before you arrive as signal is patchy.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Welcome under close control, especially near livestock and the cliff edges, and on leads in the tea-room garden.",
+      "source": 0
+    },
+    {
+      "label": "Opening",
+      "text": "The clifftop is open dawn to dusk; check winter opening for the tea room.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "An hour",
+    "text": "A quick, rewarding stop on a drive along the coast between Newquay and Padstow, ideally on a clear day for the view. Combine it with a beach at Mawgan Porth just down the road.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "mawgan-porth",
+        "why": "a sandy family beach just down the coast"
+      },
+      {
+        "kind": "attraction",
+        "slug": "macdonalds-farm",
+        "why": "a children’s farm nearby"
+      },
+      {
+        "kind": "town",
+        "slug": "porthcothan",
+        "why": "a little cove village to the north"
+      }
+    ]
+  },
+  "tips": [
+    "Come late in the afternoon for the light on the stacks.",
+    "Bring coins or download the parking app before you go: mobile signal is patchy."
+  ],
+  "sources": [
+    {
+      "label": "National Trust – Carnewas at Bedruthan",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/carnewas-at-bedruthan"
+    },
+    {
+      "label": "National Trust – Steps at Carnewas at Bedruthan",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/carnewas-at-bedruthan/step-closure-at-carnewas-at-bedruthan"
+    }
+  ]
+}

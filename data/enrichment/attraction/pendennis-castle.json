@@ -1,0 +1,98 @@
+{
+  "slug": "pendennis-castle",
+  "written": "2026-11-02",
+  "overview": [
+    "Pendennis Castle sits on the headland at the mouth of Falmouth’s harbour, a Tudor fortress built by Henry VIII to guard the coast. It has come through a long siege and two world wars, so there’s a lot of history packed into one place.",
+    "It’s a properly fun castle for families, run by English Heritage: ramparts to storm, tunnels to explore, big guns to look at, lawns for a picnic and sea views all round. With indoor and outdoor parts, it’s a good choice for a mixed day."
+  ],
+  "expect": [
+    {
+      "title": "The Tudor keep",
+      "text": "The round keep at the heart of the castle is around 450 years old and is the oldest part of the fortress.",
+      "source": 1
+    },
+    {
+      "title": "Ramparts, guns and tunnels",
+      "text": "Walk the ramparts, see the historic guns and head into tunnels that tell the castle’s wartime story.",
+      "source": 0
+    },
+    {
+      "title": "For children",
+      "text": "A small soft play area, a Castle Explorers trail and a build-your-own-city trail, plus volunteer-led tours with costumed characters from the past.",
+      "source": 0
+    },
+    {
+      "title": "Café",
+      "text": "The castle café has sea views.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Paid entry, free for English Heritage members. Booking online by midnight the day before is cheaper, and tickets are valid all day.",
+      "source": 2
+    },
+    {
+      "label": "Green travel discount",
+      "text": "Arrive by bus, train or bike and you get 20% off a ticket bought on the day: just show your travel ticket or helmet.",
+      "source": 0
+    },
+    {
+      "label": "Stay at the castle",
+      "text": "English Heritage has holiday cottages within the castle walls, if you fancy waking up on the ramparts.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "Pendennis makes an easy family half day in Falmouth, rain or shine. Pair it with Falmouth’s town beaches and harbour, or take the ferry over to St Mawes, which has a castle of its own across the water.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "gyllyngvase-beach",
+        "why": "Falmouth’s main family beach"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-maritime-museum-cornwall",
+        "why": "the maritime museum on the harbour"
+      },
+      {
+        "kind": "attraction",
+        "slug": "pendennis-point",
+        "why": "the headland viewpoint just beyond the castle"
+      }
+    ]
+  },
+  "tips": [
+    "Book online the day before for the cheaper ticket, unless you’re coming by bus, train or bike for the green discount on the day.",
+    "Bring a picnic for the lawns on a fine day."
+  ],
+  "facts": {
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "Soft play, explorer trails and costumed tours"
+    },
+    "entry": {
+      "value": "paid",
+      "source": 2,
+      "note": "Paid entry; free for English Heritage members"
+    }
+  },
+  "sources": [
+    {
+      "label": "English Heritage – Pendennis Castle",
+      "url": "https://www.english-heritage.org.uk/visit/places/pendennis-castle/"
+    },
+    {
+      "label": "English Heritage – Plan your visit",
+      "url": "https://www.english-heritage.org.uk/visit/places/pendennis-castle/plan-your-visit/"
+    },
+    {
+      "label": "English Heritage – Prices and opening times",
+      "url": "https://www.english-heritage.org.uk/visit/places/pendennis-castle/prices-and-opening-times/"
+    }
+  ]
+}

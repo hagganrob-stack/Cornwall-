@@ -1,0 +1,74 @@
+{
+  "slug": "tate-st-ives",
+  "written": "2026-11-02",
+  "overview": [
+    "Tate St Ives is a gallery right above Porthmeor Beach, celebrating the artists who made St Ives famous in the 20th century, including Barbara Hepworth, Naum Gabo, Patrick Heron and Marlow Moss, with changing exhibitions of newer work from all over the world.",
+    "Even if modern art isn’t usually your thing, it’s a great way to spend a wet hour in St Ives and see why the town’s light has drawn artists for so long. Hepworth’s former studio and garden, now a museum run by the Tate, is a short walk away and well worth adding."
+  ],
+  "expect": [
+    {
+      "title": "The galleries",
+      "text": "Displays from the Tate collection focus on the artists linked to St Ives and West Cornwall, alongside a programme of temporary exhibitions.",
+      "source": 0
+    },
+    {
+      "title": "Barbara Hepworth Museum",
+      "text": "Hepworth lived and worked at Trewyn Studio from 1949 until her death in 1975. Her bronzes stand in the garden she laid out, most of them where she placed them herself. It needs a separate ticket.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Entry is paid for adults and free for anyone aged 18 and under. Tickets are limited, so booking ahead is recommended, though some are sold on the door. Tate members and Locals Pass holders get in free.",
+      "source": 0
+    },
+    {
+      "label": "Changes to displays",
+      "text": "The collection displays are being updated from November 2026 into early 2027, with some galleries closed at times. If you’re coming for a particular work, check first.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "An hour or two",
+    "text": "A natural wet-weather plan in St Ives, and easy to fit around a morning on Porthmeor Beach right below. Add the Hepworth garden on the same day for a fuller dose of art.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porthmeor-beach",
+        "why": "the surf beach right below the gallery"
+      },
+      {
+        "kind": "attraction",
+        "slug": "st-ives-museum",
+        "why": "local history a short walk away"
+      },
+      {
+        "kind": "beach",
+        "slug": "harbour-beach-st-ives",
+        "why": "the town’s harbour beach"
+      }
+    ]
+  },
+  "tips": [
+    "Book ahead in the school holidays: tickets are limited.",
+    "Under-19s go free, which makes it a good-value family stop."
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 0,
+      "note": "Paid for adults; free for under-19s"
+    }
+  },
+  "sources": [
+    {
+      "label": "Tate St Ives",
+      "url": "https://www.tate.org.uk/visit/tate-st-ives"
+    },
+    {
+      "label": "Tate – Barbara Hepworth Museum and Sculpture Garden",
+      "url": "https://www.tate.org.uk/visit/tate-st-ives/barbara-hepworth-museum-and-sculpture-garden"
+    }
+  ]
+}

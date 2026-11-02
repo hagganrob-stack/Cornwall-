@@ -1,0 +1,26 @@
+{
+  "slug": "st-nectans-waterfall",
+  "written": "2026-11-02",
+  "overview": [
+    "St Nectan’s Glen is a wooded valley at Trethevy, just up the coast from Tintagel, following the Trevillet River for about a mile. Its showpiece is St Nectan’s Kieve, a waterfall around 60 feet high that pours through a hole worn in the rock into a pool below.",
+    "It has a mystical reputation: many visitors leave ribbons, crystals and little stacks of stones near the falls. The story of a 6th-century hermit saint ringing a bell here to warn ships is probably a Victorian invention, but it’s a magical spot all the same."
+  ],
+  "expect": [
+    { "title": "The woodland walk", "text": "Paths follow the river up through the glen to the waterfall.", "source": 0 },
+    { "title": "The kieve", "text": "The waterfall and its rock arch are the highlight, especially after rain when the river is full.", "source": 0 },
+    { "title": "Café", "text": "There’s a café at the site.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Before you go", "text": "Check the official website for opening times and entry details for the waterfall.", "source": 1 },
+    { "label": "Footwear", "text": "It’s a woodland and riverside walk, so wear shoes with good grip.", "source": null }
+  ],
+  "week": { "slot": "An hour or two", "text": "An easy add-on to a Tintagel day, and a good choice on a grey or drizzly day when the woods feel at their most atmospheric. Pair it with Rocky Valley’s ravine walk next door.", "pairWith": [
+    { "kind": "attraction", "slug": "rocky-valley", "why": "a dramatic ravine walk down to the sea" },
+    { "kind": "attraction", "slug": "tintagel-castle", "why": "the legendary castle a few minutes’ drive away" },
+    { "kind": "beach", "slug": "bossiney-haven", "why": "a sandy cove nearby at low tide" } ] },
+  "tips": [ "Go after a spell of rain for the fullest waterfall." ],
+  "sources": [
+    { "label": "Wikipedia – St Nectan’s Glen", "url": "https://en.wikipedia.org/wiki/St_Nectan%27s_Glen", "licence": "CC BY-SA 4.0" },
+    { "label": "St Nectan’s Glen – official website", "url": "http://www.st-nectansglen.co.uk/" }
+  ]
+}

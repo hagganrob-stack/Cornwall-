@@ -1,0 +1,72 @@
+{
+  "slug": "national-trust-trelissick-garden",
+  "written": "2026-11-02",
+  "overview": [
+    "Trelissick is a National Trust house, garden and parkland at Feock, near Truro, looking out over the wide waters of the Carrick Roads estuary. Unlike the deep valley gardens of the Helford, it feels more like a landscaped park: open lawns and big trees with views down the river towards Falmouth.",
+    "The garden is known for its rare shrubs, and the mild climate lets all sorts of exotic plants grow outdoors year round, from tree ferns and yuccas to handkerchief trees, alongside the rhododendrons, azaleas, camellias and hydrangeas planted by the Copeland family, who gave the estate to the Trust in 1955."
+  ],
+  "expect": [
+    {
+      "title": "The garden",
+      "text": "Split in two by the lane down to the ferry and joined by a little wooden bridge, the garden is full of colour from spring blossom through to summer hydrangeas.",
+      "source": 0
+    },
+    {
+      "title": "Park and woodland walks",
+      "text": "A large park and woodland paths lead down towards the water, with views over the estuary.",
+      "source": 0
+    },
+    {
+      "title": "A china connection",
+      "text": "Ronald Copeland ran the Spode china factory, and blooms grown in the garden became the models for flowers decorating Spode pottery.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "On the B3289 at Feock, just next to the King Harry Ferry across the River Fal.",
+      "source": 0
+    },
+    {
+      "label": "Before you go",
+      "text": "Check the National Trust website for opening times, prices and parking; National Trust members get in free.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Two to three hours",
+    "text": "A relaxed half day for a fine day around Truro or Falmouth. Combine it with a ride on the King Harry chain ferry over the Fal to the Roseland, or with lunch in Truro.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "king-harry-ferry",
+        "why": "the chain ferry across the Fal, right next door"
+      },
+      {
+        "kind": "beach",
+        "slug": "loe-beach",
+        "why": "a sheltered creek beach close by"
+      },
+      {
+        "kind": "town",
+        "slug": "truro",
+        "why": "Cornwall’s cathedral city for shops and lunch"
+      }
+    ]
+  },
+  "tips": [
+    "Spring is a lovely time for the blossom and rhododendrons."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Trelissick",
+      "url": "https://en.wikipedia.org/wiki/Trelissick",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "National Trust – Trelissick",
+      "url": "https://www.nationaltrust.org.uk/trelissick"
+    }
+  ]
+}

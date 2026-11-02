@@ -1,0 +1,109 @@
+{
+  "slug": "national-trust-cotehele",
+  "written": "2026-11-02",
+  "overview": [
+    "Cotehele is a Tudor house with medieval roots, set high above the River Tamar on the Cornwall–Devon border, and one of the National Trust’s most atmospheric places. Below the house, a steep valley garden drops down through orchards and woods to Cotehele Quay on the river, and there’s an old mill further along the valley.",
+    "It’s a whole estate to explore rather than just a house: rooms full of history, gardens and orchards, riverside paths, and play areas for children. At Christmas it’s known for the enormous flower garland built in the Great Hall."
+  ],
+  "expect": [
+    {
+      "title": "The house",
+      "text": "Rooms of a Tudor house with medieval roots. It closes in winter for conservation, apart from the Hall and a few rooms opened for Christmas.",
+      "source": 0
+    },
+    {
+      "title": "The Christmas garland",
+      "text": "Each November gardeners build a huge garland from more than 30,000 dried flowers in the Hall, and it stays up over the festive season.",
+      "source": 0
+    },
+    {
+      "title": "Quay and mill",
+      "text": "Down by the river, Cotehele Quay and the mill make a lovely walk from the house; a shuttle bus sometimes runs between them.",
+      "source": 0
+    },
+    {
+      "title": "For children",
+      "text": "There are play areas in the Cherry Orchard near the main car park and at the quay car park, and seasonal family trails.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Paid entry for non-members; National Trust members get in free.",
+      "source": 0
+    },
+    {
+      "label": "Parking",
+      "text": "Pay and display for non-members; members park free. Use the upper car parks for the house and the lower one for the quay and mill.",
+      "source": 0
+    },
+    {
+      "label": "Food",
+      "text": "The café at the quay is closed for building works for now, so check what’s open before you go.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Only assistance dogs in the house, orchards and Valley Garden.",
+      "source": 0
+    },
+    {
+      "label": "By train",
+      "text": "The Tamar Valley line runs from Plymouth to Calstock, followed by a 1.5-mile walk along the river and up through the woods.",
+      "source": 0
+    },
+    {
+      "label": "Access",
+      "text": "An all-terrain mobility scooter can be booked for the orchard, parts of the garden and the paths to the quay and mill.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "Cotehele is out on the far eastern edge of Cornwall, so it fits most easily into a day in the Tamar Valley or on your journey in or out. Allow time to walk down to the quay as well as see the house.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "calstock",
+        "why": "a riverside village on the Tamar, with a train station"
+      },
+      {
+        "kind": "attraction",
+        "slug": "dupath-well",
+        "why": "a tiny medieval holy well near Callington"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
+        "why": "a farm park for younger children"
+      }
+    ]
+  },
+  "tips": [
+    "Check which parts of the house are open before you go; it closes over winter apart from Christmas.",
+    "Wear good shoes: it’s a steep walk down to the quay and back."
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "A historic house plus gardens, quay and riverside paths"
+    },
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "Play areas and family trails"
+    }
+  },
+  "sources": [
+    {
+      "label": "National Trust – Cotehele",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/cotehele"
+    },
+    {
+      "label": "National Trust – The Tramper at Cotehele",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/cotehele/the-tramper-at-cotehele"
+    }
+  ]
+}
