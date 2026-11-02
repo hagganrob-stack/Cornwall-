@@ -1,0 +1,84 @@
+{
+  "slug": "trerice",
+  "written": "2026-11-02",
+  "overview": [
+    "Trerice is a small, charming Elizabethan manor house about three miles east of Newquay, run by the National Trust since 1953. It’s a Grade I listed Tudor house with a pair of stone lions on the front lawn, and a garden with an orchard of old fruit varieties.",
+    "It’s a calmer, more intimate visit than the big stately homes, and handy if you’re staying around Newquay and want a gentle half day away from the beaches."
+  ],
+  "expect": [
+    {
+      "title": "The house",
+      "text": "Big-house grandeur in miniature, with rooms that take you from the 1500s right through to the 1950s, an enormous table and a fine collection of longcase clocks. Room guides, including Braille ones, help you get to know it.",
+      "source": 0
+    },
+    {
+      "title": "Garden and orchard",
+      "text": "A small, varied garden with an Elizabethan knot garden, cottage borders and an orchard of old fruit varieties.",
+      "source": 0
+    },
+    {
+      "title": "Barn café and shop",
+      "text": "A café in the old barn serves drinks, light bites and cake, and there’s a shop with books, gifts and local produce.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Paid entry for non-members, with family tickets; National Trust members get in free.",
+      "source": 0
+    },
+    {
+      "label": "Access",
+      "text": "There’s Blue Badge parking and accessible toilets, but some routes are steep or gravelly and access inside the house is limited to parts of the ground and first floor. A map of the accessible route is available.",
+      "source": 0
+    },
+    {
+      "label": "Where it is",
+      "text": "At Kestle Mill, about three miles east of Newquay.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Two hours or so",
+    "text": "A gentle half day close to Newquay, nice on a dry day or a showery one. Pair it with Lappa Valley next door if you have younger children.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "lappa-valley",
+        "why": "a family park with trains, just down the road"
+      },
+      {
+        "kind": "attraction",
+        "slug": "newquay-zoo",
+        "why": "the zoo in Newquay"
+      },
+      {
+        "kind": "beach",
+        "slug": "tolcarne-beach",
+        "why": "one of Newquay’s town beaches"
+      }
+    ]
+  },
+  "tips": [
+    "Children can borrow ear defenders from reception if they need them."
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "A Tudor house plus garden and orchard"
+    }
+  },
+  "sources": [
+    {
+      "label": "National Trust – Trerice",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/trerice"
+    },
+    {
+      "label": "Wikipedia – Trerice",
+      "url": "https://en.wikipedia.org/wiki/Trerice",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

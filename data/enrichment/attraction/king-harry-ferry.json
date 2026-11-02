@@ -1,0 +1,26 @@
+{
+  "slug": "king-harry-ferry",
+  "written": "2026-11-02",
+  "overview": [
+    "The King Harry Ferry is a chain ferry that hauls itself across the River Fal on underwater chains, linking Feock (near Truro and Trelissick) with the Roseland Peninsula and St Mawes. It has run since 1888 and is one of only five chain ferries left in England.",
+    "It’s a genuinely useful shortcut, saving a 27-mile drive round through Truro, and a lovely little experience in its own right: you can get out of the car and enjoy the slow crossing over one of Cornwall’s deepest rivers, with wooded banks on either side."
+  ],
+  "expect": [
+    { "title": "The crossing", "text": "A short, slow trip across the Fal, with glass-sided viewing windows to watch the chains at work and touch-screen information on board.", "source": 0 },
+    { "title": "Getting to the Roseland", "text": "It’s the quickest way from the Truro and Falmouth side to St Mawes and the beaches of the Roseland Peninsula.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "When it runs", "text": "Seven days a week, all year, leaving each side about every 20 minutes, though every sailing depends on the tide, weather and circumstances.", "source": 0 },
+    { "label": "Tickets", "text": "Pay on board, by contactless card ideally, or cash. Regular users can save with a local card.", "source": 1 }
+  ],
+  "week": { "slot": "A few minutes (plus queueing in summer)", "text": "Build it into a day exploring the Roseland: cross from Trelissick, head down to St Mawes and the beaches around Portscatho, then come back the same way or loop round through Truro.", "pairWith": [
+    { "kind": "attraction", "slug": "national-trust-trelissick-garden", "why": "the garden right beside the ferry" },
+    { "kind": "town", "slug": "st-mawes", "why": "a pretty harbour village on the Roseland" },
+    { "kind": "beach", "slug": "porthcurnick", "why": "a sandy Roseland beach near Portscatho" } ] },
+  "tips": [ "Expect queues on summer afternoons and allow extra time if you’re catching a booking on the other side.", "Get out of the car for the crossing: the views up and down the river are lovely." ],
+  "facts": { "setting": { "value": "outdoor", "source": 0, "note": "A river crossing" }, "entry": { "value": "paid", "source": 1, "note": "Fares paid on board" } },
+  "sources": [
+    { "label": "Fal River – King Harry Ferry", "url": "https://www.falriver.co.uk/ferries/king-harry-ferry" },
+    { "label": "Fal River – King Harry Ferry prices and tickets", "url": "https://www.falriver.co.uk/ferries/king-harry-ferry/prices-and-tickets" }
+  ]
+}

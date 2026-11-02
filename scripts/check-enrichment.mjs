@@ -38,7 +38,7 @@ for (const kind of ['attraction', 'beach']) {
     const problems = [];
     if (copied.length) problems.push(`${copied.length} copied ${N}-word runs, e.g. "${copied.slice(0, 3).join('" | "')}"`);
     for (const line of text.split('\n')) {
-      if (FIRST_PERSON.test(line)) problems.push(`first person: "${line.slice(0, 80)}"`);
+      if (FIRST_PERSON.test(line.replace(/\bGrade I\b/g, ''))) problems.push(`first person: "${line.slice(0, 80)}"`);
       const m = line.match(SUPERLATIVE);
       if (m) problems.push(`superlative "${m[0]}": "${line.slice(0, 80)}"`);
     }

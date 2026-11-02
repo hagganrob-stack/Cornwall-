@@ -1,0 +1,66 @@
+{
+  "slug": "truro-cathedral",
+  "written": "2026-11-02",
+  "overview": [
+    "Truro Cathedral rises over the middle of Cornwall’s only city. It’s younger than it looks: it was built between 1880 and 1910 in Gothic Revival style, after Cornwall won back a diocese of its own, on the site of the old parish church of St Mary.",
+    "It’s a peaceful place to step into from the busy streets, and it welcomes visitors of all faiths and none. There’s often something on, from choir concerts and exhibitions to evening light and sound shows."
+  ],
+  "expect": [
+    {
+      "title": "The building",
+      "text": "A Gothic Revival cathedral right in the heart of the city.",
+      "source": 0
+    },
+    {
+      "title": "Music and events",
+      "text": "Choral services, concerts, talks, exhibitions and occasional immersive light shows run through the year.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "Visiting hours can change around services and events, so check the opening hours page before you go.",
+      "source": 0
+    },
+    {
+      "label": "Events",
+      "text": "Concerts and shows usually need tickets; see the What’s On page.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Up to an hour",
+    "text": "An easy stop to build into a day in Truro, especially on a wet one: combine it with the Cornwall Museum and Art Gallery next door and a wander round the city’s shops.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "cornwall-museum-and-art-gallery",
+        "why": "Cornwall’s county museum, a few steps away"
+      },
+      {
+        "kind": "attraction",
+        "slug": "victoria-gardens",
+        "why": "a small Victorian park in the city"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-trelissick-garden",
+        "why": "gardens on the Fal estuary just south of the city"
+      }
+    ]
+  },
+  "tips": [
+    "Check the What’s On page: an evening concert or light show makes a memorable night out."
+  ],
+  "sources": [
+    {
+      "label": "Truro Cathedral",
+      "url": "https://www.trurocathedral.org.uk/"
+    },
+    {
+      "label": "Truro Cathedral – Leave a legacy (history)",
+      "url": "https://www.trurocathedral.org.uk/about-us/leave-a-legacy"
+    }
+  ]
+}

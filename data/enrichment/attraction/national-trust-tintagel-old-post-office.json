@@ -1,0 +1,74 @@
+{
+  "slug": "national-trust-tintagel-old-post-office",
+  "written": "2026-11-02",
+  "overview": [
+    "In the middle of Tintagel village, the Old Post Office is a 14th-century stone house built like a little medieval manor, with a cottage garden around it. It got its name in Victorian times, when it briefly served as the area’s letter-receiving office, and has been restored to look as it did then.",
+    "It was one of the National Trust’s very first properties, bought in 1903 after a local woman and a group of artists raised money to save it from demolition. It’s a small, quick visit and a lovely contrast to the castle down the road."
+  ],
+  "expect": [
+    {
+      "title": "The house",
+      "text": "A Grade I listed medieval house laid out like a manor in miniature, with the Victorian post office restored inside.",
+      "source": 0
+    },
+    {
+      "title": "The garden",
+      "text": "A cottage garden surrounds the house.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "It closes over the winter months; check the National Trust website for dates.",
+      "source": 0
+    },
+    {
+      "label": "Tickets",
+      "text": "Paid entry for non-members; National Trust members get in free.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Half an hour",
+    "text": "A quick, charming stop to add to a Tintagel day, either before or after the castle.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "tintagel-castle",
+        "why": "the legendary castle a short walk down the lane"
+      },
+      {
+        "kind": "attraction",
+        "slug": "tintagel-toy-museum",
+        "why": "a small museum on the same street"
+      },
+      {
+        "kind": "beach",
+        "slug": "bossiney-haven",
+        "why": "a sandy cove a short drive away"
+      }
+    ]
+  },
+  "tips": [
+    "Pop in on your way to or from the castle: it’s in the village, a short walk away."
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "A small historic house and cottage garden"
+    }
+  },
+  "sources": [
+    {
+      "label": "Wikipedia – Tintagel Old Post Office",
+      "url": "https://en.wikipedia.org/wiki/Tintagel_Old_Post_Office",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "National Trust – Tintagel Old Post Office",
+      "url": "http://www.nationaltrust.org.uk/tintagel-old-post-office/"
+    }
+  ]
+}

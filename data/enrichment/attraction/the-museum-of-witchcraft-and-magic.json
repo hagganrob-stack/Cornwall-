@@ -1,0 +1,67 @@
+{
+  "slug": "the-museum-of-witchcraft-and-magic",
+  "written": "2026-11-02",
+  "overview": [
+    "In the village of Boscastle, the Museum of Witchcraft and Magic is a quirky, fascinating museum devoted to folk magic, charms, ritual magic and modern witchcraft. Its collection has been described as the largest of its kind in the world.",
+    "It has a colourful history too. It was founded by the folk magician Cecil Williamson, who faced hostility when he opened it in other parts of England before settling in Boscastle in 1960. It’s an intriguing, slightly spooky hour or so, and a good indoor option on a wet day."
+  ],
+  "expect": [
+    {
+      "title": "The collection",
+      "text": "Objects and displays on folk magic, cunning folk, ceremonial magic and Wicca, built up over decades.",
+      "source": 0
+    },
+    {
+      "title": "Boscastle itself",
+      "text": "The museum sits in a pretty harbour village with a National Trust harbour, walks and cafés, so it’s easy to make a morning of it.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Before you go",
+      "text": "Check the museum’s website for opening times and prices.",
+      "source": 1
+    },
+    {
+      "label": "Age",
+      "text": "Some exhibits deal with dark themes, so younger or easily scared children may not enjoy it.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "An hour or so",
+    "text": "Ideal for a showery day on the north coast around Tintagel and Boscastle. Combine it with the walk up the valley to Pentargon waterfall or along to Tintagel.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "pentargon-waterfall",
+        "why": "a waterfall dropping into the sea, a short clifftop walk away"
+      },
+      {
+        "kind": "attraction",
+        "slug": "tintagel-castle",
+        "why": "the legendary castle down the coast"
+      },
+      {
+        "kind": "beach",
+        "slug": "crackington-haven",
+        "why": "a sandy beach up the coast"
+      }
+    ]
+  },
+  "tips": [
+    "Combine it with a walk around Boscastle harbour and the cliffs."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Museum of Witchcraft and Magic",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_Witchcraft_and_Magic",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "Museum of Witchcraft and Magic – official website",
+      "url": "http://museumofwitchcraftandmagic.co.uk/"
+    }
+  ]
+}

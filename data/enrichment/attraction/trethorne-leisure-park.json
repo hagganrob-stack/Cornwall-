@@ -1,0 +1,28 @@
+{
+  "slug": "trethorne-leisure-park",
+  "written": "2026-11-02",
+  "overview": [
+    "Trethorne Leisure Park is an all-weather family fun centre just off the A30 near Launceston, right on the edge of Cornwall. It packs a lot under one roof: big indoor soft play areas, ten-pin bowling, dodgems and an animal barn, with outdoor play when the weather allows.",
+    "It’s not a beauty spot, but for families with younger children it’s a reliable rainy-day rescue, and a handy place to break the journey on the way in or out of Cornwall."
+  ],
+  "expect": [
+    { "title": "Soft play and slides", "text": "Huge indoor soft play areas with ball pools and slides.", "source": 0 },
+    { "title": "Bowling and dodgems", "text": "A ten-pin bowling alley, dodgems and amusements, with a bar and restaurant.", "source": 0 },
+    { "title": "Animals", "text": "An animal barn and outdoor enclosures to visit.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Opening", "text": "Hours change through the year and in the school holidays, and in winter the whole park is closed on Mondays and Tuesdays. Pick your date on the website to see what’s open.", "source": 1 },
+    { "label": "Tickets", "text": "Paid day admission, with twilight, return and season tickets available.", "source": 1 },
+    { "label": "Where it is", "text": "Just off the A30 near Launceston.", "source": 0 }
+  ],
+  "week": { "slot": "Two to four hours", "text": "Keep it in your back pocket for a wet day with younger children if you’re staying in east or north Cornwall, or use it to break up the drive on arrival or departure day.", "pairWith": [
+    { "kind": "attraction", "slug": "hidden-valley", "why": "a puzzle park close by" },
+    { "kind": "attraction", "slug": "launceston-castle", "why": "a hilltop castle in the nearby town" },
+    { "kind": "town", "slug": "launceston", "why": "the nearest town" } ] },
+  "tips": [ "Check opening times for the activity you want before setting off: they vary by day and season." ],
+  "facts": { "kids": { "value": "yes", "source": 0, "note": "Soft play, animals and family activities" }, "entry": { "value": "paid", "source": 1, "note": "Paid day admission" } },
+  "sources": [
+    { "label": "Trethorne Leisure Park", "url": "https://trethorneleisure.com/" },
+    { "label": "Trethorne – Opening times", "url": "https://trethorneleisure.com/before-you-visit/opening-times" }
+  ]
+}

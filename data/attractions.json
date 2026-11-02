@@ -11622,7 +11622,12 @@
     "address": "2 Ferry Cottages, Feock, Truro, TR3 6QJ",
     "website": "http://www.falriver.co.uk/getting-about/ferries/king-harry-ferry",
     "setting": {
-      "value": "not stated"
+      "value": "outdoor",
+      "method": "A river crossing",
+      "source": {
+        "label": "Fal River – King Harry Ferry",
+        "url": "https://www.falriver.co.uk/ferries/king-harry-ferry"
+      }
     },
     "rainyDay": {
       "value": "not stated"
@@ -11631,7 +11636,13 @@
       "value": "not stated"
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Fares paid on board",
+      "source": {
+        "label": "Fal River – King Harry Ferry prices and tickets",
+        "url": "https://www.falriver.co.uk/ferries/king-harry-ferry/prices-and-tickets"
+      }
     },
     "hours": {
       "value": "not stated"
@@ -11797,12 +11808,16 @@
       }
     ],
     "guide": {
-      "whoItSuits": null,
+      "whoItSuits": [
+        "a dry day outdoors"
+      ],
       "howLongToAllow": null,
-      "bestTimeToGo": null,
+      "bestTimeToGo": [
+        "On a dry day"
+      ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "King Harry Ferry is a ferry service 4.9 km from Mylor Bridge, in South Coast. The nearest beach is Loe Beach (2.1 km)."
+    "description": "King Harry Ferry is a ferry service 4.9 km from Mylor Bridge, in South Coast. It’s outdoors, so it’s best on a dry day. There’s an entry charge; prices are on its website. The nearest beach is Loe Beach (2.1 km)."
   },
   {
     "slug": "kresen-kernow",
@@ -20012,10 +20027,20 @@
     "address": "Fore St, Tintagel, PL34 0DB",
     "website": "http://www.nationaltrust.org.uk/tintagel-old-post-office/",
     "setting": {
-      "value": "not stated"
+      "value": "indoor and outdoor",
+      "method": "A small historic house and cottage garden",
+      "source": {
+        "label": "Wikipedia – Tintagel Old Post Office",
+        "url": "https://en.wikipedia.org/wiki/Tintagel_Old_Post_Office"
+      }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "Wikipedia – Tintagel Old Post Office",
+        "url": "https://en.wikipedia.org/wiki/Tintagel_Old_Post_Office"
+      }
     },
     "kids": {
       "value": "not stated"
@@ -20246,14 +20271,17 @@
       }
     ],
     "guide": {
-      "whoItSuits": null,
+      "whoItSuits": [
+        "a changeable day (there’s indoor space)"
+      ],
       "howLongToAllow": null,
       "bestTimeToGo": [
+        "Any day, including wet ones",
         "Check the website: the listing currently shows it closed every day, which often means it is out of season"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "National Trust - Tintagel Old Post Office is an attraction in Tintagel, in North Coast. There’s an entry charge; prices are on its website. The nearest beach is Bossiney haven (1.3 km)."
+    "description": "National Trust - Tintagel Old Post Office is an attraction in Tintagel, in North Coast. It has both indoor and outdoor areas. There’s an entry charge; prices are on its website. The nearest beach is Bossiney haven (1.3 km)."
   },
   {
     "slug": "national-trust-trelissick-garden",
@@ -34933,15 +34961,20 @@
     "address": "Kestle Mill, Newquay, TR8 4PG",
     "website": "http://www.nationaltrust.org.uk/trerice",
     "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Garden, Historical landmark)",
+      "value": "indoor and outdoor",
+      "method": "A Tudor house plus garden and orchard",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XjHeOoNa0gRlXLfdPGn6p4"
+        "label": "National Trust – Trerice",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/trerice"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "National Trust – Trerice",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/trerice"
+      }
     },
     "kids": {
       "value": "not stated"
@@ -35162,16 +35195,16 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "One to three hours",
       "bestTimeToGo": [
-        "On a dry day",
+        "Any day, including wet ones",
         "Not on Monday, Tuesday, Wednesday, Thursday and Friday, when the listing shows it closed"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Trerice is a garden 4.5 km from Newquay, in North Coast. It’s outdoors, so it’s best on a dry day. There’s an entry charge; prices are on its website. The nearest beach is Tolcarne Beach (4.3 km)."
+    "description": "Trerice is a garden 4.5 km from Newquay, in North Coast. It has both indoor and outdoor areas. There’s an entry charge; prices are on its website. The nearest beach is Tolcarne Beach (4.3 km)."
   },
   {
     "slug": "trethorne-leisure-park",
@@ -35208,14 +35241,20 @@
     },
     "kids": {
       "value": "yes",
-      "method": "Aimed at families (Google Maps category: Theme park)",
+      "method": "Soft play, animals and family activities",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJ58F7AKd9bEgRG1a2VpJ2Y1E"
+        "label": "Trethorne Leisure Park",
+        "url": "https://trethorneleisure.com/"
       }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid day admission",
+      "source": {
+        "label": "Trethorne – Opening times",
+        "url": "https://trethorneleisure.com/before-you-visit/opening-times"
+      }
     },
     "hours": {
       "value": "listed",
@@ -35325,7 +35364,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Trethorne Leisure Park is a bar 4.8 km from Launceston, in Bodmin Moor & East Cornwall. It has both indoor and outdoor areas. It’s aimed at families with children."
+    "description": "Trethorne Leisure Park is a bar 4.8 km from Launceston, in Bodmin Moor & East Cornwall. It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website."
   },
   {
     "slug": "trevelgue-head",
