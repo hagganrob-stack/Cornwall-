@@ -2,11 +2,14 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { towns, townBySlug, regionBySlug, beachBySlug, attractionBySlug, heroImage } from '../../../lib/data';
 import { TTD_ROUNDUPS, townTtdItems, townTtdPath, MIN_TOWN_TTD } from '../../../lib/ttd';
+import { FOOD_ROUNDUPS, townFoodItems, townFoodPath, MIN_TOWN_FOOD } from '../../../lib/foodRoundups';
+import { foodBySlug } from '../../../lib/data';
 import { ROUNDUPS, townRoundupBeaches, townRoundupPath, MIN_TOWN_ROUNDUP } from '../../../lib/roundups';
 import Hero from '../../../components/Hero';
 import Byline from '../../../components/Byline';
 import PlaceCard, { CardGrid } from '../../../components/PlaceCard';
 import OsmMap from '../../../components/OsmMap';
+import FoodBadges from '../../../components/FoodBadges';
 import Nearby from '../../../components/Nearby';
 import { Container, Crumbs, SectionHeading, WeVisited, StayNearby, Sources, AuthorBio } from '../../../components/Blocks';
 import JsonLd from '../../../components/JsonLd';
@@ -34,7 +37,9 @@ export default async function TownPage({ params }) {
   const combos = [
     ...Object.values(ROUNDUPS).map((r) => ({ r, n: townRoundupBeaches(t, r).length, href: townRoundupPath(t, r), what: 'beaches' })).filter((x) => x.n >= MIN_TOWN_ROUNDUP),
     ...Object.values(TTD_ROUNDUPS).map((r) => ({ r, n: townTtdItems(t, r).length, href: townTtdPath(t, r), what: 'things to do' })).filter((x) => x.n >= MIN_TOWN_TTD),
+    ...Object.values(FOOD_ROUNDUPS).map((r) => ({ r, n: townFoodItems(t, r).length, href: townFoodPath(t, r), what: 'places to eat' })).filter((x) => x.n >= MIN_TOWN_FOOD),
   ];
+  const eat = (t.foodNearby || []).map((n) => ({ ...n, v: foodBySlug(n.slug) })).filter((n) => n.v);
   const ttd = (t.attractionsNearby || []).map((n) => ({ ...n, a: attractionBySlug(n.slug) })).filter((n) => n.a);
   return (
     <article>
@@ -82,7 +87,25 @@ export default async function TownPage({ params }) {
             )}
             {ttd.length > 8 ? <p className="mt-4"><Link href="/things-to-do/">See all {ttd.length} nearby in the things-to-do finder →</Link></p> : null}
           </section>
-          {/* Food & drink will slot in here (Phase 3). */}
+          <section className="mt-14">
+            <SectionHeading kicker="Within 3 km">Where to eat and drink</SectionHeading>
+            {eat.length ? (
+              <ul className="grid gap-3 sm:grid-cols-2">
+                {eat.slice(0, 10).map(({ v, km }) => (
+                  <li key={v.slug}>
+                    <Link href={`/food-and-drink/${v.slug}/`} className="block h-full rounded-2xl bg-white p-4 no-underline ring-1 ring-atlantic-950/10 hover:ring-seaglass-500">
+                      <span className="block font-semibold text-atlantic-900">{v.name}</span>
+                      <span className="text-sm text-atlantic-950/60">{v.category} · {km} km</span>
+                      <FoodBadges v={v} className="mt-2" max={3} />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p className="text-atlantic-950/70">We haven’t listed anywhere to eat within 3 km yet.</p>
+            )}
+            {eat.length > 10 ? <p className="mt-4"><Link href="/food-and-drink/">See all {eat.length} nearby in the food and drink finder →</Link></p> : null}
+          </section>
           <StayNearby place={t} />
           <AuthorBio />
           <Sources sources={t.sources} lastChecked={t.lastChecked} />

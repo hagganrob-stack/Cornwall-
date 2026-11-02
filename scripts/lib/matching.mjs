@@ -129,3 +129,6 @@ export const ATTRACTION_RENAME = {
 export const WIKI_OVERRIDE = {
   'beach/hayle-bay': 'Polzeath', // OSM's name for Polzeath beach; "Hayle" is a different town
 };
+
+// Food & drink: Google place_ids or exact titles to leave out (closed, duplicates, not open to the public).
+export const FOOD_EXCLUDE = [];

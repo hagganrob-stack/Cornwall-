@@ -22,7 +22,7 @@ const NAV = [
   ['Beaches', '/beaches/'],
   ['Dog-friendly', '/beaches/dog-friendly/'],
   ['Things to do', '/things-to-do/'],
-  ['Rainy day', '/things-to-do/rainy-day/'],
+  ['Food & drink', '/food-and-drink/'],
   ['Towns', '/towns/'],
 ];
 

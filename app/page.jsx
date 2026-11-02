@@ -3,7 +3,8 @@ import Image from 'next/image';
 import { beaches, towns, regions, heroImage, isLifeguarded, beachBySlug, latestChecked, displayName, townName, imgSrc } from '../lib/data';
 import { ROUNDUPS, roundupBeaches, roundupPath } from '../lib/roundups';
 import { TTD_ROUNDUPS, ttdRoundupItems, ttdRoundupPath } from '../lib/ttd';
-import { attractions } from '../lib/data';
+import { attractions, food } from '../lib/data';
+import { FOOD_ROUNDUPS, foodRoundupItems, foodRoundupPath } from '../lib/foodRoundups';
 import Byline from '../components/Byline';
 import PlaceCard, { CardGrid } from '../components/PlaceCard';
 import { Container, SectionHeading } from '../components/Blocks';
@@ -131,6 +132,20 @@ export default function Home() {
               </Link>
             );
           })}
+        </div>
+      </Container>
+
+      <Container className="mt-16">
+        <SectionHeading kicker={`${food.length} pubs, cafés and restaurants`} action={<Link href="/food-and-drink/" className="text-sm font-semibold no-underline">All food and drink →</Link>}>
+          Where to eat and drink
+        </SectionHeading>
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+          {Object.values(FOOD_ROUNDUPS).map((r, i) => (
+            <Link key={r.slug} href={foodRoundupPath(r)} className={`block rounded-3xl p-6 no-underline transition hover:-translate-y-0.5 hover:shadow-lg ${['bg-atlantic-900 text-white', 'bg-seaglass-500 text-atlantic-950', 'bg-sand-100 text-atlantic-900', 'bg-atlantic-100 text-atlantic-900', 'bg-sand-200 text-atlantic-900'][i % 5]}`}>
+              <span className="block font-[family-name:var(--font-display)] text-xl font-bold">{r.label}</span>
+              <span className="mt-1 block text-sm opacity-80">{foodRoundupItems(r).length} places →</span>
+            </Link>
+          ))}
         </div>
       </Container>
 

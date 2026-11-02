@@ -1,5 +1,7 @@
 import { beaches, towns, regions, attractions } from '../lib/data';
 import { TTD_ROUNDUPS, ttdRoundupPath, townTtdPairs, townTtdPath } from '../lib/ttd';
+import { FOOD_ROUNDUPS, foodRoundupPath, townFoodPairs, townFoodPath } from '../lib/foodRoundups';
+import { food } from '../lib/data';
 import { ROUNDUPS, roundupPath, townRoundupPairs, townRoundupPath } from '../lib/roundups';
 import { SITE_URL } from '../lib/site';
 
@@ -20,5 +22,9 @@ export default function sitemap() {
     ...Object.values(TTD_ROUNDUPS).map((r) => u(ttdRoundupPath(r))),
     ...townTtdPairs().map(({ town, roundup }) => u(townTtdPath(town, roundup))),
     ...attractions.map((a) => u(`/things-to-do/${a.slug}/`, a.lastChecked)),
+    u('/food-and-drink/'),
+    ...Object.values(FOOD_ROUNDUPS).map((r) => u(foodRoundupPath(r))),
+    ...townFoodPairs().map(({ town, roundup }) => u(townFoodPath(town, roundup))),
+    ...food.map((v) => u(`/food-and-drink/${v.slug}/`, v.lastChecked)),
   ];
 }

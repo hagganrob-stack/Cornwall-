@@ -2,7 +2,7 @@ import PlaceCard, { CardGrid } from './PlaceCard';
 import Byline from './Byline';
 import { Container, Crumbs, Sources, AuthorBio } from './Blocks';
 import JsonLd from './JsonLd';
-import { itemListLd, attractionListLd } from '../lib/seo';
+import { itemListLd, attractionListLd, foodListLd } from '../lib/seo';
 import { townName, latestChecked, heroImage } from '../lib/data';
 import Hero from './Hero';
 
@@ -14,16 +14,16 @@ const SOURCES = [
 
 // Shared layout for /beaches/<roundup>/ and /towns/<town>/<roundup>-beaches/.
 export default function Roundup({ title, intro, criteria, crumbs, items, secondary, distanceFrom, path, kind = 'beach', sources }) {
-  const base = kind === 'attraction' ? '/things-to-do/' : '/beaches/';
+  const base = kind === 'attraction' ? '/things-to-do/' : kind === 'food' ? '/food-and-drink/' : '/beaches/';
   const all = [...items, ...(secondary?.items || [])].map((x) => x.b);
   const hero = heroImage(items.map((x) => x.b).find((b) => heroImage(b)?.width > 1500) || items[0]?.b);
   const card = ({ b, km }) => (
-    <PlaceCard key={b.slug} place={b} beach={kind === 'beach'} attraction={kind === 'attraction'} href={`${base}${b.slug}/`} meta={km != null ? `${km} km from ${distanceFrom}` : `Near ${townName(b.town)}`} />
+    <PlaceCard key={b.slug} place={b} beach={kind === 'beach'} attraction={kind === 'attraction'} food={kind === 'food'} href={`${base}${b.slug}/`} meta={km != null ? `${km} km from ${distanceFrom}` : `Near ${townName(b.town)}`} />
   );
   return (
     <>
-      <JsonLd data={(kind === 'attraction' ? attractionListLd : itemListLd)(title, items.map((x) => x.b), path)} />
-      <Hero image={hero} title={title} kicker={`${items.length} ${kind === 'attraction' ? 'places' : 'beaches'}`} lat={50.3} lng={-5} />
+      <JsonLd data={(kind === 'attraction' ? attractionListLd : kind === 'food' ? foodListLd : itemListLd)(title, items.map((x) => x.b), path)} />
+      <Hero image={hero} title={title} kicker={`${items.length} ${kind === 'beach' ? 'beaches' : 'places'}`} lat={50.3} lng={-5} />
       <Container className="mt-6">
         <Crumbs items={crumbs} />
         <Byline lastChecked={latestChecked(all)} className="mt-3" />

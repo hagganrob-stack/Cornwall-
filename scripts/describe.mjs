@@ -9,6 +9,7 @@ import { readJson, writeJson, haversineKm, listJoin, NOT_STATED } from './lib/ut
 const beaches = await readJson('data/beaches.json');
 const towns = await readJson('data/towns.json');
 const attractions = (await readJson('data/attractions.json')) || [];
+const food = (await readJson('data/food.json')) || [];
 const regions = await readJson('data/regions.json');
 const regionName = (slug) => regions.find((r) => r.slug === slug)?.name || slug;
 const townBy = Object.fromEntries(towns.map((t) => [t.slug, t]));
@@ -59,6 +60,14 @@ const near = (from, list, km, n) =>
     .slice(0, n);
 for (const b of beaches) b.nearbyAttractions = near(b, attractions, 5, 6);
 for (const t of towns) t.attractionsNearby = near(t, attractions, ATTR_TOWN_KM, 999);
+// Food & drink: within 2 km of a beach, 3 km of a town hub.
+for (const b of beaches) b.nearbyFood = near(b, food, 2, 8);
+for (const t of towns) t.foodNearby = near(t, food, 3, 999);
+for (const v of food) {
+  v.nearbyBeaches = near(v, beaches, 3, 5);
+  v.nearbyAttractions = near(v, attractions, 5, 4);
+  v.nearbyFood = near(v, food, 1.5, 5);
+}
 for (const a of attractions) {
   a.nearbyAttractions = near(a, attractions, 10, 6);
   a.nearbyBeaches = near(a, beaches, 8, 6);
@@ -167,6 +176,8 @@ function describeTown(t) {
     const indoor = ttd.filter(({ slug }) => attractions.find((a) => a.slug === slug)?.rainyDay.value === 'yes').length;
     s.push(`${ttd.length === 1 ? 'One attraction is' : `${ttd.length} attractions are`} listed within ${ATTR_TOWN_KM} km${indoor ? `, ${indoor === 1 ? 'one' : indoor} with indoor space for a rainy day` : ''}.`);
   }
+  const eat = t.foodNearby || [];
+  if (eat.length) s.push(`There ${eat.length === 1 ? 'is one place' : `are ${eat.length} places`} to eat and drink within 3 km.`);
   const nt = t.nearbyTowns.slice(0, 2);
   s.push(`The nearest other bases are ${listJoin(nt.map((n) => `${n.name} (${kmText(n.km)})`))}.`);
   return s.join(' ');
@@ -217,6 +228,34 @@ for (const a of attractions) {
 }
 if (attractions.length) await writeJson('data/attractions.json', attractions);
 
+// ---------- food & drink -----------------------------------------------------------------------
+const KIND = { pub: 'pub', restaurant: 'restaurant', cafe: 'café', bar: 'bar' };
+const yes = (v, k) => v.features?.[k]?.value === 'yes';
+function describeFood(v) {
+  const town = townBy[v.town];
+  const cat = (v.category || '').toLowerCase();
+  const what = v.kind === 'restaurant' && /restaurant/.test(cat) && cat !== 'restaurant' ? cat : KIND[v.kind];
+  const where = v.townDistanceKm < 1 ? `in ${town.name}` : `${kmText(v.townDistanceKm)} from ${town.name}`;
+  const s = [`${v.name} is ${article(what)} ${what} ${where}, in ${regionName(v.region)}.`];
+  const offers = [];
+  if (yes(v, 'food') && v.kind === 'pub') offers.push('serves food');
+  if (yes(v, 'sundayRoast')) offers.push('does Sunday roasts');
+  if (yes(v, 'realAle')) offers.push('has real ale');
+  if (yes(v, 'liveMusic')) offers.push('puts on live music');
+  if (offers.length) s.push(`Its website says it ${listJoin(offers)}.`);
+  const good = [];
+  if (yes(v, 'dogFriendly')) good.push('dogs');
+  if (yes(v, 'familyFriendly')) good.push('families');
+  if (good.length) s.push(`It welcomes ${listJoin(good)}, according to its website.`);
+  if (yes(v, 'seaView')) s.push('Its website mentions views over the water.');
+  if (yes(v, 'beerGarden') || yes(v, 'outdoorSeating')) s.push('There’s somewhere to sit outside.');
+  const nb = v.nearbyBeaches?.[0];
+  if (nb) s.push(`The nearest beach is ${nb.name} (${kmText(nb.km)}).`);
+  return s.join(' ');
+}
+for (const v of food) v.description = describeFood(v);
+if (food.length) await writeJson('data/food.json', food);
+
 await writeJson('data/beaches.json', beaches);
 await writeJson('data/towns.json', towns);
-console.log(`Described ${beaches.length} beaches, ${towns.length} towns and ${attractions.length} attractions.`);
+console.log(`Described ${beaches.length} beaches, ${towns.length} towns, ${attractions.length} attractions and ${food.length} places to eat and drink.`);
