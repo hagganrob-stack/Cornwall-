@@ -1,0 +1,68 @@
+{
+  "slug": "constantine-bay",
+  "written": "2026-11-02",
+  "overview": [
+    "Constantine Bay is a big, sandy beach about three miles west of Padstow, one of the string of lovely beaches along this stretch of the north coast between Trevose Head and Porthcothan. It faces west into the Atlantic and is popular with surfers, with lifeguards in summer.",
+    "Behind the beach is a large dune system, which is fragile and protected, so stick to the marked paths through it."
+  ],
+  "expect": [
+    {
+      "title": "Sand and surf",
+      "text": "A large, sandy beach that picks up Atlantic swell, with lifeguard patrols in summer.",
+      "source": 0
+    },
+    {
+      "title": "Dunes",
+      "text": "Big dunes back the beach, part of a protected site for its plants and geology.",
+      "source": 0
+    },
+    {
+      "title": "Trevose Head",
+      "text": "The headland and its lighthouse are a short walk north along the coast path.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About three miles west of Padstow, in the parish of St Merryn.",
+      "source": 0
+    },
+    {
+      "label": "The dunes",
+      "text": "They’re protected and suffering from erosion, so please keep to the paths.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A classic north-coast beach day near Padstow. It faces west, so it’s a good spot to stay on for the sunset, and you can hop between neighbouring beaches like Treyarnon and Booby’s Bay along the coast path.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "treyarnon-beach",
+        "why": "the next sandy cove along"
+      },
+      {
+        "kind": "beach",
+        "slug": "boobys-bay",
+        "why": "a wilder beach just to the north"
+      },
+      {
+        "kind": "attraction",
+        "slug": "trevose-head-lighthouse",
+        "why": "the headland lighthouse for a walk with views"
+      }
+    ]
+  },
+  "tips": [
+    "Stay for sunset: the beach faces straight out to the west."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Constantine Bay",
+      "url": "https://en.wikipedia.org/wiki/Constantine_Bay",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

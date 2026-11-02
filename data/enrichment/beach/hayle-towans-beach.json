@@ -1,0 +1,63 @@
+{
+  "slug": "hayle-towans-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "The Towans are the long line of dunes stretching from the mouth of the Hayle estuary towards Gwithian, and below them runs a huge golden beach facing out across St Ives Bay. This is the Hayle end, with lifeguards in season, parking and cafés near the sand.",
+    "Hayle itself was once an important mining port and steam-engine-building town. Today the beach is the draw: so much space that even on a busy summer day you can walk off and find your own patch."
+  ],
+  "expect": [
+    {
+      "title": "Miles of sand",
+      "text": "A huge beach stretching north-east along the bay towards Gwithian and Godrevy.",
+      "source": null
+    },
+    {
+      "title": "Dunes",
+      "text": "The dunes behind the beach are great for exploring, but keep to the paths to protect them.",
+      "source": null
+    },
+    {
+      "title": "The estuary",
+      "text": "At the western end, the Hayle estuary separates the Towans from Porth Kidney Sands and Carbis Bay.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "Hayle is about seven miles north-east of Penzance.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A brilliant big-beach day, with room for games, walks and paddles. Combine it with Paradise Park in Hayle if the weather wobbles.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "gwithian-beach",
+        "why": "the next stretch of sand towards Godrevy"
+      },
+      {
+        "kind": "attraction",
+        "slug": "paradise-park-and-junglebarn",
+        "why": "a wildlife park with indoor play"
+      },
+      {
+        "kind": "beach",
+        "slug": "porth-kidney-sands",
+        "why": "a quiet beach across the estuary"
+      }
+    ]
+  },
+  "tips": [
+    "Keep children away from the estuary mouth, where currents can be strong."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Hayle",
+      "url": "https://en.wikipedia.org/wiki/Hayle",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "harlyn-bay",
+  "written": "2026-11-02",
+  "overview": [
+    "Harlyn Bay is a big, family-friendly beach about three miles from Padstow, popular for surfing and well suited to beginners. With lifeguards in season, toilets, cafés and parking near the sand, it’s an easy north-coast beach day.",
+    "It has a surprising past: in 1865 a labourer found two thin crescents of Bronze Age gold, called lunulae, here, and there are several prehistoric sites around the bay."
+  ],
+  "expect": [
+    {
+      "title": "Surf for beginners",
+      "text": "A family and surfing beach that suits people learning to surf.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "The South West Coast Path links Harlyn with Mother Ivey’s Bay, Trevose Head and the beaches beyond, and east to Trevone.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About three miles from Padstow and a mile from St Merryn.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A good choice for a first surf lesson near Padstow. It faces north, so it can be cooler and breezier on some days; on those, try a south-facing beach instead.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "trevone-beach",
+        "why": "a sandy cove a short walk east"
+      },
+      {
+        "kind": "beach",
+        "slug": "mother-ivys-bay",
+        "why": "a quieter bay to the west"
+      },
+      {
+        "kind": "attraction",
+        "slug": "trevose-head-lighthouse",
+        "why": "the headland lighthouse"
+      }
+    ]
+  },
+  "tips": [
+    "Book a surf lesson in advance in the school holidays."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Harlyn",
+      "url": "https://en.wikipedia.org/wiki/Harlyn",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

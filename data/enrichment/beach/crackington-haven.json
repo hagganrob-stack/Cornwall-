@@ -1,0 +1,73 @@
+{
+  "slug": "crackington-haven",
+  "written": "2026-11-02",
+  "overview": [
+    "Crackington Haven is a dramatic little cove between Bude and Boscastle, wedged between high cliffs at the end of a steep valley. The rocks here are famous: the cliffs are full of tightly folded layers of sandstone and shale, so much so that geologists named the Crackington Formation after the village.",
+    "At high tide the foreshore is stony, but as the tide drops a sandy beach is revealed. There’s a pub, a couple of tea rooms, toilets, and lifeguards in summer."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "Stony at high water, sandy at low tide.",
+      "source": 0
+    },
+    {
+      "title": "The cliffs",
+      "text": "Look for the zig-zag folds in the rock layers on the cliffs around the cove.",
+      "source": 0
+    },
+    {
+      "title": "Cambeak",
+      "text": "A short walk south along the coast path leads to the Cambeak headland, with the clifftop at more than 300 feet.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Facilities",
+      "text": "Two tea rooms, the Coombe Barton Inn and toilets near the beach.",
+      "source": 0
+    },
+    {
+      "label": "Leave the stones",
+      "text": "Signs ask visitors not to take stones from the beach; it’s an offence under coastal protection law.",
+      "source": 0
+    },
+    {
+      "label": "Where it is",
+      "text": "About seven miles south-south-west of Bude and four miles north-north-east of Boscastle.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "Go around low tide for the sand. It’s a good stop on a north-coast day between Bude and Boscastle, with a clifftop walk to stretch your legs afterwards.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "widemouth-sands",
+        "why": "a big sandy surf beach towards Bude"
+      },
+      {
+        "kind": "town",
+        "slug": "boscastle",
+        "why": "a pretty harbour village to the south"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-museum-of-witchcraft-and-magic",
+        "why": "a quirky museum in Boscastle"
+      }
+    ]
+  },
+  "tips": [
+    "Check the tide times: the sandy beach only shows at lower tides."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Crackington Haven",
+      "url": "https://en.wikipedia.org/wiki/Crackington_Haven",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

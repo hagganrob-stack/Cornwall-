@@ -1,0 +1,69 @@
+{
+  "slug": "bossiney-haven",
+  "written": "2026-11-02",
+  "overview": [
+    "Bossiney Haven is a small, wild cove a mile east of Tintagel, reached down steep steps from the coast path. At low tide a sandy beach appears and links up with neighbouring Benoath Cove; at high tide the sea covers the sand completely.",
+    "It’s a place for explorers rather than deckchairs: towering cliffs, a huge sea cave and a natural arch called Elephant Rock, with the Iron Age cliff castle of Willapark on the headland above."
+  ],
+  "expect": [
+    {
+      "title": "Low-tide sand",
+      "text": "The beach only appears as the tide drops, when you can walk round to Benoath Cove next door.",
+      "source": 0
+    },
+    {
+      "title": "Caves and Elephant Rock",
+      "text": "On one side of the cove a cave around 60 feet high opens into a series of dark caverns, and nearby a tall arch has almost separated a ‘trunk’ of rock from the cliff.",
+      "source": 0
+    },
+    {
+      "title": "Clifftop walking",
+      "text": "The coast path runs right above the cove, with the Willapark headland and its Iron Age fort just to the north.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting down",
+      "text": "Access is by steep steps, so it isn’t suitable for pushchairs or anyone unsteady on their feet.",
+      "source": 0
+    },
+    {
+      "label": "Tides",
+      "text": "The sand is completely covered at high tide, so check tide times and keep an eye on the incoming sea.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "An hour or two around low tide",
+    "text": "Bossiney is a short, adventurous stop on a Tintagel day. Time it for low tide and combine it with the walk through Rocky Valley nearby.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "rocky-valley",
+        "why": "a dramatic ravine walk down to the sea"
+      },
+      {
+        "kind": "attraction",
+        "slug": "tintagel-castle",
+        "why": "the legendary castle a mile away"
+      },
+      {
+        "kind": "beach",
+        "slug": "trebarwith-strand",
+        "why": "a bigger sandy beach south of Tintagel"
+      }
+    ]
+  },
+  "tips": [
+    "Only go into the caves on a falling tide, and don’t get caught by the sea coming back in.",
+    "Wear shoes with grip for the steps."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Bossiney Haven",
+      "url": "https://en.wikipedia.org/wiki/Bossiney_Haven",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

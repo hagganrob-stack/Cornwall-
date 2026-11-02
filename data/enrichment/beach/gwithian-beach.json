@@ -1,0 +1,24 @@
+{
+  "slug": "gwithian-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Gwithian beach is part of the long, golden run of sand along St Ives Bay, backed by the high dunes of Gwithian Towans, about three miles north-east of Hayle. It faces west into the Atlantic, so it picks up the swell, and on a clear day you can see right across the bay to St Ives.",
+    "The dunes hide a surprising amount of history: a Bronze Age farm and the remains of an early chapel have been found under the sand, though there’s nothing to see of them today."
+  ],
+  "expect": [
+    { "title": "Big beach, big skies", "text": "A wide, open beach with lots of space and the dunes behind.", "source": null },
+    { "title": "Surf", "text": "Facing west into the Atlantic, it’s popular with surfers.", "source": null },
+    { "title": "The village", "text": "Gwithian village has a pub, the Red River Inn, named after the nearby river once stained red by mine waste.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Where it is", "text": "About three miles north-east of Hayle and four miles across the bay from St Ives.", "source": 0 }
+  ],
+  "week": { "slot": "Half a day or more", "text": "Gwithian is a great beach for a long walk and a surf, and it’s easy to combine with Godrevy at the northern end. It faces west, so stay for the sunset.", "pairWith": [
+    { "kind": "beach", "slug": "godrevy-beach", "why": "the lighthouse end of the bay" },
+    { "kind": "attraction", "slug": "national-trust-godrevy", "why": "headland walks and seals" },
+    { "kind": "beach", "slug": "hayle-towans-beach", "why": "more sand stretching towards Hayle" } ] },
+  "tips": [ "Walk north along the sand towards Godrevy for the lighthouse view." ],
+  "sources": [
+    { "label": "Wikipedia – Gwithian", "url": "https://en.wikipedia.org/wiki/Gwithian", "licence": "CC BY-SA 4.0" }
+  ]
+}

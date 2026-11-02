@@ -1,0 +1,63 @@
+{
+  "slug": "porth-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Porth Beach is a long, sheltered sandy inlet on the eastern edge of Newquay, about a kilometre deep, with the Iron Age clifftop fort of Trevelgue Head guarding its northern side. It’s a drowned river valley, which is why it feels more tucked away than Newquay’s open surf beaches.",
+    "Before Newquay grew, this was a little port in its own right, and some of the old cottages and fish cellars behind the beach still tell that story. With lifeguards in season, parking close by and cafés, it’s an easy family beach."
+  ],
+  "expect": [
+    {
+      "title": "A sheltered inlet",
+      "text": "A long sandy beach set back between headlands.",
+      "source": 0
+    },
+    {
+      "title": "Trevelgue Head",
+      "text": "Walk out onto the headland on the north side to explore an Iron Age promontory fort with sea views.",
+      "source": 0
+    },
+    {
+      "title": "Old Porth",
+      "text": "Look out for historic buildings from the days when coal, salt and lime were unloaded here and pilchards were salted in fish cellars.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "On the eastern edge of Newquay, near St Columb Minor.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A calmer alternative to the central Newquay beaches, good with younger children. Combine it with a wander over Trevelgue Head and a look at Lusty Glaze next door.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "trevelgue-head",
+        "why": "an Iron Age headland fort right next to the beach"
+      },
+      {
+        "kind": "beach",
+        "slug": "lusty-glaze-beach",
+        "why": "a cliff-backed cove just along the coast"
+      },
+      {
+        "kind": "beach",
+        "slug": "whipsiderry-beach",
+        "why": "a quieter beach below the cliffs"
+      }
+    ]
+  },
+  "tips": [
+    "Head out onto Trevelgue Head for wide views along Newquay’s coastline."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porth, Cornwall",
+      "url": "https://en.wikipedia.org/wiki/Porth%2C_Cornwall",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

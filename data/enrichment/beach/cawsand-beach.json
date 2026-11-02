@@ -1,0 +1,63 @@
+{
+  "slug": "cawsand-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Cawsand is one of a pair of pretty villages, with Kingsand next door, on the Rame Peninsula in Cornwall’s ‘forgotten corner’, looking out over Plymouth Sound. The beach is a small mix of sand and shingle, with rock pools to explore, right below the village.",
+    "The villages are full of history, from repelling a Spanish raid in 1596 to Nelson reputedly staying here, and they’re surrounded by Mount Edgcumbe Country Park, so there are lovely walks right on the doorstep."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "A small sand and shingle beach with a network of rock pools.",
+      "source": 0
+    },
+    {
+      "title": "The villages",
+      "text": "Narrow lanes, colourful cottages and two pubs, the Cross Keys and The Bay.",
+      "source": 0
+    },
+    {
+      "title": "Mount Edgcumbe",
+      "text": "The country park wraps around the villages, with woods and coastal paths to explore.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "There’s a bus service, and a seasonal ferry runs to and from Plymouth.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A gentle, sheltered beach day in the far south-east, as the beach faces east away from the prevailing winds. Combine it with a walk through Mount Edgcumbe or the big beaches of Whitsand Bay over the hill.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "mount-edgcumbe-house-and-country-park",
+        "why": "a historic house and country park next door"
+      },
+      {
+        "kind": "beach",
+        "slug": "tregonhawke-beach",
+        "why": "a long sandy beach on Whitsand Bay"
+      },
+      {
+        "kind": "town",
+        "slug": "kingsand",
+        "why": "the twin village right next door"
+      }
+    ]
+  },
+  "tips": [
+    "Pack a bucket and net for the rock pools at low tide."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Cawsand",
+      "url": "https://en.wikipedia.org/wiki/Cawsand",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

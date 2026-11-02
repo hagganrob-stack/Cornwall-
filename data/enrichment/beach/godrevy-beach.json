@@ -1,0 +1,68 @@
+{
+  "slug": "godrevy-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Godrevy beach sits at the eastern end of St Ives Bay, on the western side of Godrevy Head, a wide stretch of sand that’s a favourite with surfers. Offshore, Godrevy lighthouse stands on its island, said to have inspired Virginia Woolf’s novel To the Lighthouse.",
+    "Much of the headland belongs to the National Trust, with the coast path running all the way round it, so it’s easy to mix a beach session with a clifftop walk."
+  ],
+  "expect": [
+    {
+      "title": "Surf and sand",
+      "text": "A broad sandy beach that’s popular for surfing, with rocks along its northern edge.",
+      "source": 0
+    },
+    {
+      "title": "The headland",
+      "text": "Godrevy Head is covered in coastal heathland rich in wildlife, and the coast path loops right round it, with coves on the north side.",
+      "source": 0
+    },
+    {
+      "title": "The lighthouse",
+      "text": "Godrevy lighthouse, looked after by Trinity House, sits on its island just off the point.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking and café",
+      "text": "There are car parks on the western side of the headland, and the National Trust runs a café there.",
+      "source": 0
+    },
+    {
+      "label": "Where it is",
+      "text": "About three miles north-east of Hayle, with Gwithian village just over the Red River to the west.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Spend a morning on the sand, then walk up onto the headland to look for seals at Mutton Cove. In July and August, dogs aren’t allowed on the beach during the day, so walk them on the headland instead.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "national-trust-godrevy",
+        "why": "the headland walks and seal viewpoint"
+      },
+      {
+        "kind": "beach",
+        "slug": "gwithian-beach",
+        "why": "the long sandy beach next door"
+      },
+      {
+        "kind": "beach",
+        "slug": "hayle-towans-beach",
+        "why": "miles more sand across the bay"
+      }
+    ]
+  },
+  "tips": [
+    "Arrive early in summer: the car parks fill up."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Godrevy",
+      "url": "https://en.wikipedia.org/wiki/Godrevy",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

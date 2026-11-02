@@ -1,0 +1,68 @@
+{
+  "slug": "daymer-bay",
+  "written": "2026-11-02",
+  "overview": [
+    "Daymer Bay is a broad, sandy beach on the eastern side of the Camel estuary, between Polzeath and Rock, sheltered between Trebetherick Point and Brea Hill. With calmer water than the open surf beaches, it’s a favourite with families and with windsurfers and kitesurfers.",
+    "Behind the dunes is the little church of St Enodoc, where the poet John Betjeman is buried. At low tide, keep an eye out for the stumps of an ancient submerged forest, thousands of years old, poking through the sand."
+  ],
+  "expect": [
+    {
+      "title": "Estuary beach",
+      "text": "Wide sands on the estuary with views across to Padstow.",
+      "source": 0
+    },
+    {
+      "title": "Watersports",
+      "text": "Very popular for windsurfing and kitesurfing.",
+      "source": 0
+    },
+    {
+      "title": "St Enodoc and Betjeman",
+      "text": "A short walk through the dunes leads to St Enodoc’s Church, where John Betjeman is buried.",
+      "source": 0
+    },
+    {
+      "title": "The drowned forest",
+      "text": "Sometimes, when the sand shifts, the remains of a 4,000-year-old forest appear at low tide.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Dogs",
+      "text": "No Council dog restriction is listed here, so it’s a good choice for a summer beach day with a dog.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A gentle beach day on the Camel estuary, well suited to younger children and dog owners. Combine it with a stroll to St Enodoc or a walk round to Polzeath.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "hayle-bay",
+        "why": "Polzeath’s lively surf beach"
+      },
+      {
+        "kind": "beach",
+        "slug": "greenaway-beach",
+        "why": "a small rocky beach along the shore"
+      },
+      {
+        "kind": "town",
+        "slug": "padstow",
+        "why": "across the estuary by ferry from Rock"
+      }
+    ]
+  },
+  "tips": [
+    "Look for the drowned forest at low tide after winter storms have shifted the sand."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Daymer Bay",
+      "url": "https://en.wikipedia.org/wiki/Daymer_Bay",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

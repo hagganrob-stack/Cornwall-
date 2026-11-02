@@ -1,0 +1,63 @@
+{
+  "slug": "gyllyngvase-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Gyllyngvase is Falmouth’s main town beach: a sandy, south-facing bay just below the seafront hotels, a short walk from the town centre and west of Pendennis Castle. With lifeguards in season, a café, toilets and parking next to the sand, it’s an easy family beach.",
+    "Queen Mary Gardens, opened in 1910, sit right beside the beach, and the seafront walk links it with Falmouth’s other beaches."
+  ],
+  "expect": [
+    {
+      "title": "Town beach",
+      "text": "A sheltered sandy beach with everything close by.",
+      "source": 0
+    },
+    {
+      "title": "Queen Mary Gardens",
+      "text": "Formal gardens beside the beach, nice for a wander or a picnic.",
+      "source": 0
+    },
+    {
+      "title": "Seafront walk",
+      "text": "Stroll along to Swanpool in one direction or round towards Pendennis Point in the other.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "South of Falmouth town centre, below Cliff Road.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "Easy to fit into any Falmouth day, and sheltered from westerly winds as it faces south-east. Pair it with Pendennis Castle or the Maritime Museum if the weather turns.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "swanpool-beach",
+        "why": "another sandy beach a short walk west"
+      },
+      {
+        "kind": "attraction",
+        "slug": "pendennis-castle",
+        "why": "Henry VIII’s castle on the headland"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-maritime-museum-cornwall",
+        "why": "the maritime museum for a wet spell"
+      }
+    ]
+  },
+  "tips": [
+    "Walk the seafront path to Swanpool and back."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Gyllyngvase",
+      "url": "https://en.wikipedia.org/wiki/Gyllyngvase",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}
