@@ -1,15 +1,19 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { towns, townBySlug, regionBySlug, beachBySlug, heroImage, displayName } from '../../../lib/data';
-import Photo from '../../../components/Photo';
-import Badges from '../../../components/Badges';
+import { towns, townBySlug, regionBySlug, beachBySlug, heroImage } from '../../../lib/data';
+import { ROUNDUPS, townRoundupBeaches, townRoundupPath, MIN_TOWN_ROUNDUP } from '../../../lib/roundups';
+import Hero from '../../../components/Hero';
+import Byline from '../../../components/Byline';
+import PlaceCard, { CardGrid } from '../../../components/PlaceCard';
 import OsmMap from '../../../components/OsmMap';
+import Nearby from '../../../components/Nearby';
+import { Container, Crumbs, SectionHeading, WeVisited, StayNearby, Sources } from '../../../components/Blocks';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => towns.map((t) => ({ slug: t.slug }));
 export async function generateMetadata({ params }) {
   const t = townBySlug((await params).slug);
-  return { title: `${t.name}: beaches nearby`, description: t.description };
+  return { title: `${t.name}: beaches nearby and planning a stay`, description: t.description };
 }
 
 export default async function TownPage({ params }) {
@@ -17,49 +21,48 @@ export default async function TownPage({ params }) {
   if (!t) notFound();
   const region = regionBySlug(t.region);
   const near = (t.beachesNearby || []).map((n) => ({ ...n, b: beachBySlug(n.slug) })).filter((n) => n.b);
+  const combos = Object.values(ROUNDUPS).map((r) => ({ r, n: townRoundupBeaches(t, r).length })).filter((x) => x.n >= MIN_TOWN_ROUNDUP);
   return (
     <article>
-      <p className="crumbs">
-        <Link href="/">Home</Link> › <Link href={`/regions/${region.slug}/`}>{region.name}</Link> › {t.name}
-      </p>
-      <h1>{t.name}</h1>
-      <Photo image={heroImage(t)} alt={t.name} className="hero" eager />
-      <div className="two-col">
+      <Hero image={heroImage(t)} title={t.name} kicker={`${region.name} · ${near.length} beaches within 5 km`} lat={t.lat} lng={t.lng} />
+      <Container className="mt-6">
+        <Crumbs items={[['Home', '/'], [region.name, `/regions/${region.slug}/`], [t.name]]} />
+        <Byline lastChecked={t.lastChecked} className="mt-3" />
+      </Container>
+      <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
-          <p className="lede">{t.description}</p>
-          {t.ourNotes ? <p className="our-notes">{t.ourNotes}</p> : null}
-          <h2>Beaches within 5 km</h2>
-          {near.length ? (
-            <div className="cards">
-              {near.map(({ b, km }) => (
-                <Link key={b.slug} href={`/beaches/${b.slug}/`} className="card">
-                  <Photo image={heroImage(b)} alt={displayName(b)} linked={false} />
-                  <div className="card-body">
-                    <h3>{displayName(b)}</h3>
-                    <p className="meta">{km} km</p>
-                    <Badges b={b} />
-                  </div>
+          <WeVisited place={t} />
+          <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{t.description}</p>
+          {combos.length ? (
+            <div className="mt-6 flex flex-wrap gap-2">
+              {combos.map(({ r, n }) => (
+                <Link key={r.slug} href={townRoundupPath(t, r)} className="chip bg-seaglass-100 px-4 py-2 text-sm text-atlantic-900 no-underline hover:bg-seaglass-300">
+                  {n} {r.label.toLowerCase()} beaches nearby →
                 </Link>
               ))}
             </div>
-          ) : (
-            <p>No named beaches are mapped within 5 km.</p>
-          )}
-        </div>
-        <aside>
-          <OsmMap lat={t.lat} lng={t.lng} zoomDeg={0.03} label={t.name} />
-          {t.nearbyTowns?.length ? (
-            <>
-              <h3>Nearby towns</h3>
-              <ul className="plain">
-                {t.nearbyTowns.slice(0, 5).map((n) => (
-                  <li key={n.slug}><Link href={`/towns/${n.slug}/`}>{n.name}</Link> <span className="meta">{n.km} km</span></li>
-                ))}
-              </ul>
-            </>
           ) : null}
+          <section className="mt-12">
+            <SectionHeading kicker="Within 5 km">Beaches near {t.name}</SectionHeading>
+            {near.length ? (
+              <CardGrid cols={2}>
+                {near.map(({ b, km }) => (
+                  <PlaceCard key={b.slug} place={b} beach href={`/beaches/${b.slug}/`} meta={`${km} km from ${t.name}`} />
+                ))}
+              </CardGrid>
+            ) : (
+              <p className="text-atlantic-950/70">No named beaches are mapped within 5 km.</p>
+            )}
+          </section>
+          {/* Attractions and food & drink sections will slot in here. */}
+          <StayNearby place={t} />
+          <Sources sources={t.sources} lastChecked={t.lastChecked} />
+        </div>
+        <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
+          <OsmMap lat={t.lat} lng={t.lng} zoomDeg={0.03} label={t.name} />
+          <Nearby title="Other places to stay nearby" items={t.nearbyTowns?.slice(0, 5)} base="/towns/" />
         </aside>
-      </div>
+      </Container>
     </article>
   );
 }
