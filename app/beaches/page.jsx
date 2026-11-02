@@ -5,7 +5,7 @@ import Byline from '../../components/Byline';
 import { Container, Crumbs } from '../../components/Blocks';
 import BeachFinder from './BeachFinder';
 
-export const metadata = { title: 'Find a beach in Cornwall', description: `Filter all ${beaches.length} named beaches in Cornwall by dog rules by month, lifeguards, parking, surf and more.` };
+export const metadata = { alternates: { canonical: '/beaches/' }, title: 'Find a beach in Cornwall', description: `Filter all ${beaches.length} named beaches in Cornwall by dog rules by month, lifeguards, parking, surf and more.` };
 
 export default function BeachesPage() {
   return (

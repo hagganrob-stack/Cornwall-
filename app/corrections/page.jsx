@@ -2,7 +2,7 @@ import Link from 'next/link';
 import InfoPage from '../../components/InfoPage';
 import { CONTACT_EMAIL } from '../../lib/site';
 
-export const metadata = { title: 'Corrections' };
+export const metadata = { alternates: { canonical: '/corrections/' }, title: 'Corrections' };
 
 export default function Corrections() {
   return (

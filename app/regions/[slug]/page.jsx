@@ -3,13 +3,13 @@ import { beaches, towns, regions, regionBySlug, heroImage, townName, latestCheck
 import Hero from '../../../components/Hero';
 import Byline from '../../../components/Byline';
 import PlaceCard, { CardGrid } from '../../../components/PlaceCard';
-import { Container, Crumbs, SectionHeading, Sources } from '../../../components/Blocks';
+import { Container, Crumbs, SectionHeading, Sources, AuthorBio } from '../../../components/Blocks';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => regions.map((r) => ({ slug: r.slug }));
 export async function generateMetadata({ params }) {
   const r = regionBySlug((await params).slug);
-  return { title: `${r.name}: beaches and places to stay`, description: r.summary };
+  return { title: `${r.name}: beaches and places to stay`, description: r.summary, alternates: { canonical: `/regions/${r.slug}/` } };
 }
 
 export default async function RegionPage({ params }) {
@@ -42,6 +42,7 @@ export default async function RegionPage({ params }) {
             <PlaceCard key={b.slug} place={b} beach href={`/beaches/${b.slug}/`} meta={`Near ${townName(b.town)}`} />
           ))}
         </CardGrid>
+        <AuthorBio />
         <Sources sources={[{ label: 'OpenStreetMap', url: 'https://www.openstreetmap.org/', licence: 'ODbL' }, { label: 'Cornwall Council – Dogs on beaches (PSPO)', url: 'https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/' }, { label: 'RNLI open data – Lifeguard Units', url: 'https://rnli.org/find-my-nearest/lifeguarded-beaches' }]} lastChecked={latestChecked(rb)} note="Region boundaries are our own draft." />
       </Container>
     </>

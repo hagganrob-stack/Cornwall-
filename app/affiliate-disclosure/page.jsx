@@ -1,6 +1,6 @@
 import InfoPage from '../../components/InfoPage';
 
-export const metadata = { title: 'Affiliate disclosure' };
+export const metadata = { alternates: { canonical: '/affiliate-disclosure/' }, title: 'Affiliate disclosure' };
 
 export default function AffiliateDisclosure() {
   return (

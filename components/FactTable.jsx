@@ -4,9 +4,12 @@ const cap = (s) => (s ? s[0].toUpperCase() + s.slice(1) : s);
 
 // Facts with value, detail and source. "Not stated" is shown honestly rather than hidden.
 export default function FactTable({ rows }) {
+  const present = rows.filter(([, f]) => f && f.value && f.value !== NOT_STATED);
+  const missing = rows.filter(([, f]) => !f || !f.value || f.value === NOT_STATED).map(([l]) => l.toLowerCase());
   return (
+    <>
     <dl className="divide-y divide-atlantic-950/10 overflow-hidden rounded-2xl ring-1 ring-atlantic-950/10">
-      {rows.map(([label, fact, extra]) => {
+      {present.map(([label, fact, extra]) => {
         if (!fact) return null;
         const missing = !fact.value || fact.value === NOT_STATED;
         const detail = fact.summary || fact.note || (fact.notes ? fact.notes.join(' ') : null);
@@ -38,5 +41,7 @@ export default function FactTable({ rows }) {
         );
       })}
     </dl>
+    {missing.length ? <p className="mt-3 text-sm text-atlantic-950/55">Not yet confirmed by a source: {missing.join(', ')}.</p> : null}
+    </>
   );
 }

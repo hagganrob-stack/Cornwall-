@@ -10,12 +10,21 @@ import FactTable from '../../../components/FactTable';
 import OsmMap from '../../../components/OsmMap';
 import Nearby from '../../../components/Nearby';
 import { Container, Crumbs, WeVisited, StayNearby, Sources, Callout } from '../../../components/Blocks';
+import JsonLd from '../../../components/JsonLd';
+import { beachTitle, beachDescription, beachLd } from '../../../lib/seo';
+import { imgSrc } from '../../../lib/data';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => beaches.map((b) => ({ slug: b.slug }));
 export async function generateMetadata({ params }) {
   const b = beachBySlug((await params).slug);
-  return { title: `${displayName(b)}, ${townBySlug(b.town)?.name || 'Cornwall'}`, description: b.customDescription || b.description };
+  const img = heroImage(b);
+  return {
+    title: { absolute: beachTitle(b) },
+    description: beachDescription(b),
+    alternates: { canonical: `/beaches/${b.slug}/` },
+    openGraph: { title: beachTitle(b), description: beachDescription(b), url: `/beaches/${b.slug}/`, ...(img ? { images: [{ url: imgSrc(img), alt: displayName(b) }] } : {}) },
+  };
 }
 
 function Planner({ guide }) {
@@ -48,6 +57,7 @@ export default async function BeachPage({ params }) {
   const inRoundups = Object.values(ROUNDUPS).filter((r) => r.test(b));
   return (
     <article>
+      <JsonLd data={beachLd(b, `/beaches/${b.slug}/`)} />
       <Hero image={hero} title={name} kicker={`${b.townDistanceKm} km from ${town.name} · ${region.name}`} lat={b.lat} lng={b.lng}>
         <Badges b={b} className="mt-4" />
       </Hero>

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import InfoPage from '../../components/InfoPage';
 
-export const metadata = { title: 'About us' };
+export const metadata = { alternates: { canonical: '/about/' }, title: 'About us' };
 
 // PLACEHOLDER: to be rewritten from Rob's answers (see the questions in the hand-over notes).
 export default function About() {

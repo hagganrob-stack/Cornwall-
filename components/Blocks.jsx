@@ -1,4 +1,7 @@
 import Link from 'next/link';
+import JsonLd from './JsonLd';
+import { breadcrumbLd } from '../lib/seo';
+import { AUTHOR } from '../lib/site';
 
 export function Container({ children, className = '' }) {
   return <div className={`mx-auto max-w-6xl px-4 sm:px-6 ${className}`}>{children}</div>;
@@ -7,6 +10,7 @@ export function Container({ children, className = '' }) {
 export function Crumbs({ items }) {
   return (
     <nav aria-label="Breadcrumb" className="text-sm text-atlantic-950/55">
+      <JsonLd data={breadcrumbLd(items)} />
       {items.map(([label, href], i) => (
         <span key={label}>
           {i ? <span className="mx-1.5">›</span> : null}
@@ -73,5 +77,20 @@ export function Callout({ tone = 'info', title, children }) {
       {title ? <p className="mb-1 font-semibold">{title}</p> : null}
       <div className="text-[15px] leading-relaxed [&_a]:text-inherit [&_a]:underline">{children}</div>
     </div>
+  );
+}
+
+// Short author bio for town hubs, roundups and guide pages.
+export function AuthorBio() {
+  return (
+    <aside className="mt-14 flex gap-4 rounded-2xl bg-sand-50 p-5 ring-1 ring-sand-200">
+      <span className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-seaglass-100 font-bold text-seaglass-600">R</span>
+      <div>
+        <p className="font-semibold text-atlantic-900">Written by <Link href={AUTHOR.url}>{AUTHOR.name}</Link></p>
+        <p className="mt-1 text-[15px] text-atlantic-950/75">
+          Rob runs One Week in Cornwall, a family-run guide started because we love Cornwall and want every visitor to make the most of their week there. Facts on this page are checked against official and open sources; see our <Link href="/editorial-policy/">editorial policy</Link>.
+        </p>
+      </div>
+    </aside>
   );
 }

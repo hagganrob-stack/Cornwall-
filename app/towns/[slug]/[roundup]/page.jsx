@@ -12,7 +12,7 @@ const resolve = async (params) => {
 };
 export async function generateMetadata({ params }) {
   const { t, r } = await resolve(params);
-  return { title: r.townTitle(t.name), description: `${townRoundupBeaches(t, r).length} ${r.label.toLowerCase()} beaches within 5 km of ${t.name}.` };
+  return { alternates: { canonical: `/towns/${t.slug}/${r.slug}-beaches/` }, title: r.townTitle(t.name), description: `${townRoundupBeaches(t, r).length} ${r.label.toLowerCase()} beaches within 5 km of ${t.name}.` };
 }
 
 export default async function Page({ params }) {
@@ -22,6 +22,7 @@ export default async function Page({ params }) {
   return (
     <Roundup
       title={r.townTitle(t.name)}
+      path={`/towns/${t.slug}/${r.slug}-beaches/`}
       intro={r.intro}
       criteria={`${r.criteria} Within 5 km of ${t.name}.`}
       distanceFrom={t.name}

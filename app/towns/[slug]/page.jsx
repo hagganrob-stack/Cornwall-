@@ -7,13 +7,22 @@ import Byline from '../../../components/Byline';
 import PlaceCard, { CardGrid } from '../../../components/PlaceCard';
 import OsmMap from '../../../components/OsmMap';
 import Nearby from '../../../components/Nearby';
-import { Container, Crumbs, SectionHeading, WeVisited, StayNearby, Sources } from '../../../components/Blocks';
+import { Container, Crumbs, SectionHeading, WeVisited, StayNearby, Sources, AuthorBio } from '../../../components/Blocks';
+import JsonLd from '../../../components/JsonLd';
+import { townTitle, townDescription, townLd } from '../../../lib/seo';
+import { imgSrc } from '../../../lib/data';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => towns.map((t) => ({ slug: t.slug }));
 export async function generateMetadata({ params }) {
   const t = townBySlug((await params).slug);
-  return { title: `${t.name}: beaches nearby and planning a stay`, description: t.description };
+  const img = heroImage(t);
+  return {
+    title: { absolute: townTitle(t) },
+    description: townDescription(t),
+    alternates: { canonical: `/towns/${t.slug}/` },
+    openGraph: { title: townTitle(t), description: townDescription(t), url: `/towns/${t.slug}/`, ...(img ? { images: [{ url: imgSrc(img), alt: t.name }] } : {}) },
+  };
 }
 
 export default async function TownPage({ params }) {
@@ -24,6 +33,7 @@ export default async function TownPage({ params }) {
   const combos = Object.values(ROUNDUPS).map((r) => ({ r, n: townRoundupBeaches(t, r).length })).filter((x) => x.n >= MIN_TOWN_ROUNDUP);
   return (
     <article>
+      <JsonLd data={townLd(t, `/towns/${t.slug}/`)} />
       <Hero image={heroImage(t)} title={t.name} kicker={`${region.name} · ${near.length} beaches within 5 km`} lat={t.lat} lng={t.lng} />
       <Container className="mt-6">
         <Crumbs items={[['Home', '/'], [region.name, `/regions/${region.slug}/`], [t.name]]} />
@@ -56,6 +66,7 @@ export default async function TownPage({ params }) {
           </section>
           {/* Attractions and food & drink sections will slot in here. */}
           <StayNearby place={t} />
+          <AuthorBio />
           <Sources sources={t.sources} lastChecked={t.lastChecked} />
         </div>
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">

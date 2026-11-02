@@ -2,6 +2,8 @@ import './globals.css';
 import Link from 'next/link';
 import { Inter, Outfit } from 'next/font/google';
 import { SITE_NAME, SITE_URL, GO_LIVE } from '../lib/site';
+import JsonLd from '../components/JsonLd';
+import { siteGraph } from '../lib/seo';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter', display: 'swap' });
 const outfit = Outfit({ subsets: ['latin'], weight: ['600', '700', '800'], variable: '--font-outfit', display: 'swap' });
@@ -11,6 +13,8 @@ export const metadata = {
   title: { default: `${SITE_NAME}: plan your own week, beach by beach`, template: `%s | ${SITE_NAME}` },
   description: 'Every named beach in Cornwall with dog rules from Cornwall Council, RNLI lifeguard cover and facilities from OpenStreetMap, each fact linked to its source.',
   // Whole site noindexed until GO_LIVE=true.
+  alternates: { canonical: '/' },
+  openGraph: { siteName: SITE_NAME, locale: 'en_GB', type: 'website' },
   robots: GO_LIVE ? { index: true, follow: true } : { index: false, follow: false },
 };
 
@@ -25,6 +29,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en-GB" className={`${inter.variable} ${outfit.variable}`} style={{ '--font-sans': 'var(--font-inter)', '--font-display': 'var(--font-outfit)' }}>
       <body className="flex min-h-screen flex-col font-sans">
+        <JsonLd data={siteGraph()} />
         {!GO_LIVE ? <div className="bg-sand-200 px-4 py-1.5 text-center text-xs font-medium text-sand-700">Preview: content still being checked, not yet public.</div> : null}
         <header className="sticky top-0 z-30 border-b border-atlantic-950/5 bg-white/90 backdrop-blur">
           <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-2 px-4 py-3 sm:px-6">

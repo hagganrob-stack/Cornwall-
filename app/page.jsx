@@ -88,7 +88,7 @@ export default function Home() {
       </Container>
 
       <Container className="mt-16">
-        <SectionHeading kicker="A few favourites from the map" action={<Link href="/beaches/" className="text-sm font-semibold">All {beaches.length} beaches →</Link>}>
+        <SectionHeading kicker="A few favourites from the map" action={<Link href="/beaches/" className="text-sm font-semibold no-underline">All {beaches.length} beaches →</Link>}>
           Beaches to start with
         </SectionHeading>
         <CardGrid cols={3}>
@@ -105,7 +105,7 @@ export default function Home() {
             <p className="mt-3 text-atlantic-100/80">
               Dog rules come straight from Cornwall Council, lifeguard cover from the RNLI, and parking, toilets and cafés from OpenStreetMap. If we can’t confirm something, we say “not stated” rather than guess.
             </p>
-            <Link href="/editorial-policy/" className="mt-5 inline-block font-semibold text-seaglass-300">Read our editorial policy →</Link>
+            <Link href="/editorial-policy/" className="mt-5 inline-block font-semibold text-seaglass-300 no-underline">Read our editorial policy →</Link>
           </div>
           <ul className="space-y-3 text-[15px]">
             {['Every fact links to its source', 'Dog rules by season, not just yes or no', 'First-hand notes only where we’ve actually been', 'Openly licensed photos, always credited'].map((t) => (

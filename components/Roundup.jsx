@@ -1,6 +1,8 @@
 import PlaceCard, { CardGrid } from './PlaceCard';
 import Byline from './Byline';
-import { Container, Crumbs, Sources } from './Blocks';
+import { Container, Crumbs, Sources, AuthorBio } from './Blocks';
+import JsonLd from './JsonLd';
+import { itemListLd } from '../lib/seo';
 import { townName, latestChecked, heroImage } from '../lib/data';
 import Hero from './Hero';
 
@@ -11,7 +13,7 @@ const SOURCES = [
 ];
 
 // Shared layout for /beaches/<roundup>/ and /towns/<town>/<roundup>-beaches/.
-export default function Roundup({ title, intro, criteria, crumbs, items, secondary, distanceFrom }) {
+export default function Roundup({ title, intro, criteria, crumbs, items, secondary, distanceFrom, path }) {
   const all = [...items, ...(secondary?.items || [])].map((x) => x.b);
   const hero = heroImage(items.map((x) => x.b).find((b) => heroImage(b)?.width > 1500) || items[0]?.b);
   const card = ({ b, km }) => (
@@ -19,6 +21,7 @@ export default function Roundup({ title, intro, criteria, crumbs, items, seconda
   );
   return (
     <>
+      <JsonLd data={itemListLd(title, items.map((x) => x.b), path)} />
       <Hero image={hero} title={title} kicker={`${items.length} beaches`} />
       <Container className="mt-6">
         <Crumbs items={crumbs} />
@@ -35,6 +38,7 @@ export default function Roundup({ title, intro, criteria, crumbs, items, seconda
             <CardGrid>{secondary.items.map(card)}</CardGrid>
           </section>
         ) : null}
+        <AuthorBio />
         <Sources sources={SOURCES} lastChecked={latestChecked(all)} />
       </Container>
     </>

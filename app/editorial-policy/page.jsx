@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { beaches, towns, has, isLifeguarded } from '../../lib/data';
 import InfoPage from '../../components/InfoPage';
 
-export const metadata = { title: 'Editorial policy', description: 'How One Week in Cornwall gathers and checks its facts, including how AI tools are used.' };
+export const metadata = { alternates: { canonical: '/editorial-policy/' }, title: 'Editorial policy', description: 'How One Week in Cornwall gathers and checks its facts, including how AI tools are used.' };
 
 export default function EditorialPolicy() {
   const pct = (n) => `${Math.round((n / beaches.length) * 100)}%`;

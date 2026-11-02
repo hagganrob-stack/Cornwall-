@@ -3,7 +3,7 @@ import Byline from '../../components/Byline';
 import PlaceCard, { CardGrid } from '../../components/PlaceCard';
 import { Container, Crumbs, SectionHeading } from '../../components/Blocks';
 
-export const metadata = { title: 'Towns and villages to base your week', description: `${towns.length} towns and villages in Cornwall to base a week around, with the beaches near each.` };
+export const metadata = { alternates: { canonical: '/towns/' }, title: 'Towns and villages to base your week', description: `${towns.length} towns and villages in Cornwall to base a week around, with the beaches near each.` };
 
 export default function TownsPage() {
   return (
