@@ -1,0 +1,68 @@
+{
+  "slug": "crantock-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Crantock Beach is a wide sweep of sand just across the River Gannel from Newquay, backed by big dunes and with National Trust headland at West Pentire on the far side. It feels a world away from the bustle of Newquay’s town beaches, even though it’s only a couple of miles away.",
+    "The tidal River Gannel runs along the beach to the sea, and since storms in 2014 it has wandered across the sand, so the shape of the beach changes from year to year. Like the other sandy beaches around Newquay, it’s popular for surfing."
+  ],
+  "expect": [
+    {
+      "title": "Dunes and sand",
+      "text": "Big dunes behind a broad, sandy beach, with plenty of room to spread out.",
+      "source": 0
+    },
+    {
+      "title": "The Gannel",
+      "text": "The river crosses the beach, so there’s often shallow water to splash in at low tide, but watch for currents when the tide is moving.",
+      "source": 0
+    },
+    {
+      "title": "West Pentire",
+      "text": "The headland above, owned by the National Trust, is known for its wild flowers.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking",
+      "text": "You can park right by the beach or up on the West Pentire headland.",
+      "source": 0
+    },
+    {
+      "label": "From Newquay",
+      "text": "In season, small ferries cross the Gannel from Fern Pit in Newquay to the beach, depending on the tide.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A good alternative to Newquay’s busy town beaches, and an easy one if your dog is coming too. Combine it with a walk over West Pentire to the little cove of Porth Joke.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porth-joke",
+        "why": "a small, unspoilt cove over the headland"
+      },
+      {
+        "kind": "beach",
+        "slug": "the-gannel",
+        "why": "the estuary beach on the Newquay side"
+      },
+      {
+        "kind": "beach",
+        "slug": "fistral-beach",
+        "why": "Newquay’s famous surf beach"
+      }
+    ]
+  },
+  "tips": [
+    "Take extra care with children near the river when the tide is coming in or going out."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Crantock",
+      "url": "https://en.wikipedia.org/wiki/Crantock",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

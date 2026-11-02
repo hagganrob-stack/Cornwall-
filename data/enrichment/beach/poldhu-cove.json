@@ -1,0 +1,63 @@
+{
+  "slug": "poldhu-cove",
+  "written": "2026-11-02",
+  "overview": [
+    "Poldhu Cove is a sandy beach on the west coast of the Lizard, just north of Mullion, between Mullion and Gunwalloe. With lifeguards in season and a car park, toilets and a café close by, it’s a reliable family beach.",
+    "The clifftop above has a place in history: on 12 December 1901, a radio signal sent from Marconi’s station at Poldhu was received across the Atlantic in Newfoundland, the first transatlantic radio message, and the forerunner of radio, television and the internet."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "A medium-sized sandy cove between headlands.",
+      "source": null
+    },
+    {
+      "title": "Marconi history",
+      "text": "Up on the clifftop there’s a memorial pillar put up by the Marconi Company in 1937, and the Marconi Centre nearby tells the story of the wireless station.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk south along the cliffs to Polurrian and Mullion Cove, or north to Church Cove at Gunwalloe.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "In the north of Mullion parish, about 2 km from Mullion village, on the Mount’s Bay side of the Lizard.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A dependable family beach day on the Lizard, with history thrown in. Combine it with a coast path walk to Mullion Cove, or a look at Church Cove at Gunwalloe just to the north.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "church-cove",
+        "why": "a pretty cove with a church by the beach at Gunwalloe"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-marconi-centre",
+        "why": "the story of the 1901 radio message"
+      },
+      {
+        "kind": "attraction",
+        "slug": "mullion-cove",
+        "why": "a little harbour along the coast path"
+      }
+    ]
+  },
+  "tips": [
+    "Walk up to the clifftop for the Marconi monument and big views over Mount’s Bay."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Poldhu",
+      "url": "https://en.wikipedia.org/wiki/Poldhu",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

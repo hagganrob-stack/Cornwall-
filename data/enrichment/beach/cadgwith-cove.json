@@ -1,0 +1,25 @@
+{
+  "slug": "cadgwith-cove",
+  "written": "2026-11-02",
+  "overview": [
+    "Cadgwith is a proper working fishing village on the Lizard, with thatched and slate-roofed cottages tumbling down a little valley to the sea, and boats pulled up on the shingle. It’s one of the most characterful corners of the Lizard, and somewhere to wander, watch the fishing boats come in and soak up the atmosphere.",
+    "There are actually two beaches here, split by a small grassy headland called the Todden. The bigger, shingly one is the working cove where the fishing boats launch; the smaller Little Cove, a mix of sand and big boulders, is where people go to swim."
+  ],
+  "expect": [
+    { "title": "The working cove", "text": "The main beach is shingle with a gentle slope, and it’s where the fishermen work from, so expect boats, winches and lobster pots rather than deckchairs.", "source": 0 },
+    { "title": "Little Cove", "text": "The smaller beach on the other side of the Todden is a mix of sand and large boulders, and is the one locals use for swimming. A natural passage through the headland links the two beaches.", "source": 0 },
+    { "title": "The Todden", "text": "Climb the little headland between the beaches for a view over both coves and the village.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Shelter", "text": "The cove is sheltered from westerly and south-westerly winds, but easterly winds can bring rough seas.", "source": 0 },
+    { "label": "Parking", "text": "There’s a car park above the village and a walk down to the seafront, past a tiny ‘tin tabernacle’ church.", "source": 0 }
+  ],
+  "week": { "slot": "An hour or two", "text": "Cadgwith suits a calm day on the Lizard when the west coast is too windy, as it faces south-east. Make it a stop on a Lizard day between Kennack Sands, Lizard Point and Coverack.", "pairWith": [
+    { "kind": "beach", "slug": "kennack-sands", "why": "a bigger, sandier beach just up the coast" },
+    { "kind": "attraction", "slug": "national-trust-lizard-point", "why": "mainland Britain’s most southerly point" },
+    { "kind": "attraction", "slug": "national-trust-old-serpentine-works", "why": "an old serpentine stone works on the coast path" } ] },
+  "tips": [ "Park at the top and walk down: the village lanes are narrow.", "Head for Little Cove if you want a swim." ],
+  "sources": [
+    { "label": "Wikipedia – Cadgwith", "url": "https://en.wikipedia.org/wiki/Cadgwith", "licence": "CC BY-SA 4.0" }
+  ]
+}

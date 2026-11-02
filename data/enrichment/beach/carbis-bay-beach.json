@@ -1,0 +1,63 @@
+{
+  "slug": "carbis-bay-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Carbis Bay is a large family beach just around the corner from St Ives, tucked into its own little bay between Porthminster Point and Hawk’s Point. With lifeguards in season and a car park, toilets and cafés close by, it’s about as easy as a beach day gets.",
+    "It made world news in 2021 as the venue for the G7 summit, held at the hotel on the seafront."
+  ],
+  "expect": [
+    {
+      "title": "Family beach",
+      "text": "A wide sandy beach in its own bay, popular with families.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "The South West Coast Path runs above the beach, so you can walk the mile or so into St Ives along the coast.",
+      "source": 0
+    },
+    {
+      "title": "By train",
+      "text": "Carbis Bay has its own railway station right above the beach, on the scenic St Ives branch line.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "About a mile from St Ives. The station above the beach is on the line from St Erth, where you change for mainline trains.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A great choice if you’re staying around St Ives and want something easier than the town’s busy beaches. It faces north-east, so it’s sheltered from westerly winds. You could park here and take the train or walk the coast path into St Ives instead of battling for parking in town.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porthminster-beach",
+        "why": "St Ives’ big sandy town beach, over the point"
+      },
+      {
+        "kind": "beach",
+        "slug": "porth-kidney-sands",
+        "why": "a huge quiet beach towards the Hayle estuary"
+      },
+      {
+        "kind": "attraction",
+        "slug": "tate-st-ives",
+        "why": "the gallery in St Ives for a wet hour"
+      }
+    ]
+  },
+  "tips": [
+    "Take the little branch-line train into St Ives: it’s one stop and saves the parking hassle."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Carbis Bay",
+      "url": "https://en.wikipedia.org/wiki/Carbis_Bay",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

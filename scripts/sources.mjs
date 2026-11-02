@@ -100,7 +100,13 @@ async function wikipedia(place) {
     const q = `${place.name} Cornwall`;
     const s = await fetch(`https://en.wikipedia.org/w/api.php?${new URLSearchParams({ action: 'query', list: 'search', srsearch: q, srlimit: '3', format: 'json', origin: '*' })}`, { headers: { 'User-Agent': UA } }).then((r) => r.json()).catch(() => null);
     const key = place.name.toLowerCase().replace(/^(national trust|english heritage) - /, '').split(/\s+/).find((w) => !/^(the|a|an|st\.?|saint)$/.test(w)) || '';
-    const hit = s?.query?.search?.find((h) => h.title.toLowerCase().includes(key));
+    // Beaches: only accept an article whose title contains the beach's distinctive name, so a generic
+    // name like "Harbour Beach" never pulls in an unrelated article.
+    const core = place.name.toLowerCase().replace(/\b(beach|bay|cove|sands?|the|haven|towans)\b/g, '').replace(/[^a-z' -]/g, '').trim();
+    const generic = /^(harbour|great western|town|first|middle|little|long|north|south|east|west)$/.test(core);
+    const hit = KIND === 'beach'
+      ? (core.length >= 4 && !generic ? s?.query?.search?.find((h) => h.title.toLowerCase().includes(core)) : null)
+      : s?.query?.search?.find((h) => h.title.toLowerCase().includes(key));
     title = hit?.title || null;
   }
   if (!title) return null;

@@ -1,0 +1,24 @@
+{
+  "slug": "marazion-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Marazion’s beach is the one with the view everyone wants: St Michael’s Mount rising out of the bay just half a mile offshore. This is where the causeway to the island starts, so the beach is a natural part of any Mount day.",
+    "Marazion itself is a small, old market town on Mount’s Bay with a cluster of art galleries, cafés and an RSPB marsh reserve on its western edge, about two miles east of Penzance."
+  ],
+  "expect": [
+    { "title": "The Mount", "text": "At low tide a cobbled causeway runs from here to St Michael’s Mount; when the tide is in, little boats ferry people across.", "source": 0 },
+    { "title": "Marazion Marsh", "text": "Just west of town is an RSPB reserve, good for a short, quiet walk and some birdwatching.", "source": 0 },
+    { "title": "Galleries and cafés", "text": "The town has an active community of artists, with galleries selling paintings and pottery.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Tides", "text": "Check tide times if you plan to walk to the Mount: the causeway is only uncovered for a few hours around low water.", "source": 0 }
+  ],
+  "week": { "slot": "Half a day with the Mount", "text": "Make this the starting point for a St Michael’s Mount day, timed around low tide. It faces south into Mount’s Bay, so it’s a good bet when the north coast is wild and windy.", "pairWith": [
+    { "kind": "attraction", "slug": "st-michaels-mount", "why": "the island castle, reached by causeway or boat" },
+    { "kind": "beach", "slug": "perranuthnoe-beach", "why": "a sandy village beach a little further east" },
+    { "kind": "attraction", "slug": "tremenheere-sculpture-gardens", "why": "art in a valley garden near Penzance" } ] },
+  "tips": [ "Look up the tide times before anything else and plan your Mount crossing around them." ],
+  "sources": [
+    { "label": "Wikipedia – Marazion", "url": "https://en.wikipedia.org/wiki/Marazion", "licence": "CC BY-SA 4.0" }
+  ]
+}

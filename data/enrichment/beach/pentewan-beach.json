@@ -1,0 +1,63 @@
+{
+  "slug": "pentewan-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Pentewan is a long, sandy beach where the St Austell River meets the sea, about three miles south of St Austell and just along the coast from Mevagissey. The little village behind it was once a busy port that, at its height, sent out a third of all Cornwall’s china clay; its old harbour basin survives, though silt has long since sealed it off from the sea.",
+    "Today it’s a relaxed, roomy beach, and a nice one for dog owners as there’s no Council restriction. Inland, the route of the old mineral railway is now a traffic-free path for walking and cycling."
+  ],
+  "expect": [
+    {
+      "title": "A big sandy beach",
+      "text": "Plenty of space on a wide, sandy beach facing south-east into St Austell Bay.",
+      "source": null
+    },
+    {
+      "title": "The old harbour",
+      "text": "Take a look at the harbour basin in the village, rebuilt in the early 1800s for the clay trade and now stranded inland by silt.",
+      "source": 0
+    },
+    {
+      "title": "Pentewan Trail",
+      "text": "The line of the old railway between London Apprentice and the village is now a path for walkers and cyclists, ideal for a family bike ride.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About three miles south of St Austell, between St Austell and Mevagissey.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Pentewan pairs naturally with the Lost Gardens of Heligan just up the hill, or with a bike ride along the old railway trail. It faces south-east, so it’s a good choice in westerly winds.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "the-lost-gardens-of-heligan",
+        "why": "the famous restored gardens just up the hill"
+      },
+      {
+        "kind": "town",
+        "slug": "mevagissey",
+        "why": "a busy fishing harbour for lunch"
+      },
+      {
+        "kind": "beach",
+        "slug": "polstreath",
+        "why": "a smaller beach towards Mevagissey"
+      }
+    ]
+  },
+  "tips": [
+    "Bring bikes for the traffic-free trail along the valley."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Pentewan",
+      "url": "https://en.wikipedia.org/wiki/Pentewan",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}
