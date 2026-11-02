@@ -213,6 +213,17 @@ for (const r of seen.values()) {
     ...(prev.images ? { images: prev.images } : {}),
   };
   a.sources = [listing, ...(site ? [{ label: `${name} – official website`, url: site }] : [])];
+  // Researched guide copy can correct category-derived facts, citing its own source.
+  const enr = await readJson(`data/enrichment/attraction/${a.slug}.json`);
+  for (const [k, fx] of Object.entries(enr?.facts || {})) {
+    const src = enr.sources?.[fx.source];
+    const fact = { value: fx.value, method: fx.note, source: src ? { label: src.label, url: src.url } : listing };
+    if (k === 'setting') {
+      a.setting = fact;
+      a.rainyDay = fx.value === 'outdoor' ? { value: NOT_STATED } : { value: 'yes', method: fx.value === 'indoor' ? 'Indoors' : 'Has indoor areas', source: fact.source };
+    } else if (k === 'kids') a.kids = fact;
+    else if (k === 'entry') a.entry = { value: fx.value, quote: null, summary: fx.note, source: fact.source };
+  }
   slugCount[a.slug] = (slugCount[a.slug] || 0) + 1;
   out.push(a);
 }

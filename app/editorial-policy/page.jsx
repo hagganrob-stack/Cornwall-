@@ -39,6 +39,11 @@ export default function EditorialPolicy() {
       <p>
         We use AI tools to help collect data from the sources above, match them up (for example, linking a Council dog rule to the right beach), and draft the short factual descriptions from those facts. The “who it suits”, “how long to allow” and “best time to go” notes are worked out automatically from the facts on each page and say so. A person reviews the matching and the pages, and AI is never used to invent visits, opinions or reviews.
       </p>
+      <h2 id="guides">How we write our guides</h2>
+      <p>
+        For the bigger places we write a fuller guide: what the place is, what to expect and practical things to know. We read the place’s own website and other public sources such as Wikipedia, then write it in our own words with AI assistance. Every practical point links to the page it came from, and a script checks each guide against its sources so no passage is copied. Where the research shows that one of our automatic facts was wrong, for example a garden that is mostly under cover, the guide corrects it and cites the source.
+      </p>
+      <p>Guides say when they were written and whether Rob has checked them in person. Prices and opening times change, so always check the official website before you travel.</p>
       <h2>What we cover today</h2>
       <p>{beaches.length} beaches and {towns.length} towns and villages. Share of beaches with each fact:</p>
       <div className="mb-6 max-w-xl overflow-hidden rounded-2xl ring-1 ring-atlantic-950/10">

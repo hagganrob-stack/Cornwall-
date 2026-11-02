@@ -1,0 +1,81 @@
+{
+  "slug": "newquay-zoo",
+  "written": "2026-11-02",
+  "overview": [
+    "Newquay Zoo is a compact zoo set in 13 acres of subtropical gardens inside Trenance Leisure Park, about ten minutes’ walk from Newquay railway station. It opened in 1969 and is the largest zoo in Cornwall, with several hundred animals from dozens of species, including some of the world’s rarest small carnivores.",
+    "Most families spend two to three hours here. Paths wind between the enclosures and planting, and there are keeper talks, play areas and a few indoor houses to duck into if a shower comes over."
+  ],
+  "expect": [
+    {
+      "title": "Animals",
+      "text": "Expect penguins, red pandas, primates, tropical birds and reptiles alongside less familiar threatened species, and new arrivals as the zoo develops.",
+      "source": 2
+    },
+    {
+      "title": "Indoor houses",
+      "text": "Gems of the Jungle is a walk-through space with free-flying tropical birds, and the Tropical House is a warm stop on a cold day.",
+      "source": 2
+    },
+    {
+      "title": "Talks and feeds",
+      "text": "Keeper talks and feeding times run through the day and are included in the ticket, as are the play areas.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "Open every day from 10am, all year; closing time changes with the season and last entry is an hour before closing.",
+      "source": 4
+    },
+    {
+      "label": "Tickets",
+      "text": "Entry is paid. Online tickets are 15% cheaper as long as you buy them by 10am on the day you go. There are no set family tickets: you choose adult and child tickets individually. Annual memberships are available, including joint ones with Paignton Zoo.",
+      "source": 1
+    },
+    {
+      "label": "Food",
+      "text": "Café Lemur and two seasonal outlets sell meals, snacks and ice cream, and you’re welcome to bring a picnic. Keep an eye on your food: the local gulls are bold.",
+      "source": 1
+    },
+    {
+      "label": "Getting there",
+      "text": "The zoo is within Trenance Leisure Park, close to the town centre and a short walk from the station.",
+      "source": 4
+    }
+  ],
+  "sources": [
+    {
+      "label": "Newquay Zoo",
+      "url": "https://www.newquayzoo.uk/"
+    },
+    {
+      "label": "Newquay Zoo – FAQs",
+      "url": "https://www.newquayzoo.uk/visit/plan-your-visit/faq"
+    },
+    {
+      "label": "Newquay Zoo – Explore",
+      "url": "https://www.newquayzoo.uk/explore"
+    },
+    {
+      "label": "Newquay Zoo – About us",
+      "url": "https://www.newquayzoo.uk/about/about-us"
+    },
+    {
+      "label": "Newquay Zoo – Visit",
+      "url": "https://www.newquayzoo.uk/visit"
+    },
+    {
+      "label": "Wikipedia – Newquay Zoo",
+      "url": "https://en.wikipedia.org/wiki/Newquay_Zoo",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 1,
+      "note": "Paid entry; tickets online or at the gate"
+    }
+  }
+}

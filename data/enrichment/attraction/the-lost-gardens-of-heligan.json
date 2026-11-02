@@ -1,0 +1,91 @@
+{
+  "slug": "the-lost-gardens-of-heligan",
+  "written": "2026-11-02",
+  "overview": [
+    "Heligan is a large historic estate garden on the hill above Mevagissey. The Tremayne family laid it out between the mid-1700s and the early 1900s, but after the First World War, when many of its gardeners left to fight, it was abandoned and swallowed by brambles. It was rediscovered and restored in the 1990s, and the story of that restoration is a big part of the visit.",
+    "Today more than 200 acres of gardens, woodland and farmland are open, ranging from neat walled kitchen gardens near the house to wild, steep valleys running down towards the sea. Most of it is outdoors and on slopes, so wear shoes you can walk in."
+  ],
+  "expect": [
+    {
+      "title": "The productive gardens",
+      "text": "Flower and vegetable gardens are kept productive, much as they would have been in Victorian times. Look out for the pineapple pit, warmed by rotting manure, where gardeners managed to grow pineapples in Cornwall.",
+      "source": 5
+    },
+    {
+      "title": "The Jungle",
+      "text": "A steep, sheltered valley full of subtropical tree ferns and bamboo, which feels nothing like the rest of Cornwall.",
+      "source": 4
+    },
+    {
+      "title": "The Mud Maid and Giant’s Head",
+      "text": "Two large figures shaped from rock, soil and plants are hidden along the woodland walks, and are a favourite with children.",
+      "source": 5
+    },
+    {
+      "title": "Woods and farm",
+      "text": "Beyond the gardens there are about 60 acres of woodland, meadows and a farm with traditional and rare breeds of livestock and poultry.",
+      "source": 4
+    },
+    {
+      "title": "Seasonal events",
+      "text": "Through the year there are guided walks and workshops, and on selected winter evenings a lantern-lit night garden trail that needs its own ticket.",
+      "source": 2
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "The gardens open every day. Booking ahead is recommended for day visitors and local pass holders.",
+      "source": 1
+    },
+    {
+      "label": "Tickets",
+      "text": "Entry is paid. Residents of Cornwall and Devon can buy a locals’ pass, and there are annual passes for repeat visits.",
+      "source": 3
+    },
+    {
+      "label": "Food",
+      "text": "The Heligan Kitchen restaurant serves meals made with meat and produce from the estate, including Sunday roasts.",
+      "source": 2
+    },
+    {
+      "label": "Where it is",
+      "text": "Heligan is about 2.5 km north-west of Mevagissey and around 10 km by road from St Austell and its railway station.",
+      "source": 5
+    }
+  ],
+  "sources": [
+    {
+      "label": "The Lost Gardens of Heligan",
+      "url": "https://www.heligan.com/"
+    },
+    {
+      "label": "Heligan – Opening times",
+      "url": "https://www.heligan.com/plan-your-visit/before-you-visit/opening-times/"
+    },
+    {
+      "label": "Heligan – Events",
+      "url": "https://www.heligan.com/events-at-heligan/"
+    },
+    {
+      "label": "Heligan – Memberships and passes",
+      "url": "https://www.heligan.com/tickets-passes/buy-memberships/"
+    },
+    {
+      "label": "Heligan – Explore the gardens",
+      "url": "https://www.heligan.com/explore-heligan/"
+    },
+    {
+      "label": "Wikipedia – Lost Gardens of Heligan",
+      "url": "https://en.wikipedia.org/wiki/Lost_Gardens_of_Heligan",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 3,
+      "note": "Paid entry, with locals’ and annual passes"
+    }
+  }
+}

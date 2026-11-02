@@ -1,0 +1,49 @@
+{
+  "slug": "porthcurno",
+  "written": "2026-11-02",
+  "overview": [
+    "Porthcurno is a small valley and beach on the far south-west coast, about four kilometres from Land’s End. The beach is pale sand shelving into clear water, enclosed by granite cliffs, with the open-air Minack Theatre on the clifftop above.",
+    "The village has an unusual history. In 1870 the first undersea telegraph cable linking Britain with India came ashore here, and between the two world wars Porthcurno became the biggest cable station of its kind anywhere. A listed concrete hut where the cables came ashore is still at the head of the beach."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "Steep-sided and sheltered by the cliffs, with sand that shelves quickly into the sea. Its colours on a sunny day are what most people come for.",
+      "source": null
+    },
+    {
+      "title": "PK Porthcurno museum",
+      "text": "The story of the cable station is told at the museum in the valley, which makes a good indoor stop.",
+      "source": 0
+    },
+    {
+      "title": "Walking",
+      "text": "The coast path passes the beach: Land’s End is about two hours’ walk west along the cliffs.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking and facilities",
+      "text": "There’s a large public car park at the bottom of the valley, a small seasonal café and a pub.",
+      "source": 0
+    },
+    {
+      "label": "Buses",
+      "text": "A limited bus service links Porthcurno with Penzance, Land’s End and the villages in between.",
+      "source": 0
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porthcurno",
+      "url": "https://en.wikipedia.org/wiki/Porthcurno",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "Wikipedia – Minack Theatre",
+      "url": "https://en.wikipedia.org/wiki/Minack_Theatre",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

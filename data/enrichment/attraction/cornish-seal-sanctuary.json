@@ -1,0 +1,81 @@
+{
+  "slug": "cornish-seal-sanctuary",
+  "written": "2026-11-02",
+  "overview": [
+    "The Cornish Seal Sanctuary is a rescue centre on the banks of the Helford River at Gweek, run by the SEA LIFE Trust charity. Its main job is nursing sick and orphaned grey seal pups from around the Cornish coast back to health and returning them to the sea; most years it takes in several dozen pups, mostly between September and March.",
+    "Alongside the rescue work, it’s home to resident animals that can’t be released, including grey seals and a group of puffins. It began in 1958 when the founder rescued a stranded pup near St Agnes, and moved to Gweek in 1975."
+  ],
+  "expect": [
+    {
+      "title": "The seal hospital",
+      "text": "You can look in on the hospital and nursery pools to see pups at different stages of recovery, from close care to learning to compete for fish before release. It’s busiest in the autumn and winter pup season.",
+      "source": 3
+    },
+    {
+      "title": "Resident seals and talks",
+      "text": "The permanent residents live in larger outdoor pools. Seal talks explain each animal’s story, and there are underwater viewing windows to watch them swim.",
+      "source": 2
+    },
+    {
+      "title": "Puffin Island",
+      "text": "Ten puffins that can’t return to the wild because of injuries live in their own habitat, having come from the charity’s sister sanctuary in Iceland.",
+      "source": 4
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Entry is paid, and your ticket lets you come back free for 12 months if you keep the receipt. Booking ahead is advised.",
+      "source": 1
+    },
+    {
+      "label": "Opening",
+      "text": "Recent opening hours have been 11am to 4pm with last entry at 3pm; check before you go as hours change with the season.",
+      "source": 1
+    },
+    {
+      "label": "Children",
+      "text": "Under-17s must be with an adult aged 18 or over.",
+      "source": 1
+    },
+    {
+      "label": "Weather",
+      "text": "Most of the site is outdoors around open-air pools, so dress for the weather.",
+      "source": 2
+    }
+  ],
+  "sources": [
+    {
+      "label": "Cornish Seal Sanctuary",
+      "url": "https://sealsanctuary.sealifetrust.org/en/"
+    },
+    {
+      "label": "Cornish Seal Sanctuary – Tickets",
+      "url": "https://sealsanctuary.sealifetrust.org/en/how-to-book-your-tickets/"
+    },
+    {
+      "label": "Cornish Seal Sanctuary – The sanctuary",
+      "url": "https://sealsanctuary.sealifetrust.org/en/about-us/the-sanctuary/"
+    },
+    {
+      "label": "Cornish Seal Sanctuary – Rescue, rehab and release",
+      "url": "https://sealsanctuary.sealifetrust.org/en/about-us/seal-pup-rescue-rehab-and-release/"
+    },
+    {
+      "label": "Cornish Seal Sanctuary – Puffin Island",
+      "url": "https://sealsanctuary.sealifetrust.org/en/about-us/welcome-to-puffin-island/"
+    },
+    {
+      "label": "Wikipedia – Cornish Seal Sanctuary",
+      "url": "https://en.wikipedia.org/wiki/Cornish_Seal_Sanctuary",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 1,
+      "note": "Paid entry, valid for return visits for 12 months"
+    }
+  }
+}

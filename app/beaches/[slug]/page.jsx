@@ -13,6 +13,8 @@ import { Container, Crumbs, WeVisited, StayNearby, Sources, Callout } from '../.
 import JsonLd from '../../../components/JsonLd';
 import { beachTitle, beachDescription, beachLd } from '../../../lib/seo';
 import { imgSrc } from '../../../lib/data';
+import { enrichment } from '../../../lib/enrichment';
+import { EnrichedOverview, EnrichedExpect, EnrichedGoodToKnow, EnrichedNote } from '../../../components/Enriched';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => beaches.map((b) => ({ slug: b.slug }));
@@ -55,6 +57,7 @@ export default async function BeachPage({ params }) {
   const gallery = (b.images || []).filter((i) => i !== hero);
   const name = displayName(b);
   const inRoundups = Object.values(ROUNDUPS).filter((r) => r.test(b));
+  const e = enrichment('beach', b.slug);
   return (
     <article>
       <JsonLd data={beachLd(b, `/beaches/${b.slug}/`)} />
@@ -70,7 +73,8 @@ export default async function BeachPage({ params }) {
       <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
           <WeVisited place={b} />
-          <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{b.customDescription || b.description}</p>
+          {e ? <EnrichedOverview e={e} /> : <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{b.customDescription || b.description}</p>}
+          <EnrichedNote e={e} />
           {b.altNames?.length ? <p className="mt-2 text-sm text-atlantic-950/55">Also known as {b.altNames.join(', ')}.</p> : null}
 
           {b.dogs.councilListed ? (
@@ -86,6 +90,9 @@ export default async function BeachPage({ params }) {
               {b.lifeguards.note} <a href={b.lifeguards.rnliPage} rel="nofollow noopener" target="_blank">RNLI page for {b.lifeguards.unit}</a>
             </Callout>
           ) : null}
+
+          <EnrichedExpect e={e} title="What it’s like" />
+          <EnrichedGoodToKnow e={e} />
 
           <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2>
           <Planner guide={b.guide} />
@@ -119,7 +126,7 @@ export default async function BeachPage({ params }) {
           ) : null}
 
           <StayNearby place={b} />
-          <Sources sources={b.sources} lastChecked={b.lastChecked} note={b.curated ? b.curated.note : ''} />
+          <Sources sources={[...(e?.sources || []), ...b.sources.filter((s) => !e?.sources?.some((x) => x.url === s.url))]} lastChecked={b.lastChecked} note={b.curated ? b.curated.note : ''} />
         </div>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">

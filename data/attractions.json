@@ -4622,7 +4622,13 @@
       }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid entry, valid for return visits for 12 months",
+      "source": {
+        "label": "Cornish Seal Sanctuary – Tickets",
+        "url": "https://sealsanctuary.sealifetrust.org/en/how-to-book-your-tickets/"
+      }
     },
     "hours": {
       "value": "listed",
@@ -4815,7 +4821,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Cornish Seal Sanctuary is an animal rescue service in Gweek, in The Lizard. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children. The nearest beach is Penarvon Cove (4.8 km)."
+    "description": "Cornish Seal Sanctuary is an animal rescue service in Gweek, in The Lizard. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Penarvon Cove (4.8 km)."
   },
   {
     "slug": "cornwall-falconry",
@@ -6475,21 +6481,37 @@
     "address": "Bodelva, Par, PL24 2SG",
     "website": "https://www.edenproject.com/",
     "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Attractions, Charity, Education, Garden, Botanical garden)",
+      "value": "indoor and outdoor",
+      "method": "Two huge covered Biomes plus outdoor gardens",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJtaHz2mZva0gRQcJWV1CrYFY"
+        "label": "Eden Project – Plan your visit",
+        "url": "https://www.edenproject.com/visit"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "Eden Project – Plan your visit",
+        "url": "https://www.edenproject.com/visit"
+      }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Play areas, water play and family activities",
+      "source": {
+        "label": "Eden Project – Plan your visit",
+        "url": "https://www.edenproject.com/visit"
+      }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Tickets are sold on the official website",
+      "source": {
+        "label": "Eden Project – Tickets",
+        "url": "https://www.edenproject.com/book"
+      }
     },
     "hours": {
       "value": "not stated"
@@ -6657,15 +6679,16 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "families with children",
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "Two hours to half a day",
       "bestTimeToGo": [
-        "On a dry day"
+        "Any day, including wet ones"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Eden Project is an attractions 3.1 km from Par, in South Coast. It’s outdoors, so it’s best on a dry day. The nearest beach is Crinnis Beach (2.8 km)."
+    "description": "Eden Project is an attractions 3.1 km from Par, in South Coast. It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Crinnis Beach (2.8 km)."
   },
   {
     "slug": "english-heritage-launceston-castle",
@@ -12237,22 +12260,27 @@
     "website": "https://landsend-landmark.co.uk/",
     "setting": {
       "value": "indoor and outdoor",
-      "method": "From its Google Maps categories (Historical landmark, Holiday park, Visitor centre)",
+      "method": "Clifftop walks plus indoor family attractions",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJS3jAR_7GakgRH38GucrBWfA"
+        "label": "Land’s End – Attraction tickets",
+        "url": "https://landsend-landmark.co.uk/attractions/the-experience-tickets/"
       }
     },
     "rainyDay": {
       "value": "yes",
       "method": "Has indoor areas",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJS3jAR_7GakgRH38GucrBWfA"
+        "label": "Land’s End – Attraction tickets",
+        "url": "https://landsend-landmark.co.uk/attractions/the-experience-tickets/"
       }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Family attractions including a farm and adventure golf",
+      "source": {
+        "label": "Land’s End – Attraction tickets",
+        "url": "https://landsend-landmark.co.uk/attractions/the-experience-tickets/"
+      }
     },
     "entry": {
       "value": "not stated"
@@ -12423,6 +12451,7 @@
     ],
     "guide": {
       "whoItSuits": [
+        "families with children",
         "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "One to three hours",
@@ -12431,7 +12460,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Land's End is a historical landmark 1.5 km from Sennen Cove, in West Cornwall (Penwith). It has both indoor and outdoor areas. The nearest beach is Nanjizal or Mill Bay (2.0 km)."
+    "description": "Land's End is a historical landmark 1.5 km from Sennen Cove, in West Cornwall (Penwith). It has both indoor and outdoor areas. It’s aimed at families with children. The nearest beach is Nanjizal or Mill Bay (2.0 km)."
   },
   {
     "slug": "lane-theatre",
@@ -18945,25 +18974,36 @@
     "address": "Treffry Ln, Bodmin, PL30 5AD",
     "website": "https://www.nationaltrust.org.uk/lanhydrock",
     "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Garden)",
+      "value": "indoor and outdoor",
+      "method": "A house to tour indoors, plus gardens and parkland",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJhdSi2eZ6a0gR7lf31TrKPxc"
+        "label": "National Trust – The house at Lanhydrock",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-the-house-at-lanhydrock"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "National Trust – The house at Lanhydrock",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-the-house-at-lanhydrock"
+      }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Play area, family route and children’s activities",
+      "source": {
+        "label": "National Trust – Lanhydrock with family",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-lanhydrock-with-family"
+      }
     },
     "entry": {
       "value": "paid",
-      "quote": "…backpacks and shopping bags. 2026 Ticket type With Gift Aid Without Gift Aid Adult (18+) £26.40 £24.00 Child (5-17) under 5s free…",
+      "quote": null,
+      "summary": "Paid entry for non-members",
       "source": {
-        "label": "Official website",
-        "url": "https://www.nationaltrust.org.uk/lanhydrock"
+        "label": "National Trust – Lanhydrock",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock"
       }
     },
     "hours": {
@@ -19061,15 +19101,16 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "families with children",
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "Two hours to half a day",
       "bestTimeToGo": [
-        "On a dry day"
+        "Any day, including wet ones"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "National Trust - Lanhydrock - House and Garden is a garden 3.8 km from Bodmin, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day. There’s an entry charge; prices are on its website."
+    "description": "National Trust - Lanhydrock - House and Garden is a garden 3.8 km from Bodmin, in Bodmin Moor & East Cornwall. It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website."
   },
   {
     "slug": "national-trust-lawrence-house",
@@ -20882,7 +20923,13 @@
       }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid entry; tickets online or at the gate",
+      "source": {
+        "label": "Newquay Zoo – FAQs",
+        "url": "https://www.newquayzoo.uk/visit/plan-your-visit/faq"
+      }
     },
     "hours": {
       "value": "listed",
@@ -21075,7 +21122,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Newquay Zoo is a zoo 1.1 km from Newquay, in North Coast. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children. The nearest beach is Great Western Beach (800 m)."
+    "description": "Newquay Zoo is a zoo 1.1 km from Newquay, in North Coast. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Great Western Beach (800 m)."
   },
   {
     "slug": "paradise-park-and-junglebarn",
@@ -28221,21 +28268,37 @@
     "address": "Harbour View, Marazion, TR17 0HS",
     "website": "http://www.stmichaelsmount.co.uk/",
     "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Cafe, Garden, Restaurant, Castle)",
+      "value": "indoor and outdoor",
+      "method": "A castle to tour indoors, plus gardens, village and causeway outdoors",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ56lU3bakgR5ilfT-6pcPo"
+        "label": "St Michael’s Mount",
+        "url": "https://stmichaelsmount.co.uk/"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "St Michael’s Mount",
+        "url": "https://stmichaelsmount.co.uk/"
+      }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Family tickets and a children’s trail",
+      "source": {
+        "label": "St Michael’s Mount – Families",
+        "url": "https://stmichaelsmount.co.uk/plan-your-visit/families/"
+      }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Castle and garden tickets are paid",
+      "source": {
+        "label": "St Michael’s Mount – Plan your visit",
+        "url": "https://stmichaelsmount.co.uk/plan-your-visit/"
+      }
     },
     "hours": {
       "value": "listed",
@@ -28461,16 +28524,17 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "families with children",
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "One to three hours",
       "bestTimeToGo": [
-        "On a dry day",
+        "Any day, including wet ones",
         "Not on Saturday, when the listing shows it closed"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "St Michael's Mount is a cafe in Marazion, in West Cornwall (Penwith). It’s outdoors, so it’s best on a dry day. The nearest beach is Marazion Beach (800 m)."
+    "description": "St Michael's Mount is a cafe in Marazion, in West Cornwall (Penwith). It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Marazion Beach (800 m)."
   },
   {
     "slug": "st-nectans-waterfall",
@@ -31698,7 +31762,13 @@
       "value": "not stated"
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid entry, with locals’ and annual passes",
+      "source": {
+        "label": "Heligan – Memberships and passes",
+        "url": "https://www.heligan.com/tickets-passes/buy-memberships/"
+      }
     },
     "hours": {
       "value": "listed",
@@ -31849,7 +31919,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "The Lost Gardens of Heligan is a garden 2.6 km from Mevagissey, in South Coast. It’s outdoors, so it’s best on a dry day. The nearest beach is Pentewan Beach (2.2 km)."
+    "description": "The Lost Gardens of Heligan is a garden 2.6 km from Mevagissey, in South Coast. It’s outdoors, so it’s best on a dry day. There’s an entry charge; prices are on its website. The nearest beach is Pentewan Beach (2.2 km)."
   },
   {
     "slug": "the-marconi-centre",
@@ -32912,7 +32982,13 @@
       "value": "not stated"
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid entry; free for English Heritage members",
+      "source": {
+        "label": "English Heritage – Prices and opening times",
+        "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/prices-and-opening-times/"
+      }
     },
     "hours": {
       "value": "listed",
@@ -33134,7 +33210,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Tintagel Castle is a historical landmark in Tintagel, in North Coast. It’s outdoors, so it’s best on a dry day. The nearest beach is Bossiney haven (1.5 km)."
+    "description": "Tintagel Castle is a historical landmark in Tintagel, in North Coast. It’s outdoors, so it’s best on a dry day. There’s an entry charge; prices are on its website. The nearest beach is Bossiney haven (1.5 km)."
   },
   {
     "slug": "tintagel-toy-museum",

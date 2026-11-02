@@ -1,0 +1,39 @@
+{
+  "slug": "perran-beach-perranporth-2",
+  "written": "2026-11-02",
+  "overview": [
+    "Perran Beach starts right in Perranporth and runs north-east for about three kilometres to Ligger Point, a huge, wide expanse of sand facing west into Perran Bay. This page covers the southern end by the town; the northern part is known as Perran Sands.",
+    "Perranporth is a seaside town with shops, cafés and pubs along its main street, so this end of the beach is easy for a family day with everything close by."
+  ],
+  "expect": [
+    {
+      "title": "Surf and swimming",
+      "text": "It’s a popular surfing beach. Lifeguards patrol from May to September; swim between the flags.",
+      "source": 0
+    },
+    {
+      "title": "Space",
+      "text": "Even in summer the sheer size of the beach means you can usually walk away from the busiest part near town.",
+      "source": null
+    },
+    {
+      "title": "History in the dunes",
+      "text": "In the dunes behind the beach, at Penhale Sands, are the remains of St Piran’s Oratory, a 7th-century chapel that lay buried under sand for centuries.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "Perranporth is around 11 km south-west of Newquay on the B3285, and the coast path passes along the edge of town.",
+      "source": 0
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Perranporth",
+      "url": "https://en.wikipedia.org/wiki/Perranporth",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

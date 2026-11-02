@@ -1,0 +1,105 @@
+{
+  "slug": "st-michaels-mount",
+  "written": "2026-11-02",
+  "overview": [
+    "St Michael’s Mount is a small tidal island in Mount’s Bay, just off the beach at Marazion. A castle sits on the summit, with a priory church that dates back to the 12th century, and below it there’s a harbour and a little village of cobbled lanes, shops and cafés.",
+    "Getting there is part of the fun. At low tide a cobbled causeway appears and you can walk across in about 15 minutes; when the tide is in, small boats run from Marazion in the main season. The island only opens when the tide and weather allow, so it pays to check times before you set off."
+  ],
+  "expect": [
+    {
+      "title": "The castle and summit",
+      "text": "A steep climb takes you up to the castle, its rooms full of the island’s myths and history, and out onto the battlements with views right across Mount’s Bay. Guides give talks at the top.",
+      "source": 0
+    },
+    {
+      "title": "The terraced gardens",
+      "text": "Subtropical gardens are planted on terraces that cling to the cliffs. They open in the warmer months only, roughly from May to early September.",
+      "source": 3
+    },
+    {
+      "title": "Harbour, village and gallery",
+      "text": "Around the harbour there are shops, a café and the Steward’s House gallery, which shows paintings by Newlyn School artists of everyday life in west Cornwall.",
+      "source": 0
+    },
+    {
+      "title": "For children",
+      "text": "There’s a trail following the legendary giant’s footsteps up to the castle, and open lawns for younger children to run around on.",
+      "source": 4
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting across",
+      "text": "Walk the causeway at low tide, or take a boat at high tide between mid-March and the end of October. Only cross the causeway at the advised times: the sea comes in quickly and the cobbles are uneven.",
+      "source": 1
+    },
+    {
+      "label": "Opening",
+      "text": "In summer the island opens Sunday to Friday, with last entry onto the island at 3.45pm. Over winter the castle and gardens close, but you can still wander the harbour and village, browse the shops and gallery and visit the cafés for free whenever the causeway is open.",
+      "source": 3
+    },
+    {
+      "label": "Tickets",
+      "text": "Castle and garden tickets are paid and cheaper bought in advance. Under-5s go free, there are family tickets, and National Trust members get a discount on entry.",
+      "source": 2
+    },
+    {
+      "label": "Pushchairs and wheelchairs",
+      "text": "There’s no pushchair or wheelchair access up to the castle, and the causeway is hard going with wheels; a baby carrier is easier. You can leave a pushchair in a park opposite the shop.",
+      "source": 4
+    },
+    {
+      "label": "Weather",
+      "text": "Strong winds or rough seas can close the island, usually with notice on the website and social media.",
+      "source": 2
+    },
+    {
+      "label": "Dogs",
+      "text": "Dogs are welcome in the village during the winter season.",
+      "source": 3
+    }
+  ],
+  "sources": [
+    {
+      "label": "St Michael’s Mount",
+      "url": "https://stmichaelsmount.co.uk/"
+    },
+    {
+      "label": "St Michael’s Mount – The causeway",
+      "url": "https://stmichaelsmount.co.uk/getting-here/walking/"
+    },
+    {
+      "label": "St Michael’s Mount – Plan your visit",
+      "url": "https://stmichaelsmount.co.uk/plan-your-visit/"
+    },
+    {
+      "label": "St Michael’s Mount – Opening times",
+      "url": "https://stmichaelsmount.co.uk/opening-times-2026-27/"
+    },
+    {
+      "label": "St Michael’s Mount – Families",
+      "url": "https://stmichaelsmount.co.uk/plan-your-visit/families/"
+    },
+    {
+      "label": "St Michael’s Mount – Groups",
+      "url": "https://stmichaelsmount.co.uk/plan-your-visit/groups/"
+    }
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "A castle to tour indoors, plus gardens, village and causeway outdoors"
+    },
+    "kids": {
+      "value": "yes",
+      "source": 4,
+      "note": "Family tickets and a children’s trail"
+    },
+    "entry": {
+      "value": "paid",
+      "source": 2,
+      "note": "Castle and garden tickets are paid"
+    }
+  }
+}

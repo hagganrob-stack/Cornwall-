@@ -1,0 +1,25 @@
+{
+  "slug": "bodmin-jail-museum",
+  "written": "2026-11-02",
+  "overview": [
+    "Bodmin Jail is a former county prison on the edge of Bodmin, built in 1779 and closed in 1927. It was the first prison in Britain to hold prisoners in separate cells, and over its working life more than 50 public hangings took place here; the last execution was in 1909.",
+    "Part of the old prison is now a museum telling the story of crime and punishment in Georgian and Victorian Cornwall, and another part has been turned into a hotel. Most of the visit is indoors, so it’s a useful option on a wet day."
+  ],
+  "expect": [
+    { "title": "Cells and corridors", "text": "You walk through original cell blocks and corridors, with displays and stories about the people held here and the harsh punishments of the time, down to the execution pit.", "source": 0 },
+    { "title": "The Dark Walk", "text": "An immersive, theatrical walk-through telling the jail’s history with sound and lighting. It’s atmospheric and may be too intense for younger children.", "source": 0 },
+    { "title": "Tours and ghost nights", "text": "Choose a self-guided visit or a guided tour. The jail also leans into its reputation as a haunted place with evening paranormal experiences.", "source": 0 },
+    { "title": "A wartime secret", "text": "Near the end of the First World War, national records including the Domesday Book were stored here for safekeeping.", "source": 2 }
+  ],
+  "goodToKnow": [
+    { "label": "Getting there", "text": "The jail is a couple of minutes from Bodmin town centre and signed with brown tourist signs. If you park on nearby streets, be considerate of the neighbours.", "source": 0 },
+    { "label": "Access", "text": "If you have mobility needs, contact the jail before you visit to talk through what’s possible.", "source": 0 },
+    { "label": "Food", "text": "The Moor Café on site is open every day.", "source": 0 },
+    { "label": "Contact", "text": "Phone 01208 76292, 9am to 5pm on weekdays.", "source": 1 }
+  ],
+  "sources": [
+    { "label": "Bodmin Jail", "url": "https://www.bodminjail.org/" },
+    { "label": "Bodmin Jail – Contact", "url": "https://www.bodminjail.org/contact-us/" },
+    { "label": "Wikipedia – Bodmin Jail", "url": "https://en.wikipedia.org/wiki/Bodmin_Jail", "licence": "CC BY-SA 4.0" }
+  ]
+}

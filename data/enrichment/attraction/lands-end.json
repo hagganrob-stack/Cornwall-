@@ -1,0 +1,87 @@
+{
+  "slug": "lands-end",
+  "written": "2026-11-02",
+  "overview": [
+    "Land’s End is the westernmost tip of mainland England, where granite cliffs drop straight into the Atlantic. The headland is part of a 110-acre stretch of protected coastline, and on a clear day you can pick out Wolf Rock lighthouse out to sea.",
+    "Behind the cliffs is a privately run visitor site with a hotel, cafés, shops and a cluster of paid family attractions, plus the famous signpost where people queue for a photo. You can ignore all of that and simply walk the coast path in either direction: the paths are open all year, whatever is happening at the visitor centre."
+  ],
+  "expect": [
+    {
+      "title": "Cliff-top walking",
+      "text": "Signed paths run along the clifftops, and the coast path carries on north towards Sennen. The rocks here formed around 270 million years ago, which is why the coastline looks so jagged.",
+      "source": 0
+    },
+    {
+      "title": "Birds and sea life",
+      "text": "Seabirds such as gannets, fulmars, kittiwakes, shags and razorbills are regulars, and the rare Cornish chough is sometimes seen. Bring binoculars.",
+      "source": 0
+    },
+    {
+      "title": "Family attractions",
+      "text": "A combined ticket covers four attractions: an indoor 15-hole adventure golf course, a walk-through Aardman exhibit, a short 4D film and a small farm with animals. They close over winter and reopen in spring.",
+      "source": 2
+    },
+    {
+      "title": "The signpost",
+      "text": "The famous Land’s End signpost is run as a paid photo experience, so expect a queue in summer.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking",
+      "text": "Parking is paid; the money goes towards looking after the protected landscape. Check the website before you go for current arrangements and the locals’ discount.",
+      "source": 1
+    },
+    {
+      "label": "Opening",
+      "text": "The coast paths are open all year. The family attractions, cafés and shops keep shorter hours and close for maintenance in winter, and everything on site can be affected by bad weather.",
+      "source": 1
+    },
+    {
+      "label": "Food",
+      "text": "There’s a café looking out over the farm and the sea, a takeaway kiosk with pasties and ice cream, picnic benches, and a hotel restaurant and bar.",
+      "source": 3
+    },
+    {
+      "label": "Time to allow",
+      "text": "An hour is enough for the headland and a short walk; allow longer if you plan to do the attractions or walk part of the coast path.",
+      "source": null
+    }
+  ],
+  "sources": [
+    {
+      "label": "Land’s End Landmark",
+      "url": "https://landsend-landmark.co.uk/"
+    },
+    {
+      "label": "Land’s End – Plan your visit",
+      "url": "https://landsend-landmark.co.uk/plan-your-visit/"
+    },
+    {
+      "label": "Land’s End – Attraction tickets",
+      "url": "https://landsend-landmark.co.uk/attractions/the-experience-tickets/"
+    },
+    {
+      "label": "Land’s End – Cafés and kiosks",
+      "url": "https://landsend-landmark.co.uk/eat/quick-bites/"
+    },
+    {
+      "label": "Wikipedia – Land’s End",
+      "url": "https://en.wikipedia.org/wiki/Land%27s_End",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 2,
+      "note": "Clifftop walks plus indoor family attractions"
+    },
+    "kids": {
+      "value": "yes",
+      "source": 2,
+      "note": "Family attractions including a farm and adventure golf"
+    }
+  }
+}

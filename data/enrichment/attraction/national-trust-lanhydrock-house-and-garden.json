@@ -1,0 +1,119 @@
+{
+  "slug": "national-trust-lanhydrock-house-and-garden",
+  "written": "2026-11-02",
+  "overview": [
+    "Lanhydrock is a grand country house just south of Bodmin, set in around 890 acres of gardens, parkland and woods above the River Fowey. Building started in the 1620s for the Robartes family, but most of the interior was rebuilt after a fire in 1881, so what you walk through today is largely a late-Victorian family home. The National Trust has looked after it since 1953.",
+    "It works for a mixed group: the house for anyone who likes seeing how people lived, gardens and woodland walks for a fine day, and play areas and trails for children. Dogs are welcome across much of the estate."
+  ],
+  "expect": [
+    {
+      "title": "The house",
+      "text": "Rooms are set out as the family and their staff used them, from the long run of Victorian kitchens and servants’ quarters to the nursery. The highlight is the Long Gallery, with a 17th-century plaster ceiling 35 metres long that was conserved in 2024.",
+      "source": 4
+    },
+    {
+      "title": "The garden",
+      "text": "Formal borders, clipped yews and a croquet lawn sit near the house, with woodland paths above planted with rhododendrons and magnolias, which are at their peak in spring. Lanhydrock is especially known for its magnolias.",
+      "source": 3
+    },
+    {
+      "title": "Walks and cycling",
+      "text": "Four signed circular walks head out across the estate, including a riverside route from Respryn Bridge where otters and kingfishers live. There are also dedicated cycle trails.",
+      "source": 5
+    },
+    {
+      "title": "For children",
+      "text": "There’s a play area by the Park Café, a family route with hands-on activities, children’s menus in the cafés, and seasonal trails and games.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Entry is paid for non-members, with family tickets available; under-5s go free and National Trust members get in free.",
+      "source": 0
+    },
+    {
+      "label": "Parking",
+      "text": "National Trust members park free. Non-members pay by the hour or for the whole day, at the machines, by app or at the café or reception.",
+      "source": 0
+    },
+    {
+      "label": "Busy times",
+      "text": "It’s busiest between 11am and 2pm, when there can be queues to get into the house, so an afternoon visit is often quieter.",
+      "source": 0
+    },
+    {
+      "label": "Bags",
+      "text": "Large bags and backpacks aren’t allowed inside the house; there are free lockers.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Dogs are welcome on the walking trails and in most of the garden, but only assistance dogs are allowed in the house and shop. Keep dogs off the cycle trails.",
+      "source": 2
+    },
+    {
+      "label": "Access",
+      "text": "Some paths suit wheelchairs and buggies, there are accessible parking bays, and an all-terrain mobility scooter can be booked for the wider estate. The satnav postcode is PL30 4AB.",
+      "source": 6
+    },
+    {
+      "label": "Food",
+      "text": "The Park Café is by the main hub and the Stables Café in the courtyard.",
+      "source": 0
+    }
+  ],
+  "sources": [
+    {
+      "label": "National Trust – Lanhydrock",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock"
+    },
+    {
+      "label": "National Trust – Lanhydrock with family",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-lanhydrock-with-family"
+    },
+    {
+      "label": "National Trust – Lanhydrock with your dog",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-lanhydrock-with-your-dog"
+    },
+    {
+      "label": "National Trust – The garden at Lanhydrock",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-the-garden-at-lanhydrock"
+    },
+    {
+      "label": "National Trust – The house at Lanhydrock",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/visiting-the-house-at-lanhydrock"
+    },
+    {
+      "label": "National Trust – The estate at Lanhydrock",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/things-to-see-on-the-estate-at-lanhydrock"
+    },
+    {
+      "label": "National Trust – Accessibility at Lanhydrock",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock/accessibility-at-lanhydrock"
+    },
+    {
+      "label": "Wikipedia – Lanhydrock House",
+      "url": "https://en.wikipedia.org/wiki/Lanhydrock_House",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 4,
+      "note": "A house to tour indoors, plus gardens and parkland"
+    },
+    "kids": {
+      "value": "yes",
+      "source": 1,
+      "note": "Play area, family route and children’s activities"
+    },
+    "entry": {
+      "value": "paid",
+      "source": 0,
+      "note": "Paid entry for non-members"
+    }
+  }
+}

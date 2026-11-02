@@ -1,0 +1,44 @@
+{
+  "slug": "sennen-cove",
+  "written": "2026-11-02",
+  "overview": [
+    "Sennen Cove is the first beach you reach heading north from Land’s End, about three kilometres along the coast. The beach sits below a small granite village at the southern end of Whitesand Bay, and the sand runs on northwards towards Gwenver at the far end of the bay.",
+    "It’s a working cove as well as a holiday beach: the RNLI lifeboat station here dates back to 1853, and next to it a restored round building that once housed a winch for hauling boats out of the water is now a gallery and shop."
+  ],
+  "expect": [
+    {
+      "title": "Surfing",
+      "text": "Sennen is a popular surf spot, a little more sheltered from the wind and swell than Gwenver further up the bay. It works at most stages of the tide except the very top.",
+      "source": 0
+    },
+    {
+      "title": "Facilities",
+      "text": "There’s a car park and a beach café by the sand, and surf equipment can be hired at the beach.",
+      "source": 0
+    },
+    {
+      "title": "The lifeboat station",
+      "text": "Volunteers run an all-weather lifeboat and an inshore boat from the station at the southern end of the beach.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "The village is on a short road off the A30 near Land’s End; the last stretch down to the beach is steep.",
+      "source": 0
+    },
+    {
+      "label": "Coast path",
+      "text": "The South West Coast Path passes through the village, so you can walk to Land’s End along the cliffs.",
+      "source": 0
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Sennen Cove",
+      "url": "https://en.wikipedia.org/wiki/Sennen_Cove",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

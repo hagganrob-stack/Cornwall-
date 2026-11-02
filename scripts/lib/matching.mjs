@@ -121,3 +121,9 @@ export const ATTRACTION_RENAME = {
   'Paradise Park and JungleBarn Cornwall': 'Paradise Park and JungleBarn',
   'Bodmin Railway - Boscarne Junction Station': 'Bodmin & Wenford Railway (Boscarne Junction)',
 };
+
+// Enrichment sources: Wikipedia article to use where the automatic lookup would pick the wrong one
+// (key: "<kind>/<slug>").
+export const WIKI_OVERRIDE = {
+  'beach/hayle-bay': 'Polzeath', // OSM's name for Polzeath beach; "Hayle" is a different town
+};

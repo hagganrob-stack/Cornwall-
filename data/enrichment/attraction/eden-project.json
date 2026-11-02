@@ -1,0 +1,117 @@
+{
+  "slug": "eden-project",
+  "written": "2026-11-02",
+  "overview": [
+    "The Eden Project sits in a former china clay pit just outside St Austell. The pit was worked for more than 160 years and had no soil left when the charity behind Eden started transforming it in the late 1990s; the full site opened in March 2001.",
+    "The centrepiece is a pair of huge domed greenhouses, called Biomes, built from steel frames and hundreds of inflated hexagonal panels. One recreates a tropical rainforest, the other a Mediterranean climate, and around them are about 30 acres of outdoor gardens. The point of it all is to show how much people depend on plants for food, medicine and materials, so expect plenty of signs, art and stories alongside the planting.",
+    "Because so much of it is under cover, Eden is one of the few big Cornish days out that still works when it rains, although you’ll be walking between the Biomes and gardens outside."
+  ],
+  "expect": [
+    {
+      "title": "The Rainforest Biome",
+      "text": "Warm and humid, with paths that wind through tropical planting from Asia across to South America. You can see crops such as rubber, sugar and cacao growing, walk through misty cloud and simulated downpours that show how rainforests make their own weather, and climb up to a viewpoint above the canopy. Dress in layers: it gets hot and sticky inside.",
+      "source": 0
+    },
+    {
+      "title": "The Mediterranean Biome",
+      "text": "Cooler, calmer and fragrant, with Mediterranean-climate planting. One of Eden’s restaurants is inside this Biome, serving Mediterranean-style dishes.",
+      "source": 4
+    },
+    {
+      "title": "Outdoor gardens and play",
+      "text": "Around 30 acres of gardens wrap around the Biomes, with planting that changes through the seasons, art installations and places for children to play, including water play in the warmer months.",
+      "source": 0
+    },
+    {
+      "title": "Free tours and paid experiences",
+      "text": "Guides run free daily tours of the Biomes; times are posted on the information boards when you arrive. There are also paid, pre-booked experiences, such as a guided rainforest tour of a little over two hours.",
+      "source": 3
+    },
+    {
+      "title": "Winter events",
+      "text": "From autumn into early spring there’s an ice rink, and around Christmas the Biomes open in the evening for a lights trail. These need tickets on top of normal entry.",
+      "source": 3
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Entry is paid. A standard ticket can be used again for a year, under-5s go free, and there are discounts for Cornwall and Devon residents and for households on Universal Credit or Pension Credit. Booking online in advance is cheaper.",
+      "source": 0
+    },
+    {
+      "label": "Booking a time",
+      "text": "Annual and locals’ pass holders are asked to book a time slot, especially in school holidays, and to turn up within half an hour of it.",
+      "source": 3
+    },
+    {
+      "label": "Opening times",
+      "text": "Hours change through the year and the site is closed on Christmas Day and some winter weekdays. Last entry is an hour and a half before closing.",
+      "source": 1
+    },
+    {
+      "label": "Parking",
+      "text": "Parking is free, with a free shuttle bus from the car parks to the entrance at busy times, space for motorhomes, and paid electric car chargers. The satnav postcode is PL24 2SG.",
+      "source": 2
+    },
+    {
+      "label": "Getting there without a car",
+      "text": "Buses run from St Austell station, and Eden is on the National Cycle Network and the off-road Clay Trails.",
+      "source": 2
+    },
+    {
+      "label": "Food",
+      "text": "There are several cafés and restaurants on site catering for vegetarian, vegan and gluten-free diets. Bring a reusable cup for money off hot drinks; there are free water refill points.",
+      "source": 4
+    },
+    {
+      "label": "Route in",
+      "text": "The site advises against letting a satnav take you down the narrow back lanes from St Blazey; follow the signs from the A391 instead.",
+      "source": 2
+    }
+  ],
+  "sources": [
+    {
+      "label": "Eden Project – Plan your visit",
+      "url": "https://www.edenproject.com/visit"
+    },
+    {
+      "label": "Eden Project – Opening times",
+      "url": "https://www.edenproject.com/visit/opening-times"
+    },
+    {
+      "label": "Eden Project – Directions",
+      "url": "https://www.edenproject.com/visit/directions-to-the-eden-project"
+    },
+    {
+      "label": "Eden Project – Tickets",
+      "url": "https://www.edenproject.com/book"
+    },
+    {
+      "label": "Eden Project – Food and drink",
+      "url": "https://www.edenproject.com/visit/food-and-drink"
+    },
+    {
+      "label": "Wikipedia – Eden Project",
+      "url": "https://en.wikipedia.org/wiki/Eden_Project",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "Two huge covered Biomes plus outdoor gardens"
+    },
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "Play areas, water play and family activities"
+    },
+    "entry": {
+      "value": "paid",
+      "source": 3,
+      "note": "Tickets are sold on the official website"
+    }
+  }
+}

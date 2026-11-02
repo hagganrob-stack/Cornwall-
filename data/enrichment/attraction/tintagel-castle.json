@@ -1,0 +1,93 @@
+{
+  "slug": "tintagel-castle",
+  "written": "2026-11-02",
+  "overview": [
+    "Tintagel Castle is a ruin spread across a headland and a rocky island on the north coast, a short walk from Tintagel village. Between the 5th and 7th centuries it was an important settlement of Cornish rulers who traded with places as far away as the Mediterranean, and in the 13th century Richard, Earl of Cornwall built a castle here.",
+    "Its fame comes from legend. Writing in the 12th century, Geoffrey of Monmouth claimed King Arthur was conceived at Tintagel, and that story runs through the site today. English Heritage looks after it.",
+    "This is an outdoor visit on steep, exposed ground, so it suits a dry day and comfortable shoes."
+  ],
+  "expect": [
+    {
+      "title": "The footbridge to the island",
+      "text": "A modern footbridge links the mainland courtyard to the island, roughly where the medieval castle’s two halves were once joined. You cross at a time set by your ticket, then explore the island at your own pace.",
+      "source": 1
+    },
+    {
+      "title": "Castle ruins and early settlement",
+      "text": "On the island you can walk through the remains of the 13th-century Great Hall and the outlines of houses from the early medieval settlement, with outdoor displays explaining what each part was.",
+      "source": 3
+    },
+    {
+      "title": "Gallos",
+      "text": "A life-sized bronze figure inspired by the Arthurian legend stands on the island looking out to sea, and it’s one of the most photographed spots on site.",
+      "source": 0
+    },
+    {
+      "title": "Beach and Merlin’s Cave",
+      "text": "Below the castle there’s a small sandy beach that appears when the tide is out, with a large sea cave known as Merlin’s Cave.",
+      "source": 0
+    },
+    {
+      "title": "Exhibition and café",
+      "text": "Near the entrance there’s an exhibition on the site’s history and legends, a shop and a café with sea views.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Entry is paid and English Heritage members get in free. Booking online by midnight the day before is cheaper than paying on the day. Tickets cover the whole day.",
+      "source": 2
+    },
+    {
+      "label": "Parking",
+      "text": "There’s no car park at the castle itself. Park in one of the village’s paid car parks, about 600 metres away, and leave a good half hour to walk down to the footbridge before your time slot.",
+      "source": 1
+    },
+    {
+      "label": "Getting down",
+      "text": "The path down to the site is steep. A limited shuttle runs from near the shop and café, but you still walk the last stretch.",
+      "source": 1
+    },
+    {
+      "label": "Weather",
+      "text": "The castle sometimes closes in high winds or bad weather, so check the English Heritage website or social media before setting off if a storm is forecast.",
+      "source": 1
+    },
+    {
+      "label": "Toilets",
+      "text": "Toilets are by the shop and café at the bottom of Castle Road, and there are public toilets in the village.",
+      "source": 1
+    }
+  ],
+  "sources": [
+    {
+      "label": "English Heritage – Tintagel Castle",
+      "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle"
+    },
+    {
+      "label": "English Heritage – Plan your visit",
+      "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/plan-your-visit/"
+    },
+    {
+      "label": "English Heritage – Prices and opening times",
+      "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/prices-and-opening-times/"
+    },
+    {
+      "label": "English Heritage – Things to see and do",
+      "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/things-to-do/"
+    },
+    {
+      "label": "Wikipedia – Tintagel Castle",
+      "url": "https://en.wikipedia.org/wiki/Tintagel_Castle",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 2,
+      "note": "Paid entry; free for English Heritage members"
+    }
+  }
+}

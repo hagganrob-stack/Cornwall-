@@ -1,0 +1,44 @@
+{
+  "slug": "fistral-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Fistral is Newquay’s big surf beach: a straight run of sand about 750 metres long on the west side of town, held between the headlands of Towan Head and Pentire Point East and backed by high dunes. It faces the open Atlantic, which is why it picks up such consistent waves.",
+    "It’s the home of British surfing in many ways, with the national surfing association and local surf clubs based here, international competitions held on the beach, and the Boardmasters festival each summer."
+  ],
+  "expect": [
+    {
+      "title": "Surfing",
+      "text": "The waves are powerful beach breaks, better suited to improvers and experienced surfers; beginners usually go with a surf school. When a big swell runs, a reef at the north end called the Cribbar can throw up some of the largest waves in Cornwall.",
+      "source": 0
+    },
+    {
+      "title": "Swimming",
+      "text": "With surf this strong, swim between the red and yellow flags when the lifeguards are on duty and keep out of the areas marked for surfboards.",
+      "source": null
+    },
+    {
+      "title": "Around the beach",
+      "text": "A purpose-built surf centre stands at the north end of the beach, with the large Headland Hotel on the clifftop above.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "The beach is about half a mile west of Newquay town centre, so you can walk from town over the headland.",
+      "source": 0
+    },
+    {
+      "label": "Busy times",
+      "text": "Competition weekends and the Boardmasters festival in August bring big crowds.",
+      "source": 0
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Fistral Beach",
+      "url": "https://en.wikipedia.org/wiki/Fistral_Beach",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

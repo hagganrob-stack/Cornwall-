@@ -13,6 +13,8 @@ import OsmMap from '../../../components/OsmMap';
 import Nearby from '../../../components/Nearby';
 import JsonLd from '../../../components/JsonLd';
 import { Container, Crumbs, WeVisited, StayNearby, Sources } from '../../../components/Blocks';
+import { enrichment } from '../../../lib/enrichment';
+import { EnrichedOverview, EnrichedExpect, EnrichedGoodToKnow, EnrichedNote } from '../../../components/Enriched';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => attractions.map((a) => ({ slug: a.slug }));
@@ -56,7 +58,8 @@ export default async function AttractionPage({ params }) {
   const gallery = (a.images || []).filter((i) => i !== hero);
   const name = a.customTitle || a.name;
   const inRoundups = Object.values(TTD_ROUNDUPS).filter((r) => r.test(a));
-  const entry = a.entry.value === 'not stated' ? a.entry : { ...a.entry, summary: `Its website: “${a.entry.quote.replace(/^…|…$/g, '').trim()}”` };
+  const entry = a.entry.value === 'not stated' || !a.entry.quote ? a.entry : { ...a.entry, summary: `Its website: “${a.entry.quote.replace(/^…|…$/g, '').trim()}”` };
+  const e = enrichment('attraction', a.slug);
   const withMethod = (f) => (has(f) && f.method ? { ...f, summary: f.method } : f);
   return (
     <article>
@@ -73,7 +76,8 @@ export default async function AttractionPage({ params }) {
       <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
           <WeVisited place={a} />
-          <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{a.customDescription || a.description}</p>
+          {e ? <EnrichedOverview e={e} /> : <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{a.customDescription || a.description}</p>}
+          <EnrichedNote e={e} />
           {a.website ? (
             <p className="mt-5">
               <a href={a.website} rel="nofollow noopener" target="_blank" className="inline-block rounded-full bg-atlantic-900 px-5 py-2.5 font-semibold text-white no-underline hover:bg-atlantic-700 hover:text-white">
@@ -81,6 +85,9 @@ export default async function AttractionPage({ params }) {
               </a>
             </p>
           ) : null}
+
+          <EnrichedExpect e={e} />
+          <EnrichedGoodToKnow e={e} />
 
           <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2>
           <Planner guide={a.guide} />
@@ -117,7 +124,7 @@ export default async function AttractionPage({ params }) {
           ) : null}
 
           <StayNearby place={a} />
-          <Sources sources={a.sources} lastChecked={a.lastChecked} note="Opening hours and categories come from the place’s Google Maps listing; we never use Google’s photos, reviews or descriptions." />
+          <Sources sources={[...(e?.sources || []), ...a.sources.filter((s) => !e?.sources?.some((x) => x.url === s.url))]} lastChecked={a.lastChecked} note="Opening hours and categories come from the place’s Google Maps listing; we never use Google’s photos, reviews or descriptions." />
         </div>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
