@@ -1,0 +1,73 @@
+{
+  "slug": "porthgwarra",
+  "written": "2026-11-02",
+  "overview": [
+    "Porthgwarra is a tiny, hidden cove between Land’s End and Porthcurno, at the end of a narrow lane off the B3283 near St Levan. There’s a small sandy beach, a slipway, a café and a few cottages, and that’s about it, which is exactly its charm.",
+    "Look for the tunnels at the foot of the slipway: one was dug by St Just tin miners so farmers could bring horses and carts down to collect seaweed for their fields, and another gave fishermen access to the sea."
+  ],
+  "expect": [
+    {
+      "title": "The cove",
+      "text": "A small sandy beach and slipway between granite cliffs, safe for swimming inside the cove.",
+      "source": 0
+    },
+    {
+      "title": "Miners’ tunnels",
+      "text": "Tunnels cut through the rock at the bottom of the slipway, a reminder of the cove’s working past.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk to Porthcurno in about 45 minutes, or to Land’s End in about an hour and a half.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Facilities",
+      "text": "A car park in the village, a small shop and café, and public toilets.",
+      "source": 0
+    },
+    {
+      "label": "Private cove",
+      "text": "The cove and slipway are privately owned; visitors are welcome to enjoy them quietly and respectfully.",
+      "source": 0
+    },
+    {
+      "label": "Swimming",
+      "text": "Stay inside the cove: beyond the headland there are strong, dangerous currents.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two hours or so",
+    "text": "A peaceful stop on a far-west day, and a starting point for one of the most scenic stretches of the coast path. Combine it with Porthcurno and the Minack.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porth-chapel",
+        "why": "a secluded shell-sand cove nearby"
+      },
+      {
+        "kind": "beach",
+        "slug": "porthcurno",
+        "why": "the bigger beach along the path"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-minack-theatre",
+        "why": "the clifftop theatre"
+      }
+    ]
+  },
+  "tips": [
+    "The lane down is narrow: take it slowly and expect to reverse for oncoming cars."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porthgwarra",
+      "url": "https://en.wikipedia.org/wiki/Porthgwarra",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

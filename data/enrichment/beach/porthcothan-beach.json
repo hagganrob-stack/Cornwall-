@@ -1,0 +1,63 @@
+{
+  "slug": "porthcothan-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Porthcothan is a sandy, sheltered beach at the head of a narrow inlet between Newquay and Padstow, with a small village behind. It’s popular with families and surfers, with lifeguards on duty during summer days, and surf schools run lessons here from time to time.",
+    "Like many Cornish coves it has its smuggling stories, and the coast path north and south passes a string of quieter coves and headlands."
+  ],
+  "expect": [
+    {
+      "title": "Family beach",
+      "text": "A sandy beach patrolled by lifeguards in the summer daytime.",
+      "source": 0
+    },
+    {
+      "title": "Surf lessons",
+      "text": "Surf schools sometimes teach here, so it’s a handy place for a first lesson.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk north to Fox Cove and Treyarnon or south towards Bedruthan.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Facilities",
+      "text": "There’s a paid car park by the beach and a little shop for supplies.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "An easy, sheltered family beach on the north coast, handy for Padstow. It faces north-west, so evenings are lovely, and Macdonald’s Farm nearby is a good add-on with young children.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "treyarnon-beach",
+        "why": "a sandy surf beach a short way north"
+      },
+      {
+        "kind": "attraction",
+        "slug": "macdonalds-farm",
+        "why": "a children’s farm nearby"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "why": "the Bedruthan Steps viewpoint"
+      }
+    ]
+  },
+  "tips": [
+    "Walk the coast path north to Fox Cove for a quieter spot."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porthcothan",
+      "url": "https://en.wikipedia.org/wiki/Porthcothan",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "perran-beach-perranporth",
+  "written": "2026-11-02",
+  "overview": [
+    "This is the northern stretch of Perran Beach, known as Perran Sands: the wilder end of the huge, two-mile beach that sweeps up from Perranporth towards Ligger Point. Behind it lie the vast dunes of Penhale Sands.",
+    "It has a long history. St Piran, Cornwall’s patron saint, is said to have founded an oratory in the dunes here in the 7th century; it lay buried under the sand for centuries before being uncovered in 1835. Iron ore was once mined from a vein on the beach, too."
+  ],
+  "expect": [
+    {
+      "title": "Space",
+      "text": "Walk north away from the town end and you’ll find plenty of room even in summer.",
+      "source": null
+    },
+    {
+      "title": "Penhale Sands",
+      "text": "Huge dunes behind the beach, where St Piran’s Oratory was rediscovered.",
+      "source": 0
+    },
+    {
+      "title": "Surf",
+      "text": "Like the rest of Perran Beach, it faces west into the Atlantic and picks up surf.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "Around 7 miles south-west of Newquay, at the northern end of Perranporth’s beach.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Great for a long beach walk or a quieter spot than the busy Perranporth end. It faces west, so evenings here are lovely.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "perran-beach-perranporth-2",
+        "why": "the town end of the same beach"
+      },
+      {
+        "kind": "beach",
+        "slug": "holywell-beach",
+        "why": "another big dune-backed beach to the north"
+      },
+      {
+        "kind": "attraction",
+        "slug": "perranzabuloe-museum",
+        "why": "a small free museum in Perranporth"
+      }
+    ]
+  },
+  "tips": [
+    "Wander into the dunes (on the paths) to look for the site of St Piran’s Oratory."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Perranporth",
+      "url": "https://en.wikipedia.org/wiki/Perranporth",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

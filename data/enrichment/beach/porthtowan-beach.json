@@ -1,0 +1,63 @@
+{
+  "slug": "porthtowan-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Porthtowan is a lively surf beach on the north coast, about two miles south-west of St Agnes, with a laid-back village behind it. It faces north-west into the Atlantic, has lifeguards in summer and a car park, café and toilets right by the sand.",
+    "The clifftops around it are dotted with old mine chimneys and engine houses, part of the Cornish Mining World Heritage Site, and the coast path gives you big views along this protected heritage coast."
+  ],
+  "expect": [
+    {
+      "title": "Surf",
+      "text": "A popular surf beach with lifeguard cover in season.",
+      "source": 0
+    },
+    {
+      "title": "Mining heritage",
+      "text": "Old engine houses and stacks dot the landscape around the village.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk north to Chapel Porth and the clifftop engine house at Wheal Coates.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About 3.5 km south-west of St Agnes and 6 km north of Redruth.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A fun, sociable beach day, with surf for the more confident and a great clifftop walk to Chapel Porth. It faces north-west, so stay for the sunset.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "chapel-porth-beach",
+        "why": "a wild cove along the coast path"
+      },
+      {
+        "kind": "attraction",
+        "slug": "wheal-coates",
+        "why": "a clifftop engine house"
+      },
+      {
+        "kind": "beach",
+        "slug": "trevaunance-cove",
+        "why": "St Agnes’ beach a little further along"
+      }
+    ]
+  },
+  "tips": [
+    "Walk to Chapel Porth along the clifftop, past the engine houses."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porthtowan",
+      "url": "https://en.wikipedia.org/wiki/Porthtowan",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

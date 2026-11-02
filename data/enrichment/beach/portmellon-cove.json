@@ -1,0 +1,63 @@
+{
+  "slug": "portmellon-cove",
+  "written": "2026-11-02",
+  "overview": [
+    "Portmellon is a small sandy cove a mile south of Mevagissey, about a 20-minute walk from the harbour. The beach is around 150 metres long and safe for bathing, but it disappears completely at high tide, so plan around the tide.",
+    "At low tide rock pools appear along the edges, and seals are sometimes seen offshore or resting on the rocks. Mevagissey’s first lifeboat station opened here in 1869."
+  ],
+  "expect": [
+    {
+      "title": "Low-tide beach",
+      "text": "A small sandy beach that’s covered at high water.",
+      "source": 0
+    },
+    {
+      "title": "Rock pools and seals",
+      "text": "Rock pools appear at low tide, and seals sometimes visit.",
+      "source": 0
+    },
+    {
+      "title": "Slipway",
+      "text": "A public slipway for launching small boats.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "A 20-minute walk from Mevagissey, or about six miles south of St Austell by road.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "An hour or two around low tide",
+    "text": "A nice quiet alternative to Mevagissey’s harbour on a Mevagissey day. Walk out from the village, explore the rock pools at low tide and walk back for lunch.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "mevagissey",
+        "why": "the fishing harbour a short walk away"
+      },
+      {
+        "kind": "attraction",
+        "slug": "mevagissey-aquarium",
+        "why": "a little aquarium on the harbour"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-lost-gardens-of-heligan",
+        "why": "the famous gardens nearby"
+      }
+    ]
+  },
+  "tips": [
+    "Check the tide times: at high tide there’s no beach at all."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Portmellon",
+      "url": "https://en.wikipedia.org/wiki/Portmellon",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

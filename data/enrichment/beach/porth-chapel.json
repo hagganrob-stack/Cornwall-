@@ -1,0 +1,68 @@
+{
+  "slug": "porth-chapel",
+  "written": "2026-11-02",
+  "overview": [
+    "Porth Chapel is a small, secluded cove near St Levan, tucked between Porthcurno and Porthgwarra on the far south-west tip of Cornwall. It’s famous for its pale shell sand, clear turquoise water and granite cliffs, and because it’s harder to reach, it’s much quieter than its neighbours.",
+    "Above the beach is St Levan’s Holy Well, and the remains of a tiny chapel that may date back as far as the 8th century."
+  ],
+  "expect": [
+    {
+      "title": "The cove",
+      "text": "Pale shell-sand beach and clear water framed by granite cliffs.",
+      "source": 0
+    },
+    {
+      "title": "Wildlife",
+      "text": "Look out for grey seals, dolphins and seabirds such as fulmars and shags.",
+      "source": 0
+    },
+    {
+      "title": "St Levan’s Well",
+      "text": "A holy well above the beach, still used for baptisms at the parish church.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting down",
+      "text": "It’s tricky to get to, which is exactly why it stays so quiet.",
+      "source": 0
+    },
+    {
+      "label": "Facilities",
+      "text": "There are no facilities at the beach; Porthcurno has a café and toilets nearby.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "Two hours to half a day",
+    "text": "A quiet alternative to busy Porthcurno, ideally visited at low to mid tide. Combine it with the Minack Theatre just above and a walk along the coast path to Porthgwarra.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porthcurno",
+        "why": "the bigger, busier beach next door"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-minack-theatre",
+        "why": "the clifftop theatre just along the path"
+      },
+      {
+        "kind": "beach",
+        "slug": "porthgwarra",
+        "why": "a tiny fishing cove to the west"
+      }
+    ]
+  },
+  "tips": [
+    "Wear sturdy shoes for the path down and take everything you need with you."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porthchapel Beach",
+      "url": "https://en.wikipedia.org/wiki/Porthchapel_Beach",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

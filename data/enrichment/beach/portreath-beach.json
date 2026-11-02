@@ -1,0 +1,63 @@
+{
+  "slug": "portreath-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Portreath is a small fishing village and harbour on the north coast, about three miles from Redruth, built around a stream valley that runs down to the beach. West of the harbour breakwater, the sandy beach is popular with families and surfers, with lifeguards in summer and a car park, café and toilets close by.",
+    "It was once a busy mining port, and the village still has plenty of character, as well as easy access to the coast path along the clifftops."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "A sandy beach beside the harbour wall, popular with surfers.",
+      "source": 0
+    },
+    {
+      "title": "The harbour",
+      "text": "A historic harbour that once served the mines inland.",
+      "source": 0
+    },
+    {
+      "title": "Amy’s Cove",
+      "text": "A smaller cove right next to the main beach.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About three miles west-north-west of Redruth.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "An easy family beach with a village feel. Combine it with a clifftop walk or a look at the mining heritage sites inland around Camborne and Redruth.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porthtowan-beach",
+        "why": "another surf beach up the coast"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-east-pool-mine",
+        "why": "giant mine engines at Pool"
+      },
+      {
+        "kind": "attraction",
+        "slug": "cornwall-gold",
+        "why": "a jewellery workshop and visitor attraction nearby"
+      }
+    ]
+  },
+  "tips": [
+    "It faces north, so on windy days the south coast can be calmer."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Portreath",
+      "url": "https://en.wikipedia.org/wiki/Portreath",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

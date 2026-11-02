@@ -1,0 +1,68 @@
+{
+  "slug": "porth-nanven",
+  "written": "2026-11-02",
+  "overview": [
+    "Porth Nanven sits at the bottom of the Cot Valley, half a mile west of St Just, and it’s unlike any other beach in Cornwall. Instead of sand, the shore is covered in smooth, oval granite boulders, from hen’s-egg size to a metre or more across, which is why the media sometimes call it ‘Dinosaur Egg Beach’.",
+    "Look back at the cliff and you’ll see a whole wall of the same rounded boulders: an ancient beach from around 120,000 years ago, left stranded above today’s shoreline as sea levels changed."
+  ],
+  "expect": [
+    {
+      "title": "The ‘dinosaur eggs’",
+      "text": "Rounded boulders cover the beach; they’re protected, so please leave them where they are.",
+      "source": 0
+    },
+    {
+      "title": "The raised beach",
+      "text": "An old beach is preserved in the cliff behind, a rare sight.",
+      "source": 0
+    },
+    {
+      "title": "Cot Valley",
+      "text": "The walk down the wooded valley to the cove is lovely in its own right.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Protected stones",
+      "text": "The National Trust owns the beach and the boulders are legally protected, so don’t take any home.",
+      "source": 0
+    },
+    {
+      "label": "Not for swimming",
+      "text": "It’s a rocky shore rather than a sandy beach.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "An hour or so",
+    "text": "A fascinating short stop on a day in the far west around St Just and Cape Cornwall. Combine it with a walk out to Cape Cornwall.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "cape-cornwall",
+        "why": "a headland walk a kilometre or so north"
+      },
+      {
+        "kind": "town",
+        "slug": "st-just",
+        "why": "Britain’s most westerly town"
+      },
+      {
+        "kind": "beach",
+        "slug": "gwynver-beach",
+        "why": "a big sandy beach towards Sennen"
+      }
+    ]
+  },
+  "tips": [
+    "Go at sunset: it faces west and the light on the boulders is beautiful."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Porth Nanven",
+      "url": "https://en.wikipedia.org/wiki/Porth_Nanven",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}
