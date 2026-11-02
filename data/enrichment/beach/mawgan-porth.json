@@ -1,0 +1,63 @@
+{
+  "slug": "mawgan-porth",
+  "written": "2026-11-02",
+  "overview": [
+    "Mawgan Porth is a lovely, sandy beach where the River Menalhyl meets the sea, about four miles north of Newquay, backed by dunes with cliffs at either end. It’s a great all-rounder: lifeguards in summer, surf, a car park, café and toilets right by the beach, and no Council dog restriction.",
+    "The little settlement behind it has a pub, a shop and a handful of places to stay, and the coast path heads north along the clifftops to the famous stacks at Bedruthan."
+  ],
+  "expect": [
+    {
+      "title": "Sand and surf",
+      "text": "A sandy, dune-backed beach that’s popular for surfing.",
+      "source": 0
+    },
+    {
+      "title": "The river",
+      "text": "The River Menalhyl runs out across the beach, with shallow water for paddling.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk north along the clifftops to Carnewas for the view of the Bedruthan stacks.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "North of Watergate Bay, about four miles north of Newquay.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A family-friendly beach day that dog owners will appreciate in high summer. Combine it with the clifftop walk to Bedruthan for the view.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "national-trust-carnewas-at-bedruthan",
+        "why": "the clifftop viewpoint over the Bedruthan stacks"
+      },
+      {
+        "kind": "beach",
+        "slug": "beacon-cove-mawgan-porth",
+        "why": "a small cove just round the headland"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-japanese-garden",
+        "why": "a peaceful garden in St Mawgan"
+      }
+    ]
+  },
+  "tips": [
+    "Stay for sunset: the beach faces west."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Mawgan Porth",
+      "url": "https://en.wikipedia.org/wiki/Mawgan_Porth",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

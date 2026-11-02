@@ -1,0 +1,68 @@
+{
+  "slug": "kennack-sands",
+  "written": "2026-11-02",
+  "overview": [
+    "Kennack Sands is a gently sloping, sandy beach on the east side of the Lizard, about 500 metres long, backed by low cliffs and a little dune system. A rocky outcrop splits it into two halves, west and east, and the eastern beach is part of a nature reserve.",
+    "With lifeguards in season, parking and a café by the western end and toilets close by, it’s one of the easiest family beaches on the Lizard, and because it faces south-east it’s sheltered when the wind is from the west."
+  ],
+  "expect": [
+    {
+      "title": "Two beaches",
+      "text": "The rocks of the Caerverracks divide the beach in two; a path over Carn Kennack leads to the quieter eastern side.",
+      "source": 0
+    },
+    {
+      "title": "Tides",
+      "text": "Because the beach slopes so gently, the width of sand changes a lot with the tide.",
+      "source": 0
+    },
+    {
+      "title": "Diving",
+      "text": "Deep water close offshore makes it popular for launching dive boats.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Facilities",
+      "text": "Parking and a café are at the western end of the beach.",
+      "source": 0
+    },
+    {
+      "label": "Where it is",
+      "text": "The nearest village is Kuggar, about a kilometre inland.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A reliable family beach day on the Lizard, especially when westerly winds make the other side of the peninsula wild. Combine it with Cadgwith for a wander and lunch.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "cadgwith-cove",
+        "why": "a working fishing village and cove nearby"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-old-serpentine-works",
+        "why": "an old stone works on the coast path"
+      },
+      {
+        "kind": "attraction",
+        "slug": "terence-coventry-sculpture-park",
+        "why": "a clifftop sculpture park"
+      }
+    ]
+  },
+  "tips": [
+    "Walk over the headland to the eastern beach for more space."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Kennack Sands",
+      "url": "https://en.wikipedia.org/wiki/Kennack_Sands",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

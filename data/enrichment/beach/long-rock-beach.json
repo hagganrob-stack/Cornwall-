@@ -1,0 +1,63 @@
+{
+  "slug": "long-rock-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Long Rock is the middle of the long, open beach that sweeps around Mount’s Bay for about three miles from Penzance to Marazion, named after a tidal rock just offshore. The coast path and the main railway line run along the sea wall behind it.",
+    "It’s a big, airy beach with views of St Michael’s Mount all the way along, and plenty of space even in summer."
+  ],
+  "expect": [
+    {
+      "title": "The walk to Marazion",
+      "text": "Follow the coast path or the sand east towards Marazion and St Michael’s Mount, with the Mount in view the whole way.",
+      "source": 0
+    },
+    {
+      "title": "Marazion Marsh",
+      "text": "An RSPB nature reserve sits just inland near Marazion, good for birdwatching.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About a mile east of Penzance and a mile west of Marazion.",
+      "source": 0
+    },
+    {
+      "label": "Village",
+      "text": "Long Rock village has a shop and two pubs.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A good spot for a long beach walk in Mount’s Bay, especially if you’re staying in Penzance. It faces south, so it’s a good alternative when the north coast is rough.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "marazion-beach",
+        "why": "the beach for the causeway to St Michael’s Mount"
+      },
+      {
+        "kind": "attraction",
+        "slug": "st-michaels-mount",
+        "why": "the island castle across the bay"
+      },
+      {
+        "kind": "attraction",
+        "slug": "tremenheere-sculpture-gardens",
+        "why": "art in a valley garden just inland"
+      }
+    ]
+  },
+  "tips": [
+    "Walk the coast path between Penzance and Marazion for a flat, easy few miles with the Mount ahead of you."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Long Rock",
+      "url": "https://en.wikipedia.org/wiki/Long_Rock",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

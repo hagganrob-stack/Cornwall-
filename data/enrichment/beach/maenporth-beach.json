@@ -1,0 +1,68 @@
+{
+  "slug": "maenporth-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Maenporth is a sheltered, east-facing cove about two miles south-west of Falmouth, with views across Falmouth Bay to Pendennis Castle and over to the St Anthony Head lighthouse. The beach shelves gently, so at low tide there’s a stretch of shallow water that’s good for paddling and swimming.",
+    "With a car park, café and toilets right by the sand, it’s an easy, relaxed beach, and a nice change from the busier town beaches in Falmouth."
+  ],
+  "expect": [
+    {
+      "title": "Gentle shallows",
+      "text": "A gently sloping beach with calm, shallow water at low tide.",
+      "source": 0
+    },
+    {
+      "title": "Watersports",
+      "text": "There are facilities for launching boats, and it’s used for kayaking and scuba diving.",
+      "source": 0
+    },
+    {
+      "title": "Wildlife",
+      "text": "The wetland behind the cove attracts birds such as grey herons and little egrets.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Facilities",
+      "text": "Car park, café and public toilets.",
+      "source": 0
+    },
+    {
+      "label": "Coast path",
+      "text": "The South West Coast Path runs through the cove, so you can walk to Falmouth or towards the Helford.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A calm-water beach that suits younger children, and sheltered when the wind’s from the west. Pair it with the gardens of the Helford, like Glendurgan, just to the south.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "swanpool-beach",
+        "why": "another beach towards Falmouth"
+      },
+      {
+        "kind": "attraction",
+        "slug": "glendurgan",
+        "why": "a valley garden with a maze"
+      },
+      {
+        "kind": "attraction",
+        "slug": "penjerrick-garden",
+        "why": "a wild subtropical garden nearby"
+      }
+    ]
+  },
+  "tips": [
+    "Go at low tide for the shallow water."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Maenporth",
+      "url": "https://en.wikipedia.org/wiki/Maenporth",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

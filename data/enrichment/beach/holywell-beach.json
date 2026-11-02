@@ -1,0 +1,68 @@
+{
+  "slug": "holywell-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Holywell Bay is a big, sandy beach about three miles south-west of Newquay, backed by a huge system of dunes that’s around 5,000 years old and one of the largest in Britain. It faces north-west into the Atlantic, has lifeguards in summer and is popular for surfing.",
+    "On the north side of the beach is a sea cave with St Cubert’s holy well inside, the source of the bay’s name, though a cliff fall in 2026 has closed access to it."
+  ],
+  "expect": [
+    {
+      "title": "Dunes",
+      "text": "Vast dunes behind the beach; in summer people sandboard down them.",
+      "source": 0
+    },
+    {
+      "title": "Surf",
+      "text": "A popular surfing beach with lifeguard cover in season.",
+      "source": null
+    },
+    {
+      "title": "Holy well cave",
+      "text": "The cave at the north end, with its mineral pools and holy well, is currently inaccessible after a cliff collapse in August 2026.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "In the parish of Cubert, about three miles west-south-west of Newquay.",
+      "source": 0
+    },
+    {
+      "label": "Holiday parks",
+      "text": "There are several holiday parks around Holywell, so it gets busy in peak season.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A great big-beach day near Newquay, with dunes for the children to tumble down. It faces north-west, so it’s lovely in the evening. Combine it with a walk over the headland to Porth Joke.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porth-joke",
+        "why": "a small unspoilt cove over the headland"
+      },
+      {
+        "kind": "beach",
+        "slug": "crantock-beach",
+        "why": "another big dune-backed beach nearby"
+      },
+      {
+        "kind": "beach",
+        "slug": "perran-beach-perranporth",
+        "why": "miles of sand to the south"
+      }
+    ]
+  },
+  "tips": [
+    "Respect the cliff-fall warnings around the cave at the north end."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Holywell, Cornwall",
+      "url": "https://en.wikipedia.org/wiki/Holywell%2C_Cornwall",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

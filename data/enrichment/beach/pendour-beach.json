@@ -1,0 +1,63 @@
+{
+  "slug": "pendour-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Pendour Cove is a tiny, wild cove about a mile north-west of Zennor, just west of Zennor Head, on the rugged north coast of the West Penwith moors. It’s not a beach for a lazy day with all the trimmings, but it’s a magical spot to reach on foot.",
+    "It’s the setting for a much-loved Cornish legend, the Mermaid of Zennor. The story goes that a mermaid fell for a local man with a beautiful singing voice and lured him into the sea, and that on a fine summer evening you might still hear him singing from the cove."
+  ],
+  "expect": [
+    {
+      "title": "The legend",
+      "text": "Sit above the cove on a fine summer evening and, the story says, you might hear the drowned singer.",
+      "source": 0
+    },
+    {
+      "title": "Wild coast",
+      "text": "Rugged cliffs and moorland all around, with the coast path above.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Facilities",
+      "text": "There are no facilities, so take everything you need.",
+      "source": null
+    },
+    {
+      "label": "Getting there",
+      "text": "On foot from Zennor along the coast path.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "An hour or two",
+    "text": "Part of a walking day around Zennor rather than a beach day. Combine it with the village and its church, and the ancient sites on the moors behind.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "zennor",
+        "why": "the village and its mermaid legend"
+      },
+      {
+        "kind": "attraction",
+        "slug": "chysauster-ancient-village",
+        "why": "an Iron Age village on the moor"
+      },
+      {
+        "kind": "attraction",
+        "slug": "men-an-tol",
+        "why": "an ancient holed stone"
+      }
+    ]
+  },
+  "tips": [
+    "Wear walking boots: it’s a rough path down to the cove."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Pendour Cove",
+      "url": "https://en.wikipedia.org/wiki/Pendour_Cove",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

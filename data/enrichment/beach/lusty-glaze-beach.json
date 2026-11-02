@@ -1,0 +1,68 @@
+{
+  "slug": "lusty-glaze-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Lusty Glaze is a cliff-ringed cove on the eastern side of Newquay, sheltered by high cliffs and reached only by a flight of 133 steps. Unusually, the beach is privately owned right down to the low-tide line, though for much of the year it’s open to the public free of charge.",
+    "It’s a lively little spot, with a surf lifesaving club, events and weddings, and beach cabins you can stay in. Look up at the cliffs to spot the remains of an old inclined plane that once linked the beach to a canal project in the 1770s."
+  ],
+  "expect": [
+    {
+      "title": "A sheltered cove",
+      "text": "High cliffs wrap around the sand and keep the wind off.",
+      "source": 0
+    },
+    {
+      "title": "Surf lifesaving",
+      "text": "The beach is home to an active surf lifesaving club.",
+      "source": 0
+    },
+    {
+      "title": "A bit of history",
+      "text": "The cliffs still show the line of an 18th-century inclined plane built for the never-finished St Columb Canal.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting down",
+      "text": "The only way down is 133 steps, so it’s not suitable for pushchairs or anyone who struggles with stairs.",
+      "source": 0
+    },
+    {
+      "label": "Private beach",
+      "text": "It’s privately run and open free for much of the year; events can affect access.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A good family beach in Newquay for older children who can manage the steps. Pair it with Porth Beach and Trevelgue Head next door.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porth-beach",
+        "why": "a sheltered sandy inlet next door"
+      },
+      {
+        "kind": "attraction",
+        "slug": "trevelgue-head",
+        "why": "an Iron Age headland fort"
+      },
+      {
+        "kind": "attraction",
+        "slug": "newquay-zoo",
+        "why": "a family day out in town"
+      }
+    ]
+  },
+  "tips": [
+    "Count the steps on the way back up: there are 133 of them."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Lusty Glaze",
+      "url": "https://en.wikipedia.org/wiki/Lusty_Glaze",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

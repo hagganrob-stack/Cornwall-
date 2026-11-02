@@ -1,0 +1,63 @@
+{
+  "slug": "hemmick-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Hemmick is a small, sandy beach tucked away at the eastern end of Veryan Bay, in the shelter of Dodman Point, south of Gorran Haven. It’s at the end of narrow lanes, with little more than a granite cottage and the sea, and it feels wonderfully remote.",
+    "The coastline around it is full of rocky outcrops, inlets and coves, and the coast path leads off to explore them."
+  ],
+  "expect": [
+    {
+      "title": "A quiet cove",
+      "text": "A small sandy beach with rock outcrops either side.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk east along the coast path to Lambsoden Cove, or out towards Dodman Point.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "Reached by narrow lanes; parking is right by the beach but limited, so arrive early on summer days.",
+      "source": null
+    },
+    {
+      "label": "Facilities",
+      "text": "There are no facilities mapped at the beach, so bring what you need.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "Two hours to half a day",
+    "text": "A peaceful escape on the Roseland side of Mevagissey, ideal for a calm day. Bring a picnic and combine it with a walk out to Dodman Point or a stop at Gorran Haven.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "vault-beach",
+        "why": "a long sandy beach below Dodman Point"
+      },
+      {
+        "kind": "town",
+        "slug": "gorran-haven",
+        "why": "a little fishing village nearby"
+      },
+      {
+        "kind": "beach",
+        "slug": "porthluney-beach",
+        "why": "a sandy beach below Caerhays Castle"
+      }
+    ]
+  },
+  "tips": [
+    "Pack a picnic and plenty to drink: there’s nothing to buy at the beach."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Hemmick Beach",
+      "url": "https://en.wikipedia.org/wiki/Hemmick_Beach",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}
