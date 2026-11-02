@@ -1,0 +1,69 @@
+{
+  "slug": "trebarwith-strand",
+  "written": "2026-11-02",
+  "overview": [
+    "Trebarwith Strand is a cliff-backed beach about two and a half miles south of Tintagel, with around 800 metres of sand revealed at low tide and caves in the cliffs. Out to sea sits Gull Rock, the big offshore island that dominates every view from the beach.",
+    "The catch is the tide: the sand can only be reached at low water, and at high tide the sea comes right up to the rocks. Get the timing right and it’s a superb surf and family beach, with lifeguards in season and a café and toilets near the slipway."
+  ],
+  "expect": [
+    {
+      "title": "Low-tide sand",
+      "text": "Up to 800 metres of sand between the cliffs when the tide is out.",
+      "source": 0
+    },
+    {
+      "title": "Caves",
+      "text": "Natural caves in the cliffs to explore, carefully and on a falling tide.",
+      "source": 0
+    },
+    {
+      "title": "Gull Rock",
+      "text": "The rocky island 300 metres offshore that frames the view.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tides",
+      "text": "The beach is only reachable at low tide, so check tide times before you go.",
+      "source": 0
+    },
+    {
+      "label": "History",
+      "text": "Ships once landed here to load slate from the nearby quarries.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two hours to half a day around low tide",
+    "text": "Build your day around low tide. It’s a great combination with Tintagel Castle just up the road, and it faces north-west, so a late low tide gives you a sunset beach session.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "tintagel-castle",
+        "why": "the legendary castle a few miles north"
+      },
+      {
+        "kind": "beach",
+        "slug": "tregardock",
+        "why": "a wild beach reached on foot"
+      },
+      {
+        "kind": "beach",
+        "slug": "bossiney-haven",
+        "why": "another low-tide cove near Tintagel"
+      }
+    ]
+  },
+  "tips": [
+    "Check the tide table: there’s no beach at high tide.",
+    "Keep an eye on the incoming tide if you explore the caves."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Trebarwith Strand",
+      "url": "https://en.wikipedia.org/wiki/Trebarwith_Strand",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

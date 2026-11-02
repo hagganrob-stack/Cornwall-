@@ -1,0 +1,63 @@
+{
+  "slug": "widemouth-sands",
+  "written": "2026-11-02",
+  "overview": [
+    "Widemouth Bay is a big, sandy beach about three miles south of Bude, facing west into the Atlantic. It’s popular for surfing and swimming, with RNLI lifeguards in summer, several surf schools, and cafés on and around the beach.",
+    "The village behind is mostly 20th-century bungalows and holiday homes, with a pub and shops up the hill. This stretch of coast has a long history of smuggling, and south of the bay the coast breaks up into little inlets and coves."
+  ],
+  "expect": [
+    {
+      "title": "Surf",
+      "text": "A popular surf beach with lessons available from several surf schools.",
+      "source": 0
+    },
+    {
+      "title": "Space",
+      "text": "A wide beach with plenty of room even in summer.",
+      "source": null
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk south towards the smaller coves, or north to Bude along the clifftops.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "About three miles south of Bude.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A great surf and family beach for a north Cornwall week, with easy parking and cafés. It faces west, so evenings here can be glorious.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "bude",
+        "why": "a lively seaside town three miles north"
+      },
+      {
+        "kind": "beach",
+        "slug": "summerleaze-beach",
+        "why": "Bude’s main town beach"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-castle-bude",
+        "why": "a heritage centre in Bude"
+      }
+    ]
+  },
+  "tips": [
+    "Book a surf lesson ahead in the school holidays."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Widemouth Bay",
+      "url": "https://en.wikipedia.org/wiki/Widemouth_Bay",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

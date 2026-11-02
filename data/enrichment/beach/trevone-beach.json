@@ -1,0 +1,68 @@
+{
+  "slug": "trevone-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Trevone is a sandy, family-friendly beach in a small bay near Padstow, with a village shop, surf shop and seasonal café nearby, lifeguards in season and parking next to the sand. Water quality has been rated very highly.",
+    "The bay is a protected site for its geology, with fossils in the rocks of the headlands. Don’t miss the Round Hole, a big sinkhole formed where a sea cave collapsed, in a field up on the eastern side."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "A sandy bay with rocky headlands on either side.",
+      "source": 0
+    },
+    {
+      "title": "The Round Hole",
+      "text": "A large sinkhole above the bay where a sea cave has collapsed; impressive to see, but keep well back from the edge.",
+      "source": 0
+    },
+    {
+      "title": "Fossils",
+      "text": "The headlands contain fossils and are protected for their geology.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Dogs",
+      "text": "No dogs are allowed on the beach in the summer months.",
+      "source": 0
+    },
+    {
+      "label": "Village",
+      "text": "A village hall, shop, surf shop and a small seasonal café.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A lovely family beach near Padstow. Walk the coast path west to Harlyn or east towards Padstow for big views.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "harlyn-bay",
+        "why": "a surf beach a short walk west"
+      },
+      {
+        "kind": "town",
+        "slug": "padstow",
+        "why": "the harbour town for food and boat trips"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-lobster-hatchery",
+        "why": "a small marine centre in Padstow"
+      }
+    ]
+  },
+  "tips": [
+    "Walk up to the Round Hole: children love peering into it."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Trevone",
+      "url": "https://en.wikipedia.org/wiki/Trevone",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

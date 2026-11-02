@@ -1,0 +1,63 @@
+{
+  "slug": "trevaunance-cove",
+  "written": "2026-11-02",
+  "overview": [
+    "Trevaunance Cove is St Agnes’ beach, a small sandy bay just below the village, with a headland protecting it from westerly weather though it’s exposed to the north. In the 1700s and 1800s it was a busy little harbour, though storms kept wrecking the quay; today it’s a relaxed beach with lifeguards in season and a car park and toilets close by.",
+    "The cliffs here are part of the Cornish Mining World Heritage Site, and you can see mineral veins running through the rock. Just to the east, the Blue Hills valley is full of old tin workings."
+  ],
+  "expect": [
+    {
+      "title": "The beach",
+      "text": "A sandy cove just below the village.",
+      "source": 0
+    },
+    {
+      "title": "Geology",
+      "text": "Look for the two veins of ore running through the cliff face, part of what makes this a classic geology site.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "The coast path climbs over the headland to the north, towards Perranporth.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "The cove links to St Agnes by road and by footpaths down Trevaunance Coombe.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "An easy beach day from St Agnes, ideal for families. Combine it with the dramatic clifftop engine house at Wheal Coates and Chapel Porth.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "wheal-coates",
+        "why": "the clifftop engine house"
+      },
+      {
+        "kind": "beach",
+        "slug": "chapel-porth-beach",
+        "why": "a wild cove a short drive away"
+      },
+      {
+        "kind": "attraction",
+        "slug": "saint-agnes-museum",
+        "why": "the village museum"
+      }
+    ]
+  },
+  "tips": [
+    "It faces north, so it can be breezy; if it’s wild, try a south-coast beach."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Trevaunance Cove",
+      "url": "https://en.wikipedia.org/wiki/Trevaunance_Cove",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

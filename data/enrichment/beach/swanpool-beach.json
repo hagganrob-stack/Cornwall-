@@ -1,0 +1,58 @@
+{
+  "slug": "swanpool-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Swanpool is a small beach on the edge of Falmouth, between Gyllyngvase and Maenporth, with a twist: right behind the shingle bar at the top of the beach is a saline lagoon, Swanpool itself, fed by the sea seeping through the bar and by a stream.",
+    "With a car park, café and toilets close by, it’s an easy beach to fit into a Falmouth day, and the coast path crosses the bar so you can walk on to Gyllyngvase or Maenporth."
+  ],
+  "expect": [
+    {
+      "title": "Beach and lagoon",
+      "text": "A small sandy beach with a nature-rich lagoon right behind it.",
+      "source": 0
+    },
+    {
+      "title": "Coast path",
+      "text": "Walk the coast path along the bar and on to Falmouth’s other beaches.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "Just outside Falmouth, between Gyllyngvase and Maenporth.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two hours to half a day",
+    "text": "An easy, sheltered beach for a Falmouth day, facing south-east out of the westerly winds. Walk along the coast path to Gyllyngvase for a café stop.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "gyllyngvase-beach",
+        "why": "Falmouth’s main town beach"
+      },
+      {
+        "kind": "beach",
+        "slug": "maenporth-beach",
+        "why": "a calm cove further along the coast"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-maritime-museum-cornwall",
+        "why": "the maritime museum in town"
+      }
+    ]
+  },
+  "tips": [
+    "Look out for birds on the lagoon behind the beach."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Swanpool, Cornwall",
+      "url": "https://en.wikipedia.org/wiki/Swanpool%2C_Cornwall",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "treyarnon-beach",
+  "written": "2026-11-02",
+  "overview": [
+    "Treyarnon is a smallish sandy beach west of St Merryn near Padstow, right next to Constantine Bay, with a car park, toilets, a beach shop, a café and a youth hostel. It’s a favourite for bodyboarding, has lifeguards in summer and, nicely for dog owners, allows dogs all year.",
+    "At low tide there’s a partly man-made rock pool on the rocks that works like a natural swimming pool for older children, and at the end of the headland is Trethias Island, cut off from the mainland by a deep, steep gully."
+  ],
+  "expect": [
+    {
+      "title": "Bodyboarding",
+      "text": "A popular bodyboarding beach; surfers often head next door to Constantine Bay.",
+      "source": 0
+    },
+    {
+      "title": "The rock pool",
+      "text": "At low tide a part-built rock pool fills with seawater and makes a handy natural pool for older children to swim in.",
+      "source": 0
+    },
+    {
+      "title": "Trethias Island",
+      "text": "The island off the headland, separated from the mainland by a steep gully.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Danger on the left",
+      "text": "The left-hand side of the beach is dangerous: the tide comes in fast around the island and can cut people off. Keep an eye on it.",
+      "source": 0
+    },
+    {
+      "label": "Parking",
+      "text": "The car park is often full at busy times, so arrive early.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Dogs are allowed all year.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A fun, sociable beach near Padstow for families and dog owners alike. Walk along to Constantine Bay next door for more space.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "constantine-bay",
+        "why": "the bigger beach next door"
+      },
+      {
+        "kind": "beach",
+        "slug": "pepper-cove",
+        "why": "a tiny cove just south"
+      },
+      {
+        "kind": "attraction",
+        "slug": "trevose-head-lighthouse",
+        "why": "the headland lighthouse"
+      }
+    ]
+  },
+  "tips": [
+    "Arrive early in summer: the car park fills quickly.",
+    "Watch the tide on the left-hand side of the beach."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Treyarnon",
+      "url": "https://en.wikipedia.org/wiki/Treyarnon",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "praa-sands",
+  "written": "2026-11-02",
+  "overview": [
+    "Praa Sands (say ‘pray sands’) is a long, wide, south-facing beach of pale sand in a sheltered curve of Mount’s Bay, between Helston and Penzance. It’s one of the south coast’s big family beaches, with seasonal lifeguards, shallow water and, unusually for this side of Cornwall, decent waves for surfing.",
+    "The village behind once served local mines and is now mostly holiday homes. At the south-eastern end of the beach, look out for a Second World War pillbox that has slipped down from the clifftop onto the sand as the cliff has eroded."
+  ],
+  "expect": [
+    {
+      "title": "A long sandy beach",
+      "text": "Plenty of room on a wide, south-facing beach with shallow water.",
+      "source": 0
+    },
+    {
+      "title": "Surf",
+      "text": "Popular with surfers, as it picks up bigger waves than most beaches in Mount’s Bay.",
+      "source": 0
+    },
+    {
+      "title": "The pillbox",
+      "text": "A wartime pillbox now sitting on the beach at the eastern end.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "Just off the A394 between Helston and Penzance.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "A great family beach day on the south coast, and a good pick when westerly or northerly winds make the north coast rough. Walk the coast path east to Rinsey and its clifftop engine house.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "rinsey",
+        "why": "a wilder cove with a clifftop engine house"
+      },
+      {
+        "kind": "beach",
+        "slug": "kenneggy-cove",
+        "why": "a quieter cove to the west"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-godolphin",
+        "why": "a historic house and gardens inland"
+      }
+    ]
+  },
+  "tips": [
+    "Go early in summer: it’s a popular beach and the car parks fill up."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Praa Sands",
+      "url": "https://en.wikipedia.org/wiki/Praa_Sands",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}
