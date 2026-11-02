@@ -1,0 +1,83 @@
+{
+  "slug": "cardinham-woods",
+  "written": "2026-11-02",
+  "overview": [
+    "Cardinham Woods is a big Forestry England woodland just outside Bodmin, with trails through the trees, a café and a car park. It’s a great change of scene from the coast, and a lifesaver on a blustery day when the beaches are too wild.",
+    "It’s a favourite with dog owners, with trails to explore and even a dog wash for muddy paws on the way home."
+  ],
+  "expect": [
+    {
+      "title": "Woodland trails",
+      "text": "Trails lead off through the forest from the car park, and the Ranger’s Hut has information and activity packs for children.",
+      "source": 0
+    },
+    {
+      "title": "Café",
+      "text": "The Woods Café is open every day, so it’s easy to build a walk around a cuppa.",
+      "source": 0
+    },
+    {
+      "title": "Dog-friendly",
+      "text": "There’s a card-operated dog wash by the car park for after your walk.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "The car park and trails are open from 6am to 9pm every day.",
+      "source": 0
+    },
+    {
+      "label": "Parking",
+      "text": "Parking is paid and goes towards looking after the forest. Members park free.",
+      "source": 0
+    },
+    {
+      "label": "Getting there",
+      "text": "From Bodmin, head along the A38 towards Liskeard and follow the brown signs just beyond the Carminnow Cross roundabout. The last stretch is a single-track road with passing places.",
+      "source": 0
+    },
+    {
+      "label": "Without a car",
+      "text": "There’s no bus to the woods themselves; the nearest stop is about a 25-minute walk away along the road, with no pavement.",
+      "source": 0
+    },
+    {
+      "label": "Access",
+      "text": "Off-road mobility scooters can be hired from the Ranger’s Hut.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "One to three hours",
+    "text": "Cardinham is a handy option for a breezy or showery day when the coast is too wild, or for a leg-stretch on travel day as it’s close to the A30 and A38. Combine it with Bodmin Jail or Lanhydrock for a full inland day.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "national-trust-lanhydrock-house-and-garden",
+        "why": "a grand house and estate just south of Bodmin"
+      },
+      {
+        "kind": "attraction",
+        "slug": "bodmin-jail-museum",
+        "why": "a spooky indoor visit in town"
+      },
+      {
+        "kind": "town",
+        "slug": "bodmin",
+        "why": "the nearest town for shops and supplies"
+      }
+    ]
+  },
+  "tips": [
+    "Bring wellies or walking boots: woodland trails get muddy after rain.",
+    "Check the café’s own website for its opening hours."
+  ],
+  "sources": [
+    {
+      "label": "Forestry England – Cardinham Woods",
+      "url": "https://www.forestryengland.uk/cardinham-woods"
+    }
+  ]
+}

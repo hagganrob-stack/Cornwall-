@@ -1,0 +1,24 @@
+{
+  "slug": "geevor-tin-mine-museum",
+  "written": "2026-11-02",
+  "overview": [
+    "Geevor is a whole tin mine preserved more or less as the miners left it, on the cliffs between Pendeen and Trewellard in the far west. It worked from 1911 until 1990, one of the last Cornish mines to close, and is now a museum and part of the Cornish Mining World Heritage Site.",
+    "It’s a fascinating, very real place rather than a polished attraction, and it gives you a feel for the industry that shaped this whole stretch of coast. With museum displays, mine buildings and an underground tour, there’s plenty under cover for a wet day."
+  ],
+  "expect": [
+    { "title": "The museum", "text": "Displays and recorded memories tell the story of Cornish tin mining and of Geevor in particular: what went on at the surface, what went on underground, and what life was like for the people who worked here.", "source": 0 },
+    { "title": "Mine buildings and machinery", "text": "You can walk through the original buildings to see the machinery that processed the ore.", "source": 0 },
+    { "title": "Underground tour", "text": "A guided tour takes you into Wheal Mexico, an 18th-century mine tunnel, for a taste of what working underground was like.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Before you go", "text": "Check the official website for current opening days, prices and underground tour times.", "source": null }
+  ],
+  "week": { "slot": "Two to three hours", "text": "Geevor makes a good wet-day plan in the far west, or a half day on a mining-themed outing along the Tin Coast. On a dry day, combine it with the clifftop engine houses at Botallack and a blast of sea air at Cape Cornwall.", "pairWith": [
+    { "kind": "attraction", "slug": "the-count-house-botallack-mine", "why": "clifftop mine ruins along the coast" },
+    { "kind": "attraction", "slug": "cape-cornwall", "why": "a headland walk with big Atlantic views" },
+    { "kind": "beach", "slug": "portheras-cove", "why": "a wild little cove reached on foot" } ] },
+  "tips": [ "Wear sensible shoes and a warm layer for the underground tour." ],
+  "sources": [
+    { "label": "Wikipedia – Geevor Tin Mine", "url": "https://en.wikipedia.org/wiki/Geevor_Tin_Mine", "licence": "CC BY-SA 4.0" }
+  ]
+}

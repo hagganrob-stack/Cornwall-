@@ -1,0 +1,28 @@
+{
+  "slug": "golitha-falls-national-nature-reserve",
+  "written": "2026-11-02",
+  "overview": [
+    "Golitha Falls is a magical stretch of the River Fowey on the southern edge of Bodmin Moor, near St Neot, where the river tumbles through a long, mossy gorge lined with ancient oak woods. It’s a National Nature Reserve and free to visit at any time.",
+    "It’s a gentle, green antidote to the busy beaches. Part of the woodland, Draynes Wood, was recorded back in the Domesday Book, and the trees, rocks and riverbanks are carpeted in mosses and lichens, with bluebells in spring."
+  ],
+  "expect": [
+    { "title": "The falls", "text": "A flat, there-and-back path of about 600 metres takes you from the car park to a viewing area beside the cascades, with benches along the way. Rougher, steeper paths lead further into the gorge.", "source": 0 },
+    { "title": "Wildlife", "text": "Otters are often seen around the falls, the river holds salmon and sea trout, and dormice and several kinds of bat live in the woods.", "source": 0 },
+    { "title": "Spring and autumn", "text": "In spring the woodland floor is covered in bluebells and wood anemones; after winter storms the falls are at their most powerful.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Cost", "text": "Free to visit, open all hours. The car park opposite the entrance asks for a voluntary contribution by app, which goes towards looking after the reserve.", "source": 0 },
+    { "label": "Getting there", "text": "Reached by minor roads off the A38, A30 and B3254. The nearest station is Liskeard, and buses run from Liskeard to St Cleer.", "source": 0 },
+    { "label": "Safety", "text": "After heavy rain the river is fast and powerful, so take extra care near the water.", "source": 0 },
+    { "label": "Longer walk", "text": "The Two Valleys Walk, a circular trail from St Neot, passes close by if you want a longer day out.", "source": 0 }
+  ],
+  "week": { "slot": "An hour or two", "text": "An easy, free outing for a grey or blustery day, or a leg-stretch on the way along the A38. Combine it with Carnglaze Caverns nearby for a half day on the edge of the moor.", "pairWith": [
+    { "kind": "attraction", "slug": "carnglaze-caverns", "why": "underground slate caverns with a lake" },
+    { "kind": "attraction", "slug": "king-donierts-stone", "why": "an ancient carved stone just up the road" },
+    { "kind": "attraction", "slug": "hurlers-stone-circles", "why": "three stone circles out on the moor" } ] },
+  "tips": [ "Wear shoes with grip: the rocks and roots are slippery when wet.", "Keep a close eye on children near the water, especially after rain." ],
+  "facts": { "entry": { "value": "free", "source": 0, "note": "Free to visit; voluntary parking contribution" } },
+  "sources": [
+    { "label": "Natural England – Cornwall’s National Nature Reserves", "url": "https://www.gov.uk/government/publications/cornwalls-national-nature-reserves/cornwalls-nature-reserves", "licence": "OGL v3.0" }
+  ]
+}

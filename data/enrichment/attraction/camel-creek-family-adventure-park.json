@@ -1,0 +1,33 @@
+{
+  "slug": "camel-creek-family-adventure-park",
+  "written": "2026-11-02",
+  "overview": [
+    "Camel Creek is a family adventure park near Wadebridge and Padstow, and it’s squarely aimed at younger children: rides, outdoor play, indoor play for wet days and lots of animals to meet. If you’ve got under-10s in tow, it’s the kind of place that buys you a whole day of happy, tired kids.",
+    "It mixes outdoor rides and play with all-weather indoor areas, so it’s a decent bet even when the forecast is mixed."
+  ],
+  "expect": [
+    { "title": "Rides and outdoor play", "text": "A mix of family rides and energetic outdoor play spread across the park.", "source": 0 },
+    { "title": "Indoor play", "text": "All-weather indoor play areas for when it rains or the little ones need a change of scene.", "source": 0 },
+    { "title": "Animals", "text": "Plenty of animals to see, and young animal lovers can book a behind-the-scenes keeper day.", "source": 0 },
+    { "title": "Seasonal events", "text": "Special events run at different times of year, especially in the school holidays.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Tickets", "text": "Entry is paid, but a day ticket comes with a free return visit: in the school holidays you can come back within the following week, and the window is a bit longer outside them. Ask in the gift shop before you leave to set it up.", "source": 1 },
+    { "label": "Annual pass", "text": "If you live nearby or visit often, there’s an annual pass for unlimited entry.", "source": 0 },
+    { "label": "Stay on site", "text": "There’s camping, glamping and lodges at the park, with park entry included while you stay.", "source": 0 }
+  ],
+  "week": { "slot": "Most of a day", "text": "Pencil it in for a mixed-weather day with younger children. Thanks to the free return visit, you could do a morning now and come back for another go later in the week.", "pairWith": [
+    { "kind": "town", "slug": "padstow", "why": "harbour, fish and chips and boat trips" },
+    { "kind": "attraction", "slug": "national-lobster-hatchery", "why": "a small, hands-on marine centre in Padstow" },
+    { "kind": "beach", "slug": "trevone-beach", "why": "a sandy family beach near Padstow" } ] },
+  "tips": [ "Don’t forget to claim your free return visit at the gift shop before you leave.", "Pack a change of clothes for younger children: outdoor play and Cornish weather can be a messy mix." ],
+  "facts": {
+    "setting": { "value": "indoor and outdoor", "source": 0, "note": "Outdoor rides and play plus all-weather indoor play" },
+    "kids": { "value": "yes", "source": 0, "note": "A family adventure park for children" },
+    "entry": { "value": "paid", "source": 1, "note": "Paid day tickets, with a free return visit" }
+  },
+  "sources": [
+    { "label": "Camel Creek", "url": "http://www.camelcreek.co.uk/" },
+    { "label": "Camel Creek – Free return offer", "url": "http://www.camelcreek.co.uk/tickets/free-return-offer/" }
+  ]
+}

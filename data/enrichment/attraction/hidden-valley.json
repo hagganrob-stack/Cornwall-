@@ -1,0 +1,36 @@
+{
+  "slug": "hidden-valley",
+  "written": "2026-11-02",
+  "overview": [
+    "Hidden Valley is a puzzle park in the woods just outside Launceston, and it’s a refreshingly different day out: instead of rides, you get trails of clues, brain-teasing missions and mysteries to solve as a team. It works for all ages, from children to grandparents.",
+    "Most of it is outdoors along woodland trails, but a few puzzle rooms and buildings are under cover, so it copes with a damp day if you’ve got coats and good shoes."
+  ],
+  "expect": [
+    { "title": "Puzzle trails", "text": "Follow the trails through the woods and work out the clues as you go, including a miniature village called Tremuddlewick.", "source": 0 },
+    { "title": "Indoor puzzles", "text": "Find your way through the Forbidden Mansion, try to escape the Study, and play with perspective in an Ames room where people seem to shrink and grow.", "source": 0 },
+    { "title": "Play and extras", "text": "There’s a play area called Tanglewood Hollow, a maze, a little train and gardens to relax in.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Tickets", "text": "Book ahead: it’s cheaper, numbers are limited and visitors without a booking can be turned away when it’s full. Arrival slots run from 10am to 2pm, and you can stay until 5pm.", "source": 1 },
+    { "label": "Return visits", "text": "Return tickets can only be bought on the day of your visit.", "source": 1 },
+    { "label": "Food", "text": "The Watering Hole Café sells pasties, sandwiches, jacket potatoes, cakes and ice creams to take away, open daily from 10am to 4.30pm.", "source": 2 },
+    { "label": "Dogs", "text": "Welcome on the outdoor trails on a short fixed lead, but not in the Mansion, Study or on the train.", "source": 0 },
+    { "label": "Access", "text": "Many paths are gravel, which can be hard going for wheelchairs and small mobility scooters.", "source": 0 },
+    { "label": "Parking", "text": "Free, with plenty of space. It’s just off the A30/A395 near Launceston.", "source": 0 }
+  ],
+  "week": { "slot": "Three to four hours", "text": "A clever choice for a family who like a challenge, and handy for your first or last day as it’s right by the A30. Arrive in the morning to give yourselves plenty of time for the puzzles.", "pairWith": [
+    { "kind": "attraction", "slug": "launceston-castle", "why": "a hilltop castle in Launceston" },
+    { "kind": "attraction", "slug": "trethorne-leisure-park", "why": "rides and indoor play nearby" },
+    { "kind": "town", "slug": "launceston", "why": "the nearest town for lunch and supplies" } ] },
+  "tips": [ "Book an early arrival slot: last entry is 2pm and the puzzles take a while.", "Bring coats and decent footwear if it’s been raining." ],
+  "facts": {
+    "setting": { "value": "indoor and outdoor", "source": 0, "note": "Woodland puzzle trails plus indoor puzzle rooms" },
+    "kids": { "value": "yes", "source": 0, "note": "Puzzles, a play area, a maze and a train" },
+    "entry": { "value": "paid", "source": 1, "note": "Paid tickets, cheaper booked ahead" }
+  },
+  "sources": [
+    { "label": "Hidden Valley Puzzle Park", "url": "https://www.hiddenvalley.co.uk/" },
+    { "label": "Hidden Valley – Times and prices", "url": "https://www.hiddenvalley.co.uk/tickets-and-pricing/" },
+    { "label": "Hidden Valley – Café", "url": "https://www.hiddenvalley.co.uk/restaurant/" }
+  ]
+}

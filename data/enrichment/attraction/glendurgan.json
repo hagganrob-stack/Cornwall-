@@ -1,0 +1,108 @@
+{
+  "slug": "glendurgan",
+  "written": "2026-11-02",
+  "overview": [
+    "Glendurgan is a National Trust garden in a steep, sheltered valley that runs right down to the Helford River, ending at the little hamlet and beach of Durgan. It’s full of rare and exotic plants that thrive in the mild climate, and it’s a lovely mix of garden and adventure for families.",
+    "The big draw for children is the historic laurel maze at the heart of the garden. Do the maze, wander down through the valley, then reward everyone with an ice cream on the beach at the bottom."
+  ],
+  "expect": [
+    {
+      "title": "The maze",
+      "text": "The cherry laurel maze in the middle of the garden was planted in 1833 and is the highlight for most children.",
+      "source": 0
+    },
+    {
+      "title": "Down to Durgan",
+      "text": "Paths lead down the valley to Durgan’s small beach on the Helford River, which makes a good excuse for an ice cream.",
+      "source": 0
+    },
+    {
+      "title": "Giant’s Stride and Schoolroom",
+      "text": "Look out for the Giant’s Stride, put up in 1913, near the old Schoolroom.",
+      "source": 0
+    },
+    {
+      "title": "Rare plants",
+      "text": "The valley shelters plenty of rare and delicate plants, which is why dogs have to stay on a short lead.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "The garden shuts over winter, from about November until mid-February. In season it’s open most days, including bank holidays and every Monday in August, with last entry an hour before closing.",
+      "source": 0
+    },
+    {
+      "label": "Tickets",
+      "text": "Paid entry for non-members, with family tickets; free for National Trust members.",
+      "source": 0
+    },
+    {
+      "label": "Parking",
+      "text": "Pay and display for non-members (by app or machine); free for members, who register their card in the app.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Well-behaved dogs on a short, fixed lead can go into most of the garden, but only assistance dogs in the maze, orchard and Schoolroom.",
+      "source": 1
+    },
+    {
+      "label": "Access",
+      "text": "An all-terrain mobility scooter can be booked in advance and can get right down to the beach; there’s only one, so book early.",
+      "source": 2
+    },
+    {
+      "label": "Food",
+      "text": "There’s a tea house; last orders are 30 minutes before closing.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two to three hours",
+    "text": "A lovely, gentle half day on a dry day around Falmouth or the Helford, especially with children. Its neighbour Trebah is just next door if you’re keen on gardens, and you can make a day of the Helford with a walk and lunch by the water.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "trebah",
+        "why": "the beach at the foot of the neighbouring Trebah garden"
+      },
+      {
+        "kind": "beach",
+        "slug": "grebe-beach",
+        "why": "a quiet Helford beach close by"
+      },
+      {
+        "kind": "town",
+        "slug": "falmouth",
+        "why": "the nearest big town for shops and food"
+      }
+    ]
+  },
+  "tips": [
+    "Do the maze first, while everyone’s still full of energy.",
+    "It’s a steep walk back up from the beach, so leave time and energy for the climb."
+  ],
+  "facts": {
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "A historic maze and a beach at the bottom of the garden"
+    }
+  },
+  "sources": [
+    {
+      "label": "National Trust – Glendurgan Garden",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/glendurgan-garden"
+    },
+    {
+      "label": "National Trust – Glendurgan with your dog",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/glendurgan-garden/visiting-north-helford-countryside-with-your-dog"
+    },
+    {
+      "label": "National Trust – Tramper hire at Glendurgan",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/glendurgan-garden/tramper-hire-at-glendurgan-garden"
+    }
+  ]
+}

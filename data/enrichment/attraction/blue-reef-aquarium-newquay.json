@@ -1,0 +1,72 @@
+{
+  "slug": "blue-reef-aquarium-newquay",
+  "written": "2026-11-02",
+  "overview": [
+    "Blue Reef is a compact aquarium right by Towan Beach in the middle of Newquay, and it’s one of the town’s go-to wet-weather options. It was the very first Blue Reef aquarium, opened in the early 2000s, and has more than 40 living displays.",
+    "It’s all indoors and easy to fit into a day in town, so keep it in mind for when the rain sets in or the little ones need a break from the beach."
+  ],
+  "expect": [
+    {
+      "title": "The ocean tunnel",
+      "text": "The centrepiece is a big ocean tank with a walk-through tunnel, so tropical reef fish swim over and around you.",
+      "source": 1
+    },
+    {
+      "title": "Shark lagoon",
+      "text": "A mangrove-themed lagoon with tropical sharks and rays, which you can watch from above and below the water.",
+      "source": 1
+    },
+    {
+      "title": "Other displays",
+      "text": "Look out for the giant Pacific octopus, seahorses, cuttlefish, turtles, nautilus and clownfish living with their anemones.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Opening",
+      "text": "It opens daily at 10am all year apart from Christmas Day, and the last entry is an hour before it closes. Times can change at short notice, so check their social media on the day.",
+      "source": 0
+    },
+    {
+      "label": "Where it is",
+      "text": "Right by Towan Beach and a short walk from the town centre and Great Western Beach.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "An hour or two",
+    "text": "An easy indoor fallback if you’re staying in or around Newquay. Pop in when a shower rolls through, then head back out onto the town beaches when it clears.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "towan-beach",
+        "why": "the town beach right outside"
+      },
+      {
+        "kind": "beach",
+        "slug": "great-western-beach",
+        "why": "another sheltered town beach close by"
+      },
+      {
+        "kind": "attraction",
+        "slug": "newquay-zoo",
+        "why": "for a bigger family day out in town"
+      }
+    ]
+  },
+  "tips": [
+    "Go first thing or late afternoon on rainy days, when everyone else has the same idea."
+  ],
+  "sources": [
+    {
+      "label": "Blue Reef Aquarium Newquay – Opening hours",
+      "url": "https://www.bluereefaquarium.co.uk/newquay/visitor-info/opening-hours/"
+    },
+    {
+      "label": "Wikipedia – Blue Reef Aquarium",
+      "url": "https://en.wikipedia.org/wiki/Blue_Reef_Aquarium",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

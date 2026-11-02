@@ -1,0 +1,113 @@
+{
+  "slug": "carnglaze-caverns",
+  "written": "2026-11-02",
+  "overview": [
+    "Carnglaze is Cornwall’s only underground slate mine, tucked into the wooded Loveny Valley where Bodmin Moor drops away to the south, near St Neot. Miners began digging here by hand more than 300 years ago, leaving three huge caverns deep in the hillside, the last of them now flooded to form an underground lake of clear blue-green water.",
+    "It’s refreshingly unfussy: no theming or gimmicks, just the caverns, the story of the miners and a walk in the oak woods outside. Underground it’s the same whatever the weather, which makes it a good wet-day choice."
+  ],
+  "expect": [
+    {
+      "title": "The caverns",
+      "text": "You’re given a helmet and a route plan and then explore at your own pace, heading around 150 metres into the hill and 60 metres down, with a flight of 50 steps between the first cavern and the two below.",
+      "source": 2
+    },
+    {
+      "title": "The underground lake",
+      "text": "The third cavern is flooded, and the still, glassy lake is the moment most people remember.",
+      "source": 2
+    },
+    {
+      "title": "Minerals and history",
+      "text": "The first cavern has a collection of minerals from across the South West, and boards tell the story of the slate mine and its miners.",
+      "source": 2
+    },
+    {
+      "title": "Woodland walk",
+      "text": "Outside, a 20-minute walk winds through eight acres of old oak woodland beside the river, with benches and space for children to play.",
+      "source": 1
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Booking",
+      "text": "Book online: it’s cheaper, and only a set number of people can go underground at once, so on busy days you may not get in without a booking.",
+      "source": 1
+    },
+    {
+      "label": "How long",
+      "text": "The caverns take about half an hour, plus 20 minutes for the woodland walk.",
+      "source": 1
+    },
+    {
+      "label": "Parking",
+      "text": "Free parking on site, with an overflow car park a short walk through the woods on busy days.",
+      "source": 1
+    },
+    {
+      "label": "Access",
+      "text": "The upper cavern is fully accessible, but the steps down to the lower caverns and some of the grounds are difficult with limited mobility.",
+      "source": 1
+    },
+    {
+      "label": "Getting there",
+      "text": "Just off the A38, signed with brown tourist signs from Liskeard.",
+      "source": 0
+    },
+    {
+      "label": "Concerts",
+      "text": "The caverns are also a music venue; concert tickets are never sold on the door.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "About an hour",
+    "text": "A short, memorable visit for a wet day in east Cornwall or a stop on the way along the A38. Pair it with a walk at Golitha Falls, just up the road, for a half day on the edge of the moor.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "golitha-falls-national-nature-reserve",
+        "why": "a riverside woodland walk to a series of cascades"
+      },
+      {
+        "kind": "attraction",
+        "slug": "king-donierts-stone",
+        "why": "an ancient carved stone on the moor"
+      },
+      {
+        "kind": "town",
+        "slug": "liskeard",
+        "why": "the nearest town for lunch and supplies"
+      }
+    ]
+  },
+  "tips": [
+    "Bring a jumper: it’s cool underground even in summer.",
+    "Wear sturdy shoes for the steps and uneven floors."
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 2,
+      "note": "Underground caverns plus a woodland walk"
+    },
+    "entry": {
+      "value": "paid",
+      "source": 1,
+      "note": "Paid entry, cheaper booked online"
+    }
+  },
+  "sources": [
+    {
+      "label": "Carnglaze Caverns",
+      "url": "https://www.carnglaze.com/"
+    },
+    {
+      "label": "Carnglaze Caverns – FAQs",
+      "url": "https://www.carnglaze.com/faqs/"
+    },
+    {
+      "label": "Carnglaze Caverns – The caverns",
+      "url": "https://www.carnglaze.com/the-caverns/"
+    }
+  ]
+}

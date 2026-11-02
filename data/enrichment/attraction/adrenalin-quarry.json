@@ -1,0 +1,32 @@
+{
+  "slug": "adrenalin-quarry",
+  "written": "2026-11-02",
+  "overview": [
+    "If your lot are after thrills rather than gardens, this is the place. Adrenalin Quarry is an adventure park in an old flooded quarry at Menheniot, near Liskeard, in the quieter south-east corner of Cornwall. The quarry was worked for stone from the 1930s to the late 1960s, filled up with water to a depth of about 22 metres, and has been an adventure park since 2009.",
+    "It’s free to get in and enjoy the views and picnic spots, and you pay for each activity you fancy, so it works whether one person wants to be brave and the rest want to watch."
+  ],
+  "expect": [
+    { "title": "The zip wire", "text": "A huge zip wire launches you off the cliff and down across the lake: 50 metres up and almost half a kilometre long.", "source": 0 },
+    { "title": "The giant swing", "text": "A clifftop swing that drops you into a freefall about 150 feet above the water, for the truly fearless.", "source": 0 },
+    { "title": "The aqua park", "text": "A big inflatable obstacle course on the lake with trampolines, monkey bars and swings, for ages 6 and up. Expect to get very wet.", "source": 0 },
+    { "title": "Karting and axe throwing", "text": "An 800-metre all-weather kart track with adult, youth and junior karts for ages 7 and up, and axe throwing for 12 and over.", "source": 0 }
+  ],
+  "goodToKnow": [
+    { "label": "Tickets", "text": "Entry to the site is free; each activity is paid. You can book online or just turn up for the zip wire and swing.", "source": 0 },
+    { "label": "Age limits", "text": "Activities have minimum ages, so check them before you promise anything to younger children.", "source": 0 },
+    { "label": "Where it is", "text": "At Menheniot, a few kilometres from Liskeard, so it’s easy to reach from south-east Cornwall or on the way in from the A38.", "source": 1 }
+  ],
+  "week": { "slot": "Two to four hours", "text": "A brilliant pick for a dry day if you have teenagers or adventurous adults in the group. It’s in the south-east, so it fits nicely into a day around Looe or on your journey in or out of Cornwall.", "pairWith": [
+    { "kind": "town", "slug": "looe", "why": "a harbour town on the coast for a pasty afterwards" },
+    { "kind": "beach", "slug": "seaton-beach", "why": "a quiet beach and country park on the south coast" },
+    { "kind": "attraction", "slug": "kartworld", "why": "more karting right next door" } ] },
+  "tips": [ "Bring a change of clothes and a towel if anyone’s doing the aqua park.", "Spectators get in free, so non-thrill-seekers can come along for the views." ],
+  "facts": {
+    "kids": { "value": "yes", "source": 0, "note": "Activities for children from age 6" },
+    "entry": { "value": "free", "source": 0, "note": "Free to get in; each activity is paid" }
+  },
+  "sources": [
+    { "label": "Adrenalin Quarry", "url": "https://adrenalinquarry.co.uk/" },
+    { "label": "Wikipedia – Adrenalin Quarry", "url": "https://en.wikipedia.org/wiki/Adrenalin_Quarry", "licence": "CC BY-SA 4.0" }
+  ]
+}

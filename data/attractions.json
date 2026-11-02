@@ -167,18 +167,19 @@
     },
     "kids": {
       "value": "yes",
-      "method": "Aimed at families (Google Maps category: Amusement park ride)",
+      "method": "Activities for children from age 6",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJKzhEWTGbbEgRVBPJ6wXwqnU"
+        "label": "Adrenalin Quarry",
+        "url": "https://adrenalinquarry.co.uk/"
       }
     },
     "entry": {
       "value": "free",
-      "quote": "…spectacular views and picnic spots and free entry. WIPE OUT AT AQUAPARK FOR 6 YRS+.…",
+      "quote": null,
+      "summary": "Free to get in; each activity is paid",
       "source": {
-        "label": "Official website",
-        "url": "http://www.adrenalinquarry.co.uk/"
+        "label": "Adrenalin Quarry",
+        "url": "https://adrenalinquarry.co.uk/"
       }
     },
     "hours": {
@@ -2673,26 +2674,37 @@
     "address": "Tredinnick, Wadebridge, PL27 7RA",
     "website": "http://www.camelcreek.co.uk/",
     "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Amusement Centre, Amusement park, Holiday apartment rental, Theme park, Zoo)",
+      "value": "indoor and outdoor",
+      "method": "Outdoor rides and play plus all-weather indoor play",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XSabp90a0gRwfacvMco26o"
+        "label": "Camel Creek",
+        "url": "http://www.camelcreek.co.uk/"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "Camel Creek",
+        "url": "http://www.camelcreek.co.uk/"
+      }
     },
     "kids": {
       "value": "yes",
-      "method": "Aimed at families (Google Maps category: Amusement Centre)",
+      "method": "A family adventure park for children",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XSabp90a0gRwfacvMco26o"
+        "label": "Camel Creek",
+        "url": "http://www.camelcreek.co.uk/"
       }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid day tickets, with a free return visit",
+      "source": {
+        "label": "Camel Creek – Free return offer",
+        "url": "http://www.camelcreek.co.uk/tickets/free-return-offer/"
+      }
     },
     "hours": {
       "value": "not stated"
@@ -2800,15 +2812,15 @@
     "guide": {
       "whoItSuits": [
         "families with children",
-        "a dry day outdoors"
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "Most of a day",
       "bestTimeToGo": [
-        "On a dry day"
+        "Any day, including wet ones"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Camel Creek Family Adventure Park is an amusement centre 5.6 km from Padstow, in North Coast. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children. The nearest beach is Brea Beach (5.6 km)."
+    "description": "Camel Creek Family Adventure Park is an amusement centre 5.6 km from Padstow, in North Coast. It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Brea Beach (5.6 km)."
   },
   {
     "slug": "cape-cornwall",
@@ -3535,16 +3547,32 @@
     "address": "St Neot, Liskeard, PL14 6HQ",
     "website": "http://www.carnglaze.com/",
     "setting": {
-      "value": "not stated"
+      "value": "indoor and outdoor",
+      "method": "Underground caverns plus a woodland walk",
+      "source": {
+        "label": "Carnglaze Caverns – The caverns",
+        "url": "https://www.carnglaze.com/the-caverns/"
+      }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "Carnglaze Caverns – The caverns",
+        "url": "https://www.carnglaze.com/the-caverns/"
+      }
     },
     "kids": {
       "value": "not stated"
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid entry, cheaper booked online",
+      "source": {
+        "label": "Carnglaze Caverns – FAQs",
+        "url": "https://www.carnglaze.com/faqs/"
+      }
     },
     "hours": {
       "value": "listed",
@@ -3703,14 +3731,17 @@
       }
     ],
     "guide": {
-      "whoItSuits": null,
+      "whoItSuits": [
+        "a changeable day (there’s indoor space)"
+      ],
       "howLongToAllow": null,
       "bestTimeToGo": [
+        "Any day, including wet ones",
         "Check the website: the listing currently shows it closed every day, which often means it is out of season"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Carnglaze Caverns is a bar 1.0 km from St Neot, in Bodmin Moor & East Cornwall."
+    "description": "Carnglaze Caverns is a bar 1.0 km from St Neot, in Bodmin Moor & East Cornwall. It has both indoor and outdoor areas. There’s an entry charge; prices are on its website."
   },
   {
     "slug": "chapel-rock-pool",
@@ -8383,7 +8414,12 @@
       "value": "not stated"
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "A historic maze and a beach at the bottom of the garden",
+      "source": {
+        "label": "National Trust – Glendurgan Garden",
+        "url": "https://www.nationaltrust.org.uk/visit/cornwall/glendurgan-garden"
+      }
     },
     "entry": {
       "value": "paid",
@@ -8623,6 +8659,7 @@
     ],
     "guide": {
       "whoItSuits": [
+        "families with children",
         "a dry day outdoors"
       ],
       "howLongToAllow": "Two hours to half a day",
@@ -8632,7 +8669,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Glendurgan is a garden 1.0 km from Mawnan Smith, in South Coast. It’s outdoors, so it’s best on a dry day. There’s an entry charge; prices are on its website. The nearest beach is Grebe Beach (700 m)."
+    "description": "Glendurgan is a garden 1.0 km from Mawnan Smith, in South Coast. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Grebe Beach (700 m)."
   },
   {
     "slug": "golitha-falls-national-nature-reserve",
@@ -8663,7 +8700,13 @@
       "value": "not stated"
     },
     "entry": {
-      "value": "not stated"
+      "value": "free",
+      "quote": null,
+      "summary": "Free to visit; voluntary parking contribution",
+      "source": {
+        "label": "Natural England – Cornwall’s National Nature Reserves",
+        "url": "https://www.gov.uk/government/publications/cornwalls-national-nature-reserves/cornwalls-nature-reserves"
+      }
     },
     "hours": {
       "value": "listed",
@@ -8775,7 +8818,8 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "a dry day outdoors",
+        "a day out without an entry fee"
       ],
       "howLongToAllow": "One to three hours",
       "bestTimeToGo": [
@@ -8783,7 +8827,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Golitha Falls National Nature Reserve is a nature reserve 4.0 km from St Neot, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day."
+    "description": "Golitha Falls National Nature Reserve is a nature reserve 4.0 km from St Neot, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day. Its website says entry is free."
   },
   {
     "slug": "hall-walk",
@@ -9750,21 +9794,37 @@
     "address": "Tredidon, Launceston, PL15 8SJ",
     "website": "http://www.hiddenvalley.co.uk/",
     "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Park and Garden)",
+      "value": "indoor and outdoor",
+      "method": "Woodland puzzle trails plus indoor puzzle rooms",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJQchgXax9bEgRBt22gjLtUNA"
+        "label": "Hidden Valley Puzzle Park",
+        "url": "https://www.hiddenvalley.co.uk/"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "Hidden Valley Puzzle Park",
+        "url": "https://www.hiddenvalley.co.uk/"
+      }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Puzzles, a play area, a maze and a train",
+      "source": {
+        "label": "Hidden Valley Puzzle Park",
+        "url": "https://www.hiddenvalley.co.uk/"
+      }
     },
     "entry": {
-      "value": "not stated"
+      "value": "paid",
+      "quote": null,
+      "summary": "Paid tickets, cheaper booked ahead",
+      "source": {
+        "label": "Hidden Valley – Times and prices",
+        "url": "https://www.hiddenvalley.co.uk/tickets-and-pricing/"
+      }
     },
     "hours": {
       "value": "not stated"
@@ -9891,15 +9951,16 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "families with children",
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "Two hours to half a day",
       "bestTimeToGo": [
-        "On a dry day"
+        "Any day, including wet ones"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Hidden Valley is a park and garden 5.3 km from Launceston, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day."
+    "description": "Hidden Valley is a park and garden 5.3 km from Launceston, in Bodmin Moor & East Cornwall. It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website."
   },
   {
     "slug": "hurlers-stone-circles",
