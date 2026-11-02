@@ -1,0 +1,67 @@
+{
+  "slug": "penlee-house-gallery-and-museum",
+  "written": "2026-11-02",
+  "overview": [
+    "Penlee House is Penzance’s art gallery and museum, in an elegant Victorian house set in its own park a short walk from the town centre. It’s known above all for its paintings by the Newlyn School, the artists who painted everyday life in the fishing villages of west Cornwall in the late 1800s.",
+    "It’s a calm, rewarding hour or two, and a natural rainy-day stop if you’re based around Penzance or Newlyn."
+  ],
+  "expect": [
+    {
+      "title": "Newlyn School paintings",
+      "text": "Works by Stanhope and Elizabeth Forbes, Walter Langley, Norman Garstin and others, including Garstin’s ‘The Rain It Raineth Every Day’.",
+      "source": 0
+    },
+    {
+      "title": "The house and park",
+      "text": "The house was built in 1865 for a local family and the park around it is now a public space.",
+      "source": 0
+    },
+    {
+      "title": "Local history",
+      "text": "Collections that grew out of Penzance’s old natural history society.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Before you go",
+      "text": "Check the website for opening times and current exhibitions.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "An hour or two",
+    "text": "An easy indoor stop in Penzance. Pair it with a stroll through Morrab Gardens next door and along the promenade.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "morrab-gardens",
+        "why": "subtropical gardens right next door"
+      },
+      {
+        "kind": "attraction",
+        "slug": "penzance-promenade",
+        "why": "the seafront walk"
+      },
+      {
+        "kind": "town",
+        "slug": "newlyn",
+        "why": "the fishing port that inspired the artists"
+      }
+    ]
+  },
+  "tips": [
+    "Walk on to Newlyn afterwards to see where many of the paintings were made."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Penlee House",
+      "url": "https://en.wikipedia.org/wiki/Penlee_House",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "Penlee House – official website",
+      "url": "http://www.penleehouse.org.uk/"
+    }
+  ]
+}

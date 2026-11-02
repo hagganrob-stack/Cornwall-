@@ -1,0 +1,67 @@
+{
+  "slug": "pk-porthcurno",
+  "written": "2026-11-02",
+  "overview": [
+    "PK Porthcurno is a museum of global communications in the valley behind Porthcurno beach, telling the story of how this quiet Cornish cove became the landing point for undersea telegraph cables that linked Britain with the world. It holds the largest collection of historic telegraph cables and equipment of its kind.",
+    "It’s a surprisingly gripping visit, with interactive exhibits and tunnels dug into the hillside during the Second World War to protect the station, and it’s an ideal rainy-day plan in the far west."
+  ],
+  "expect": [
+    {
+      "title": "The cable story",
+      "text": "Exhibits on how messages crossed the world by undersea cable, and how Porthcurno sat at the heart of it.",
+      "source": 0
+    },
+    {
+      "title": "The wartime bunker",
+      "text": "Tunnels dug into the valley side during the Second World War to keep the station running safely.",
+      "source": 0
+    },
+    {
+      "title": "Changing exhibitions",
+      "text": "Temporary exhibitions explore communication and information, from the past to today.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Seasonal events",
+      "text": "Special events, such as at Halloween, can change what’s open in the bunker, so check before you go.",
+      "source": 0
+    },
+    {
+      "label": "Before you go",
+      "text": "See the website for opening times and prices.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two hours or so",
+    "text": "The obvious rainy-day partner for a Porthcurno beach day, and fascinating for anyone curious about how things work. Pair it with the Minack Theatre and a swim if the sun comes out.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porthcurno",
+        "why": "the beach just down the valley"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-minack-theatre",
+        "why": "the clifftop theatre"
+      },
+      {
+        "kind": "attraction",
+        "slug": "logan-rock",
+        "why": "a headland walk nearby"
+      }
+    ]
+  },
+  "tips": [
+    "Save it for the day the weather turns while you’re in the far west."
+  ],
+  "sources": [
+    {
+      "label": "PK Porthcurno",
+      "url": "https://pkporthcurno.com/"
+    }
+  ]
+}

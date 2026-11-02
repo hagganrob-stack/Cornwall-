@@ -1,0 +1,62 @@
+{
+  "slug": "porfell-wildlife-park-and-sanctuary",
+  "written": "2026-11-02",
+  "overview": [
+    "Porfell is a small, family-run wildlife park and sanctuary in the countryside of south-east Cornwall, not far from Looe and Lostwithiel. It was set up in 1989 as a home for animals in need, and the founders’ rule is that no animal is ever turned away.",
+    "It’s gentle and personal rather than big and flashy, with enclosures designed to feel like the animals’ natural habitats and daily animal encounters where children can meet and learn about the residents."
+  ],
+  "expect": [
+    {
+      "title": "Animal encounters",
+      "text": "Daily encounters and talks, usually at midday and mid-afternoon.",
+      "source": 0
+    },
+    {
+      "title": "Rescue animals",
+      "text": "Neglected, injured or abandoned animals given a permanent home.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Paid entry, which funds the animals’ care.",
+      "source": 0
+    },
+    {
+      "label": "Where it is",
+      "text": "In south-east Cornwall, a short drive from Looe.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two to three hours",
+    "text": "A relaxed family morning or afternoon in south-east Cornwall, especially with younger children. Combine it with a trip to Looe or Polperro.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "looe",
+        "why": "the harbour town on the coast"
+      },
+      {
+        "kind": "attraction",
+        "slug": "restormel-castle",
+        "why": "a round castle ruin near Lostwithiel"
+      },
+      {
+        "kind": "attraction",
+        "slug": "carnglaze-caverns",
+        "why": "underground caverns for a wet day"
+      }
+    ]
+  },
+  "tips": [
+    "Time your visit for one of the animal encounters."
+  ],
+  "sources": [
+    {
+      "label": "Porfell Wildlife Park",
+      "url": "https://www.porfell.co.uk/"
+    }
+  ]
+}

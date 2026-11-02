@@ -1,0 +1,74 @@
+{
+  "slug": "st-mawes-ferry",
+  "written": "2026-11-02",
+  "overview": [
+    "The St Mawes Ferry crosses the mouth of the Fal from Falmouth to the pretty harbour village of St Mawes, a trip of about 2.8 miles that saves a drive of nearly 30. It runs on classic wooden ferries and is one of Cornwall’s most popular boat trips.",
+    "On the way you pass both Pendennis and St Mawes castles, big ships and Falmouth’s working docks, and if you’re lucky you might spot dolphins, seals or even a basking shark."
+  ],
+  "expect": [
+    {
+      "title": "The crossing",
+      "text": "A short, scenic trip across the Carrick Roads in a classic wooden boat.",
+      "source": 0
+    },
+    {
+      "title": "Castles and ships",
+      "text": "Pendennis Castle, St Mawes Castle and Falmouth’s docks along the way.",
+      "source": 0
+    },
+    {
+      "title": "Wildlife",
+      "text": "Dolphins, seals and basking sharks regularly visit the harbour.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "When it runs",
+      "text": "All year, seven days a week, with up to three crossings an hour in summer and hourly in winter. Every sailing depends on tide and weather.",
+      "source": 0
+    },
+    {
+      "label": "Where from",
+      "text": "Leaves from central Falmouth, close to the town’s shops and galleries.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "Half a day with St Mawes",
+    "text": "Make it a day: hop across, wander St Mawes, see its castle, have lunch by the harbour and come back in the afternoon. It works in most weathers.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "st-mawes",
+        "why": "the harbour village at the other end"
+      },
+      {
+        "kind": "attraction",
+        "slug": "pendennis-castle",
+        "why": "Falmouth’s castle on the headland"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-maritime-museum-cornwall",
+        "why": "the maritime museum in Falmouth"
+      }
+    ]
+  },
+  "tips": [
+    "Sit outside on the way over if the weather’s kind: the views of the castles and harbour are lovely."
+  ],
+  "sources": [
+    {
+      "label": "Fal River – St Mawes Ferry",
+      "url": "https://www.falriver.co.uk/ferries/st-mawes-ferry"
+    }
+  ],
+  "facts": {
+    "entry": {
+      "value": "paid",
+      "source": 0,
+      "note": "Ferry fares"
+    }
+  }
+}
