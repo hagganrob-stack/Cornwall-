@@ -10,8 +10,6 @@ const TOGGLES = [
   ['toilets', 'Toilets'],
   ['cafe', 'Café'],
   ['surf', 'Surf'],
-  ['rockPools', 'Rock pools'],
-  ['accessible', 'Accessibility info'],
 ];
 
 // Council restriction covers any part of the month? (seasonal bans run in MM-DD ranges)

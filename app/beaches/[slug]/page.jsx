@@ -103,9 +103,7 @@ export default async function BeachPage({ params }) {
               ['Parking', b.parking],
               ['Toilets', b.toilets],
               ['Café or kiosk', b.cafeNearby],
-              ['Accessibility', b.accessibility],
               ['Surfing', b.surf],
-              ['Rock pools', b.rockPools],
             ]}
           />
 

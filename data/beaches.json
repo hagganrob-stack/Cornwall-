@@ -105,13 +105,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -134,7 +128,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -352,13 +346,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -381,7 +369,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -665,22 +653,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/183750281",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -703,7 +676,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -929,13 +902,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -958,7 +925,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -1192,13 +1159,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -1221,7 +1182,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -1451,13 +1412,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -1480,7 +1435,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -1690,22 +1645,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/14000585",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -1728,7 +1668,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -1944,13 +1884,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -1973,7 +1907,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "permissive",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -2173,13 +2107,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -2214,7 +2142,7 @@
     "wikidata": "Q4942775",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -2419,13 +2347,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -2448,7 +2370,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -2648,13 +2570,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -2677,7 +2593,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -2904,13 +2820,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -2933,7 +2843,7 @@
     "wikidata": "Q4947597",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -3200,23 +3110,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 70 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/2194118",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -3239,7 +3133,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -3484,13 +3378,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -3524,31 +3412,9 @@
       "reason": "On the Cornwall Council dog-restriction list (no beach outline mapped; located at Cadgwith village)",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/139627755",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/854259130",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/29282484",
-        "licence": "ODbL"
-      }
-    ],
     "images": [
       {
         "file": "File:The working area of Cadgwith Cove - geograph.org.uk - 7866281.jpg",
@@ -3630,6 +3496,28 @@
         "quality": null,
         "score": 65,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/139627755",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/854259130",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/29282484",
+        "licence": "ODbL"
       }
     ],
     "nearbyBeaches": [
@@ -3800,13 +3688,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -3848,7 +3730,7 @@
     "wikidata": "Q107108622",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -4155,23 +4037,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 100 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/164595752",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -4194,7 +4060,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -4392,13 +4258,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -4421,7 +4281,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -4693,22 +4553,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 10 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/225174218",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -4742,41 +4587,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/225174218",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.33089/-4.20135",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/187201974",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/5202317589",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/231240048",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Cawsand beach - geograph.org.uk - 2751552.jpg",
@@ -4857,6 +4670,38 @@
         "quality": null,
         "score": 67,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/225174218",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.33089/-4.20135",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/187201974",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/5202317589",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/231240048",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -4962,13 +4807,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -4991,7 +4830,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -5235,22 +5074,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 40 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/880115255",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -5292,7 +5116,7 @@
     "wikidata": "Q31844956",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -5564,13 +5388,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -5612,7 +5430,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -5842,22 +5660,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/163202096",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -5880,7 +5683,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -6094,13 +5897,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -6123,7 +5920,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -6366,22 +6163,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 80 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/44535296",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -6416,7 +6198,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -6645,13 +6427,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -6674,7 +6450,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -6881,13 +6657,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -6910,7 +6680,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -7160,22 +6930,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 200 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1201179415",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -7221,45 +6976,9 @@
       "reason": "On the Cornwall Council dog-restriction list; RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1201179415",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.74232/-4.63666",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/174277559",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/159536434",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/1715975795",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Crackington-Haven-Beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:4595123",
@@ -7340,6 +7059,42 @@
         "quality": null,
         "score": 59,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1201179415",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.74232/-4.63666",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/174277559",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/159536434",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/1715975795",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Crackington-Haven-Beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -7510,13 +7265,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -7551,7 +7300,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -7811,13 +7560,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -7840,7 +7583,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -8121,22 +7864,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 70 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/619399211",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -8178,7 +7906,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -8465,22 +8193,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 100 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/113859575",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -8503,7 +8216,7 @@
     "wikidata": "Q5243251",
     "wikipedia": "en:Daymer Bay",
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -8766,13 +8479,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -8795,7 +8502,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -9005,13 +8712,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -9034,7 +8735,7 @@
     "wikidata": "Q116883572",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -9300,22 +9001,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/996061039",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -9338,7 +9024,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -9593,22 +9279,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 100 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/79137093",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -9631,7 +9302,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -9919,13 +9590,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -9960,7 +9625,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "yes",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -10224,13 +9889,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -10253,7 +9912,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -10549,23 +10208,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 10 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/59458726",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -10588,7 +10231,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "yes",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -10801,13 +10444,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -10830,7 +10467,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -11100,13 +10737,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -11129,7 +10760,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -11405,22 +11036,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 300 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/9660751027",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -11443,7 +11059,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -11755,23 +11371,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 100 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/1017447",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -11806,7 +11406,7 @@
     "wikidata": "Q5455353",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -12019,13 +11619,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -12048,7 +11642,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -12285,13 +11879,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -12330,35 +11918,9 @@
       "reason": "RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/225176331",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.34632/-4.25556",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/584726470",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/freathy-beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Freathy , Military Road - geograph.org.uk - 6427295.jpg",
@@ -12439,6 +12001,32 @@
         "quality": null,
         "score": 57,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/225176331",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.34632/-4.25556",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/584726470",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/freathy-beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -12553,13 +12141,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -12582,7 +12164,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "foot",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -12779,13 +12361,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -12808,7 +12384,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -13023,22 +12599,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 90 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/888270743",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -13084,35 +12645,9 @@
       "reason": "On the Cornwall Council dog-restriction list; RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/888270743",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/239989813",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/337763280",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Godrevy-Beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Gwinear-Gwithian , Godrevy Cove - geograph.org.uk - 6338416.jpg",
@@ -13194,6 +12729,32 @@
         "quality": null,
         "score": 66,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/888270743",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/239989813",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/337763280",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Godrevy-Beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -13330,13 +12891,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -13359,7 +12914,7 @@
     "wikidata": "Q18709221",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -13578,13 +13133,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -13607,7 +13156,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -13912,22 +13461,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 150 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/10751483",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -13962,7 +13496,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -14225,13 +13759,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -14254,7 +13782,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -14476,13 +14004,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -14505,7 +14027,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -14719,13 +14241,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -14748,7 +14264,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -14928,13 +14444,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -14957,7 +14467,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -15148,13 +14658,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -15177,7 +14681,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -15434,13 +14938,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -15463,7 +14961,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -15731,13 +15229,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -15783,45 +15275,9 @@
       "reason": "On the Cornwall Council dog-restriction list; RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/889139690",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.22715/-5.39230",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/886941095",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/156332613",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/112451770",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Gwithian-North-Beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:6303943",
@@ -15882,6 +15338,42 @@
         "quality": null,
         "score": 60,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/889139690",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.22715/-5.39230",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/886941095",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/156332613",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/112451770",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Hayle-Gwithian-North-Beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -16033,13 +15525,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -16074,7 +15560,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "yes",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -16359,22 +15845,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 20 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/115970111",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -16416,7 +15887,7 @@
     "wikidata": "Q31844950",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -16717,23 +16188,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 10 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/182236039",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -16763,7 +16218,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -17051,23 +16506,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 20 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/594673122",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -17090,7 +16529,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -17370,18 +16809,6 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/44886075",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
       "value": "yes",
       "summary": "Surf school or surf shop mapped about 100 m away",
@@ -17399,9 +16826,6 @@
         "url": "https://www.openstreetmap.org/way/863871586",
         "licence": "ODbL"
       }
-    },
-    "rockPools": {
-      "value": "not stated"
     },
     "swimming": {
       "value": "Lifeguarded in season",
@@ -17435,7 +16859,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -17734,9 +17158,6 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
       "value": "yes",
       "summary": "Surf school or surf shop mapped about 150 m away",
@@ -17761,9 +17182,6 @@
         "url": "https://www.openstreetmap.org/way/836077648",
         "licence": "ODbL"
       }
-    },
-    "rockPools": {
-      "value": "not stated"
     },
     "swimming": {
       "value": "Lifeguarded in season",
@@ -17804,7 +17222,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -18126,13 +17544,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -18178,45 +17590,9 @@
       "reason": "On the Cornwall Council dog-restriction list; RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/183752234",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.20175/-5.42266",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/128678882",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/128678880",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/128678881",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-towans-beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Hayle , Gwithian Beach - geograph.org.uk - 6304047.jpg",
@@ -18297,6 +17673,42 @@
         "quality": null,
         "score": 26,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/183752234",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.20175/-5.42266",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/128678882",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/128678880",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/128678881",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-towans-beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -18434,13 +17846,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -18463,7 +17869,7 @@
     "wikidata": "Q28402997",
     "wikipedia": "en:Hemmick Beach",
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -18689,13 +18095,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -18718,7 +18118,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -18934,13 +18334,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -18963,7 +18357,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -19170,13 +18564,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -19199,7 +18587,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -19453,9 +18841,6 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
       "value": "yes",
       "summary": "Surf school or surf shop mapped at the beach",
@@ -19473,9 +18858,6 @@
         "url": "https://www.openstreetmap.org/node/5075844969",
         "licence": "ODbL"
       }
-    },
-    "rockPools": {
-      "value": "not stated"
     },
     "swimming": {
       "value": "Lifeguarded in season",
@@ -19509,7 +18891,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -19767,13 +19149,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -19803,7 +19179,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -20019,13 +19395,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -20055,7 +19425,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -20273,13 +19643,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -20302,7 +19666,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -20565,13 +19929,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -20613,7 +19971,7 @@
     "wikidata": "Q22004748",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -20851,13 +20209,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -20880,7 +20232,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -21092,13 +20444,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -21121,7 +20467,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "private",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -21345,22 +20691,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 40 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/806052833",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -21394,31 +20725,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/806052833",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/68338972",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/68336918",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Kynance Cove - A narrow pebbled passage between the rocks - geograph.org.uk - 8202839.jpg",
@@ -21499,6 +20808,28 @@
         "quality": null,
         "score": 66,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/806052833",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/68338972",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/68336918",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -21612,13 +20943,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -21641,7 +20966,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -21860,13 +21185,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -21889,7 +21208,7 @@
     "wikidata": "Q116873711",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -22096,13 +21415,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -22125,7 +21438,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -22332,13 +21645,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -22361,7 +21668,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -22618,22 +21925,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 250 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/146452083",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -22656,7 +21948,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -22943,22 +22235,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 150 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/59603254",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -22981,7 +22258,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -23237,13 +22514,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -23266,7 +22537,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -23489,13 +22760,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -23518,7 +22783,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -23732,13 +22997,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -23761,7 +23020,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -24073,23 +23332,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 60 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/304641319",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -24123,41 +23366,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/304641319",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.12461/-5.50361",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/148178735",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/849150675",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/7801371285",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:5885246",
@@ -24218,6 +23429,38 @@
         "quality": null,
         "score": 55,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/304641319",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.12461/-5.50361",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/148178735",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/849150675",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/7801371285",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -24369,13 +23612,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -24398,7 +23635,7 @@
     "wikidata": "Q6705328",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -24621,13 +23858,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -24650,7 +23881,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -24893,13 +24124,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -24929,7 +24154,7 @@
     "wikidata": "Q6729242",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -25156,13 +24381,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -25185,7 +24404,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -25410,13 +24629,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -25439,7 +24652,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -25715,22 +24928,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 300 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1379189903",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -25776,45 +24974,9 @@
       "reason": "On the Cornwall Council dog-restriction list; RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1379189903",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.12298/-5.47270",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/162670422",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/550378773",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/3483769704",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/marazion-beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:7720398",
@@ -25875,6 +25037,42 @@
         "quality": null,
         "score": 66,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1379189903",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.12298/-5.47270",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/162670422",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/550378773",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/3483769704",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/marazion-beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -26057,13 +25255,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -26098,7 +25290,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -26385,22 +25577,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 100 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/837076238",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -26435,7 +25612,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -26727,13 +25904,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -26756,7 +25927,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -27026,22 +26197,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 250 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/66380618",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -27064,7 +26220,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -27364,23 +26520,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 20 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/112525060",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -27414,41 +26554,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/112525060",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.08313/-5.53860",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/112525064",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/112518600",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/5037254066",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Mousehole Harbour 2024-07-30.jpg",
@@ -27530,6 +26638,38 @@
         "quality": null,
         "score": 67,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/112525060",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.08313/-5.53860",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/112525064",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/112518600",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/5037254066",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -27640,13 +26780,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -27669,7 +26803,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -27906,13 +27040,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -27947,7 +27075,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -28241,22 +27369,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 200 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/917173856",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -28279,7 +27392,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -28526,13 +27639,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -28555,7 +27662,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -28769,13 +27876,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -28798,7 +27899,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -28995,13 +28096,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -29024,7 +28119,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -29270,22 +28365,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 300 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/800350163",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -29308,7 +28388,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -29516,13 +28596,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -29545,7 +28619,7 @@
     "wikidata": "Q7162499",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -29841,22 +28915,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 10 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/161542311",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -29879,7 +28938,7 @@
     "wikidata": "Q24639065",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -30128,13 +29187,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -30157,7 +29210,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -30410,13 +29463,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -30439,7 +29486,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -30675,13 +29722,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -30704,7 +29745,7 @@
     "wikidata": "Q7165290",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -30935,13 +29976,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -30964,7 +29999,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -31191,13 +30226,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -31220,7 +30249,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -31500,22 +30529,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 70 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/56228133",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -31538,7 +30552,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -31853,22 +30867,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 200 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/2177116",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -31903,7 +30902,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -32204,22 +31203,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 70 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/2177117",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -32254,7 +31238,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -32519,13 +31503,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -32567,7 +31545,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -32796,13 +31774,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -32825,7 +31797,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -33065,22 +32037,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/59468451",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -33103,7 +32060,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -33383,13 +32340,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -33431,7 +32382,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -33684,13 +32635,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -33713,7 +32658,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -33978,22 +32923,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 40 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/59039760",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -34016,7 +32946,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -34228,13 +33158,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -34257,7 +33181,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -34475,13 +33399,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -34527,7 +33445,7 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -34803,23 +33721,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 250 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/142529940",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -34842,7 +33744,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -35116,13 +34018,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -35164,7 +34060,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -35416,13 +34312,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -35445,7 +34335,7 @@
     "wikidata": "Q31844955",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -35676,13 +34566,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -35705,7 +34589,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -35950,13 +34834,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -35991,7 +34869,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -36237,13 +35115,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -36266,7 +35138,7 @@
     "wikidata": "Q7231741",
     "wikipedia": "en:Porth Nanven",
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -36471,13 +35343,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -36500,7 +35366,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -36742,13 +35608,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -36771,7 +35631,7 @@
     "wikidata": "Q116883727",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -36986,13 +35846,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -37015,7 +35869,7 @@
     "wikidata": "Q18621240",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -37265,22 +36119,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 100 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/44535293",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -37315,7 +36154,7 @@
     "wikidata": "Q121267374",
     "wikipedia": null,
     "access": "yes",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -37567,22 +36406,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/164638846",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -37605,7 +36429,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -37889,22 +36713,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 150 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/97955671",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -37946,7 +36755,7 @@
     "wikidata": "Q31844953",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -38190,13 +36999,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -38219,7 +37022,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "permissive",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -38428,13 +37231,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -38457,7 +37254,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -38715,22 +37512,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/72857031",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -38760,7 +37542,7 @@
     "wikidata": "Q29788964",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -39075,22 +37857,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/183749876",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -39120,7 +37887,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -39394,13 +38161,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -39442,7 +38203,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -39741,13 +38502,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -39770,7 +38525,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -40089,23 +38844,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 30 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/182234673",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -40147,7 +38886,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -40454,22 +39193,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 40 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/304190684",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -40511,7 +39235,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -40773,22 +39497,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/903026640",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -40818,7 +39527,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -41094,18 +39803,6 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 30 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/880139813",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
       "value": "yes",
       "summary": "Surf school or surf shop mapped at the beach",
@@ -41123,9 +39820,6 @@
         "url": "https://www.openstreetmap.org/node/3740754938",
         "licence": "ODbL"
       }
-    },
-    "rockPools": {
-      "value": "not stated"
     },
     "swimming": {
       "value": "Lifeguarded in season",
@@ -41166,7 +39860,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -41391,13 +40085,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -41420,7 +40108,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -41649,22 +40337,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/162210379",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -41698,36 +40371,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/162210379",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.26206/-4.78508",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/117338638",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1011350011",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Slipway at Portmellon Cove - geograph.org.uk - 4457158.jpg",
@@ -41809,6 +40455,33 @@
         "quality": null,
         "score": 67,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/162210379",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.26206/-4.78508",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/117338638",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1011350011",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -41983,13 +40656,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -42031,7 +40698,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -42287,13 +40954,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -42327,31 +40988,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/997966126",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.36111/-4.31460",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/335724899",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Portwrinkle Harbour - geograph.org.uk - 2562779.jpg",
@@ -42432,6 +41071,28 @@
         "quality": null,
         "score": 65,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/997966126",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.36111/-4.31460",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/335724899",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -42611,22 +41272,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 50 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/60904403",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -42668,7 +41314,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -42923,13 +41569,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -42952,7 +41592,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -43162,13 +41802,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -43191,7 +41825,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -43447,22 +42081,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/58964869",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -43492,7 +42111,7 @@
     "wikidata": "Q7300723",
     "wikipedia": "en:Readymoney Cove",
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -43724,13 +42343,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -43753,7 +42366,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -43985,13 +42598,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -44014,7 +42621,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -44237,13 +42844,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -44266,7 +42867,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -44523,22 +43124,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1026250392",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -44561,7 +43147,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -44781,13 +43367,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -44822,7 +43402,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -45097,22 +43677,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 90 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/775984797",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -45147,7 +43712,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -45470,19 +44035,6 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 40 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/60947841",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
       "value": "yes",
       "summary": "Surf school or surf shop mapped at the beach",
@@ -45507,9 +44059,6 @@
         "url": "https://www.openstreetmap.org/node/12000721359",
         "licence": "ODbL"
       }
-    },
-    "rockPools": {
-      "value": "not stated"
     },
     "swimming": {
       "value": "Lifeguarded in season",
@@ -45550,7 +44099,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "yes",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -45815,13 +44364,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -45856,7 +44399,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -46088,13 +44631,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -46117,7 +44654,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -46315,13 +44852,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -46344,7 +44875,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -46559,13 +45090,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -46588,7 +45113,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -46789,13 +45314,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -46829,26 +45348,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/866442991",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.55095/-4.93849",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:St George's Cove - geograph.org.uk - 7032925.jpg",
@@ -46929,6 +45431,23 @@
         "quality": null,
         "score": 65,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/866442991",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.55095/-4.93849",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -47037,13 +45556,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -47066,7 +45579,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -47263,13 +45776,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -47292,7 +45799,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -47594,23 +46101,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 60 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/176873822",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -47652,7 +46143,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -47961,13 +46452,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -48001,41 +46486,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1521269265",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.15730/-5.01834",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/221659546",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/613987696",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/4567210838",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Summers Beach (9547078955).jpg",
@@ -48116,6 +46569,38 @@
         "quality": null,
         "score": 27,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1521269265",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.15730/-5.01834",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/221659546",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/613987696",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/4567210838",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -48286,22 +46771,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 30 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/54200382",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -48331,7 +46801,7 @@
     "wikidata": "Q31844954",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -48617,13 +47087,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -48646,7 +47110,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -48908,22 +47372,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/169472721",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -48957,36 +47406,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/169472721",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.18022/-4.97397",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1056518019",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/4179555515",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Portscatho Harbour - geograph.org.uk - 2562573.jpg",
@@ -49067,6 +47489,33 @@
         "quality": null,
         "score": 16,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/169472721",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.18022/-4.97397",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1056518019",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/4179555515",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -49208,13 +47657,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -49237,7 +47680,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -49531,13 +47974,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -49560,7 +47997,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -49844,22 +48281,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 60 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/188659846",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -49894,7 +48316,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -50183,13 +48605,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -50212,7 +48628,7 @@
     "wikidata": "Q18648023",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -50525,23 +48941,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 10 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/relation/1015399",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -50576,7 +48976,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -50833,13 +49233,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -50862,7 +49256,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "customers",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -51119,9 +49513,6 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
       "value": "yes",
       "summary": "Surf school or surf shop mapped about 300 m away",
@@ -51139,9 +49530,6 @@
         "url": "https://www.openstreetmap.org/node/6584146881",
         "licence": "ODbL"
       }
-    },
-    "rockPools": {
-      "value": "not stated"
     },
     "swimming": {
       "value": "Lifeguarded in season",
@@ -51179,45 +49567,9 @@
       "reason": "RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/316315372",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.64300/-4.76434",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/771738166",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/771738165",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/6584146881",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Trebarwith-Strand-Beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Stream on the beach, Trebarwith Strand - geograph.org.uk - 5722562.jpg",
@@ -51298,6 +49650,42 @@
         "quality": null,
         "score": 62,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/316315372",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.64300/-4.76434",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/771738166",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/771738165",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/6584146881",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Bude-Trebarwith-Strand-Beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -51413,13 +49801,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -51442,7 +49824,7 @@
     "wikidata": "Q7837701",
     "wikipedia": "en:Treen Cove",
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -51641,13 +50023,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -51686,30 +50062,9 @@
       "reason": "RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1200952703",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.35514/-4.27782",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Whitsand-Bay-Tregantle-Beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:2286622",
@@ -51790,6 +50145,27 @@
         "quality": null,
         "score": 34,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1200952703",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.35514/-4.27782",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Whitsand-Bay-Tregantle-Beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -51898,13 +50274,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -51927,7 +50297,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -52185,13 +50555,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -52230,40 +50594,9 @@
       "reason": "RNLI lifeguarded beach",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/225175786",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.34034/-4.24244",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/998195556",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/972677023",
-        "licence": "ODbL"
-      },
-      {
-        "label": "RNLI open data – Lifeguard Units",
-        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Whitsand-Bay-Tregonhawke-Beach"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:5183949",
@@ -52324,6 +50657,37 @@
         "quality": null,
         "score": 46,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/225175786",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.34034/-4.24244",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/998195556",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/972677023",
+        "licence": "ODbL"
+      },
+      {
+        "label": "RNLI open data – Lifeguard Units",
+        "url": "https://rnli.org/find-my-nearest/lifeguarded-beaches/Whitsand-Bay-Tregonhawke-Beach"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -52439,13 +50803,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -52468,7 +50826,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -52714,23 +51072,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 150 m away.",
-        "A slipway is mapped at the beach."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/163502186",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -52765,7 +51107,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -53009,13 +51351,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -53057,7 +51393,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": "yes",
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -53339,22 +51675,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 30 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/44535294",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -53389,7 +51710,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -53682,13 +52003,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -53722,41 +52037,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/471365539",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.14780/-5.05685",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1539807838",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/11034908123",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/4862493923",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "File:Falmouth , Castle Beach ^ Coastline - geograph.org.uk - 4591567.jpg",
@@ -53837,6 +52120,38 @@
         "quality": null,
         "score": 26,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/471365539",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.14780/-5.05685",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1539807838",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/11034908123",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/4862493923",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -53966,13 +52281,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -53995,7 +52304,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -54218,13 +52527,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -54247,7 +52550,7 @@
     "wikidata": "Q7920693",
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -54460,13 +52763,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -54489,7 +52786,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -54673,13 +52970,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -54702,7 +52993,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -54906,13 +53197,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -54935,7 +53220,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -55176,13 +53461,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -55205,7 +53484,7 @@
     "wikidata": "Q7974111",
     "wikipedia": "en:Watergate Beach",
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -55400,13 +53679,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -55429,7 +53702,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -55733,22 +54006,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 200 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1009579600",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -55782,41 +54040,9 @@
       "reason": "On the Cornwall Council dog-restriction list",
       "note": "Name added by hand; location and tags from the linked OpenStreetMap feature."
     },
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
-    "sources": [
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/1009579600",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap coastline",
-        "url": "https://www.openstreetmap.org/#map=16/50.11020/-5.54468",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/734284548",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/682369528",
-        "licence": "ODbL"
-      },
-      {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/node/12539388896",
-        "licence": "ODbL"
-      },
-      {
-        "label": "Cornwall Council – Dogs on beaches (PSPO)",
-        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
-        "pageLastUpdated": "23/10/2026"
-      }
-    ],
     "images": [
       {
         "file": "geograph:7866598",
@@ -55877,6 +54103,38 @@
         "quality": null,
         "score": 64,
         "retrieved": "2026-11-01"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1009579600",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap coastline",
+        "url": "https://www.openstreetmap.org/#map=16/50.11020/-5.54468",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/734284548",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/682369528",
+        "licence": "ODbL"
+      },
+      {
+        "label": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/12539388896",
+        "licence": "ODbL"
+      },
+      {
+        "label": "Cornwall Council – Dogs on beaches (PSPO)",
+        "url": "https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/",
+        "pageLastUpdated": "23/10/2026"
       }
     ],
     "nearbyBeaches": [
@@ -55999,13 +54257,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -56028,7 +54280,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -56313,22 +54565,7 @@
         "licence": "ODbL"
       }
     },
-    "accessibility": {
-      "value": "partial info",
-      "wheelchairTag": null,
-      "notes": [
-        "Wheelchair-accessible toilets mapped about 50 m away."
-      ],
-      "source": {
-        "label": "OpenStreetMap",
-        "url": "https://www.openstreetmap.org/way/174303166",
-        "licence": "ODbL"
-      }
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -56370,7 +54607,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -56578,13 +54815,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -56607,7 +54838,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [
@@ -56811,13 +55042,7 @@
     "cafeNearby": {
       "value": "not stated"
     },
-    "accessibility": {
-      "value": "not stated"
-    },
     "surf": {
-      "value": "not stated"
-    },
-    "rockPools": {
       "value": "not stated"
     },
     "swimming": {
@@ -56840,7 +55065,7 @@
     "wikidata": null,
     "wikipedia": null,
     "access": null,
-    "lastChecked": "2026-11-01",
+    "lastChecked": "2026-11-02",
     "ourNotes": "",
     "weVisited": false,
     "images": [

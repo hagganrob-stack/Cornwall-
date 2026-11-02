@@ -21,7 +21,7 @@ for (const r of regions) {
 const n = beaches.length;
 lines.push(`| **Total** | ${towns.length} | ${n} | ${beaches.filter((x) => x.dogs.councilListed).length} | ${beaches.filter((x) => x.lifeguards.value.startsWith('RNLI')).length} | ${beaches.filter((x) => x.images?.length).length} |`, '');
 
-const fields = ['surface', 'size', 'facing', 'parking', 'toilets', 'cafeNearby', 'accessibility', 'surf', 'rockPools', 'swimming', 'lifeguards'];
+const fields = ['surface', 'size', 'facing', 'parking', 'toilets', 'cafeNearby', 'surf', 'swimming', 'lifeguards'];
 lines.push('## Field coverage (beaches)', '', '| Field | Has a sourced value |', '|---|---:|');
 lines.push(`| Dog rules (Council-listed restriction) | ${pct(beaches.filter((x) => x.dogs.councilListed).length, n)} |`);
 lines.push(`| Dog status stated (Council list checked: restricted or not listed) | ${pct(beaches.filter((x) => x.dogs.source).length, n)} |`);

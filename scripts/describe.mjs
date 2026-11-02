@@ -70,7 +70,6 @@ function beachGuide(b) {
     suits.push('dog owners outside the restricted dates and hours');
     basis.push('Council seasonal restriction');
   }
-  if (known(b.rockPools)) suits.push('rock-poolers at low tide');
   if (b.size.value === 'small' && !known(b.parking)) {
     suits.push('people happy to walk in to a smaller beach');
     basis.push('small mapped outline, no car park mapped within 400 m');

@@ -189,32 +189,11 @@ function cafeFact(b) {
   return { value: 'yes', summary: `${list.length} café${list.length > 1 ? 's' : ''} or kiosk${list.length > 1 ? 's' : ''} mapped within 300 m`, places: places(list), source: { label: 'OpenStreetMap', url: places(list)[0].osm, licence: 'ODbL' } };
 }
 
-function accessibilityFact(b) {
-  const wc = tagOf(b, 'wheelchair');
-  const toiletsWc = nearby(b, (t) => t.amenity === 'toilets' && t.wheelchair === 'yes', 300);
-  const slip = nearby(b, (t) => t.leisure === 'slipway', 150);
-  const notes = [];
-  if (wc === 'yes') notes.push('The beach is tagged as wheelchair accessible in OpenStreetMap.');
-  if (wc === 'limited') notes.push('The beach is tagged as having limited wheelchair access in OpenStreetMap.');
-  if (wc === 'no') notes.push('The beach is tagged as not wheelchair accessible in OpenStreetMap.');
-  if (toiletsWc.length) notes.push(`Wheelchair-accessible toilets mapped about ${roundM(toiletsWc[0].d)} away.`);
-  if (slip.length) notes.push('A slipway is mapped at the beach.');
-  if (!notes.length) return { value: NOT_STATED };
-  const value = wc === 'yes' ? 'yes' : wc === 'limited' ? 'limited' : wc === 'no' ? 'no' : 'partial info';
-  return { value, wheelchairTag: wc || null, notes, source: OSM_SOURCE(b.parts[0]) };
-}
-
 function surfFact(b) {
   if (/surfing/.test(tagOf(b, 'sport') || '')) return { value: 'yes', summary: 'Tagged as a surfing beach in OpenStreetMap', source: OSM_SOURCE(b.parts[0]) };
   const list = nearby(b, (t) => t.sport === 'surfing' || t.shop === 'surf', 300);
   if (!list.length) return { value: NOT_STATED };
   return { value: 'yes', summary: `Surf school or surf shop mapped ${list[0].d < 60 ? 'at the beach' : `about ${roundM(list[0].d)} away`}`, places: places(list), source: { label: 'OpenStreetMap', url: places(list)[0].osm, licence: 'ODbL' } };
-}
-
-function rockPoolsFact(b) {
-  const tag = tagOf(b, 'rock_pools') || tagOf(b, 'rockpools');
-  if (tag === 'yes') return { value: 'yes', source: OSM_SOURCE(b.parts[0]) };
-  return { value: NOT_STATED };
 }
 
 function lifeguardFact(b) {
@@ -316,9 +295,7 @@ const beaches = merged.map((b) => {
     parking: parkingFact(b),
     toilets: toiletsFact(b),
     cafeNearby: cafeFact(b),
-    accessibility: accessibilityFact(b),
     surf: surfFact(b),
-    rockPools: rockPoolsFact(b),
     swimming: { value: NOT_STATED },
     lifeguards: lifeguardFact(b),
     dogs: dogFact(b),

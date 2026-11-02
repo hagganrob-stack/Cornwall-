@@ -1,6 +1,6 @@
 # Step 1 data report
 
-Generated 2026-11-01.
+Generated 2026-11-02.
 
 | Region | Towns | Beaches | Council dog rule | RNLI lifeguards | Photo |
 |---|---:|---:|---:|---:|---:|
@@ -23,9 +23,7 @@ Generated 2026-11-01.
 | parking | 66% |
 | toilets | 48% |
 | cafeNearby | 40% |
-| accessibility | 32% |
 | surf | 3% |
-| rockPools | 0% |
 | swimming | 27% |
 | lifeguards | 27% |
 | Photo (openly licensed) | 100% |
