@@ -213,7 +213,7 @@
         "km": 24.9
       }
     ],
-    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. 14 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km).",
+    "description": "Bude is a town in North Coast. There are 17 named beaches within 5 km, the closest being Summerleaze Beach (400 m). 6 of them have RNLI lifeguard cover in season. 14 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. There are 23 places to eat and drink within 3 km. The nearest other bases are Widemouth Bay (4.1 km) and Crackington Haven (11.5 km).",
     "attractionsNearby": [
       {
         "slug": "the-castle-bude",
@@ -239,6 +239,123 @@
         "slug": "penhallam-manor",
         "name": "Penhallam Manor",
         "km": 9.1
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "olive-tree",
+        "name": "Olive Tree",
+        "km": 0.1
+      },
+      {
+        "slug": "tellers-on-the-shute",
+        "name": "Tellers on the Shute",
+        "km": 0.2
+      },
+      {
+        "slug": "temple-restaurant-terrace-bar",
+        "name": "Temple Restaurant + Terrace Bar",
+        "km": 0.2
+      },
+      {
+        "slug": "the-brendon-arms",
+        "name": "The Brendon Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "the-carriers-inn",
+        "name": "The Carriers Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-coachmans-bar-and-grill",
+        "name": "The Coachman's Bar & Grill",
+        "km": 0.2
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 0.3
+      },
+      {
+        "slug": "bencoolen-inn",
+        "name": "Bencoolen Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "the-barrel-at-bude",
+        "name": "The Barrel at Bude",
+        "km": 0.3
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.4
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 0.4
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "the-bank-at-bude-tapas-restaurant",
+        "name": "The Bank at Bude Tapas Restaurant",
+        "km": 0.6
+      },
+      {
+        "slug": "l-st-hour",
+        "name": "Løst Hour",
+        "km": 0.7
+      },
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.9
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.9
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.9
+      },
+      {
+        "slug": "howl-brewery",
+        "name": "Howl Brewery",
+        "km": 1.4
+      },
+      {
+        "slug": "the-preston-gate-inn",
+        "name": "The Preston Gate Inn",
+        "km": 2.2
+      },
+      {
+        "slug": "the-kings-arms-kilkhampton",
+        "name": "THE KINGS ARMs kilkhampton",
+        "km": 2.3
+      },
+      {
+        "slug": "the-tree-inn",
+        "name": "The Tree Inn",
+        "km": 2.3
+      },
+      {
+        "slug": "the-weir-bistro",
+        "name": "The Weir Bistro",
+        "km": 2.7
       }
     ]
   },
@@ -396,7 +513,7 @@
         "km": 21
       }
     ],
-    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km).",
+    "description": "Widemouth Bay is a village in North Coast. There are 5 named beaches within 5 km, the closest being Widemouth Sands (400 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, one with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Bude (4.1 km) and Crackington Haven (8.0 km).",
     "attractionsNearby": [
       {
         "slug": "saint-winwaloe-church-and-poundstock-gildhouse",
@@ -422,6 +539,23 @@
         "slug": "penhallam-manor",
         "name": "Penhallam Manor",
         "km": 5.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "bay-view-inn",
+        "name": "Bay View Inn",
+        "km": 0.5
+      },
+      {
+        "slug": "the-weir-bistro",
+        "name": "The Weir Bistro",
+        "km": 1.9
+      },
+      {
+        "slug": "bullers-arms-widemouth-bay",
+        "name": "Bullers Arms",
+        "km": 2.8
       }
     ]
   },
@@ -559,7 +693,7 @@
         "km": 13.7
       }
     ],
-    "description": "Crackington Haven is a village in North Coast. There is 1 named beach within 5 km, the closest being Crackington Haven (400 m). 1 of them has RNLI lifeguard cover in season. 7 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Boscastle (7.1 km) and Widemouth Bay (8.0 km).",
+    "description": "Crackington Haven is a village in North Coast. There is 1 named beach within 5 km, the closest being Crackington Haven (400 m). 1 of them has RNLI lifeguard cover in season. 7 attractions are listed within 10 km, one with indoor space for a rainy day. There are 4 places to eat and drink within 3 km. The nearest other bases are Boscastle (7.1 km) and Widemouth Bay (8.0 km).",
     "attractionsNearby": [
       {
         "slug": "pentargon-waterfall",
@@ -595,6 +729,28 @@
         "slug": "ladies-window",
         "name": "Ladies Window",
         "km": 9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-cabin-cafe",
+        "name": "The Cabin Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "the-coombe-barton-inn",
+        "name": "The Coombe Barton Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-haven-beach-shop-and-cafe",
+        "name": "The Haven Beach Shop & Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "trevigue",
+        "name": "Trevigue",
+        "km": 1.7
       }
     ]
   },
@@ -737,7 +893,7 @@
         "km": 15
       }
     ],
-    "description": "Boscastle is a village in North Coast. There are 2 named beaches within 5 km, the closest being Benoath Cove (3.6 km). 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Tintagel (5.1 km) and Crackington Haven (7.1 km).",
+    "description": "Boscastle is a village in North Coast. There are 2 named beaches within 5 km, the closest being Benoath Cove (3.6 km). 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 6 places to eat and drink within 3 km. The nearest other bases are Tintagel (5.1 km) and Crackington Haven (7.1 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-boscastle",
@@ -803,6 +959,38 @@
         "slug": "raf-davidstow-moor-memorial-museum",
         "name": "RAF Davidstow Moor Memorial Museum",
         "km": 6.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-riverside",
+        "name": "The Riverside",
+        "km": 0
+      },
+      {
+        "slug": "the-cobweb-inn",
+        "name": "The Cobweb Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-long-bar-and-restaurant",
+        "name": "The Long Bar & Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "the-rocket-store",
+        "name": "The Rocket Store",
+        "km": 0.1
+      },
+      {
+        "slug": "the-wellington",
+        "name": "The Wellington",
+        "km": 0.1
+      },
+      {
+        "slug": "napoleon-inn",
+        "name": "Napoleon Inn",
+        "km": 0.6
       }
     ]
   },
@@ -935,7 +1123,7 @@
         "km": 15.3
       }
     ],
-    "description": "Tintagel is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Bossiney haven (1.3 km). 1 of them has RNLI lifeguard cover in season. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Boscastle (5.1 km) and Camelford (7.0 km).",
+    "description": "Tintagel is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Bossiney haven (1.3 km). 1 of them has RNLI lifeguard cover in season. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 14 places to eat and drink within 3 km. The nearest other bases are Boscastle (5.1 km) and Camelford (7.0 km).",
     "attractionsNearby": [
       {
         "slug": "tintagel-toy-museum",
@@ -1001,6 +1189,78 @@
         "slug": "raf-davidstow-moor-memorial-museum",
         "name": "RAF Davidstow Moor Memorial Museum",
         "km": 8.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-olde-malthouse",
+        "name": "The Olde Malthouse",
+        "km": 0
+      },
+      {
+        "slug": "crossbow-cafe-and-grill",
+        "name": "Crossbow cafe & grill",
+        "km": 0.1
+      },
+      {
+        "slug": "king-arthurs-arms-tintagel",
+        "name": "King Arthur's Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "king-arthurs-arms-tintagel",
+        "name": "King Arthur's Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "king-arthurs-cafe",
+        "name": "King Arthur's Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "the-cornishman-inn",
+        "name": "The Cornishman Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "charlies",
+        "name": "Charlie's",
+        "km": 0.2
+      },
+      {
+        "slug": "tintagel-hotel",
+        "name": "Tintagel Hotel",
+        "km": 0.2
+      },
+      {
+        "slug": "vega",
+        "name": "Vega",
+        "km": 0.3
+      },
+      {
+        "slug": "irinas-restaurant-at-camelot-castle",
+        "name": "Irina's Restaurant at Camelot Castle",
+        "km": 0.5
+      },
+      {
+        "slug": "the-millhouse-inn",
+        "name": "The Millhouse Inn",
+        "km": 2.1
+      },
+      {
+        "slug": "the-strand-cafe",
+        "name": "The Strand Cafe",
+        "km": 2.2
+      },
+      {
+        "slug": "port-william-inn",
+        "name": "Port william inn",
+        "km": 2.3
+      },
+      {
+        "slug": "port-william-trebarwith-strand",
+        "name": "Port William, Trebarwith Strand",
+        "km": 2.3
       }
     ]
   },
@@ -1138,7 +1398,7 @@
         "km": 9.6
       }
     ],
-    "description": "Port Isaac is a village in North Coast. There is 1 named beach within 5 km, the closest being Port Gaverne Beach (500 m). 7 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Polzeath (6.4 km) and Rock (8.0 km).",
+    "description": "Port Isaac is a village in North Coast. There is 1 named beach within 5 km, the closest being Port Gaverne Beach (500 m). 7 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 12 places to eat and drink within 3 km. The nearest other bases are Polzeath (6.4 km) and Rock (8.0 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-tintagel-old-post-office",
@@ -1174,6 +1434,68 @@
         "slug": "merlins-cave",
         "name": "Merlin's Cave",
         "km": 9.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "fresh-from-the-sea",
+        "name": "Fresh From The Sea",
+        "km": 0
+      },
+      {
+        "slug": "all-aboard",
+        "name": "All Aboard",
+        "km": 0.1
+      },
+      {
+        "slug": "outlaws-guest-house-and-bistro",
+        "name": "Outlaw's Guest House & Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "outlaws-fish-kitchen",
+        "name": "Outlaw's Fish Kitchen",
+        "km": 0.2
+      },
+      {
+        "slug": "the-golden-lion-port-isaac",
+        "name": "The Golden Lion",
+        "km": 0.2
+      },
+      {
+        "slug": "the-mote",
+        "name": "The Mote",
+        "km": 0.2
+      },
+      {
+        "slug": "the-view-port-isaac",
+        "name": "The VIEW Port Isaac",
+        "km": 0.2
+      },
+      {
+        "slug": "the-chapel-port-isaac",
+        "name": "The Chapel, Port Isaac",
+        "km": 0.3
+      },
+      {
+        "slug": "the-slipway-port-isaac",
+        "name": "The Slipway, Port Isaac",
+        "km": 0.3
+      },
+      {
+        "slug": "pilchards-at-port-gaverne",
+        "name": "Pilchards at Port Gaverne",
+        "km": 0.5
+      },
+      {
+        "slug": "port-gaverne",
+        "name": "Port Gaverne",
+        "km": 0.6
+      },
+      {
+        "slug": "port-gaverne-hotel",
+        "name": "Port Gaverne Hotel",
+        "km": 0.6
       }
     ]
   },
@@ -1331,7 +1653,7 @@
         "km": 7
       }
     ],
-    "description": "Polzeath is a village in North Coast. There are 9 named beaches within 5 km, the closest being Hayle Bay (600 m). 1 of them has RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Rock (3.1 km) and Padstow (3.9 km).",
+    "description": "Polzeath is a village in North Coast. There are 9 named beaches within 5 km, the closest being Hayle Bay (600 m). 1 of them has RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 8 places to eat and drink within 3 km. The nearest other bases are Rock (3.1 km) and Padstow (3.9 km).",
     "attractionsNearby": [
       {
         "slug": "the-jubilee-queen",
@@ -1357,6 +1679,48 @@
         "slug": "camel-creek-family-adventure-park",
         "name": "Camel Creek Family Adventure Park",
         "km": 9.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 0
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 0.2
+      },
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 0.8
+      },
+      {
+        "slug": "the-pityme-inn",
+        "name": "The Pityme Inn",
+        "km": 2.6
+      },
+      {
+        "slug": "bluntrock-brewery-and-taproom",
+        "name": "Bluntrock Brewery & Taproom",
+        "km": 2.8
+      },
+      {
+        "slug": "st-enodoc-by-paul-ainsworth",
+        "name": "St Enodoc by Paul Ainsworth",
+        "km": 3
+      },
+      {
+        "slug": "the-dining-room-restaurant",
+        "name": "The Dining Room restaurant",
+        "km": 3
       }
     ]
   },
@@ -1539,7 +1903,7 @@
         "km": 6.3
       }
     ],
-    "description": "Rock is a village in North Coast. There are 10 named beaches within 5 km, the closest being Brea Beach (1.2 km). 2 of them have RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km).",
+    "description": "Rock is a village in North Coast. There are 10 named beaches within 5 km, the closest being Brea Beach (1.2 km). 2 of them have RNLI lifeguard cover in season. 7 aren’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 24 places to eat and drink within 3 km. The nearest other bases are Padstow (1.8 km) and Polzeath (3.1 km).",
     "attractionsNearby": [
       {
         "slug": "national-lobster-hatchery",
@@ -1575,6 +1939,128 @@
         "slug": "cornish-birds-of-prey",
         "name": "Cornish Birds Of Prey",
         "km": 9.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "st-enodoc-by-paul-ainsworth",
+        "name": "St Enodoc by Paul Ainsworth",
+        "km": 0.3
+      },
+      {
+        "slug": "the-dining-room-restaurant",
+        "name": "The Dining Room restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "the-mariners-public-house-in-rock",
+        "name": "The Mariners Public House in Rock",
+        "km": 0.5
+      },
+      {
+        "slug": "four-boys",
+        "name": "Four Boys",
+        "km": 0.9
+      },
+      {
+        "slug": "the-upper-deck",
+        "name": "The Upper Deck",
+        "km": 0.9
+      },
+      {
+        "slug": "the-pityme-inn",
+        "name": "The Pityme Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "bluntrock-brewery-and-taproom",
+        "name": "Bluntrock Brewery & Taproom",
+        "km": 1.7
+      },
+      {
+        "slug": "shipwrights-padstow",
+        "name": "Shipwrights, Padstow",
+        "km": 1.8
+      },
+      {
+        "slug": "the-seafood-restaurant",
+        "name": "The Seafood Restaurant",
+        "km": 1.8
+      },
+      {
+        "slug": "caffe-rojano-by-paul-ainsworth",
+        "name": "Caffè Rojano by Paul Ainsworth",
+        "km": 1.9
+      },
+      {
+        "slug": "old-custom-house-padstow",
+        "name": "Old Custom House, Padstow",
+        "km": 1.9
+      },
+      {
+        "slug": "pucellis-restaurant",
+        "name": "Pucelli's Restaurant",
+        "km": 1.9
+      },
+      {
+        "slug": "pw1-bar",
+        "name": "Pw1 bar",
+        "km": 1.9
+      },
+      {
+        "slug": "st-petrocs-bistro",
+        "name": "St Petroc's Bistro",
+        "km": 1.9
+      },
+      {
+        "slug": "the-harbour-inn",
+        "name": "The Harbour Inn",
+        "km": 1.9
+      },
+      {
+        "slug": "the-padstow-stable",
+        "name": "The Padstow Stable",
+        "km": 1.9
+      },
+      {
+        "slug": "17-duke-street",
+        "name": "17 Duke Street",
+        "km": 2
+      },
+      {
+        "slug": "padstow-tap-room-on-broad-street",
+        "name": "Padstow Tap Room on Broad Street",
+        "km": 2
+      },
+      {
+        "slug": "paul-ainsworth-at-no6",
+        "name": "Paul Ainsworth at No6",
+        "km": 2
+      },
+      {
+        "slug": "prawn-on-the-lawn",
+        "name": "Prawn on the Lawn",
+        "km": 2
+      },
+      {
+        "slug": "sabzi",
+        "name": "Sabzi",
+        "km": 2
+      },
+      {
+        "slug": "the-golden-lion-padstow",
+        "name": "The Golden Lion",
+        "km": 2
+      },
+      {
+        "slug": "the-london-inn",
+        "name": "The London Inn",
+        "km": 2
+      },
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 2.4
       }
     ]
   },
@@ -1706,7 +2192,7 @@
         "km": 9.3
       }
     ],
-    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km).",
+    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 21 places to eat and drink within 3 km. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km).",
     "attractionsNearby": [
       {
         "slug": "pencarrow-house-and-garden",
@@ -1757,6 +2243,113 @@
         "slug": "bodmin-town-museum",
         "name": "Bodmin Town Museum",
         "km": 9.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "duchy-larder",
+        "name": "Duchy Larder",
+        "km": 0.1
+      },
+      {
+        "slug": "bellinis",
+        "name": "Bellini's",
+        "km": 0.2
+      },
+      {
+        "slug": "harrys-wadebridge",
+        "name": "Harry’s Wadebridge",
+        "km": 0.2
+      },
+      {
+        "slug": "plonkd",
+        "name": "Plonk'd",
+        "km": 0.2
+      },
+      {
+        "slug": "stepping-stone",
+        "name": "Stepping Stone",
+        "km": 0.2
+      },
+      {
+        "slug": "swan-hotel",
+        "name": "Swan Hotel",
+        "km": 0.2
+      },
+      {
+        "slug": "the-bridge-on-wool",
+        "name": "The Bridge On Wool",
+        "km": 0.2
+      },
+      {
+        "slug": "the-ship-inn-wadebridge",
+        "name": "The Ship Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "churchill-bars",
+        "name": "Churchill Bars",
+        "km": 0.3
+      },
+      {
+        "slug": "maison-ca-phe",
+        "name": "Maison Cà Phê",
+        "km": 0.3
+      },
+      {
+        "slug": "molesworth-arms",
+        "name": "Molesworth Arms",
+        "km": 0.3
+      },
+      {
+        "slug": "molesworth-arms-hotel",
+        "name": "Molesworth Arms Hotel",
+        "km": 0.3
+      },
+      {
+        "slug": "the-granary-restaurant",
+        "name": "The Granary Restaurant",
+        "km": 0.3
+      },
+      {
+        "slug": "hellfire-cantina",
+        "name": "Hellfire Cantina",
+        "km": 0.4
+      },
+      {
+        "slug": "saltbox",
+        "name": "Saltbox",
+        "km": 0.4
+      },
+      {
+        "slug": "the-earl-of-st-vincent-wadebridge",
+        "name": "The Earl of St Vincent Wadebridge",
+        "km": 1
+      },
+      {
+        "slug": "anas-kusina",
+        "name": "Ana's Kusina",
+        "km": 1.3
+      },
+      {
+        "slug": "pearl-and-trawl",
+        "name": "Pearl & Trawl",
+        "km": 1.6
+      },
+      {
+        "slug": "nice-baps",
+        "name": "Nice Baps",
+        "km": 1.8
+      },
+      {
+        "slug": "none",
+        "name": "None",
+        "km": 2.2
+      },
+      {
+        "slug": "the-quarryman-inn",
+        "name": "The Quarryman Inn",
+        "km": 2.7
       }
     ]
   },
@@ -1944,7 +2537,7 @@
         "km": 5.4
       }
     ],
-    "description": "Padstow is a visitor base in North Coast. There are 11 named beaches within 5 km, the closest being St George's Cove (1.2 km). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km).",
+    "description": "Padstow is a visitor base in North Coast. There are 11 named beaches within 5 km, the closest being St George's Cove (1.2 km). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 23 places to eat and drink within 3 km. The nearest other bases are Rock (1.8 km) and Trevone (2.7 km).",
     "attractionsNearby": [
       {
         "slug": "the-ghost-walk-padstow",
@@ -1985,6 +2578,123 @@
         "slug": "national-trust-carnewas-at-bedruthan",
         "name": "National Trust - Carnewas at Bedruthan",
         "km": 9.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-seafood-restaurant",
+        "name": "The Seafood Restaurant",
+        "km": 0
+      },
+      {
+        "slug": "old-custom-house-padstow",
+        "name": "Old Custom House, Padstow",
+        "km": 0.1
+      },
+      {
+        "slug": "pw1-bar",
+        "name": "Pw1 bar",
+        "km": 0.1
+      },
+      {
+        "slug": "st-petrocs-bistro",
+        "name": "St Petroc's Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "the-harbour-inn",
+        "name": "The Harbour Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "17-duke-street",
+        "name": "17 Duke Street",
+        "km": 0.2
+      },
+      {
+        "slug": "caffe-rojano-by-paul-ainsworth",
+        "name": "Caffè Rojano by Paul Ainsworth",
+        "km": 0.2
+      },
+      {
+        "slug": "padstow-tap-room-on-broad-street",
+        "name": "Padstow Tap Room on Broad Street",
+        "km": 0.2
+      },
+      {
+        "slug": "paul-ainsworth-at-no6",
+        "name": "Paul Ainsworth at No6",
+        "km": 0.2
+      },
+      {
+        "slug": "prawn-on-the-lawn",
+        "name": "Prawn on the Lawn",
+        "km": 0.2
+      },
+      {
+        "slug": "pucellis-restaurant",
+        "name": "Pucelli's Restaurant",
+        "km": 0.2
+      },
+      {
+        "slug": "sabzi",
+        "name": "Sabzi",
+        "km": 0.2
+      },
+      {
+        "slug": "shipwrights-padstow",
+        "name": "Shipwrights, Padstow",
+        "km": 0.2
+      },
+      {
+        "slug": "the-golden-lion-padstow",
+        "name": "The Golden Lion",
+        "km": 0.2
+      },
+      {
+        "slug": "the-london-inn",
+        "name": "The London Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-padstow-stable",
+        "name": "The Padstow Stable",
+        "km": 0.2
+      },
+      {
+        "slug": "four-boys",
+        "name": "Four Boys",
+        "km": 1
+      },
+      {
+        "slug": "the-upper-deck",
+        "name": "The Upper Deck",
+        "km": 1
+      },
+      {
+        "slug": "the-mariners-public-house-in-rock",
+        "name": "The Mariners Public House in Rock",
+        "km": 1.3
+      },
+      {
+        "slug": "st-enodoc-by-paul-ainsworth",
+        "name": "St Enodoc by Paul Ainsworth",
+        "km": 1.6
+      },
+      {
+        "slug": "craftworks-secret-garden",
+        "name": "Craftworks Secret Garden",
+        "km": 1.7
+      },
+      {
+        "slug": "the-dining-room-restaurant",
+        "name": "The Dining Room restaurant",
+        "km": 2.2
+      },
+      {
+        "slug": "the-pickwick-inn-and-olivers-restaurant",
+        "name": "The Pickwick Inn & Oliver's Restaurant",
+        "km": 2.7
       }
     ]
   },
@@ -2187,7 +2897,7 @@
         "km": 4.9
       }
     ],
-    "description": "Trevone is a village in North Coast. There are 14 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. 9 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km).",
+    "description": "Trevone is a village in North Coast. There are 14 named beaches within 5 km, the closest being Trevone Beach (600 m). 5 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. 9 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 23 places to eat and drink within 3 km. The nearest other bases are Harlyn (1.6 km) and Padstow (2.7 km).",
     "attractionsNearby": [
       {
         "slug": "the-ghost-walk-padstow",
@@ -2233,6 +2943,123 @@
         "slug": "cornish-birds-of-prey",
         "name": "Cornish Birds Of Prey",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "ivy-house-restaurant-padstow",
+        "name": "Ivy House Restaurant Padstow",
+        "km": 1.4
+      },
+      {
+        "slug": "the-cornish-arms-harlyn",
+        "name": "The Cornish Arms",
+        "km": 1.5
+      },
+      {
+        "slug": "the-harlyn",
+        "name": "The Harlyn",
+        "km": 1.5
+      },
+      {
+        "slug": "farmers-arms-inn",
+        "name": "Farmers Arms Inn",
+        "km": 2.1
+      },
+      {
+        "slug": "the-doghouse",
+        "name": "The Doghouse",
+        "km": 2.1
+      },
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 2.2
+      },
+      {
+        "slug": "craftworks-secret-garden",
+        "name": "Craftworks Secret Garden",
+        "km": 2.4
+      },
+      {
+        "slug": "17-duke-street",
+        "name": "17 Duke Street",
+        "km": 2.5
+      },
+      {
+        "slug": "caffe-rojano-by-paul-ainsworth",
+        "name": "Caffè Rojano by Paul Ainsworth",
+        "km": 2.5
+      },
+      {
+        "slug": "padstow-tap-room-on-broad-street",
+        "name": "Padstow Tap Room on Broad Street",
+        "km": 2.5
+      },
+      {
+        "slug": "paul-ainsworth-at-no6",
+        "name": "Paul Ainsworth at No6",
+        "km": 2.5
+      },
+      {
+        "slug": "prawn-on-the-lawn",
+        "name": "Prawn on the Lawn",
+        "km": 2.5
+      },
+      {
+        "slug": "sabzi",
+        "name": "Sabzi",
+        "km": 2.5
+      },
+      {
+        "slug": "the-golden-lion-padstow",
+        "name": "The Golden Lion",
+        "km": 2.5
+      },
+      {
+        "slug": "the-london-inn",
+        "name": "The London Inn",
+        "km": 2.5
+      },
+      {
+        "slug": "old-custom-house-padstow",
+        "name": "Old Custom House, Padstow",
+        "km": 2.6
+      },
+      {
+        "slug": "pucellis-restaurant",
+        "name": "Pucelli's Restaurant",
+        "km": 2.6
+      },
+      {
+        "slug": "pw1-bar",
+        "name": "Pw1 bar",
+        "km": 2.6
+      },
+      {
+        "slug": "shipwrights-padstow",
+        "name": "Shipwrights, Padstow",
+        "km": 2.6
+      },
+      {
+        "slug": "st-petrocs-bistro",
+        "name": "St Petroc's Bistro",
+        "km": 2.6
+      },
+      {
+        "slug": "the-harbour-inn",
+        "name": "The Harbour Inn",
+        "km": 2.6
+      },
+      {
+        "slug": "the-padstow-stable",
+        "name": "The Padstow Stable",
+        "km": 2.6
+      },
+      {
+        "slug": "the-seafood-restaurant",
+        "name": "The Seafood Restaurant",
+        "km": 2.7
       }
     ]
   },
@@ -2420,7 +3247,7 @@
         "km": 6.1
       }
     ],
-    "description": "Harlyn is a village in North Coast. There are 11 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km).",
+    "description": "Harlyn is a village in North Coast. There are 11 named beaches within 5 km, the closest being Harlyn Bay (500 m). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 6 places to eat and drink within 3 km. The nearest other bases are Constantine Bay (1.4 km) and Trevone (1.6 km).",
     "attractionsNearby": [
       {
         "slug": "trevose-head-lighthouse",
@@ -2461,6 +3288,38 @@
         "slug": "the-japanese-garden",
         "name": "The Japanese Garden",
         "km": 9.2
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-harlyn",
+        "name": "The Harlyn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 0.5
+      },
+      {
+        "slug": "ivy-house-restaurant-padstow",
+        "name": "Ivy House Restaurant Padstow",
+        "km": 1.4
+      },
+      {
+        "slug": "the-cornish-arms-harlyn",
+        "name": "The Cornish Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "farmers-arms-inn",
+        "name": "Farmers Arms Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "the-doghouse",
+        "name": "The Doghouse",
+        "km": 1.5
       }
     ]
   },
@@ -2643,7 +3502,7 @@
         "km": 7.3
       }
     ],
-    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km).",
+    "description": "Constantine Bay is a village in North Coast. There are 10 named beaches within 5 km, the closest being Constantine Bay (1.0 km). 6 of them have RNLI lifeguard cover in season. 9 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 6 places to eat and drink within 3 km. The nearest other bases are Harlyn (1.4 km) and Porthcothan (2.5 km).",
     "attractionsNearby": [
       {
         "slug": "trevose-head-lighthouse",
@@ -2684,6 +3543,38 @@
         "slug": "the-japanese-garden",
         "name": "The Japanese Garden",
         "km": 8.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 0.9
+      },
+      {
+        "slug": "farmers-arms-inn",
+        "name": "Farmers Arms Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "the-doghouse",
+        "name": "The Doghouse",
+        "km": 1.5
+      },
+      {
+        "slug": "the-harlyn",
+        "name": "The Harlyn",
+        "km": 1.5
+      },
+      {
+        "slug": "the-cornish-arms-harlyn",
+        "name": "The Cornish Arms",
+        "km": 1.9
+      },
+      {
+        "slug": "ivy-house-restaurant-padstow",
+        "name": "Ivy House Restaurant Padstow",
+        "km": 2
       }
     ]
   },
@@ -2881,7 +3772,7 @@
         "km": 6.2
       }
     ],
-    "description": "Porthcothan is a hamlet in North Coast. There are 13 named beaches within 5 km, the closest being Porthcothan Beach (400 m). 7 of them have RNLI lifeguard cover in season. 10 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Constantine Bay (2.5 km) and Harlyn (3.8 km).",
+    "description": "Porthcothan is a hamlet in North Coast. There are 13 named beaches within 5 km, the closest being Porthcothan Beach (400 m). 7 of them have RNLI lifeguard cover in season. 10 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 2 places to eat and drink within 3 km. The nearest other bases are Constantine Bay (2.5 km) and Harlyn (3.8 km).",
     "attractionsNearby": [
       {
         "slug": "macdonalds-farm",
@@ -2932,6 +3823,18 @@
         "slug": "trevelgue-head",
         "name": "Trevelgue Head",
         "km": 9.5
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "farmers-arms-inn",
+        "name": "Farmers Arms Inn",
+        "km": 2.9
+      },
+      {
+        "slug": "the-doghouse",
+        "name": "The Doghouse",
+        "km": 2.9
       }
     ]
   },
@@ -3109,7 +4012,7 @@
         "km": 8.5
       }
     ],
-    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km).",
+    "description": "Mawgan Porth is a village in North Coast. There are 9 named beaches within 5 km, the closest being Dunes (200 m). 3 of them have RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 12 places to eat and drink within 3 km. The nearest other bases are St Mawgan (2.7 km) and Porthcothan (4.9 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-carnewas-at-bedruthan",
@@ -3205,6 +4108,68 @@
         "slug": "lappa-valley",
         "name": "Lappa Valley",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 0
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 0
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 0.5
+      },
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 0.6
+      },
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 0.9
+      },
+      {
+        "slug": "retorrick-mill",
+        "name": "Retorrick Mill",
+        "km": 1.8
+      },
+      {
+        "slug": "buccas-kitchen",
+        "name": "Buccas Kitchen",
+        "km": 2
+      },
+      {
+        "slug": "the-living-space",
+        "name": "The Living Space",
+        "km": 2.3
+      },
+      {
+        "slug": "wax-watergate-bay",
+        "name": "WAX Watergate Bay",
+        "km": 2.3
+      },
+      {
+        "slug": "the-beach-hut",
+        "name": "The Beach Hut",
+        "km": 2.4
+      },
+      {
+        "slug": "zacrys",
+        "name": "Zacry's",
+        "km": 2.4
+      },
+      {
+        "slug": "the-falcon-inn",
+        "name": "The Falcon Inn",
+        "km": 2.7
       }
     ]
   },
@@ -3377,7 +4342,7 @@
         "km": 9.3
       }
     ],
-    "description": "St Mawgan is a village in North Coast. There are 8 named beaches within 5 km, the closest being Dunes (2.8 km). 2 of them have RNLI lifeguard cover in season. 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Mawgan Porth (2.7 km) and Porthcothan (6.2 km).",
+    "description": "St Mawgan is a village in North Coast. There are 8 named beaches within 5 km, the closest being Dunes (2.8 km). 2 of them have RNLI lifeguard cover in season. 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 8 places to eat and drink within 3 km. The nearest other bases are Mawgan Porth (2.7 km) and Porthcothan (6.2 km).",
     "attractionsNearby": [
       {
         "slug": "the-japanese-garden",
@@ -3473,6 +4438,48 @@
         "slug": "lappa-valley",
         "name": "Lappa Valley",
         "km": 9.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-falcon-inn",
+        "name": "The Falcon Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "buccas-kitchen",
+        "name": "Buccas Kitchen",
+        "km": 1
+      },
+      {
+        "slug": "retorrick-mill",
+        "name": "Retorrick Mill",
+        "km": 1.1
+      },
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 2.2
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 2.3
+      },
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 2.6
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 2.7
+      },
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 2.7
       }
     ]
   },
@@ -3670,7 +4677,7 @@
         "km": 9.1
       }
     ],
-    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. 17 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km).",
+    "description": "Newquay is a visitor base in North Coast. There are 13 named beaches within 5 km, the closest being Towan Beach (300 m). 6 of them have RNLI lifeguard cover in season. 12 aren’t on Cornwall Council’s dog restriction list. 17 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 33 places to eat and drink within 3 km. The nearest other bases are Crantock (2.2 km) and Holywell (4.9 km).",
     "attractionsNearby": [
       {
         "slug": "pirates-quest-adventure-golf",
@@ -3756,6 +4763,173 @@
         "slug": "perranporth-boating-lake",
         "name": "Perranporth Boating Lake",
         "km": 9.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "concho-lounge",
+        "name": "Concho Lounge",
+        "km": 0
+      },
+      {
+        "slug": "the-clover-club",
+        "name": "The Clover Club",
+        "km": 0
+      },
+      {
+        "slug": "cave-activity-bar",
+        "name": "Cave Activity Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "central-inn-newquay",
+        "name": "Central Inn, Newquay",
+        "km": 0.1
+      },
+      {
+        "slug": "on-the-rocks",
+        "name": "On The Rocks",
+        "km": 0.1
+      },
+      {
+        "slug": "rattler-beach-house",
+        "name": "Rattler Beach House",
+        "km": 0.1
+      },
+      {
+        "slug": "saltsheds-bar-and-bistro",
+        "name": "Saltsheds Bar & Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "the-pagan-arms",
+        "name": "The Pagan Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "sailors-newquay",
+        "name": "Sailors Newquay",
+        "km": 0.2
+      },
+      {
+        "slug": "fort-inn-newquay",
+        "name": "Fort Inn, Newquay",
+        "km": 0.3
+      },
+      {
+        "slug": "herd",
+        "name": "HERD",
+        "km": 0.3
+      },
+      {
+        "slug": "ginger-and-joe",
+        "name": "Ginger & Joe",
+        "km": 0.4
+      },
+      {
+        "slug": "lost-brewing-co-taphouse-kitchen",
+        "name": "Lost Brewing Co • Taphouse • Kitchen",
+        "km": 0.4
+      },
+      {
+        "slug": "parrilla",
+        "name": "Parrilla",
+        "km": 0.4
+      },
+      {
+        "slug": "amalfis",
+        "name": "Amalfi's",
+        "km": 0.5
+      },
+      {
+        "slug": "red-lion-newquay",
+        "name": "Red Lion Newquay",
+        "km": 0.5
+      },
+      {
+        "slug": "rosa",
+        "name": "Rosa",
+        "km": 0.5
+      },
+      {
+        "slug": "the-griffin-inn",
+        "name": "The Griffin Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "great-western",
+        "name": "Great Western",
+        "km": 0.7
+      },
+      {
+        "slug": "robo-newquay",
+        "name": "Robo Newquay",
+        "km": 0.7
+      },
+      {
+        "slug": "secret-garden",
+        "name": "Secret Garden",
+        "km": 0.7
+      },
+      {
+        "slug": "the-lanherne-pub",
+        "name": "The Lanherne Pub",
+        "km": 1
+      },
+      {
+        "slug": "fistral-boardmasters-beach-bar",
+        "name": "Fistral Boardmasters Beach Bar",
+        "km": 1.1
+      },
+      {
+        "slug": "the-fish-house-fistral",
+        "name": "The Fish House Fistral",
+        "km": 1.1
+      },
+      {
+        "slug": "the-fistral-stable",
+        "name": "The Fistral Stable",
+        "km": 1.1
+      },
+      {
+        "slug": "ugly-butterfly-restaurant-and-bar-cornwall",
+        "name": "Ugly Butterfly Restaurant and Bar, Cornwall",
+        "km": 1.2
+      },
+      {
+        "slug": "the-tavern-inn-newquay",
+        "name": "The Tavern Inn Newquay",
+        "km": 1.3
+      },
+      {
+        "slug": "old-albion-inn",
+        "name": "Old Albion Inn",
+        "km": 2.2
+      },
+      {
+        "slug": "lewinnick-lodge",
+        "name": "Lewinnick Lodge",
+        "km": 2.4
+      },
+      {
+        "slug": "ansum",
+        "name": "Ansum",
+        "km": 2.6
+      },
+      {
+        "slug": "porth-beach-hotel-and-restaurant",
+        "name": "Porth Beach Hotel and Restaurant",
+        "km": 2.6
+      },
+      {
+        "slug": "the-mermaid-inn",
+        "name": "The Mermaid Inn",
+        "km": 2.6
+      },
+      {
+        "slug": "tallo-newquay",
+        "name": "Tallo Newquay",
+        "km": 2.9
       }
     ]
   },
@@ -3948,7 +5122,7 @@
         "km": 9.9
       }
     ],
-    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. 11 aren’t on Cornwall Council’s dog restriction list. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km).",
+    "description": "Crantock is a visitor base in North Coast. There are 12 named beaches within 5 km, the closest being Crantock Beach (1.1 km). 7 of them have RNLI lifeguard cover in season. 11 aren’t on Cornwall Council’s dog restriction list. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 29 places to eat and drink within 3 km. The nearest other bases are Newquay (2.2 km) and Holywell (2.7 km).",
     "attractionsNearby": [
       {
         "slug": "newquay-activity-centre-surf-school",
@@ -4029,6 +5203,153 @@
         "slug": "the-japanese-garden",
         "name": "The Japanese Garden",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "old-albion-inn",
+        "name": "Old Albion Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "lewinnick-lodge",
+        "name": "Lewinnick Lodge",
+        "km": 1.3
+      },
+      {
+        "slug": "cave-activity-bar",
+        "name": "Cave Activity Bar",
+        "km": 2.1
+      },
+      {
+        "slug": "central-inn-newquay",
+        "name": "Central Inn, Newquay",
+        "km": 2.1
+      },
+      {
+        "slug": "fistral-boardmasters-beach-bar",
+        "name": "Fistral Boardmasters Beach Bar",
+        "km": 2.1
+      },
+      {
+        "slug": "rosa",
+        "name": "Rosa",
+        "km": 2.1
+      },
+      {
+        "slug": "the-fistral-stable",
+        "name": "The Fistral Stable",
+        "km": 2.1
+      },
+      {
+        "slug": "concho-lounge",
+        "name": "Concho Lounge",
+        "km": 2.2
+      },
+      {
+        "slug": "herd",
+        "name": "HERD",
+        "km": 2.2
+      },
+      {
+        "slug": "sailors-newquay",
+        "name": "Sailors Newquay",
+        "km": 2.2
+      },
+      {
+        "slug": "saltsheds-bar-and-bistro",
+        "name": "Saltsheds Bar & Bistro",
+        "km": 2.2
+      },
+      {
+        "slug": "the-clover-club",
+        "name": "The Clover Club",
+        "km": 2.2
+      },
+      {
+        "slug": "the-fish-house-fistral",
+        "name": "The Fish House Fistral",
+        "km": 2.2
+      },
+      {
+        "slug": "the-pagan-arms",
+        "name": "The Pagan Arms",
+        "km": 2.2
+      },
+      {
+        "slug": "fort-inn-newquay",
+        "name": "Fort Inn, Newquay",
+        "km": 2.3
+      },
+      {
+        "slug": "on-the-rocks",
+        "name": "On The Rocks",
+        "km": 2.3
+      },
+      {
+        "slug": "parrilla",
+        "name": "Parrilla",
+        "km": 2.3
+      },
+      {
+        "slug": "rattler-beach-house",
+        "name": "Rattler Beach House",
+        "km": 2.3
+      },
+      {
+        "slug": "red-lion-newquay",
+        "name": "Red Lion Newquay",
+        "km": 2.3
+      },
+      {
+        "slug": "ugly-butterfly-restaurant-and-bar-cornwall",
+        "name": "Ugly Butterfly Restaurant and Bar, Cornwall",
+        "km": 2.3
+      },
+      {
+        "slug": "ginger-and-joe",
+        "name": "Ginger & Joe",
+        "km": 2.6
+      },
+      {
+        "slug": "lost-brewing-co-taphouse-kitchen",
+        "name": "Lost Brewing Co • Taphouse • Kitchen",
+        "km": 2.6
+      },
+      {
+        "slug": "amalfis",
+        "name": "Amalfi's",
+        "km": 2.7
+      },
+      {
+        "slug": "the-griffin-inn",
+        "name": "The Griffin Inn",
+        "km": 2.7
+      },
+      {
+        "slug": "the-treguth-inn",
+        "name": "The Treguth Inn",
+        "km": 2.7
+      },
+      {
+        "slug": "the-tavern-inn-newquay",
+        "name": "The Tavern Inn Newquay",
+        "km": 2.8
+      },
+      {
+        "slug": "great-western",
+        "name": "Great Western",
+        "km": 2.9
+      },
+      {
+        "slug": "robo-newquay",
+        "name": "Robo Newquay",
+        "km": 2.9
+      },
+      {
+        "slug": "secret-garden",
+        "name": "Secret Garden",
+        "km": 2.9
       }
     ]
   },
@@ -4176,7 +5497,7 @@
         "km": 11.6
       }
     ],
-    "description": "Holywell is a village in North Coast. There are 7 named beaches within 5 km, the closest being Holywell Beach (800 m). 5 of them have RNLI lifeguard cover in season. 16 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Crantock (2.7 km) and Perranporth (4.8 km).",
+    "description": "Holywell is a village in North Coast. There are 7 named beaches within 5 km, the closest being Holywell Beach (800 m). 5 of them have RNLI lifeguard cover in season. 16 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Crantock (2.7 km) and Perranporth (4.8 km).",
     "attractionsNearby": [
       {
         "slug": "chapel-rock-pool",
@@ -4257,6 +5578,23 @@
         "slug": "saint-agnes-museum",
         "name": "Saint Agnes Museum",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-treguth-inn",
+        "name": "The Treguth Inn",
+        "km": 0
+      },
+      {
+        "slug": "smugglers-den-inn",
+        "name": "Smugglers Den Inn",
+        "km": 2.6
+      },
+      {
+        "slug": "old-albion-inn",
+        "name": "Old Albion Inn",
+        "km": 2.7
       }
     ]
   },
@@ -4384,7 +5722,7 @@
         "km": 9.1
       }
     ],
-    "description": "Perranporth is a village in North Coast. There are 3 named beaches within 5 km, the closest being Perran Beach (400 m). 3 of them have RNLI lifeguard cover in season. 16 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Holywell (4.8 km) and St Agnes (5.0 km).",
+    "description": "Perranporth is a village in North Coast. There are 3 named beaches within 5 km, the closest being Perran Beach (400 m). 3 of them have RNLI lifeguard cover in season. 16 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 19 places to eat and drink within 3 km. The nearest other bases are Holywell (4.8 km) and St Agnes (5.0 km).",
     "attractionsNearby": [
       {
         "slug": "perranporth-boating-lake",
@@ -4465,6 +5803,103 @@
         "slug": "towan-headland",
         "name": "Towan Headland",
         "km": 9.8
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "swell-cafe-and-takeaway",
+        "name": "Swell Café and Takeaway",
+        "km": 0
+      },
+      {
+        "slug": "the-deck",
+        "name": "The Deck",
+        "km": 0
+      },
+      {
+        "slug": "the-cove",
+        "name": "The Cove",
+        "km": 0.1
+      },
+      {
+        "slug": "the-green-parrot",
+        "name": "The Green Parrot",
+        "km": 0.1
+      },
+      {
+        "slug": "the-perranporth-inn",
+        "name": "The Perranporth Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-tywarnhayle",
+        "name": "The Tywarnhayle",
+        "km": 0.1
+      },
+      {
+        "slug": "the-waterfront-perranporth",
+        "name": "The Waterfront",
+        "km": 0.1
+      },
+      {
+        "slug": "no-4-breakfast-and-bistro",
+        "name": "No.4 Breakfast & Bistro",
+        "km": 0.2
+      },
+      {
+        "slug": "seiners-arms",
+        "name": "Seiners Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "alcatraz-bar-and-cafe",
+        "name": "Alcatraz Bar & Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "summer-house",
+        "name": "Summer House",
+        "km": 0.3
+      },
+      {
+        "slug": "the-watering-hole",
+        "name": "The Watering Hole",
+        "km": 0.4
+      },
+      {
+        "slug": "droskyn-lookout",
+        "name": "Droskyn Lookout",
+        "km": 0.6
+      },
+      {
+        "slug": "black-flag-brewery",
+        "name": "Black Flag Brewery",
+        "km": 0.7
+      },
+      {
+        "slug": "bolingey-inn",
+        "name": "Bolingey Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "coast-beach-bar",
+        "name": "Coast Beach Bar",
+        "km": 1.8
+      },
+      {
+        "slug": "surfbay",
+        "name": "Surfbay",
+        "km": 1.8
+      },
+      {
+        "slug": "zucchini-italian-kitchen",
+        "name": "Zucchini Italian Kitchen",
+        "km": 2.5
+      },
+      {
+        "slug": "the-new-inn-perranporth",
+        "name": "The New Inn",
+        "km": 3
       }
     ]
   },
@@ -4612,7 +6047,7 @@
         "km": 12
       }
     ],
-    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 10 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km).",
+    "description": "St Agnes is a village in North Coast. There are 3 named beaches within 5 km, the closest being Trevaunance Cove (900 m). 3 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 10 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 4 places to eat and drink within 3 km. The nearest other bases are Porthtowan (3.9 km) and Perranporth (5.0 km).",
     "attractionsNearby": [
       {
         "slug": "saint-agnes-museum",
@@ -4663,6 +6098,28 @@
         "slug": "national-trust-east-pool-mine",
         "name": "National Trust - East Pool Mine",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-driftwood-spars",
+        "name": "The Driftwood Spars",
+        "km": 0.7
+      },
+      {
+        "slug": "verdant-schooners",
+        "name": "Verdant Schooners",
+        "km": 0.8
+      },
+      {
+        "slug": "the-miners-arms",
+        "name": "The Miners Arms",
+        "km": 2.4
+      },
+      {
+        "slug": "the-victory-inn",
+        "name": "The Victory Inn",
+        "km": 2.7
       }
     ]
   },
@@ -4800,7 +6257,7 @@
         "km": 13.4
       }
     ],
-    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 8 with indoor space for a rainy day. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km).",
+    "description": "Porthtowan is a village in North Coast. There are 5 named beaches within 5 km, the closest being Porthtowan Beach (300 m). 4 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 8 with indoor space for a rainy day. There are 2 places to eat and drink within 3 km. The nearest other bases are St Agnes (3.9 km) and Portreath (4.5 km).",
     "attractionsNearby": [
       {
         "slug": "wheal-coates",
@@ -4871,6 +6328,18 @@
         "slug": "king-edward-mine-museum",
         "name": "King Edward Mine Museum",
         "km": 9.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "blue-bar",
+        "name": "Blue Bar",
+        "km": 0.3
+      },
+      {
+        "slug": "the-victory-inn",
+        "name": "The Victory Inn",
+        "km": 1.4
       }
     ]
   },
@@ -5023,7 +6492,7 @@
         "km": 13.4
       }
     ],
-    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km).",
+    "description": "Portreath is a visitor base in North Coast. There are 4 named beaches within 5 km, the closest being Portreath Beach (500 m). 2 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 8 places to eat and drink within 3 km. The nearest other bases are Porthtowan (4.5 km) and Gwithian (8.2 km).",
     "attractionsNearby": [
       {
         "slug": "cornwall-gold",
@@ -5084,6 +6553,48 @@
         "slug": "poldice-mine",
         "name": "Poldice Mine",
         "km": 8.8
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "basset-arms",
+        "name": "Basset Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "jay-bird-deli",
+        "name": "Jay Bird Deli",
+        "km": 0.1
+      },
+      {
+        "slug": "portreath-arms",
+        "name": "Portreath Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "the-waterfront-portreath",
+        "name": "The Waterfront",
+        "km": 0.1
+      },
+      {
+        "slug": "pod-cafe-portreath",
+        "name": "Pod Café Portreath",
+        "km": 0.2
+      },
+      {
+        "slug": "the-terrace-bar-and-restaurant",
+        "name": "The Terrace Bar and Restaurant",
+        "km": 0.7
+      },
+      {
+        "slug": "olde-pennys-tea-room",
+        "name": "Olde Penny's Tea Room",
+        "km": 2.3
+      },
+      {
+        "slug": "the-robartes-arms",
+        "name": "The Robartes Arms",
+        "km": 2.3
       }
     ]
   },
@@ -5216,7 +6727,7 @@
         "km": 8.2
       }
     ],
-    "description": "Gwithian is a hamlet in North Coast. There are 4 named beaches within 5 km, the closest being Gwithian Beach (800 m). 4 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Hayle (4.4 km) and Lelant (5.5 km).",
+    "description": "Gwithian is a hamlet in North Coast. There are 4 named beaches within 5 km, the closest being Gwithian Beach (800 m). 4 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 2 places to eat and drink within 3 km. The nearest other bases are Hayle (4.4 km) and Lelant (5.5 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-godrevy",
@@ -5287,6 +6798,18 @@
         "slug": "basset-monument",
         "name": "Basset Monument",
         "km": 9.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "turnpike-inn",
+        "name": "Turnpike Inn",
+        "km": 2
+      },
+      {
+        "slug": "angarrack-inn",
+        "name": "Angarrack Inn",
+        "km": 2.9
       }
     ]
   },
@@ -5444,7 +6967,7 @@
         "km": 8
       }
     ],
-    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Hayle Towans Beach (1.7 km). 5 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km).",
+    "description": "Hayle is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Hayle Towans Beach (1.7 km). 5 of them have RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 14 places to eat and drink within 3 km. The nearest other bases are Lelant (1.4 km) and Carbis Bay (3.5 km).",
     "attractionsNearby": [
       {
         "slug": "paradise-park-and-junglebarn",
@@ -5515,6 +7038,78 @@
         "slug": "chysauster-ancient-village",
         "name": "Chysauster Ancient Village",
         "km": 9.2
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "duckies-cafe",
+        "name": "Duckies Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "the-terrace",
+        "name": "The Terrace",
+        "km": 0.3
+      },
+      {
+        "slug": "royal-standard-inn",
+        "name": "Royal Standard Inn",
+        "km": 0.4
+      },
+      {
+        "slug": "salt-kitchen-bar",
+        "name": "Salt Kitchen Bar",
+        "km": 0.4
+      },
+      {
+        "slug": "the-cornish-arms-hayle",
+        "name": "The Cornish Arms",
+        "km": 0.5
+      },
+      {
+        "slug": "the-copper-house-inn",
+        "name": "The Copper House Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "bird-in-hand",
+        "name": "Bird In Hand",
+        "km": 1
+      },
+      {
+        "slug": "gilberts-beach-bar-and-kitchen",
+        "name": "Gilbert's Beach Bar & Kitchen",
+        "km": 1
+      },
+      {
+        "slug": "the-bucket-of-blood",
+        "name": "The Bucket of Blood",
+        "km": 1
+      },
+      {
+        "slug": "the-old-quay-house",
+        "name": "The Old Quay House",
+        "km": 1.9
+      },
+      {
+        "slug": "birdies-bistro",
+        "name": "Birdies Bistro",
+        "km": 2
+      },
+      {
+        "slug": "the-old-forge-lelant",
+        "name": "The Old Forge Lelant",
+        "km": 2.2
+      },
+      {
+        "slug": "the-watermill",
+        "name": "The Watermill",
+        "km": 2.3
+      },
+      {
+        "slug": "angarrack-inn",
+        "name": "Angarrack Inn",
+        "km": 2.4
       }
     ]
   },
@@ -5667,7 +7262,7 @@
         "km": 7.2
       }
     ],
-    "description": "Lelant is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km).",
+    "description": "Lelant is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Porth Kidney Sands (1.2 km). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 14 places to eat and drink within 3 km. The nearest other bases are Hayle (1.4 km) and Carbis Bay (2.4 km).",
     "attractionsNearby": [
       {
         "slug": "paradise-park-and-junglebarn",
@@ -5738,6 +7333,78 @@
         "slug": "locked-in",
         "name": "Locked In",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "birdies-bistro",
+        "name": "Birdies Bistro",
+        "km": 0.9
+      },
+      {
+        "slug": "gilberts-beach-bar-and-kitchen",
+        "name": "Gilbert's Beach Bar & Kitchen",
+        "km": 0.9
+      },
+      {
+        "slug": "the-old-quay-house",
+        "name": "The Old Quay House",
+        "km": 0.9
+      },
+      {
+        "slug": "bird-in-hand",
+        "name": "Bird In Hand",
+        "km": 1
+      },
+      {
+        "slug": "the-old-forge-lelant",
+        "name": "The Old Forge Lelant",
+        "km": 1
+      },
+      {
+        "slug": "the-watermill",
+        "name": "The Watermill",
+        "km": 1
+      },
+      {
+        "slug": "duckies-cafe",
+        "name": "Duckies Cafe",
+        "km": 1.1
+      },
+      {
+        "slug": "royal-standard-inn",
+        "name": "Royal Standard Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "salt-kitchen-bar",
+        "name": "Salt Kitchen Bar",
+        "km": 1.1
+      },
+      {
+        "slug": "the-terrace",
+        "name": "The Terrace",
+        "km": 1.6
+      },
+      {
+        "slug": "the-cornish-arms-hayle",
+        "name": "The Cornish Arms",
+        "km": 1.8
+      },
+      {
+        "slug": "romanos",
+        "name": "Romano's",
+        "km": 2
+      },
+      {
+        "slug": "the-bucket-of-blood",
+        "name": "The Bucket of Blood",
+        "km": 2.1
+      },
+      {
+        "slug": "the-copper-house-inn",
+        "name": "The Copper House Inn",
+        "km": 2.1
       }
     ]
   },
@@ -5910,7 +7577,7 @@
         "km": 7.3
       }
     ],
-    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km).",
+    "description": "Carbis Bay is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Carbis Bay Beach (300 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 37 places to eat and drink within 3 km. The nearest other bases are St Ives (2.3 km) and Lelant (2.4 km).",
     "attractionsNearby": [
       {
         "slug": "escape-time",
@@ -5981,6 +7648,193 @@
         "slug": "national-trust-godolphin",
         "name": "National Trust - Godolphin",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "romanos",
+        "name": "Romano's",
+        "km": 0.5
+      },
+      {
+        "slug": "porthminster-beach-cafe",
+        "name": "Porthminster Beach Cafe",
+        "km": 1.5
+      },
+      {
+        "slug": "bier-huis-grand-cafe",
+        "name": "Bier Huis Grand Café",
+        "km": 2
+      },
+      {
+        "slug": "feed",
+        "name": "Feed",
+        "km": 2
+      },
+      {
+        "slug": "mine-taproom",
+        "name": "Mine Taproom",
+        "km": 2
+      },
+      {
+        "slug": "the-kettle-and-wink",
+        "name": "The Kettle & Wink",
+        "km": 2
+      },
+      {
+        "slug": "the-three-ferrets",
+        "name": "The Three Ferrets",
+        "km": 2
+      },
+      {
+        "slug": "hub-st-ives",
+        "name": "Hub St Ives",
+        "km": 2.1
+      },
+      {
+        "slug": "lifeboat-inn-st-ives",
+        "name": "Lifeboat Inn, St Ives",
+        "km": 2.1
+      },
+      {
+        "slug": "mazza",
+        "name": "Mazza",
+        "km": 2.1
+      },
+      {
+        "slug": "the-castle-inn",
+        "name": "The Castle Inn",
+        "km": 2.1
+      },
+      {
+        "slug": "the-cornish-deli",
+        "name": "The Cornish Deli",
+        "km": 2.1
+      },
+      {
+        "slug": "the-queens",
+        "name": "The Queens",
+        "km": 2.1
+      },
+      {
+        "slug": "brine-brunch-and-oysters",
+        "name": "Brine Brunch & Oysters",
+        "km": 2.2
+      },
+      {
+        "slug": "guac-on-mex",
+        "name": "Guac On Mex",
+        "km": 2.2
+      },
+      {
+        "slug": "pilchard-press-alehouse",
+        "name": "Pilchard Press Alehouse",
+        "km": 2.2
+      },
+      {
+        "slug": "porthminster-kitchen",
+        "name": "Porthminster Kitchen",
+        "km": 2.2
+      },
+      {
+        "slug": "reef-and-beef-seafood-and-steak-st-ives",
+        "name": "Reef&Beef Seafood &Steak St Ives",
+        "km": 2.2
+      },
+      {
+        "slug": "talay-thai-kitchen",
+        "name": "Talay Thai Kitchen",
+        "km": 2.2
+      },
+      {
+        "slug": "the-balcony-bar-and-kitchen",
+        "name": "The Balcony Bar & Kitchen",
+        "km": 2.2
+      },
+      {
+        "slug": "the-balnoon-inn",
+        "name": "The Balnoon Inn",
+        "km": 2.2
+      },
+      {
+        "slug": "the-countryman",
+        "name": "The Countryman",
+        "km": 2.2
+      },
+      {
+        "slug": "the-rum-and-crab-shack",
+        "name": "The Rum & Crab Shack",
+        "km": 2.2
+      },
+      {
+        "slug": "the-union-inn",
+        "name": "The Union Inn",
+        "km": 2.2
+      },
+      {
+        "slug": "tretho-lounge",
+        "name": "Tretho Lounge",
+        "km": 2.2
+      },
+      {
+        "slug": "private-chef-natasha",
+        "name": "Private Chef Natasha",
+        "km": 2.3
+      },
+      {
+        "slug": "silco-bar-and-kitchen",
+        "name": "Silco Bar & Kitchen",
+        "km": 2.3
+      },
+      {
+        "slug": "sloop-inn",
+        "name": "Sloop Inn",
+        "km": 2.3
+      },
+      {
+        "slug": "the-beach-restaurant",
+        "name": "The Beach Restaurant",
+        "km": 2.3
+      },
+      {
+        "slug": "the-wreck",
+        "name": "The Wreck",
+        "km": 2.3
+      },
+      {
+        "slug": "porthmeor-beach-cafe",
+        "name": "Porthmeor Beach Cafe",
+        "km": 2.4
+      },
+      {
+        "slug": "st-eia",
+        "name": "St. Eia",
+        "km": 2.4
+      },
+      {
+        "slug": "gilberts-beach-bar-and-kitchen",
+        "name": "Gilbert's Beach Bar & Kitchen",
+        "km": 2.5
+      },
+      {
+        "slug": "the-watermill",
+        "name": "The Watermill",
+        "km": 2.6
+      },
+      {
+        "slug": "the-old-forge-lelant",
+        "name": "The Old Forge Lelant",
+        "km": 2.7
+      },
+      {
+        "slug": "birdies-bistro",
+        "name": "Birdies Bistro",
+        "km": 2.9
+      },
+      {
+        "slug": "the-old-quay-house",
+        "name": "The Old Quay House",
+        "km": 3
       }
     ]
   },
@@ -6153,7 +8007,7 @@
         "km": 6.8
       }
     ],
-    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Harbour Beach (200 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km).",
+    "description": "St Ives is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Harbour Beach (200 m). 5 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 30 places to eat and drink within 3 km. The nearest other bases are Carbis Bay (2.3 km) and Lelant (4.6 km).",
     "attractionsNearby": [
       {
         "slug": "tate-st-ives",
@@ -6209,6 +8063,158 @@
         "slug": "tremenheere-sculpture-gardens",
         "name": "Tremenheere Sculpture Gardens",
         "km": 8.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "sloop-inn",
+        "name": "Sloop Inn",
+        "km": 0
+      },
+      {
+        "slug": "the-beach-restaurant",
+        "name": "The Beach Restaurant",
+        "km": 0
+      },
+      {
+        "slug": "porthminster-kitchen",
+        "name": "Porthminster Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "silco-bar-and-kitchen",
+        "name": "Silco Bar & Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "st-eia",
+        "name": "St. Eia",
+        "km": 0.1
+      },
+      {
+        "slug": "the-balcony-bar-and-kitchen",
+        "name": "The Balcony Bar & Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "the-rum-and-crab-shack",
+        "name": "The Rum & Crab Shack",
+        "km": 0.1
+      },
+      {
+        "slug": "the-wreck",
+        "name": "The Wreck",
+        "km": 0.1
+      },
+      {
+        "slug": "brine-brunch-and-oysters",
+        "name": "Brine Brunch & Oysters",
+        "km": 0.2
+      },
+      {
+        "slug": "hub-st-ives",
+        "name": "Hub St Ives",
+        "km": 0.2
+      },
+      {
+        "slug": "lifeboat-inn-st-ives",
+        "name": "Lifeboat Inn, St Ives",
+        "km": 0.2
+      },
+      {
+        "slug": "mazza",
+        "name": "Mazza",
+        "km": 0.2
+      },
+      {
+        "slug": "pilchard-press-alehouse",
+        "name": "Pilchard Press Alehouse",
+        "km": 0.2
+      },
+      {
+        "slug": "porthmeor-beach-cafe",
+        "name": "Porthmeor Beach Cafe",
+        "km": 0.2
+      },
+      {
+        "slug": "reef-and-beef-seafood-and-steak-st-ives",
+        "name": "Reef&Beef Seafood &Steak St Ives",
+        "km": 0.2
+      },
+      {
+        "slug": "talay-thai-kitchen",
+        "name": "Talay Thai Kitchen",
+        "km": 0.2
+      },
+      {
+        "slug": "the-castle-inn",
+        "name": "The Castle Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-union-inn",
+        "name": "The Union Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "tretho-lounge",
+        "name": "Tretho Lounge",
+        "km": 0.2
+      },
+      {
+        "slug": "bier-huis-grand-cafe",
+        "name": "Bier Huis Grand Café",
+        "km": 0.3
+      },
+      {
+        "slug": "the-queens",
+        "name": "The Queens",
+        "km": 0.3
+      },
+      {
+        "slug": "mine-taproom",
+        "name": "Mine Taproom",
+        "km": 0.4
+      },
+      {
+        "slug": "the-cornish-deli",
+        "name": "The Cornish Deli",
+        "km": 0.4
+      },
+      {
+        "slug": "the-kettle-and-wink",
+        "name": "The Kettle & Wink",
+        "km": 0.4
+      },
+      {
+        "slug": "the-three-ferrets",
+        "name": "The Three Ferrets",
+        "km": 0.4
+      },
+      {
+        "slug": "private-chef-natasha",
+        "name": "Private Chef Natasha",
+        "km": 0.5
+      },
+      {
+        "slug": "feed",
+        "name": "Feed",
+        "km": 0.8
+      },
+      {
+        "slug": "porthminster-beach-cafe",
+        "name": "Porthminster Beach Cafe",
+        "km": 0.8
+      },
+      {
+        "slug": "guac-on-mex",
+        "name": "Guac On Mex",
+        "km": 1.6
+      },
+      {
+        "slug": "romanos",
+        "name": "Romano's",
+        "km": 2.8
       }
     ]
   },
@@ -6366,7 +8372,7 @@
         "km": 9.3
       }
     ],
-    "description": "Zennor is a village in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Porthzennor Cove (800 m). 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are St Ives (6.8 km) and Carbis Bay (7.3 km).",
+    "description": "Zennor is a village in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Porthzennor Cove (800 m). 19 attractions are listed within 10 km, 6 with indoor space for a rainy day. There are 2 places to eat and drink within 3 km. The nearest other bases are St Ives (6.8 km) and Carbis Bay (7.3 km).",
     "attractionsNearby": [
       {
         "slug": "chysauster-ancient-village",
@@ -6462,6 +8468,18 @@
         "slug": "tregeseal-stone-circle",
         "name": "Tregeseal Stone Circle",
         "km": 9.2
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-tinners-arms",
+        "name": "The Tinners Arms",
+        "km": 0
+      },
+      {
+        "slug": "the-gurnards-head",
+        "name": "The Gurnard's Head",
+        "km": 2.1
       }
     ]
   },
@@ -6614,7 +8632,7 @@
         "km": 9.9
       }
     ],
-    "description": "Pendeen is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Boat Cove (1.5 km). 16 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are St Just (3.2 km) and Zennor (8.3 km).",
+    "description": "Pendeen is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Boat Cove (1.5 km). 16 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 5 places to eat and drink within 3 km. The nearest other bases are St Just (3.2 km) and Zennor (8.3 km).",
     "attractionsNearby": [
       {
         "slug": "geevor-tin-mine-museum",
@@ -6695,6 +8713,33 @@
         "slug": "penzance-promenade",
         "name": "Penzance Promenade",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "north-inn",
+        "name": "North Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "trewellard-meadery",
+        "name": "Trewellard Meadery",
+        "km": 0.7
+      },
+      {
+        "slug": "count-house-cafe",
+        "name": "Count House Café",
+        "km": 0.8
+      },
+      {
+        "slug": "trewellard-arms",
+        "name": "Trewellard Arms",
+        "km": 0.8
+      },
+      {
+        "slug": "the-queens-arms-st-just",
+        "name": "The Queen's Arms",
+        "km": 2.1
       }
     ]
   },
@@ -6837,7 +8882,7 @@
         "km": 10.3
       }
     ],
-    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km).",
+    "description": "St Just is a visitor base in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porth Nanven (1.6 km). 2 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 11 places to eat and drink within 3 km. The nearest other bases are Pendeen (3.2 km) and Sennen Cove (5.4 km).",
     "attractionsNearby": [
       {
         "slug": "tregeseal-stone-circle",
@@ -6928,6 +8973,63 @@
         "slug": "penlee-house-gallery-and-museum",
         "name": "Penlee House Gallery & Museum",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "kings-arms-st-just",
+        "name": "Kings Arms",
+        "km": 0
+      },
+      {
+        "slug": "pizza-plz-st-just",
+        "name": "Pizza Plz St. Just",
+        "km": 0
+      },
+      {
+        "slug": "the-commercial",
+        "name": "The Commercial",
+        "km": 0
+      },
+      {
+        "slug": "the-star-inn-st-just",
+        "name": "The Star Inn",
+        "km": 0
+      },
+      {
+        "slug": "cafe-dog-and-rabbit",
+        "name": "Cafe Dog & Rabbit",
+        "km": 0.1
+      },
+      {
+        "slug": "the-copper-kettle",
+        "name": "The Copper Kettle",
+        "km": 0.1
+      },
+      {
+        "slug": "the-phoenix-cafe",
+        "name": "The Phoenix Café",
+        "km": 0.3
+      },
+      {
+        "slug": "cape-cornwall-club",
+        "name": "Cape Cornwall Club",
+        "km": 1.4
+      },
+      {
+        "slug": "the-queens-arms-st-just",
+        "name": "The Queen's Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "trewellard-arms",
+        "name": "Trewellard Arms",
+        "km": 2.5
+      },
+      {
+        "slug": "trewellard-meadery",
+        "name": "Trewellard Meadery",
+        "km": 2.5
       }
     ]
   },
@@ -7070,7 +9172,7 @@
         "km": 11.7
       }
     ],
-    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km).",
+    "description": "Sennen Cove is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Sennen Cove (700 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 5 places to eat and drink within 3 km. The nearest other bases are Porthcurno (4.6 km) and St Just (5.4 km).",
     "attractionsNearby": [
       {
         "slug": "lands-end",
@@ -7131,6 +9233,33 @@
         "slug": "trewidden-garden-and-tearoom",
         "name": "Trewidden Garden and Tearoom",
         "km": 9.5
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "old-success-inn-sennen-cove",
+        "name": "Old Success Inn, Sennen Cove",
+        "km": 0.2
+      },
+      {
+        "slug": "shantys-fish-bar",
+        "name": "Shantys Fish Bar",
+        "km": 0.8
+      },
+      {
+        "slug": "first-and-last-inn",
+        "name": "First & Last Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "first-and-last-house",
+        "name": "First & Last House",
+        "km": 1.4
+      },
+      {
+        "slug": "the-lands-end-restaurant-and-bar",
+        "name": "The Land's End Restaurant & Bar",
+        "km": 1.6
       }
     ]
   },
@@ -7273,7 +9402,7 @@
         "km": 11.5
       }
     ],
-    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km).",
+    "description": "Porthcurno is a village in West Cornwall (Penwith). There are 6 named beaches within 5 km, the closest being Porthcurno (700 m). 2 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 2 places to eat and drink within 3 km. The nearest other bases are Sennen Cove (4.6 km) and St Just (8.7 km).",
     "attractionsNearby": [
       {
         "slug": "pk-porthcurno",
@@ -7329,6 +9458,18 @@
         "slug": "tregeseal-stone-circle",
         "name": "Tregeseal Stone Circle",
         "km": 9.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-logan-rock-inn",
+        "name": "The Logan Rock Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "farm-fort",
+        "name": "Farm + Fort",
+        "km": 1.2
       }
     ]
   },
@@ -7476,7 +9617,7 @@
         "km": 9.3
       }
     ],
-    "description": "Mousehole is a village in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Mousehole Beach (100 m). 1 isn’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Newlyn (2.6 km) and Penzance (4.0 km).",
+    "description": "Mousehole is a village in West Cornwall (Penwith). There are 3 named beaches within 5 km, the closest being Mousehole Beach (100 m). 1 isn’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 10 places to eat and drink within 3 km. The nearest other bases are Newlyn (2.6 km) and Penzance (4.0 km).",
     "attractionsNearby": [
       {
         "slug": "kernow-coasteering",
@@ -7572,6 +9713,58 @@
         "slug": "men-an-tol",
         "name": "Mên-an-Tol",
         "km": 9.5
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "mousehole-deli-and-kitchen",
+        "name": "Mousehole Deli & Kitchen",
+        "km": 0
+      },
+      {
+        "slug": "2-fore-street-restaurant",
+        "name": "2 Fore Street Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "the-old-coastguard",
+        "name": "The Old Coastguard",
+        "km": 0.2
+      },
+      {
+        "slug": "the-fishermans-arms-newlyn",
+        "name": "The Fisherman's Arms",
+        "km": 2
+      },
+      {
+        "slug": "the-red-lion-inn",
+        "name": "The Red Lion Inn",
+        "km": 2.1
+      },
+      {
+        "slug": "argoe",
+        "name": "Argoe",
+        "km": 2.3
+      },
+      {
+        "slug": "favorita",
+        "name": "Favorita",
+        "km": 2.4
+      },
+      {
+        "slug": "the-swordfish-inn",
+        "name": "The Swordfish Inn",
+        "km": 2.6
+      },
+      {
+        "slug": "mackerel-sky-seafood-bar",
+        "name": "Mackerel Sky Seafood Bar",
+        "km": 2.7
+      },
+      {
+        "slug": "lamorna-wink",
+        "name": "Lamorna Wink",
+        "km": 3
       }
     ]
   },
@@ -7724,7 +9917,7 @@
         "km": 9.5
       }
     ],
-    "description": "Newlyn is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Wherry Town Beach (600 m). 1 isn’t on Cornwall Council’s dog restriction list. 20 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Penzance (1.8 km) and Mousehole (2.6 km).",
+    "description": "Newlyn is a village in West Cornwall (Penwith). There are 4 named beaches within 5 km, the closest being Wherry Town Beach (600 m). 1 isn’t on Cornwall Council’s dog restriction list. 20 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 30 places to eat and drink within 3 km. The nearest other bases are Penzance (1.8 km) and Mousehole (2.6 km).",
     "attractionsNearby": [
       {
         "slug": "kernow-coasteering",
@@ -7825,6 +10018,158 @@
         "slug": "pk-porthcurno",
         "name": "PK Porthcurno",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-swordfish-inn",
+        "name": "The Swordfish Inn",
+        "km": 0
+      },
+      {
+        "slug": "mackerel-sky-seafood-bar",
+        "name": "Mackerel Sky Seafood Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "favorita",
+        "name": "Favorita",
+        "km": 0.2
+      },
+      {
+        "slug": "argoe",
+        "name": "Argoe",
+        "km": 0.3
+      },
+      {
+        "slug": "the-red-lion-inn",
+        "name": "The Red Lion Inn",
+        "km": 0.5
+      },
+      {
+        "slug": "the-fishermans-arms-newlyn",
+        "name": "The Fisherman's Arms",
+        "km": 0.6
+      },
+      {
+        "slug": "the-shore-restaurant",
+        "name": "The Shore Restaurant",
+        "km": 1.5
+      },
+      {
+        "slug": "45-queen-street",
+        "name": "45 Queen Street",
+        "km": 1.6
+      },
+      {
+        "slug": "admiral-benbow",
+        "name": "Admiral Benbow",
+        "km": 1.6
+      },
+      {
+        "slug": "alverne-restaurant-and-lounge",
+        "name": "Alverne Restaurant & Lounge",
+        "km": 1.6
+      },
+      {
+        "slug": "globe-and-ale-house",
+        "name": "Globe & Ale House",
+        "km": 1.6
+      },
+      {
+        "slug": "orto-penzance",
+        "name": "Orto Penzance",
+        "km": 1.6
+      },
+      {
+        "slug": "seven-stars",
+        "name": "Seven Stars",
+        "km": 1.6
+      },
+      {
+        "slug": "sukothai",
+        "name": "Sukothai",
+        "km": 1.6
+      },
+      {
+        "slug": "the-turks-head",
+        "name": "The Turks Head",
+        "km": 1.6
+      },
+      {
+        "slug": "barbican-bistro",
+        "name": "Barbican Bistro",
+        "km": 1.7
+      },
+      {
+        "slug": "men-an-tol-brewhouse-and-taproom",
+        "name": "Mên-an-Tol Brewhouse & Taproom",
+        "km": 1.7
+      },
+      {
+        "slug": "the-copper-fox",
+        "name": "The Copper Fox",
+        "km": 1.7
+      },
+      {
+        "slug": "the-dolphin-tavern",
+        "name": "The Dolphin Tavern",
+        "km": 1.7
+      },
+      {
+        "slug": "farmers-arms",
+        "name": "Farmers Arms",
+        "km": 1.8
+      },
+      {
+        "slug": "the-boatshed",
+        "name": "The Boatshed",
+        "km": 1.8
+      },
+      {
+        "slug": "the-fountain-tavern",
+        "name": "The Fountain Tavern",
+        "km": 1.8
+      },
+      {
+        "slug": "cork-and-fork",
+        "name": "Cork & Fork",
+        "km": 2
+      },
+      {
+        "slug": "ezpz-restaurant",
+        "name": "EZPZ Restaurant",
+        "km": 2
+      },
+      {
+        "slug": "senara",
+        "name": "Senara",
+        "km": 2
+      },
+      {
+        "slug": "the-crown",
+        "name": "The Crown",
+        "km": 2
+      },
+      {
+        "slug": "one-and-all",
+        "name": "One And All",
+        "km": 2.1
+      },
+      {
+        "slug": "2-fore-street-restaurant",
+        "name": "2 Fore Street Restaurant",
+        "km": 2.6
+      },
+      {
+        "slug": "mousehole-deli-and-kitchen",
+        "name": "Mousehole Deli & Kitchen",
+        "km": 2.6
+      },
+      {
+        "slug": "the-old-coastguard",
+        "name": "The Old Coastguard",
+        "km": 2.6
       }
     ]
   },
@@ -7962,7 +10307,7 @@
         "km": 8.4
       }
     ],
-    "description": "Penzance is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Wherry Town Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Newlyn (1.8 km) and Mousehole (4.0 km).",
+    "description": "Penzance is a visitor base in West Cornwall (Penwith). There are 5 named beaches within 5 km, the closest being Wherry Town Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 31 places to eat and drink within 3 km. The nearest other bases are Newlyn (1.8 km) and Mousehole (4.0 km).",
     "attractionsNearby": [
       {
         "slug": "escape-rooms-cornwall-penzance",
@@ -8053,6 +10398,163 @@
         "slug": "tregeseal-stone-circle",
         "name": "Tregeseal Stone Circle",
         "km": 8.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "men-an-tol-brewhouse-and-taproom",
+        "name": "Mên-an-Tol Brewhouse & Taproom",
+        "km": 0.1
+      },
+      {
+        "slug": "the-copper-fox",
+        "name": "The Copper Fox",
+        "km": 0.1
+      },
+      {
+        "slug": "45-queen-street",
+        "name": "45 Queen Street",
+        "km": 0.2
+      },
+      {
+        "slug": "cork-and-fork",
+        "name": "Cork & Fork",
+        "km": 0.2
+      },
+      {
+        "slug": "ezpz-restaurant",
+        "name": "EZPZ Restaurant",
+        "km": 0.2
+      },
+      {
+        "slug": "globe-and-ale-house",
+        "name": "Globe & Ale House",
+        "km": 0.2
+      },
+      {
+        "slug": "orto-penzance",
+        "name": "Orto Penzance",
+        "km": 0.2
+      },
+      {
+        "slug": "seven-stars",
+        "name": "Seven Stars",
+        "km": 0.2
+      },
+      {
+        "slug": "sukothai",
+        "name": "Sukothai",
+        "km": 0.2
+      },
+      {
+        "slug": "the-crown",
+        "name": "The Crown",
+        "km": 0.2
+      },
+      {
+        "slug": "admiral-benbow",
+        "name": "Admiral Benbow",
+        "km": 0.3
+      },
+      {
+        "slug": "alverne-restaurant-and-lounge",
+        "name": "Alverne Restaurant & Lounge",
+        "km": 0.3
+      },
+      {
+        "slug": "farmers-arms",
+        "name": "Farmers Arms",
+        "km": 0.3
+      },
+      {
+        "slug": "one-and-all",
+        "name": "One And All",
+        "km": 0.3
+      },
+      {
+        "slug": "the-shore-restaurant",
+        "name": "The Shore Restaurant",
+        "km": 0.3
+      },
+      {
+        "slug": "the-turks-head",
+        "name": "The Turks Head",
+        "km": 0.3
+      },
+      {
+        "slug": "the-boatshed",
+        "name": "The Boatshed",
+        "km": 0.4
+      },
+      {
+        "slug": "the-fountain-tavern",
+        "name": "The Fountain Tavern",
+        "km": 0.4
+      },
+      {
+        "slug": "barbican-bistro",
+        "name": "Barbican Bistro",
+        "km": 0.5
+      },
+      {
+        "slug": "the-dolphin-tavern",
+        "name": "The Dolphin Tavern",
+        "km": 0.5
+      },
+      {
+        "slug": "senara",
+        "name": "Senara",
+        "km": 0.7
+      },
+      {
+        "slug": "mackerel-sky-seafood-bar",
+        "name": "Mackerel Sky Seafood Bar",
+        "km": 1.8
+      },
+      {
+        "slug": "the-coldstreamer-inn-gulval",
+        "name": "The Coldstreamer Inn, Gulval",
+        "km": 1.8
+      },
+      {
+        "slug": "the-swordfish-inn",
+        "name": "The Swordfish Inn",
+        "km": 1.8
+      },
+      {
+        "slug": "favorita",
+        "name": "Favorita",
+        "km": 1.9
+      },
+      {
+        "slug": "argoe",
+        "name": "Argoe",
+        "km": 2
+      },
+      {
+        "slug": "the-fishermans-arms-newlyn",
+        "name": "The Fisherman's Arms",
+        "km": 2.1
+      },
+      {
+        "slug": "the-red-lion-inn",
+        "name": "The Red Lion Inn",
+        "km": 2.1
+      },
+      {
+        "slug": "king-william-iv-restaurant-and-pub",
+        "name": "King William IV Restaurant & Pub",
+        "km": 2.6
+      },
+      {
+        "slug": "the-mexico-inn",
+        "name": "The Mexico Inn",
+        "km": 2.7
+      },
+      {
+        "slug": "tremenheere-kitchen",
+        "name": "Tremenheere Kitchen",
+        "km": 2.8
       }
     ]
   },
@@ -8200,7 +10702,7 @@
         "km": 6.6
       }
     ],
-    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Marazion Beach (100 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 17 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km).",
+    "description": "Marazion is a visitor base in West Cornwall (Penwith). There are 7 named beaches within 5 km, the closest being Marazion Beach (100 m). 2 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 17 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 7 places to eat and drink within 3 km. The nearest other bases are Perranuthnoe (2.2 km) and Penzance (4.5 km).",
     "attractionsNearby": [
       {
         "slug": "st-michaels-mount",
@@ -8286,6 +10788,43 @@
         "slug": "escape-time",
         "name": "Escape Time",
         "km": 9.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-kings-arms-marazion",
+        "name": "The Kings Arms",
+        "km": 0
+      },
+      {
+        "slug": "the-cutty-sark-restaurant-and-bar",
+        "name": "The Cutty Sark Restaurant and Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "the-fire-engine",
+        "name": "The Fire Engine",
+        "km": 0.6
+      },
+      {
+        "slug": "the-mexico-inn",
+        "name": "The Mexico Inn",
+        "km": 2
+      },
+      {
+        "slug": "the-star-inn-marazion",
+        "name": "The Star Inn",
+        "km": 2.5
+      },
+      {
+        "slug": "the-white-hart-marazion",
+        "name": "The White Hart",
+        "km": 2.7
+      },
+      {
+        "slug": "tremenheere-kitchen",
+        "name": "Tremenheere Kitchen",
+        "km": 2.8
       }
     ]
   },
@@ -8458,7 +10997,7 @@
         "km": 7.6
       }
     ],
-    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 3 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km).",
+    "description": "Perranuthnoe is a visitor base in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Perranuthnoe Beach (400 m). 3 of them have RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Marazion (2.2 km) and Praa Sands (4.4 km).",
     "attractionsNearby": [
       {
         "slug": "st-michaels-mount",
@@ -8529,6 +11068,23 @@
         "slug": "trewidden-garden-and-tearoom",
         "name": "Trewidden Garden and Tearoom",
         "km": 9.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-fire-engine",
+        "name": "The Fire Engine",
+        "km": 1.8
+      },
+      {
+        "slug": "the-kings-arms-marazion",
+        "name": "The Kings Arms",
+        "km": 2.2
+      },
+      {
+        "slug": "the-cutty-sark-restaurant-and-bar",
+        "name": "The Cutty Sark Restaurant and Bar",
+        "km": 2.3
       }
     ]
   },
@@ -8701,7 +11257,7 @@
         "km": 9.4
       }
     ],
-    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km).",
+    "description": "Praa Sands is a village in West Cornwall (Penwith). There are 8 named beaches within 5 km, the closest being Praa Sands (400 m). 2 of them have RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 4 places to eat and drink within 3 km. The nearest other bases are Perranuthnoe (4.4 km) and Porthleven (5.4 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-godolphin",
@@ -8742,6 +11298,28 @@
         "slug": "trencrom-hill",
         "name": "Trencrom Hill",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "stonesreef",
+        "name": "Stonesreef",
+        "km": 0.5
+      },
+      {
+        "slug": "the-welloe",
+        "name": "The Welloe",
+        "km": 0.5
+      },
+      {
+        "slug": "lion-and-lamb",
+        "name": "Lion & Lamb",
+        "km": 2.4
+      },
+      {
+        "slug": "tonys-tavern",
+        "name": "Tony's Tavern",
+        "km": 3
       }
     ]
   },
@@ -8899,7 +11477,7 @@
         "km": 9.7
       }
     ],
-    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km).",
+    "description": "Porthleven is a visitor base in The Lizard. There are 5 named beaches within 5 km, the closest being Porthleven Sands (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 12 places to eat and drink within 3 km. The nearest other bases are Helston (3.6 km) and Praa Sands (5.4 km).",
     "attractionsNearby": [
       {
         "slug": "coronation-park",
@@ -8955,6 +11533,68 @@
         "slug": "mullion-cove",
         "name": "Mullion Cove",
         "km": 8.8
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-mussel-shoal",
+        "name": "The Mussel Shoal",
+        "km": 0
+      },
+      {
+        "slug": "amelie",
+        "name": "Amélie",
+        "km": 0.1
+      },
+      {
+        "slug": "harbour-inn-porthleven",
+        "name": "Harbour Inn, Porthleven",
+        "km": 0.1
+      },
+      {
+        "slug": "kota-food-and-wine",
+        "name": "Kota Food & Wine",
+        "km": 0.1
+      },
+      {
+        "slug": "kota-kai-kitchen-bar",
+        "name": "Kota Kai Kitchen Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "talay-thai-kitchen-porthleven",
+        "name": "Talay Thai Kitchen Porthleven",
+        "km": 0.1
+      },
+      {
+        "slug": "the-corner-deli",
+        "name": "The Corner Deli",
+        "km": 0.1
+      },
+      {
+        "slug": "the-square-at-porthleven",
+        "name": "The Square At Porthleven",
+        "km": 0.1
+      },
+      {
+        "slug": "the-ship-inn-porthleven",
+        "name": "The Ship Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "atlantic-inn",
+        "name": "Atlantic Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "out-of-the-blue",
+        "name": "Out Of The Blue",
+        "km": 0.4
+      },
+      {
+        "slug": "the-queens-arms-porthleven",
+        "name": "The Queen's Arms",
+        "km": 2.9
       }
     ]
   },
@@ -9102,7 +11742,7 @@
         "km": 9.8
       }
     ],
-    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km).",
+    "description": "Helston is a visitor base in The Lizard. There are 3 named beaches within 5 km, the closest being Porthleven Sands (3.7 km). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 13 places to eat and drink within 3 km. The nearest other bases are Porthleven (3.6 km) and Gweek (4.7 km).",
     "attractionsNearby": [
       {
         "slug": "museum-of-cornish-life",
@@ -9168,6 +11808,73 @@
         "slug": "mullion-cove",
         "name": "Mullion Cove",
         "km": 9.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "cast-cafe",
+        "name": "CAST Café",
+        "km": 0
+      },
+      {
+        "slug": "henlys-wine-bar-and-bistro",
+        "name": "Henlys Wine Bar & Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "the-red-lion-helston",
+        "name": "The Red Lion",
+        "km": 0.1
+      },
+      {
+        "slug": "boo-koos",
+        "name": "Boo Koos",
+        "km": 0.2
+      },
+      {
+        "slug": "inn-and-still",
+        "name": "Inn & Still",
+        "km": 0.2
+      },
+      {
+        "slug": "pica-rico-helston",
+        "name": "Pica Rico Helston",
+        "km": 0.2
+      },
+      {
+        "slug": "the-bell-inn-helston",
+        "name": "The Bell Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-coinage-hall",
+        "name": "The Coinage Hall",
+        "km": 0.2
+      },
+      {
+        "slug": "the-greasy-fork",
+        "name": "The Greasy Fork",
+        "km": 0.2
+      },
+      {
+        "slug": "the-rodney-inn",
+        "name": "The Rodney Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-blue-anchor-inn",
+        "name": "The Blue Anchor Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "the-may-tree",
+        "name": "The May Tree",
+        "km": 1
+      },
+      {
+        "slug": "wheal-dream-restaurant",
+        "name": "Wheal Dream Restaurant",
+        "km": 2.5
       }
     ]
   },
@@ -9325,7 +12032,7 @@
         "km": 8.6
       }
     ],
-    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Polurrian Cove (1.1 km). 3 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km).",
+    "description": "Mullion is a village in The Lizard. There are 5 named beaches within 5 km, the closest being Polurrian Cove (1.1 km). 3 of them have RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, one with indoor space for a rainy day. There are 8 places to eat and drink within 3 km. The nearest other bases are Cadgwith (6.2 km) and The Lizard (7.0 km).",
     "attractionsNearby": [
       {
         "slug": "the-marconi-centre",
@@ -9381,6 +12088,48 @@
         "slug": "museum-of-cornish-life",
         "name": "Museum of Cornish Life",
         "km": 8.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-mounts-bay-inn",
+        "name": "The Mounts Bay Inn",
+        "km": 0
+      },
+      {
+        "slug": "the-old-inn-mullion",
+        "name": "The Old Inn, Mullion",
+        "km": 0.1
+      },
+      {
+        "slug": "the-village-restaurant",
+        "name": "The Village Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "polurrian-on-the-lizard",
+        "name": "Polurrian on the Lizard",
+        "km": 0.9
+      },
+      {
+        "slug": "poldhu-beach-cafe-and-shop",
+        "name": "Poldhu Beach Cafe & Shop",
+        "km": 1.5
+      },
+      {
+        "slug": "mullion-cove-hotel-cornwall",
+        "name": "Mullion Cove Hotel Cornwall",
+        "km": 1.6
+      },
+      {
+        "slug": "porthmellin-cafe",
+        "name": "Porthmellin Cafe",
+        "km": 1.7
+      },
+      {
+        "slug": "jumunjy-thai-restaurant-and-bar-the-old-post-office",
+        "name": "Jumunjy Thai Restaurant & Bar @ The Old Post Office",
+        "km": 2.6
       }
     ]
   },
@@ -9533,7 +12282,7 @@
         "km": 14.2
       }
     ],
-    "description": "The Lizard is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Housel Bay (800 m). 1 isn’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km. The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km).",
+    "description": "The Lizard is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Housel Bay (800 m). 1 isn’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km. There are 15 places to eat and drink within 3 km. The nearest other bases are Cadgwith (2.7 km) and Mullion (7.0 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-lizard-point",
@@ -9569,6 +12318,83 @@
         "slug": "terence-coventry-sculpture-park",
         "name": "Terence Coventry Sculpture Park",
         "km": 9.1
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "anns-pasties-and-bar",
+        "name": "Ann's Pasties & Bar",
+        "km": 0
+      },
+      {
+        "slug": "the-top-house-inn",
+        "name": "The Top House Inn",
+        "km": 0
+      },
+      {
+        "slug": "chimichangas",
+        "name": "Chimichangas",
+        "km": 0.1
+      },
+      {
+        "slug": "coast-coffee-bar-and-bistro",
+        "name": "Coast Coffee Bar & Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "lizard-shellfish",
+        "name": "Lizard Shellfish",
+        "km": 0.1
+      },
+      {
+        "slug": "the-witchball",
+        "name": "The Witchball",
+        "km": 0.1
+      },
+      {
+        "slug": "fallowfields-restaurant",
+        "name": "Fallowfields Restaurant",
+        "km": 0.7
+      },
+      {
+        "slug": "housel-bay",
+        "name": "Housel Bay",
+        "km": 0.7
+      },
+      {
+        "slug": "the-terrace-restaurant",
+        "name": "The Terrace Restaurant",
+        "km": 0.7
+      },
+      {
+        "slug": "wavecrest-cafe",
+        "name": "Wavecrest Cafe",
+        "km": 1
+      },
+      {
+        "slug": "polpeor-cafe",
+        "name": "Polpeor Cafe",
+        "km": 1.1
+      },
+      {
+        "slug": "kynance-cove-cafe",
+        "name": "Kynance Cove Cafe",
+        "km": 2.1
+      },
+      {
+        "slug": "cadgwith-cove-crab",
+        "name": "Cadgwith Cove Crab",
+        "km": 2.7
+      },
+      {
+        "slug": "cadgwith-cove-inn",
+        "name": "Cadgwith Cove Inn",
+        "km": 2.7
+      },
+      {
+        "slug": "the-old-cellars-cadgwith",
+        "name": "The Old Cellars Cadgwith",
+        "km": 2.7
       }
     ]
   },
@@ -9731,7 +12557,7 @@
         "km": 12.1
       }
     ],
-    "description": "Cadgwith is a village in The Lizard. There are 6 named beaches within 5 km, the closest being Cadgwith Cove (0 m). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km).",
+    "description": "Cadgwith is a village in The Lizard. There are 6 named beaches within 5 km, the closest being Cadgwith Cove (0 m). 1 of them has RNLI lifeguard cover in season. 2 aren’t on Cornwall Council’s dog restriction list. 8 attractions are listed within 10 km. There are 16 places to eat and drink within 3 km. The nearest other bases are The Lizard (2.7 km) and Mullion (6.2 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-old-serpentine-works",
@@ -9772,6 +12598,88 @@
         "slug": "halliggye-fogou",
         "name": "Halliggye Fogou",
         "km": 9.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "cadgwith-cove-crab",
+        "name": "Cadgwith Cove Crab",
+        "km": 0.1
+      },
+      {
+        "slug": "cadgwith-cove-inn",
+        "name": "Cadgwith Cove Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-old-cellars-cadgwith",
+        "name": "The Old Cellars Cadgwith",
+        "km": 0.1
+      },
+      {
+        "slug": "thai-wok-takeaway",
+        "name": "Thai Wok Takeaway",
+        "km": 1.9
+      },
+      {
+        "slug": "the-potters-bar",
+        "name": "The Potters Bar",
+        "km": 1.9
+      },
+      {
+        "slug": "kennack-sands-beach-cafe",
+        "name": "Kennack Sands Beach Cafe",
+        "km": 2.3
+      },
+      {
+        "slug": "chimichangas",
+        "name": "Chimichangas",
+        "km": 2.6
+      },
+      {
+        "slug": "anns-pasties-and-bar",
+        "name": "Ann's Pasties & Bar",
+        "km": 2.7
+      },
+      {
+        "slug": "coast-coffee-bar-and-bistro",
+        "name": "Coast Coffee Bar & Bistro",
+        "km": 2.7
+      },
+      {
+        "slug": "the-top-house-inn",
+        "name": "The Top House Inn",
+        "km": 2.7
+      },
+      {
+        "slug": "fallowfields-restaurant",
+        "name": "Fallowfields Restaurant",
+        "km": 2.8
+      },
+      {
+        "slug": "housel-bay",
+        "name": "Housel Bay",
+        "km": 2.8
+      },
+      {
+        "slug": "lizard-shellfish",
+        "name": "Lizard Shellfish",
+        "km": 2.8
+      },
+      {
+        "slug": "the-terrace-restaurant",
+        "name": "The Terrace Restaurant",
+        "km": 2.8
+      },
+      {
+        "slug": "the-witchball",
+        "name": "The Witchball",
+        "km": 2.8
+      },
+      {
+        "slug": "the-old-cider-barn-arts-and-crafts-centre",
+        "name": "The Old Cider Barn Arts & Crafts Centre",
+        "km": 3
       }
     ]
   },
@@ -9924,7 +12832,7 @@
         "km": 10.4
       }
     ],
-    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 6 attractions are listed within 10 km. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km).",
+    "description": "Coverack is a village in The Lizard. There are 4 named beaches within 5 km, the closest being Porthbeer Cove (800 m). 1 of them has RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 6 attractions are listed within 10 km. There are 2 places to eat and drink within 3 km. The nearest other bases are St Keverne (3.2 km) and Cadgwith (7.1 km).",
     "attractionsNearby": [
       {
         "slug": "terence-coventry-sculpture-park",
@@ -9955,6 +12863,18 @@
         "slug": "glendurgan",
         "name": "Glendurgan",
         "km": 9.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "paris-hotel",
+        "name": "Paris Hotel",
+        "km": 0.3
+      },
+      {
+        "slug": "roskillys",
+        "name": "Roskilly's",
+        "km": 2.7
       }
     ]
   },
@@ -10077,7 +12997,7 @@
         "km": 10
       }
     ],
-    "description": "St Keverne is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Leggan Cove (1.7 km). 8 attractions are listed within 10 km. The nearest other bases are Coverack (3.2 km) and Helford (5.9 km).",
+    "description": "St Keverne is a village in The Lizard. There are 2 named beaches within 5 km, the closest being Leggan Cove (1.7 km). 8 attractions are listed within 10 km. There are 5 places to eat and drink within 3 km. The nearest other bases are Coverack (3.2 km) and Helford (5.9 km).",
     "attractionsNearby": [
       {
         "slug": "terence-coventry-sculpture-park",
@@ -10118,6 +13038,33 @@
         "slug": "cornish-seal-sanctuary",
         "name": "Cornish Seal Sanctuary",
         "km": 9.8
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-white-hart-st-keverne",
+        "name": "The White Hart",
+        "km": 0
+      },
+      {
+        "slug": "the-greenhouse",
+        "name": "The Greenhouse",
+        "km": 0.1
+      },
+      {
+        "slug": "the-three-tuns",
+        "name": "The Three Tuns",
+        "km": 0.1
+      },
+      {
+        "slug": "roskillys",
+        "name": "Roskilly's",
+        "km": 0.7
+      },
+      {
+        "slug": "fat-apples-cafe",
+        "name": "Fat Apples Cafe",
+        "km": 1.5
       }
     ]
   },
@@ -10235,7 +13182,7 @@
         "km": 8.1
       }
     ],
-    "description": "Gweek is a visitor base in The Lizard. There is 1 named beach within 5 km, the closest being Penarvon Cove (5.0 km). 15 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Helston (4.7 km) and Helford (5.1 km).",
+    "description": "Gweek is a visitor base in The Lizard. There is 1 named beach within 5 km, the closest being Penarvon Cove (5.0 km). 15 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Helston (4.7 km) and Helford (5.1 km).",
     "attractionsNearby": [
       {
         "slug": "cornish-seal-sanctuary",
@@ -10311,6 +13258,23 @@
         "slug": "raze-the-roof-family-entertainment-centre",
         "name": "Raze the Roof, Family Entertainment Centre",
         "km": 9.8
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-black-swan-gweek",
+        "name": "The Black Swan",
+        "km": 0
+      },
+      {
+        "slug": "the-ship-inn-gweek",
+        "name": "The Ship Inn",
+        "km": 1.9
+      },
+      {
+        "slug": "the-trengilly-wartha-inn-ltd",
+        "name": "The Trengilly Wartha Inn Ltd",
+        "km": 2.9
       }
     ]
   },
@@ -10463,7 +13427,7 @@
         "km": 8.4
       }
     ],
-    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). 7 aren’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km).",
+    "description": "Helford is a village in The Lizard. There are 8 named beaches within 5 km, the closest being Penarvon Cove (200 m). 7 aren’t on Cornwall Council’s dog restriction list. 19 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Mawnan Smith (3.3 km) and Gweek (5.1 km).",
     "attractionsNearby": [
       {
         "slug": "glendurgan",
@@ -10559,6 +13523,23 @@
         "slug": "museum-of-cornish-life",
         "name": "Museum of Cornish Life",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 1
+      },
+      {
+        "slug": "the-new-inn-helford",
+        "name": "The New Inn",
+        "km": 1.4
       }
     ]
   },
@@ -10736,7 +13717,7 @@
         "km": 7.2
       }
     ],
-    "description": "Falmouth is a visitor base in South Coast. There are 9 named beaches within 5 km, the closest being Tunnel Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km).",
+    "description": "Falmouth is a visitor base in South Coast. There are 9 named beaches within 5 km, the closest being Tunnel Beach (1.2 km). 1 of them has RNLI lifeguard cover in season. 4 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 34 places to eat and drink within 3 km. The nearest other bases are Flushing (1.1 km) and Mylor Bridge (3.4 km).",
     "attractionsNearby": [
       {
         "slug": "kernow-escape",
@@ -10807,6 +13788,178 @@
         "slug": "king-harry-ferry",
         "name": "King Harry Ferry",
         "km": 7.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "indidog-harbourside-restaurant",
+        "name": "INDIDOG Harbourside Restaurant",
+        "km": 0
+      },
+      {
+        "slug": "the-grapes-falmouth",
+        "name": "The Grapes Falmouth",
+        "km": 0
+      },
+      {
+        "slug": "beerwolf-books",
+        "name": "Beerwolf Books",
+        "km": 0.1
+      },
+      {
+        "slug": "marina-turkish-kitchen",
+        "name": "Marina Turkish Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "palacio-lounge",
+        "name": "Palacio Lounge",
+        "km": 0.2
+      },
+      {
+        "slug": "pennycomequick",
+        "name": "Pennycomequick",
+        "km": 0.2
+      },
+      {
+        "slug": "seaview-inn",
+        "name": "Seaview Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "33-old-high-street",
+        "name": "33 Old High Street",
+        "km": 0.3
+      },
+      {
+        "slug": "cribbs-cornwall",
+        "name": "Cribbs Cornwall",
+        "km": 0.3
+      },
+      {
+        "slug": "restaurant-mine",
+        "name": "Restaurant MINE",
+        "km": 0.3
+      },
+      {
+        "slug": "seven-stars-falmouth",
+        "name": "Seven Stars, Falmouth",
+        "km": 0.3
+      },
+      {
+        "slug": "the-chic-pea",
+        "name": "The Chic Pea",
+        "km": 0.3
+      },
+      {
+        "slug": "the-chintz-bar-and-underland-music-venue",
+        "name": "The Chintz Bar & Underland Music Venue",
+        "km": 0.3
+      },
+      {
+        "slug": "the-fish-cabin",
+        "name": "The Fish Cabin",
+        "km": 0.3
+      },
+      {
+        "slug": "the-moth-and-the-moon",
+        "name": "The Moth & The Moon",
+        "km": 0.3
+      },
+      {
+        "slug": "bodega-18-falmouth",
+        "name": "Bodega 18 Falmouth",
+        "km": 0.4
+      },
+      {
+        "slug": "culture-restaurant",
+        "name": "Culture Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "the-front",
+        "name": "The Front",
+        "km": 0.4
+      },
+      {
+        "slug": "the-oddfellows-arms",
+        "name": "The Oddfellows Arms",
+        "km": 0.4
+      },
+      {
+        "slug": "the-boathouse-pub-and-restaurant",
+        "name": "The Boathouse Pub & Restaurant",
+        "km": 0.5
+      },
+      {
+        "slug": "glas",
+        "name": "Glas",
+        "km": 0.6
+      },
+      {
+        "slug": "kona",
+        "name": "Kona",
+        "km": 0.6
+      },
+      {
+        "slug": "the-shed",
+        "name": "The Shed",
+        "km": 0.7
+      },
+      {
+        "slug": "the-working-boat",
+        "name": "The Working Boat",
+        "km": 0.7
+      },
+      {
+        "slug": "casa-tapa",
+        "name": "Casa Tapa",
+        "km": 1
+      },
+      {
+        "slug": "the-royal-standard-flushing",
+        "name": "The Royal Standard",
+        "km": 1.1
+      },
+      {
+        "slug": "gylly-beach-cafe",
+        "name": "Gylly Beach Cafe",
+        "km": 1.2
+      },
+      {
+        "slug": "upperdeck-falmouth",
+        "name": "UpperDeck Falmouth",
+        "km": 1.4
+      },
+      {
+        "slug": "beach-house-falmouth",
+        "name": "Beach House Falmouth",
+        "km": 1.8
+      },
+      {
+        "slug": "muddy-beach",
+        "name": "Muddy Beach",
+        "km": 2.5
+      },
+      {
+        "slug": "the-famous-barrel",
+        "name": "The Famous Barrel",
+        "km": 2.6
+      },
+      {
+        "slug": "the-trelowarren-arms",
+        "name": "The Trelowarren Arms",
+        "km": 2.6
+      },
+      {
+        "slug": "cafe-mylor",
+        "name": "Café Mylor",
+        "km": 2.7
+      },
+      {
+        "slug": "castaways-wine-bar",
+        "name": "Castaways Wine Bar",
+        "km": 2.7
       }
     ]
   },
@@ -10994,7 +14147,7 @@
         "km": 7.5
       }
     ],
-    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km).",
+    "description": "Mawnan Smith is a village in South Coast. There are 11 named beaches within 5 km, the closest being Maenporth Beach (1.5 km). 1 of them has RNLI lifeguard cover in season. 8 aren’t on Cornwall Council’s dog restriction list. 16 attractions are listed within 10 km, 6 with indoor space for a rainy day. There is one place to eat and drink within 3 km. The nearest other bases are Helford (3.3 km) and Falmouth (5.2 km).",
     "attractionsNearby": [
       {
         "slug": "glendurgan",
@@ -11075,6 +14228,13 @@
         "slug": "rnas-culdrose-public-viewing-area",
         "name": "RNAS Culdrose public viewing area",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 2.3
       }
     ]
   },
@@ -11237,7 +14397,7 @@
         "km": 6.9
       }
     ],
-    "description": "Flushing is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tunnel Beach (2.2 km). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 15 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km).",
+    "description": "Flushing is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tunnel Beach (2.2 km). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 15 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 34 places to eat and drink within 3 km. The nearest other bases are Falmouth (1.1 km) and Mylor Bridge (2.3 km).",
     "attractionsNearby": [
       {
         "slug": "st-mawes-ferry",
@@ -11313,6 +14473,178 @@
         "slug": "boscawen-park",
         "name": "Boscawen Park",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-royal-standard-flushing",
+        "name": "The Royal Standard",
+        "km": 0.1
+      },
+      {
+        "slug": "the-working-boat",
+        "name": "The Working Boat",
+        "km": 0.6
+      },
+      {
+        "slug": "glas",
+        "name": "Glas",
+        "km": 0.7
+      },
+      {
+        "slug": "33-old-high-street",
+        "name": "33 Old High Street",
+        "km": 0.9
+      },
+      {
+        "slug": "restaurant-mine",
+        "name": "Restaurant MINE",
+        "km": 0.9
+      },
+      {
+        "slug": "the-boathouse-pub-and-restaurant",
+        "name": "The Boathouse Pub & Restaurant",
+        "km": 0.9
+      },
+      {
+        "slug": "the-chintz-bar-and-underland-music-venue",
+        "name": "The Chintz Bar & Underland Music Venue",
+        "km": 0.9
+      },
+      {
+        "slug": "beerwolf-books",
+        "name": "Beerwolf Books",
+        "km": 1.1
+      },
+      {
+        "slug": "indidog-harbourside-restaurant",
+        "name": "INDIDOG Harbourside Restaurant",
+        "km": 1.1
+      },
+      {
+        "slug": "palacio-lounge",
+        "name": "Palacio Lounge",
+        "km": 1.1
+      },
+      {
+        "slug": "seven-stars-falmouth",
+        "name": "Seven Stars, Falmouth",
+        "km": 1.1
+      },
+      {
+        "slug": "upperdeck-falmouth",
+        "name": "UpperDeck Falmouth",
+        "km": 1.1
+      },
+      {
+        "slug": "marina-turkish-kitchen",
+        "name": "Marina Turkish Kitchen",
+        "km": 1.2
+      },
+      {
+        "slug": "pennycomequick",
+        "name": "Pennycomequick",
+        "km": 1.2
+      },
+      {
+        "slug": "the-grapes-falmouth",
+        "name": "The Grapes Falmouth",
+        "km": 1.2
+      },
+      {
+        "slug": "seaview-inn",
+        "name": "Seaview Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-moth-and-the-moon",
+        "name": "The Moth & The Moon",
+        "km": 1.3
+      },
+      {
+        "slug": "the-chic-pea",
+        "name": "The Chic Pea",
+        "km": 1.4
+      },
+      {
+        "slug": "bodega-18-falmouth",
+        "name": "Bodega 18 Falmouth",
+        "km": 1.5
+      },
+      {
+        "slug": "cribbs-cornwall",
+        "name": "Cribbs Cornwall",
+        "km": 1.5
+      },
+      {
+        "slug": "culture-restaurant",
+        "name": "Culture Restaurant",
+        "km": 1.5
+      },
+      {
+        "slug": "the-fish-cabin",
+        "name": "The Fish Cabin",
+        "km": 1.5
+      },
+      {
+        "slug": "the-front",
+        "name": "The Front",
+        "km": 1.5
+      },
+      {
+        "slug": "the-oddfellows-arms",
+        "name": "The Oddfellows Arms",
+        "km": 1.5
+      },
+      {
+        "slug": "kona",
+        "name": "Kona",
+        "km": 1.7
+      },
+      {
+        "slug": "the-shed",
+        "name": "The Shed",
+        "km": 1.7
+      },
+      {
+        "slug": "cafe-mylor",
+        "name": "Café Mylor",
+        "km": 1.8
+      },
+      {
+        "slug": "castaways-wine-bar",
+        "name": "Castaways Wine Bar",
+        "km": 1.8
+      },
+      {
+        "slug": "casa-tapa",
+        "name": "Casa Tapa",
+        "km": 1.9
+      },
+      {
+        "slug": "muddy-beach",
+        "name": "Muddy Beach",
+        "km": 2
+      },
+      {
+        "slug": "the-famous-barrel",
+        "name": "The Famous Barrel",
+        "km": 2.2
+      },
+      {
+        "slug": "gylly-beach-cafe",
+        "name": "Gylly Beach Cafe",
+        "km": 2.3
+      },
+      {
+        "slug": "the-lemon-arms",
+        "name": "The Lemon Arms",
+        "km": 2.3
+      },
+      {
+        "slug": "beach-house-falmouth",
+        "name": "Beach House Falmouth",
+        "km": 2.9
       }
     ]
   },
@@ -11445,7 +14777,7 @@
         "km": 8
       }
     ],
-    "description": "Mylor Bridge is a village in South Coast. There are 4 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 20 attractions are listed within 10 km, 8 with indoor space for a rainy day. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km).",
+    "description": "Mylor Bridge is a village in South Coast. There are 4 named beaches within 5 km, the closest being Loe Beach (2.8 km). 1 of them has RNLI lifeguard cover in season. 1 isn’t on Cornwall Council’s dog restriction list. 20 attractions are listed within 10 km, 8 with indoor space for a rainy day. There are 10 places to eat and drink within 3 km. The nearest other bases are Flushing (2.3 km) and Falmouth (3.4 km).",
     "attractionsNearby": [
       {
         "slug": "st-mawes-ferry",
@@ -11546,6 +14878,58 @@
         "slug": "poldice-mine",
         "name": "Poldice Mine",
         "km": 9.2
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-lemon-arms",
+        "name": "The Lemon Arms",
+        "km": 0
+      },
+      {
+        "slug": "pandora-inn",
+        "name": "Pandora Inn",
+        "km": 1.4
+      },
+      {
+        "slug": "cafe-mylor",
+        "name": "Café Mylor",
+        "km": 1.9
+      },
+      {
+        "slug": "castaways-wine-bar",
+        "name": "Castaways Wine Bar",
+        "km": 1.9
+      },
+      {
+        "slug": "the-royal-standard-flushing",
+        "name": "The Royal Standard",
+        "km": 2.3
+      },
+      {
+        "slug": "muddy-beach",
+        "name": "Muddy Beach",
+        "km": 2.5
+      },
+      {
+        "slug": "upperdeck-falmouth",
+        "name": "UpperDeck Falmouth",
+        "km": 2.6
+      },
+      {
+        "slug": "the-famous-barrel",
+        "name": "The Famous Barrel",
+        "km": 2.7
+      },
+      {
+        "slug": "the-working-boat",
+        "name": "The Working Boat",
+        "km": 2.7
+      },
+      {
+        "slug": "glas",
+        "name": "Glas",
+        "km": 2.8
       }
     ]
   },
@@ -11677,7 +15061,7 @@
         "km": 11.9
       }
     ],
-    "description": "Truro is a visitor base in South Coast. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 10 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Mylor Bridge (8.9 km) and Portscatho (10.8 km).",
+    "description": "Truro is a visitor base in South Coast. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 10 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 25 places to eat and drink within 3 km. The nearest other bases are Mylor Bridge (8.9 km) and Portscatho (10.8 km).",
     "attractionsNearby": [
       {
         "slug": "enigma-escape-cornwall",
@@ -11728,6 +15112,133 @@
         "slug": "trewithen",
         "name": "Trewithen",
         "km": 9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "lemon-tree-bistro",
+        "name": "Lemon Tree Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "red-elephant-beer-cellar",
+        "name": "Red Elephant Beer Cellar",
+        "km": 0.1
+      },
+      {
+        "slug": "ruck-n-roll-diner",
+        "name": "Ruck n Roll Diner",
+        "km": 0.1
+      },
+      {
+        "slug": "the-market-inn-truro",
+        "name": "The Market Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-old-grammar-school",
+        "name": "The Old Grammar School",
+        "km": 0.1
+      },
+      {
+        "slug": "truro-lounge",
+        "name": "Truro Lounge",
+        "km": 0.1
+      },
+      {
+        "slug": "bodega-18-truro",
+        "name": "Bodega 18 Truro",
+        "km": 0.2
+      },
+      {
+        "slug": "herd-truro",
+        "name": "HERD Truro",
+        "km": 0.2
+      },
+      {
+        "slug": "hub-box-truro",
+        "name": "Hub Box Truro",
+        "km": 0.2
+      },
+      {
+        "slug": "petty-fours",
+        "name": "Petty Fours",
+        "km": 0.2
+      },
+      {
+        "slug": "the-barley-sheaf-inn-truro",
+        "name": "The Barley Sheaf Inn Truro",
+        "km": 0.2
+      },
+      {
+        "slug": "the-longstore-lemon-street",
+        "name": "The Longstore Lemon Street",
+        "km": 0.2
+      },
+      {
+        "slug": "the-old-ale-house",
+        "name": "The Old Ale House",
+        "km": 0.2
+      },
+      {
+        "slug": "the-white-hart-truro",
+        "name": "The White Hart",
+        "km": 0.2
+      },
+      {
+        "slug": "william-iv",
+        "name": "William IV",
+        "km": 0.2
+      },
+      {
+        "slug": "baba-gurgur-restaurant",
+        "name": "Baba Gurgur Restaurant",
+        "km": 0.3
+      },
+      {
+        "slug": "on-the-boards",
+        "name": "On The Boards",
+        "km": 0.3
+      },
+      {
+        "slug": "sip",
+        "name": "Sip",
+        "km": 0.3
+      },
+      {
+        "slug": "the-wig-and-pen",
+        "name": "The Wig & Pen",
+        "km": 0.3
+      },
+      {
+        "slug": "tabbs-restaurant",
+        "name": "Tabbs Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "the-rising-sun-truro",
+        "name": "The Rising Sun",
+        "km": 0.4
+      },
+      {
+        "slug": "the-thomas-daniell",
+        "name": "The Thomas Daniell",
+        "km": 0.5
+      },
+      {
+        "slug": "the-tapyard-riverside",
+        "name": "The Tapyard Riverside",
+        "km": 0.7
+      },
+      {
+        "slug": "county-arms-truro",
+        "name": "County Arms, Truro",
+        "km": 1.5
+      },
+      {
+        "slug": "heron-inn",
+        "name": "Heron Inn",
+        "km": 2.8
       }
     ]
   },
@@ -11915,7 +15426,7 @@
         "km": 8.2
       }
     ],
-    "description": "St Mawes is a village in South Coast. There are 11 named beaches within 5 km, the closest being Summers Beach (300 m). 1 of them has RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km).",
+    "description": "St Mawes is a village in South Coast. There are 11 named beaches within 5 km, the closest being Summers Beach (300 m). 1 of them has RNLI lifeguard cover in season. 6 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 10 places to eat and drink within 3 km. The nearest other bases are Portscatho (3.6 km) and Falmouth (3.9 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-st-anthony-head",
@@ -11981,6 +15492,58 @@
         "slug": "glendurgan",
         "name": "Glendurgan",
         "km": 9.1
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-victory-inn-st-mawes",
+        "name": "The Victory Inn St Mawes",
+        "km": 0
+      },
+      {
+        "slug": "mr-scorse-gourmet-deli-and-wines",
+        "name": "Mr Scorse Gourmet Deli and Wines",
+        "km": 0.1
+      },
+      {
+        "slug": "rising-sun-st-mawes",
+        "name": "Rising Sun, St Mawes",
+        "km": 0.1
+      },
+      {
+        "slug": "st-mawes-bakery",
+        "name": "St Mawes Bakery",
+        "km": 0.1
+      },
+      {
+        "slug": "st-mawes-hotel-and-restaurant",
+        "name": "St Mawes Hotel & Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "the-idle-rocks-hotel-and-restaurant",
+        "name": "The Idle Rocks Hotel & Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "the-watch-house",
+        "name": "The Watch House",
+        "km": 0.1
+      },
+      {
+        "slug": "the-bohella-bar",
+        "name": "The Bohella Bar",
+        "km": 0.2
+      },
+      {
+        "slug": "hotel-tresanton",
+        "name": "Hotel Tresanton",
+        "km": 0.4
+      },
+      {
+        "slug": "the-thirstea-co",
+        "name": "The Thirstea Co",
+        "km": 2
       }
     ]
   },
@@ -12143,7 +15706,7 @@
         "km": 7.3
       }
     ],
-    "description": "Portscatho is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tattams Beach (100 m). 8 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are St Mawes (3.6 km) and Flushing (6.9 km).",
+    "description": "Portscatho is a village in South Coast. There are 10 named beaches within 5 km, the closest being Tattams Beach (100 m). 8 aren’t on Cornwall Council’s dog restriction list. 11 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 8 places to eat and drink within 3 km. The nearest other bases are St Mawes (3.6 km) and Flushing (6.9 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-st-anthony-head",
@@ -12199,6 +15762,48 @@
         "slug": "boscawen-park",
         "name": "Boscawen Park",
         "km": 9.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "plume-of-feathers",
+        "name": "Plume of Feathers",
+        "km": 0.1
+      },
+      {
+        "slug": "portscatho-harbour-club",
+        "name": "Portscatho Harbour Club",
+        "km": 0.1
+      },
+      {
+        "slug": "the-boathouse-restaurant",
+        "name": "The Boathouse Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "tide-and-thyme",
+        "name": "Tide & Thyme",
+        "km": 0.1
+      },
+      {
+        "slug": "the-standard-inn-portscatho",
+        "name": "The Standard Inn, Portscatho",
+        "km": 0.4
+      },
+      {
+        "slug": "the-hidden-hut",
+        "name": "The Hidden Hut",
+        "km": 0.7
+      },
+      {
+        "slug": "the-rosevine",
+        "name": "The Rosevine",
+        "km": 1
+      },
+      {
+        "slug": "the-thirstea-co",
+        "name": "The Thirstea Co",
+        "km": 2.5
       }
     ]
   },
@@ -12346,7 +15951,7 @@
         "km": 12.4
       }
     ],
-    "description": "Portloe is a village in South Coast. There are 3 named beaches within 5 km, the closest being Perbean Beach (3.4 km). 7 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Portscatho (7.3 km) and Gorran Haven (7.6 km).",
+    "description": "Portloe is a village in South Coast. There are 3 named beaches within 5 km, the closest being Perbean Beach (3.4 km). 7 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Portscatho (7.3 km) and Gorran Haven (7.6 km).",
     "attractionsNearby": [
       {
         "slug": "trewithen",
@@ -12382,6 +15987,23 @@
         "slug": "national-trust-trelissick-garden",
         "name": "National Trust - Trelissick Garden",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-ship-inn-portloe",
+        "name": "The Ship Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "elerkey-guest-house",
+        "name": "Elerkey Guest House",
+        "km": 2.1
+      },
+      {
+        "slug": "the-new-inn-portloe",
+        "name": "The New Inn",
+        "km": 2.1
       }
     ]
   },
@@ -12554,7 +16176,7 @@
         "km": 13.5
       }
     ],
-    "description": "Gorran Haven is a village in South Coast. There are 12 named beaches within 5 km, the closest being Perhaver Beach (400 m). 11 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Mevagissey (3.2 km) and Portloe (7.6 km).",
+    "description": "Gorran Haven is a village in South Coast. There are 12 named beaches within 5 km, the closest being Perhaver Beach (400 m). 11 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 3 places to eat and drink within 3 km. The nearest other bases are Mevagissey (3.2 km) and Portloe (7.6 km).",
     "attractionsNearby": [
       {
         "slug": "mevagissey-aquarium",
@@ -12570,6 +16192,23 @@
         "slug": "the-lost-gardens-of-heligan",
         "name": "The Lost Gardens of Heligan",
         "km": 5.2
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-mermaid-beach-cafe",
+        "name": "The Mermaid Beach Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 1.3
+      },
+      {
+        "slug": "the-rising-sun-inn",
+        "name": "The Rising Sun Inn",
+        "km": 2.4
       }
     ]
   },
@@ -12757,7 +16396,7 @@
         "km": 10.6
       }
     ],
-    "description": "Mevagissey is a visitor base in South Coast. There are 11 named beaches within 5 km, the closest being Little Polstreath (500 m). 10 aren’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Gorran Haven (3.2 km) and Charlestown (7.3 km).",
+    "description": "Mevagissey is a visitor base in South Coast. There are 11 named beaches within 5 km, the closest being Little Polstreath (500 m). 10 aren’t on Cornwall Council’s dog restriction list. 7 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 21 places to eat and drink within 3 km. The nearest other bases are Gorran Haven (3.2 km) and Charlestown (7.3 km).",
     "attractionsNearby": [
       {
         "slug": "mevagissey-aquarium",
@@ -12793,6 +16432,113 @@
         "slug": "kidzworld-adventure-play",
         "name": "Kidzworld Adventure Play",
         "km": 9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "harbour-tavern",
+        "name": "Harbour Tavern",
+        "km": 0
+      },
+      {
+        "slug": "one-polkirt-hill-restaurant",
+        "name": "ONE Polkirt Hill Restaurant",
+        "km": 0
+      },
+      {
+        "slug": "orange-ora",
+        "name": "Orange Ora",
+        "km": 0
+      },
+      {
+        "slug": "salamander",
+        "name": "Salamander",
+        "km": 0
+      },
+      {
+        "slug": "the-kings-arms-mevagissey",
+        "name": "The Kings Arms",
+        "km": 0
+      },
+      {
+        "slug": "the-sharksfin",
+        "name": "The Sharksfin",
+        "km": 0
+      },
+      {
+        "slug": "the-wheelhouse",
+        "name": "The Wheelhouse",
+        "km": 0
+      },
+      {
+        "slug": "bens-plaice-mevagissey",
+        "name": "Ben's Plaice Mevagissey",
+        "km": 0.1
+      },
+      {
+        "slug": "cellar-bar",
+        "name": "Cellar Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "she-sells-mevagissey",
+        "name": "She Sells Mevagissey",
+        "km": 0.1
+      },
+      {
+        "slug": "the-fountain-inn-mevagissey",
+        "name": "The Fountain Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-ship-inn-mevagissey",
+        "name": "The Ship Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "teacup-tearoom",
+        "name": "Teacup Tearoom",
+        "km": 0.2
+      },
+      {
+        "slug": "the-harbour-catch",
+        "name": "The Harbour Catch",
+        "km": 0.2
+      },
+      {
+        "slug": "the-rising-sun-inn",
+        "name": "The Rising Sun Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "hub-box-pentewan",
+        "name": "Hub Box Pentewan",
+        "km": 2
+      },
+      {
+        "slug": "into-the-woods",
+        "name": "Into The Woods",
+        "km": 2.5
+      },
+      {
+        "slug": "little-bay-cafe",
+        "name": "Little Bay Cafe",
+        "km": 2.5
+      },
+      {
+        "slug": "ship-inn",
+        "name": "Ship Inn",
+        "km": 2.5
+      },
+      {
+        "slug": "the-cove-cafe",
+        "name": "The Cove Cafe",
+        "km": 2.5
+      },
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 3
       }
     ]
   },
@@ -12945,7 +16691,7 @@
         "km": 11.2
       }
     ],
-    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). 3 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Charlestown (2.6 km) and Par (6.4 km).",
+    "description": "St Austell is a visitor base in South Coast. There are 4 named beaches within 5 km, the closest being Porthpean Beach (2.6 km). 3 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 23 places to eat and drink within 3 km. The nearest other bases are Charlestown (2.6 km) and Par (6.4 km).",
     "attractionsNearby": [
       {
         "slug": "poltair-park",
@@ -13011,6 +16757,123 @@
         "slug": "mevagissey-aquarium",
         "name": "Mevagissey Aquarium",
         "km": 7.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "kernow-darts-ltd",
+        "name": "Kernow darts ltd",
+        "km": 0.1
+      },
+      {
+        "slug": "moustache-jacks-x-cluck-n-chuck",
+        "name": "Moustache Jacks x Cluck n Chuck",
+        "km": 0.1
+      },
+      {
+        "slug": "room-five-cornwall",
+        "name": "Room Five Cornwall",
+        "km": 0.1
+      },
+      {
+        "slug": "the-rann-wartha",
+        "name": "The Rann Wartha",
+        "km": 0.1
+      },
+      {
+        "slug": "waffled-uk",
+        "name": "WAFFLED UK",
+        "km": 0.1
+      },
+      {
+        "slug": "the-western-inn",
+        "name": "The Western Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "st-austell-brewery-visitor-centre-and-hicks-bar",
+        "name": "St Austell Brewery Visitor Centre & Hicks Bar",
+        "km": 0.6
+      },
+      {
+        "slug": "the-waterwheel-inn-and-restaurant",
+        "name": "The Waterwheel Inn and Restaurant",
+        "km": 1.1
+      },
+      {
+        "slug": "duke-of-cornwall",
+        "name": "Duke of Cornwall",
+        "km": 1.5
+      },
+      {
+        "slug": "the-carlyon-arms",
+        "name": "The Carlyon Arms",
+        "km": 1.7
+      },
+      {
+        "slug": "wing-shed-st-austell",
+        "name": "Wing Shed St Austell",
+        "km": 2.2
+      },
+      {
+        "slug": "the-white-pyramid",
+        "name": "The White Pyramid",
+        "km": 2.4
+      },
+      {
+        "slug": "salty-bay-pizza-kitchen",
+        "name": "Salty Bay Pizza Kitchen",
+        "km": 2.5
+      },
+      {
+        "slug": "holmbush-inn-st-austell",
+        "name": "Holmbush Inn, St Austell",
+        "km": 2.6
+      },
+      {
+        "slug": "polgooth-inn",
+        "name": "Polgooth Inn",
+        "km": 2.6
+      },
+      {
+        "slug": "rashleigh-arms-charlestown",
+        "name": "Rashleigh Arms, Charlestown",
+        "km": 2.6
+      },
+      {
+        "slug": "the-boathouse-charlestown",
+        "name": "The Boathouse Charlestown",
+        "km": 2.6
+      },
+      {
+        "slug": "the-kingswood-restaurant-and-rooms",
+        "name": "The Kingswood Restaurant & Rooms",
+        "km": 2.6
+      },
+      {
+        "slug": "beer-house-charlestown",
+        "name": "Beer House, Charlestown",
+        "km": 2.7
+      },
+      {
+        "slug": "pier-house-hotel-charlestown",
+        "name": "Pier House Hotel, Charlestown",
+        "km": 2.7
+      },
+      {
+        "slug": "springtide-charlestown",
+        "name": "Springtide, Charlestown",
+        "km": 2.7
+      },
+      {
+        "slug": "the-longstore-charlestown",
+        "name": "The Longstore Charlestown",
+        "km": 2.7
+      },
+      {
+        "slug": "the-rum-sailor",
+        "name": "The Rum Sailor",
+        "km": 2.7
       }
     ]
   },
@@ -13178,7 +17041,7 @@
         "km": 8.8
       }
     ],
-    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). 6 aren’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are St Austell (2.6 km) and Par (4.2 km).",
+    "description": "Charlestown is a village in South Coast. There are 7 named beaches within 5 km, the closest being Duporth Beach (600 m). 6 aren’t on Cornwall Council’s dog restriction list. 18 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 20 places to eat and drink within 3 km. The nearest other bases are St Austell (2.6 km) and Par (4.2 km).",
     "attractionsNearby": [
       {
         "slug": "pinetum-gardens",
@@ -13269,6 +17132,108 @@
         "slug": "roche-rock",
         "name": "Roche Rock",
         "km": 9.2
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "rashleigh-arms-charlestown",
+        "name": "Rashleigh Arms, Charlestown",
+        "km": 0.1
+      },
+      {
+        "slug": "springtide-charlestown",
+        "name": "Springtide, Charlestown",
+        "km": 0.1
+      },
+      {
+        "slug": "the-boathouse-charlestown",
+        "name": "The Boathouse Charlestown",
+        "km": 0.1
+      },
+      {
+        "slug": "the-longstore-charlestown",
+        "name": "The Longstore Charlestown",
+        "km": 0.1
+      },
+      {
+        "slug": "the-rum-sailor",
+        "name": "The Rum Sailor",
+        "km": 0.1
+      },
+      {
+        "slug": "beer-house-charlestown",
+        "name": "Beer House, Charlestown",
+        "km": 0.2
+      },
+      {
+        "slug": "pier-house-hotel-charlestown",
+        "name": "Pier House Hotel, Charlestown",
+        "km": 0.2
+      },
+      {
+        "slug": "edies",
+        "name": "Edie's",
+        "km": 0.7
+      },
+      {
+        "slug": "spice",
+        "name": "Spice",
+        "km": 0.7
+      },
+      {
+        "slug": "holmbush-inn-st-austell",
+        "name": "Holmbush Inn, St Austell",
+        "km": 0.8
+      },
+      {
+        "slug": "duke-of-cornwall",
+        "name": "Duke of Cornwall",
+        "km": 1.2
+      },
+      {
+        "slug": "the-carlyon-arms",
+        "name": "The Carlyon Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "st-austell-brewery-visitor-centre-and-hicks-bar",
+        "name": "St Austell Brewery Visitor Centre & Hicks Bar",
+        "km": 2.4
+      },
+      {
+        "slug": "waffled-uk",
+        "name": "WAFFLED UK",
+        "km": 2.5
+      },
+      {
+        "slug": "kernow-darts-ltd",
+        "name": "Kernow darts ltd",
+        "km": 2.6
+      },
+      {
+        "slug": "moustache-jacks-x-cluck-n-chuck",
+        "name": "Moustache Jacks x Cluck n Chuck",
+        "km": 2.6
+      },
+      {
+        "slug": "the-rann-wartha",
+        "name": "The Rann Wartha",
+        "km": 2.6
+      },
+      {
+        "slug": "room-five-cornwall",
+        "name": "Room Five Cornwall",
+        "km": 2.7
+      },
+      {
+        "slug": "the-western-inn",
+        "name": "The Western Inn",
+        "km": 2.9
+      },
+      {
+        "slug": "the-four-lords-st-blazey-gate",
+        "name": "The Four Lords, St Blazey Gate",
+        "km": 3
       }
     ]
   },
@@ -13441,7 +17406,7 @@
         "km": 7
       }
     ],
-    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). 7 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km).",
+    "description": "Par is a village in South Coast. There are 8 named beaches within 5 km, the closest being Spit Beach (1.0 km). 7 aren’t on Cornwall Council’s dog restriction list. 14 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 9 places to eat and drink within 3 km. The nearest other bases are Charlestown (4.2 km) and Fowey (5.1 km).",
     "attractionsNearby": [
       {
         "slug": "kidzworld-adventure-play",
@@ -13512,6 +17477,53 @@
         "slug": "restormel-castle",
         "name": "Restormel Castle",
         "km": 8.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-par-inn",
+        "name": "The Par Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "welcome-home-inn",
+        "name": "Welcome Home Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-royal-inn",
+        "name": "The Royal Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "the-ship-inn-par",
+        "name": "The Ship Inn",
+        "km": 1.2
+      },
+      {
+        "slug": "the-new-inn-tywardreath",
+        "name": "The New Inn, Tywardreath.",
+        "km": 1.3
+      },
+      {
+        "slug": "the-four-lords-st-blazey-gate",
+        "name": "The Four Lords, St Blazey Gate",
+        "km": 1.6
+      },
+      {
+        "slug": "pack-horse-inn",
+        "name": "Pack Horse Inn",
+        "km": 1.7
+      },
+      {
+        "slug": "sams-on-the-beach",
+        "name": "Sam's On The Beach",
+        "km": 2.1
+      },
+      {
+        "slug": "the-rashleigh-inn",
+        "name": "The Rashleigh Inn",
+        "km": 2.1
       }
     ]
   },
@@ -13654,7 +17666,7 @@
         "km": 8.6
       }
     ],
-    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). 5 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Polruan (800 m) and Par (5.1 km).",
+    "description": "Fowey is a visitor base in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (900 m). 5 aren’t on Cornwall Council’s dog restriction list. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 16 places to eat and drink within 3 km. The nearest other bases are Polruan (800 m) and Par (5.1 km).",
     "attractionsNearby": [
       {
         "slug": "fowey-aquarium",
@@ -13720,6 +17732,88 @@
         "slug": "restormel-castle",
         "name": "Restormel Castle",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "narla-by-charlie-walters",
+        "name": "Narla by Charlie Walters",
+        "km": 0.1
+      },
+      {
+        "slug": "the-lugger-inn-fowey",
+        "name": "The Lugger Inn Fowey",
+        "km": 0.1
+      },
+      {
+        "slug": "the-ship-inn-fowey",
+        "name": "The Ship Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "haveners-fowey",
+        "name": "Havener's, Fowey",
+        "km": 0.2
+      },
+      {
+        "slug": "olive-branch",
+        "name": "Olive Branch",
+        "km": 0.2
+      },
+      {
+        "slug": "sams-fowey",
+        "name": "Sam's Fowey",
+        "km": 0.2
+      },
+      {
+        "slug": "samphire-fowey",
+        "name": "Samphire Fowey",
+        "km": 0.2
+      },
+      {
+        "slug": "the-galleon-inn",
+        "name": "The Galleon Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-king-of-prussia",
+        "name": "The King of Prussia",
+        "km": 0.2
+      },
+      {
+        "slug": "north-street-kitchen",
+        "name": "North Street Kitchen",
+        "km": 0.4
+      },
+      {
+        "slug": "natures-window-brewery",
+        "name": "Nature's Window Brewery",
+        "km": 0.5
+      },
+      {
+        "slug": "the-old-ferry-inn",
+        "name": "The Old Ferry Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "the-lugger-inn",
+        "name": "The Lugger Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "the-russell-inn",
+        "name": "The Russell Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "bar-silo-cornwall",
+        "name": "Bar Silo Cornwall",
+        "km": 3
+      },
+      {
+        "slug": "fishermans-arms",
+        "name": "Fishermans Arms",
+        "km": 3
       }
     ]
   },
@@ -13862,7 +17956,7 @@
         "km": 9.1
       }
     ],
-    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). 5 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Fowey (800 m) and Par (5.5 km).",
+    "description": "Polruan is a village in South Coast. There are 6 named beaches within 5 km, the closest being Readymoney Cove Beach (800 m). 5 aren’t on Cornwall Council’s dog restriction list. 12 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 14 places to eat and drink within 3 km. The nearest other bases are Fowey (800 m) and Par (5.5 km).",
     "attractionsNearby": [
       {
         "slug": "fowey-aquarium",
@@ -13923,6 +18017,78 @@
         "slug": "porfell-wildlife-park-and-sanctuary",
         "name": "Porfell Wildlife Park & Sanctuary",
         "km": 9.8
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-russell-inn",
+        "name": "The Russell Inn",
+        "km": 0
+      },
+      {
+        "slug": "the-lugger-inn",
+        "name": "The Lugger Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "haveners-fowey",
+        "name": "Havener's, Fowey",
+        "km": 0.7
+      },
+      {
+        "slug": "the-king-of-prussia",
+        "name": "The King of Prussia",
+        "km": 0.7
+      },
+      {
+        "slug": "the-ship-inn-fowey",
+        "name": "The Ship Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "narla-by-charlie-walters",
+        "name": "Narla by Charlie Walters",
+        "km": 0.8
+      },
+      {
+        "slug": "olive-branch",
+        "name": "Olive Branch",
+        "km": 0.8
+      },
+      {
+        "slug": "sams-fowey",
+        "name": "Sam's Fowey",
+        "km": 0.8
+      },
+      {
+        "slug": "samphire-fowey",
+        "name": "Samphire Fowey",
+        "km": 0.8
+      },
+      {
+        "slug": "the-galleon-inn",
+        "name": "The Galleon Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "the-lugger-inn-fowey",
+        "name": "The Lugger Inn Fowey",
+        "km": 0.8
+      },
+      {
+        "slug": "natures-window-brewery",
+        "name": "Nature's Window Brewery",
+        "km": 1.1
+      },
+      {
+        "slug": "north-street-kitchen",
+        "name": "North Street Kitchen",
+        "km": 1.1
+      },
+      {
+        "slug": "the-old-ferry-inn",
+        "name": "The Old Ferry Inn",
+        "km": 1.3
       }
     ]
   },
@@ -14054,7 +18220,7 @@
         "km": 10.5
       }
     ],
-    "description": "Lostwithiel is a visitor base in South Coast. No named beaches are mapped within 5 km. 20 attractions are listed within 10 km, 10 with indoor space for a rainy day. The nearest other bases are Par (7.0 km) and Bodmin (8.1 km).",
+    "description": "Lostwithiel is a visitor base in South Coast. No named beaches are mapped within 5 km. 20 attractions are listed within 10 km, 10 with indoor space for a rainy day. There are 12 places to eat and drink within 3 km. The nearest other bases are Par (7.0 km) and Bodmin (8.1 km).",
     "attractionsNearby": [
       {
         "slug": "restormel-castle",
@@ -14155,6 +18321,68 @@
         "slug": "bodmin-and-wenford-railway-boscarne-junction",
         "name": "Bodmin & Wenford Railway (Boscarne Junction)",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-globe-inn",
+        "name": "The Globe Inn",
+        "km": 0
+      },
+      {
+        "slug": "moonlight-tandoori",
+        "name": "Moonlight Tandoori",
+        "km": 0.1
+      },
+      {
+        "slug": "restormel-kitchen",
+        "name": "Restormel Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "sunny-spice",
+        "name": "Sunny Spice",
+        "km": 0.1
+      },
+      {
+        "slug": "the-mess-hall",
+        "name": "The Mess Hall",
+        "km": 0.1
+      },
+      {
+        "slug": "white-light-crystals-and-coffee",
+        "name": "White Light Crystals And Coffee",
+        "km": 0.1
+      },
+      {
+        "slug": "kings-arms-hotel",
+        "name": "King's Arms Hotel",
+        "km": 0.2
+      },
+      {
+        "slug": "royal-oak-inn",
+        "name": "Royal Oak Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "earl-of-chatham",
+        "name": "Earl of Chatham",
+        "km": 0.3
+      },
+      {
+        "slug": "duchy-of-cornwall-nursery",
+        "name": "Duchy of Cornwall Nursery",
+        "km": 1.8
+      },
+      {
+        "slug": "colwith-farm-distillery-and-cafe",
+        "name": "Colwith Farm Distillery & Cafe",
+        "km": 2.4
+      },
+      {
+        "slug": "the-crown-inn-lostwithiel",
+        "name": "The Crown Inn",
+        "km": 2.7
       }
     ]
   },
@@ -14312,7 +18540,7 @@
         "km": 11.1
       }
     ],
-    "description": "Polperro is a visitor base in South Coast. There are 5 named beaches within 5 km, the closest being Polpero Beach (200 m). 9 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Looe (5.1 km) and Polruan (8.2 km).",
+    "description": "Polperro is a visitor base in South Coast. There are 5 named beaches within 5 km, the closest being Polpero Beach (200 m). 9 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 7 places to eat and drink within 3 km. The nearest other bases are Looe (5.1 km) and Polruan (8.2 km).",
     "attractionsNearby": [
       {
         "slug": "polperro-harbour-heritage-museum",
@@ -14358,6 +18586,43 @@
         "slug": "national-trust-fowey-estuary",
         "name": "National Trust - Fowey Estuary",
         "km": 9.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-noughts-and-crosses",
+        "name": "The Noughts and Crosses",
+        "km": 0
+      },
+      {
+        "slug": "blue-peter-inn",
+        "name": "Blue Peter Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "couchs-great-house",
+        "name": "Couch's Great House",
+        "km": 0.1
+      },
+      {
+        "slug": "the-ship-inn-polperro",
+        "name": "The Ship Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-three-pilchards",
+        "name": "The Three Pilchards",
+        "km": 0.1
+      },
+      {
+        "slug": "the-crumplehorn-inn-and-mill",
+        "name": "The Crumplehorn Inn & Mill",
+        "km": 0.6
+      },
+      {
+        "slug": "smugglers-rest",
+        "name": "Smugglers Rest",
+        "km": 1.9
       }
     ]
   },
@@ -14525,7 +18790,7 @@
         "km": 11.4
       }
     ],
-    "description": "Looe is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being East Looe Beach (200 m). 5 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Seaton (5.0 km) and Polperro (5.1 km).",
+    "description": "Looe is a visitor base in South Coast. There are 7 named beaches within 5 km, the closest being East Looe Beach (200 m). 5 attractions are listed within 10 km, one with indoor space for a rainy day. There are 22 places to eat and drink within 3 km. The nearest other bases are Seaton (5.0 km) and Polperro (5.1 km).",
     "attractionsNearby": [
       {
         "slug": "polperro-harbour-heritage-museum",
@@ -14551,6 +18816,118 @@
         "slug": "kartworld",
         "name": "Kartworld",
         "km": 8.7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "botel",
+        "name": "Botel",
+        "km": 0
+      },
+      {
+        "slug": "bullers-arms-looe",
+        "name": "Bullers Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "fifty-looe",
+        "name": "Fifty Looe",
+        "km": 0.1
+      },
+      {
+        "slug": "jjs-street-kitchen",
+        "name": "JJ’s Street Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "jujus-tapas-and-small-plates-looe",
+        "name": "JuJu's Tapas & Small Plates Looe",
+        "km": 0.1
+      },
+      {
+        "slug": "pepes-tex-mex-kitchen",
+        "name": "Pepe's Tex-Mex Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "sails-restaurant-looe",
+        "name": "SAILS RESTAURANT LOOE",
+        "km": 0.1
+      },
+      {
+        "slug": "smugglers-cott-restaurant",
+        "name": "Smugglers Cott Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "the-admiral-boscarn",
+        "name": "The Admiral Boscarn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-fishermans-arms-looe",
+        "name": "The Fishermans Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "the-sardine-factory-looe",
+        "name": "The Sardine Factory Looe",
+        "km": 0.1
+      },
+      {
+        "slug": "ye-old-grog-and-ale-house",
+        "name": "Ye Old Grog and Ale House",
+        "km": 0.1
+      },
+      {
+        "slug": "ye-olde-salutation-inn",
+        "name": "Ye Olde Salutation Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-golden-guinea",
+        "name": "The Golden Guinea",
+        "km": 0.2
+      },
+      {
+        "slug": "the-jolly-sailor-inn",
+        "name": "The Jolly Sailor Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-ship-inn-looe",
+        "name": "The Ship Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-black-swan-looe",
+        "name": "The Black Swan",
+        "km": 0.3
+      },
+      {
+        "slug": "the-fish-market",
+        "name": "The Fish Market",
+        "km": 0.3
+      },
+      {
+        "slug": "the-harbour-moon",
+        "name": "The Harbour Moon",
+        "km": 0.4
+      },
+      {
+        "slug": "the-globe-inn-looe",
+        "name": "The Globe Inn, Looe",
+        "km": 0.8
+      },
+      {
+        "slug": "the-barbican",
+        "name": "The Barbican",
+        "km": 1
+      },
+      {
+        "slug": "the-coddy-shack",
+        "name": "The Coddy Shack",
+        "km": 2.2
       }
     ]
   },
@@ -14708,7 +19085,7 @@
         "km": 11.2
       }
     ],
-    "description": "Seaton is a village in South Coast. There are 5 named beaches within 5 km, the closest being Seaton Beach (300 m). 1 of them has RNLI lifeguard cover in season. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Downderry (1.3 km) and Looe (5.0 km).",
+    "description": "Seaton is a village in South Coast. There are 5 named beaches within 5 km, the closest being Seaton Beach (300 m). 1 of them has RNLI lifeguard cover in season. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. There are 5 places to eat and drink within 3 km. The nearest other bases are Downderry (1.3 km) and Looe (5.0 km).",
     "attractionsNearby": [
       {
         "slug": "port-eliot-house-and-gardens",
@@ -14734,6 +19111,33 @@
         "slug": "polperro-harbour-heritage-museum",
         "name": "Polperro Harbour Heritage Museum",
         "km": 9.9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "smugglers-inn",
+        "name": "Smugglers Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "the-beach-house",
+        "name": "The Beach House",
+        "km": 0.3
+      },
+      {
+        "slug": "bewsheas-by-the-beach",
+        "name": "Bewshea's By The Beach",
+        "km": 1.3
+      },
+      {
+        "slug": "inn-on-the-shore",
+        "name": "Inn On The Shore",
+        "km": 1.3
+      },
+      {
+        "slug": "the-copley-arms",
+        "name": "The Copley Arms",
+        "km": 2.9
       }
     ]
   },
@@ -14845,7 +19249,7 @@
         "km": 15.5
       }
     ],
-    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 11 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km).",
+    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 11 attractions are listed within 10 km, 7 with indoor space for a rainy day. There are 20 places to eat and drink within 3 km. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km).",
     "attractionsNearby": [
       {
         "slug": "discovering42",
@@ -14901,6 +19305,108 @@
         "slug": "cornwall-falconry",
         "name": "Cornwall falconry",
         "km": 9.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-tavern",
+        "name": "The Tavern",
+        "km": 0.1
+      },
+      {
+        "slug": "masons-arms-bodmin",
+        "name": "Masons Arms Bodmin",
+        "km": 0.2
+      },
+      {
+        "slug": "pots",
+        "name": "Pots",
+        "km": 0.2
+      },
+      {
+        "slug": "q-bar",
+        "name": "Q Bar",
+        "km": 0.2
+      },
+      {
+        "slug": "moorlands-cafe-and-grill",
+        "name": "Moorlands Café & Grill",
+        "km": 0.3
+      },
+      {
+        "slug": "taste-of-portugal",
+        "name": "Taste of Portugal",
+        "km": 0.3
+      },
+      {
+        "slug": "flory-restaurant-and-cafe-bodmin",
+        "name": "Flory Restaurant and Café, Bodmin",
+        "km": 0.4
+      },
+      {
+        "slug": "hoi-an-restaurant",
+        "name": "Hội-An Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "hole-in-the-wall",
+        "name": "Hole In The Wall",
+        "km": 0.4
+      },
+      {
+        "slug": "native-burger-bodmin",
+        "name": "Native Burger Bodmin",
+        "km": 0.4
+      },
+      {
+        "slug": "soul-kitchen",
+        "name": "Soul kitchen",
+        "km": 0.4
+      },
+      {
+        "slug": "the-garland-ox-inn",
+        "name": "The Garland Ox Inn",
+        "km": 0.4
+      },
+      {
+        "slug": "the-weavers",
+        "name": "The Weavers",
+        "km": 0.4
+      },
+      {
+        "slug": "westberry-hotel-and-hoi-an-restaurant",
+        "name": "Westberry Hotel & Hội-An Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "the-chapel-restaurant-and-bar",
+        "name": "The Chapel Restaurant & Bar",
+        "km": 0.6
+      },
+      {
+        "slug": "gridl-breakfast",
+        "name": "GRIDL Breakfast",
+        "km": 1.3
+      },
+      {
+        "slug": "mk-lounge-and-sports-bar",
+        "name": "MK lounge And Sports bar",
+        "km": 1.3
+      },
+      {
+        "slug": "the-pad-720-games",
+        "name": "The Pad / 720 Games",
+        "km": 1.8
+      },
+      {
+        "slug": "borough-arms-bodmin",
+        "name": "Borough Arms, Bodmin",
+        "km": 2.1
+      },
+      {
+        "slug": "fern",
+        "name": "Fern",
+        "km": 2.1
       }
     ]
   },
@@ -15032,7 +19538,7 @@
         "km": 15.8
       }
     ],
-    "description": "Camelford is a town in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Tintagel (7.0 km) and Boscastle (7.7 km).",
+    "description": "Camelford is a town in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 13 attractions are listed within 10 km, 5 with indoor space for a rainy day. There are 7 places to eat and drink within 3 km. The nearest other bases are Tintagel (7.0 km) and Boscastle (7.7 km).",
     "attractionsNearby": [
       {
         "slug": "vale-of-avalon-arthurian-centre",
@@ -15098,6 +19604,43 @@
         "slug": "pentargon-waterfall",
         "name": "Pentargon Waterfall",
         "km": 8.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "darlington-inn",
+        "name": "Darlington Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "masons-arms",
+        "name": "Masons Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "nepalese-gurkha-restaurant-camelford",
+        "name": "Nepalese Gurkha Restaurant",
+        "km": 0.3
+      },
+      {
+        "slug": "the-knights-of-the-round-table",
+        "name": "The Knights Of The Round Table",
+        "km": 1.2
+      },
+      {
+        "slug": "mexi-kernow",
+        "name": "Mexi-Kernow",
+        "km": 1.7
+      },
+      {
+        "slug": "hilltop-farm-shop",
+        "name": "Hilltop Farm Shop",
+        "km": 1.9
+      },
+      {
+        "slug": "lanteglos-country-house-hotel",
+        "name": "Lanteglos Country House Hotel",
+        "km": 1.9
       }
     ]
   },
@@ -15229,7 +19772,7 @@
         "km": 22.2
       }
     ],
-    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 5 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km).",
+    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 5 attractions are listed within 10 km, 4 with indoor space for a rainy day. There are 13 places to eat and drink within 3 km. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km).",
     "attractionsNearby": [
       {
         "slug": "launceston-castle",
@@ -15255,6 +19798,73 @@
         "slug": "hidden-valley",
         "name": "Hidden Valley",
         "km": 5.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "native-burger-launceston",
+        "name": "Native Burger Launceston",
+        "km": 0
+      },
+      {
+        "slug": "harveys-bar",
+        "name": "Harvey’s Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "launceston-arms",
+        "name": "Launceston Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "the-launceston-fryers",
+        "name": "The Launceston Fryers",
+        "km": 0.1
+      },
+      {
+        "slug": "the-westgate-inn-launceston",
+        "name": "The Westgate Inn Launceston",
+        "km": 0.1
+      },
+      {
+        "slug": "yummies",
+        "name": "Yummies",
+        "km": 0.1
+      },
+      {
+        "slug": "kathmandu-nepalese-and-indian-cuisine-launceston",
+        "name": "Kathmandu Nepalese and Indian cuisine launceston",
+        "km": 0.2
+      },
+      {
+        "slug": "the-bell-inn-launceston",
+        "name": "The Bell Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-eagle-house-restaurant",
+        "name": "The Eagle House Restaurant",
+        "km": 0.2
+      },
+      {
+        "slug": "the-white-horse-inn",
+        "name": "The White Horse Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "proper-ansome-ltd",
+        "name": "Proper Ansome Ltd",
+        "km": 1.2
+      },
+      {
+        "slug": "firebrand-brewing-co",
+        "name": "Firebrand Brewing Co",
+        "km": 1.4
+      },
+      {
+        "slug": "cowslip-cafe",
+        "name": "Cowslip Cafe",
+        "km": 2.1
       }
     ]
   },
@@ -15386,7 +19996,7 @@
         "km": 12.3
       }
     ],
-    "description": "Liskeard is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 13 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are St Neot (7.4 km) and Seaton (11.2 km).",
+    "description": "Liskeard is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 13 attractions are listed within 10 km, 3 with indoor space for a rainy day. There are 11 places to eat and drink within 3 km. The nearest other bases are St Neot (7.4 km) and Seaton (11.2 km).",
     "attractionsNearby": [
       {
         "slug": "liskeard-museum",
@@ -15452,6 +20062,63 @@
         "slug": "alpaca-trekking-with-moor-view-alpacas",
         "name": "Alpaca Trekking with Moor View Alpacas",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "everest-tandoori-liskeard",
+        "name": "Everest Tandoori Liskeard",
+        "km": 0
+      },
+      {
+        "slug": "fancys-kitchen",
+        "name": "Fancy's Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "rumours",
+        "name": "Rumours",
+        "km": 0.1
+      },
+      {
+        "slug": "the-king-doniert",
+        "name": "The King Doniert",
+        "km": 0.1
+      },
+      {
+        "slug": "the-red-lion-liskeard",
+        "name": "The Red Lion",
+        "km": 0.1
+      },
+      {
+        "slug": "the-white-horse",
+        "name": "The White Horse",
+        "km": 0.1
+      },
+      {
+        "slug": "eliot-house-hotel",
+        "name": "Eliot House Hotel",
+        "km": 0.2
+      },
+      {
+        "slug": "the-himalayan-spice",
+        "name": "The Himalayan Spice",
+        "km": 0.2
+      },
+      {
+        "slug": "the-hub-vegetarian-cafe",
+        "name": "The Hub Vegetarian Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "premier-inn-liskeard-hotel",
+        "name": "Premier Inn Liskeard hotel",
+        "km": 1.2
+      },
+      {
+        "slug": "the-mexican-garden",
+        "name": "The Mexican Garden",
+        "km": 1.4
       }
     ]
   },
@@ -15583,7 +20250,7 @@
         "km": 17
       }
     ],
-    "description": "St Neot is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 3 with indoor space for a rainy day. The nearest other bases are Liskeard (7.4 km) and Lostwithiel (11.3 km).",
+    "description": "St Neot is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 3 with indoor space for a rainy day. There is one place to eat and drink within 3 km. The nearest other bases are Liskeard (7.4 km) and Lostwithiel (11.3 km).",
     "attractionsNearby": [
       {
         "slug": "carnglaze-caverns",
@@ -15634,6 +20301,13 @@
         "slug": "the-cheesewring",
         "name": "The Cheesewring",
         "km": 8.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "london-inn",
+        "name": "London Inn",
+        "km": 0.1
       }
     ]
   },
@@ -15745,7 +20419,7 @@
         "km": 15.7
       }
     ],
-    "description": "Callington is a visitor base in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 4 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Calstock (7.5 km) and Liskeard (11.9 km).",
+    "description": "Callington is a visitor base in Bodmin Moor & East Cornwall. There are no named beaches mapped within 5 km, so plan on a short drive to the coast. 4 attractions are listed within 10 km, one with indoor space for a rainy day. There are 11 places to eat and drink within 3 km. The nearest other bases are Calstock (7.5 km) and Liskeard (11.9 km).",
     "attractionsNearby": [
       {
         "slug": "dupath-well",
@@ -15766,6 +20440,63 @@
         "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
         "name": "The Cornish Maize Maze And Fun Farm Ltd",
         "km": 7
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "balti-king-restaurant",
+        "name": "Balti King Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "mexican-parilla",
+        "name": "Mexican Parilla",
+        "km": 0.1
+      },
+      {
+        "slug": "calli-pizza-cafe",
+        "name": "Calli Pizza Cafe",
+        "km": 0.2
+      },
+      {
+        "slug": "the-bulls-head",
+        "name": "The Bulls Head",
+        "km": 0.2
+      },
+      {
+        "slug": "the-cornish-ancestor-micro-pub",
+        "name": "The Cornish Ancestor Micro Pub",
+        "km": 0.2
+      },
+      {
+        "slug": "the-old-clink-evohex",
+        "name": "The Old Clink EVOHEX",
+        "km": 0.2
+      },
+      {
+        "slug": "the-pasty-shop",
+        "name": "The Pasty Shop",
+        "km": 0.2
+      },
+      {
+        "slug": "the-engine-house-at-compton-park",
+        "name": "The Engine House At Compton Park",
+        "km": 1.1
+      },
+      {
+        "slug": "bawdens-the-old-bakery",
+        "name": "Bawdens The Old Bakery",
+        "km": 2
+      },
+      {
+        "slug": "the-swingletree",
+        "name": "The Swingletree",
+        "km": 2
+      },
+      {
+        "slug": "louis-restaurant",
+        "name": "Louis Restaurant",
+        "km": 2.5
       }
     ]
   },
@@ -15897,7 +20628,7 @@
         "km": 18.1
       }
     ],
-    "description": "Calstock is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 4 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Callington (7.5 km) and Saltash (9.8 km).",
+    "description": "Calstock is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 4 attractions are listed within 10 km, one with indoor space for a rainy day. There are 8 places to eat and drink within 3 km. The nearest other bases are Callington (7.5 km) and Saltash (9.8 km).",
     "attractionsNearby": [
       {
         "slug": "national-trust-cotehele",
@@ -15918,6 +20649,48 @@
         "slug": "cadson-bury-hill-fort-national-trust",
         "name": "Cadson Bury Hill Fort - National Trust",
         "km": 9.3
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "lishe-coffee-shop",
+        "name": "Lishe Coffee Shop",
+        "km": 0.1
+      },
+      {
+        "slug": "the-boot-inn",
+        "name": "The Boot Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-tamar-inn",
+        "name": "The Tamar Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-queens-head",
+        "name": "The Queens Head",
+        "km": 2.1
+      },
+      {
+        "slug": "the-rising-sun-calstock",
+        "name": "The Rising Sun",
+        "km": 2.5
+      },
+      {
+        "slug": "the-carpenters-arms",
+        "name": "The Carpenters Arms",
+        "km": 2.8
+      },
+      {
+        "slug": "the-honicombe-arms",
+        "name": "The Honicombe Arms",
+        "km": 2.9
+      },
+      {
+        "slug": "the-cornish-inn",
+        "name": "The Cornish Inn",
+        "km": 3
       }
     ]
   },
@@ -16081,7 +20854,8 @@
         "name": "National Trust - Cotehele",
         "km": 9.8
       }
-    ]
+    ],
+    "foodNearby": []
   },
   {
     "slug": "torpoint",
@@ -16249,7 +21023,8 @@
         "name": "The Cornish Maize Maze And Fun Farm Ltd",
         "km": 9.3
       }
-    ]
+    ],
+    "foodNearby": []
   },
   {
     "slug": "cawsand",
@@ -16400,7 +21175,7 @@
         "km": 12.4
       }
     ],
-    "description": "Cawsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (200 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Kingsand (300 m) and Torpoint (4.8 km).",
+    "description": "Cawsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (200 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, one with indoor space for a rainy day. There is one place to eat and drink within 3 km. The nearest other bases are Kingsand (300 m) and Torpoint (4.8 km).",
     "attractionsNearby": [
       {
         "slug": "mount-edgcumbe-house-and-country-park",
@@ -16416,6 +21191,13 @@
         "slug": "antony-woodland-garden-and-woodland-walk",
         "name": "Antony Woodland Garden & Woodland Walk",
         "km": 6.6
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-devon-and-cornwall",
+        "name": "The Devon & Cornwall",
+        "km": 2
       }
     ]
   },
@@ -16548,7 +21330,7 @@
         "km": 12.5
       }
     ],
-    "description": "Kingsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (400 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Cawsand (300 m) and Torpoint (4.6 km).",
+    "description": "Kingsand is a village in Bodmin Moor & East Cornwall. There are 4 named beaches within 5 km, the closest being Cawsand Beach (400 m). 3 of them have RNLI lifeguard cover in season. 3 aren’t on Cornwall Council’s dog restriction list. 3 attractions are listed within 10 km, one with indoor space for a rainy day. There is one place to eat and drink within 3 km. The nearest other bases are Cawsand (300 m) and Torpoint (4.6 km).",
     "attractionsNearby": [
       {
         "slug": "mount-edgcumbe-house-and-country-park",
@@ -16564,6 +21346,13 @@
         "slug": "antony-woodland-garden-and-woodland-walk",
         "name": "Antony Woodland Garden & Woodland Walk",
         "km": 6.4
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "the-devon-and-cornwall",
+        "name": "The Devon & Cornwall",
+        "km": 1.9
       }
     ]
   },
@@ -16711,7 +21500,7 @@
         "km": 12.3
       }
     ],
-    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 4 attractions are listed within 10 km, one with indoor space for a rainy day. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km).",
+    "description": "Downderry is a village in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Downderry Beach (500 m). 1 of them has RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 4 attractions are listed within 10 km, one with indoor space for a rainy day. There are 4 places to eat and drink within 3 km. The nearest other bases are Seaton (1.3 km) and Portwrinkle (4.2 km).",
     "attractionsNearby": [
       {
         "slug": "port-eliot-house-and-gardens",
@@ -16732,6 +21521,28 @@
         "slug": "duloe-stone-circle",
         "name": "Duloe Stone Circle",
         "km": 9
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "bewsheas-by-the-beach",
+        "name": "Bewshea's By The Beach",
+        "km": 0
+      },
+      {
+        "slug": "inn-on-the-shore",
+        "name": "Inn On The Shore",
+        "km": 0.1
+      },
+      {
+        "slug": "smugglers-inn",
+        "name": "Smugglers Inn",
+        "km": 1
+      },
+      {
+        "slug": "the-beach-house",
+        "name": "The Beach House",
+        "km": 1
       }
     ]
   },
@@ -16879,7 +21690,7 @@
         "km": 8.4
       }
     ],
-    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Finnygook Beach (200 m). 3 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km).",
+    "description": "Portwrinkle is a hamlet in Bodmin Moor & East Cornwall. There are 7 named beaches within 5 km, the closest being Finnygook Beach (200 m). 3 of them have RNLI lifeguard cover in season. 5 aren’t on Cornwall Council’s dog restriction list. 5 attractions are listed within 10 km, 2 with indoor space for a rainy day. There is one place to eat and drink within 3 km. The nearest other bases are Downderry (4.2 km) and Seaton (5.5 km).",
     "attractionsNearby": [
       {
         "slug": "port-eliot-house-and-gardens",
@@ -16905,6 +21716,13 @@
         "slug": "the-cornish-maize-maze-and-fun-farm-ltd",
         "name": "The Cornish Maize Maze And Fun Farm Ltd",
         "km": 10
+      }
+    ],
+    "foodNearby": [
+      {
+        "slug": "silas-cove",
+        "name": "Silas Cove",
+        "km": 0.2
       }
     ]
   }

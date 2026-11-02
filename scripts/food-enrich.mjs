@@ -9,7 +9,9 @@
 import path from 'node:path';
 import { createRequire } from 'node:module';
 import { detectAll, FEATURES } from './lib/detect.mjs';
-import { readJson, writeJson, UA as BASE_UA } from './lib/util.mjs';
+import { readJson, writeJson, haversineKm, UA as BASE_UA } from './lib/util.mjs';
+
+const TOWNS = (await readJson('data/towns.json')) || [];
 
 const REFETCH = process.argv.includes('--refetch');
 const ONLY = (process.argv.find((a) => a.startsWith('--only=')) || '').split('=')[1];
@@ -194,7 +196,42 @@ async function enrichOne(pub) {
   const site = await crawlSite(pub);
   const textLen = site.pages.reduce((n, p) => n + p.text.length, 0);
   if (textLen < 200) return { ...emptyFeatures(`website unreadable (${site.note || 'status ' + site.homeStatus})`), _checkedAt: site.fetchedAt.slice(0, 10) };
-  const f = detectAll(site.pages);
+  // Group sites list their other venues ("Explore our sister venues…"): cut those blocks out first.
+  const SISTERS = /(sister (venues|pubs|sites|restaurants|hotels)|our other (pubs|venues|restaurants|sites|hotels)|more of our (pubs|venues)|explore our .{0,30}(venues|pubs)|see all .{0,30}pubs|discover (more of )?our (pubs|venues))/i;
+  const END = /(newsletter|sign up|copyright|©|privacy|follow us)/i;
+  const clean = site.pages.map((p) => {
+    const lines = p.text.split('\n');
+    const keep = [];
+    for (let i = 0; i < lines.length; i++) {
+      if (SISTERS.test(lines[i])) {
+        let j = i + 1;
+        while (j < lines.length && j - i < 40 && !END.test(lines[j])) j++;
+        i = j - 1;
+        continue;
+      }
+      keep.push(lines[i]);
+    }
+    return { ...p, text: keep.join('\n') };
+  });
+  const f = detectAll(clean);
+  // Group websites (pub chains, restaurant groups) talk about sister venues. Drop evidence that names
+  // a different Cornish town more than 5 km from this venue.
+  const far = TOWNS.filter((t) => haversineKm(t, pub) > 5).map((t) => t.name).filter((n) => n.length > 3);
+  // A "no" found on an events page is about that event (e.g. an over-18s night), not the venue.
+  for (const v of Object.values(f)) {
+    if (v?.value === 'no' && /event|whats-?on|what-s-on|gig/i.test(v.evidence?.url || '')) {
+      v.value = 'unknown';
+      v.evidence = null;
+    }
+  }
+  for (const v of Object.values(f)) {
+    const q = v?.evidence?.quote;
+    if (v?.value === 'yes' && q && far.some((n) => new RegExp(`\\b${n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`).test(q))) {
+      v.value = 'unknown';
+      v.evidence = null;
+      v.note = 'evidence was about another venue in the same group';
+    }
+  }
   return { ...f, _source: `own website (${site.pages.length} page${site.pages.length > 1 ? 's' : ''})`, _checkedAt: site.fetchedAt.slice(0, 10) };
 }
 

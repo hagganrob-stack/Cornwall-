@@ -2,8 +2,8 @@
 // Phase 3: collect pubs, restaurants and cafés in mainland Cornwall (food & drink).
 //
 //   Google Maps via SerpApi   discovery, type, opening hours, website, address, coordinates
-//                             (ratings / review counts are an inclusion threshold only: never stored or shown;
-//                             Google's photos and descriptions are not used)
+//                             Google rating and review count are stored and shown (dated, linked to the listing),
+//                             as on the Brighton Beer Guide; Google's photos and descriptions are not used
 //
 // One search per query per search centre (same centres as attractions). Responses are cached in
 // data/raw/serpapi, so re-runs cost nothing; --max-searches stops before the monthly allowance runs out.
@@ -140,6 +140,7 @@ for (const r of seen.values()) {
     website: r.website || null,
     phone: r.phone || null,
     price: r.price || null,
+    rating: r.rating ? { value: r.rating, reviews: r.reviews || 0, asOf: TODAY, source: listing } : null,
     hours: hours ? { value: 'listed', days: hours, closedDays: hours.filter(([, h]) => /closed/i.test(h)).map(([d]) => d), note: 'Hours from the Google Maps listing. Kitchen times and seasonal hours often differ, so check before you go.', source: listing } : { value: NOT_STATED },
     googlePlaceId: r.place_id,
     lastChecked: TODAY,

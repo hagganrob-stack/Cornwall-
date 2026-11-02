@@ -10,6 +10,7 @@ import Byline from '../../../components/Byline';
 import PlaceCard, { CardGrid } from '../../../components/PlaceCard';
 import OsmMap from '../../../components/OsmMap';
 import FoodBadges from '../../../components/FoodBadges';
+import Rating from '../../../components/Rating';
 import Nearby from '../../../components/Nearby';
 import { Container, Crumbs, SectionHeading, WeVisited, StayNearby, Sources, AuthorBio } from '../../../components/Blocks';
 import JsonLd from '../../../components/JsonLd';
@@ -96,6 +97,7 @@ export default async function TownPage({ params }) {
                     <Link href={`/food-and-drink/${v.slug}/`} className="block h-full rounded-2xl bg-white p-4 no-underline ring-1 ring-atlantic-950/10 hover:ring-seaglass-500">
                       <span className="block font-semibold text-atlantic-900">{v.name}</span>
                       <span className="text-sm text-atlantic-950/60">{v.category} · {km} km</span>
+                      <Rating rating={v.rating} compact className="ml-2" />
                       <FoodBadges v={v} className="mt-2" max={3} />
                     </Link>
                   </li>

@@ -5,6 +5,9 @@ import Link from 'next/link';
 const KINDS = [['', 'Everything'], ['pub', 'Pubs'], ['restaurant', 'Restaurants'], ['cafe', 'Cafés'], ['bar', 'Bars']];
 const TOGGLES = [
   ['dogFriendly', 'Dogs welcome'],
+  ['vegan', 'Vegan'],
+  ['vegetarian', 'Vegetarian'],
+  ['glutenFree', 'Gluten-free'],
   ['familyFriendly', 'Children welcome'],
   ['seaView', 'Sea views'],
   ['sundayRoast', 'Sunday roast'],
@@ -22,6 +25,7 @@ export default function FoodFinder({ rows, regions }) {
   const [kind, setKind] = useState('');
   const [need, setNeed] = useState({});
   const [shown, setShown] = useState(PAGE);
+  const [sort, setSort] = useState('rating');
   const counts = useMemo(() => Object.fromEntries(TOGGLES.map(([k]) => [k, rows.filter((r) => r[k]).length])), [rows]);
   const list = useMemo(() => {
     const s = q.trim().toLowerCase();
@@ -33,11 +37,12 @@ export default function FoodFinder({ rows, regions }) {
         TOGGLES.every(([k]) => !need[k] || r[k])
     );
   }, [rows, q, region, kind, need]);
+  const sorted = useMemo(() => (sort === 'rating' ? [...list].sort((a, b) => (b.rating || 0) - (a.rating || 0) || b.reviews - a.reviews) : [...list].sort((a, b) => a.name.localeCompare(b.name))), [list, sort]);
   const field = 'rounded-xl border-0 bg-white px-4 py-2.5 text-[15px] ring-1 ring-atlantic-950/15 focus:ring-2 focus:ring-seaglass-500 focus:outline-none';
   return (
     <div>
       <div className="rounded-3xl bg-sand-50 p-5 ring-1 ring-sand-200">
-        <div className="grid gap-3 md:grid-cols-[1fr_auto_auto]">
+        <div className="grid gap-3 md:grid-cols-[1fr_auto_auto_auto]">
           <input type="search" placeholder="Search a name, town or food (e.g. seafood)" value={q} onChange={(e) => (setQ(e.target.value), setShown(PAGE))} aria-label="Search" className={field} />
           <select value={region} onChange={(e) => (setRegion(e.target.value), setShown(PAGE))} aria-label="Region" className={field}>
             <option value="">All regions</option>
@@ -45,6 +50,10 @@ export default function FoodFinder({ rows, regions }) {
           </select>
           <select value={kind} onChange={(e) => (setKind(e.target.value), setShown(PAGE))} aria-label="Type" className={field}>
             {KINDS.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
+          </select>
+          <select value={sort} onChange={(e) => setSort(e.target.value)} aria-label="Sort" className={field}>
+            <option value="rating">Highest Google rating</option>
+            <option value="name">A to Z</option>
           </select>
         </div>
         <div className="mt-4 flex flex-wrap gap-2">
@@ -58,11 +67,12 @@ export default function FoodFinder({ rows, regions }) {
       </div>
       <p className="mt-5 text-sm text-atlantic-950/60" aria-live="polite">Showing {Math.min(shown, list.length)} of {list.length} places</p>
       <ul className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {list.slice(0, shown).map((r) => (
+        {sorted.slice(0, shown).map((r) => (
           <li key={r.slug}>
             <Link href={`/food-and-drink/${r.slug}/`} className="group block h-full rounded-2xl bg-white p-5 no-underline shadow-sm ring-1 ring-atlantic-950/5 transition hover:-translate-y-0.5 hover:shadow-lg">
               <p className="text-xs font-semibold uppercase tracking-wider text-seaglass-600">{LABEL[r.kind]} · {r.town}</p>
               <h3 className="mt-1 text-lg text-atlantic-900 group-hover:text-seaglass-600">{r.name}</h3>
+              {r.rating ? <p className="mt-0.5 text-sm text-atlantic-950/70"><span className="text-sand-700" aria-hidden="true">★</span> <strong className="text-atlantic-900">{r.rating.toFixed(1)}</strong> ({r.reviews.toLocaleString('en-GB')} Google reviews)</p> : null}
               <ul className="mt-3 flex flex-wrap gap-1.5">
                 {TOGGLES.filter(([k]) => r[k]).slice(0, 4).map(([k, l]) => <li key={k} className="chip bg-sand-100 text-sand-700">{l}</li>)}
               </ul>

@@ -328,6 +328,38 @@
         "name": "National Trust - East Pool Mine",
         "km": 4.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "pod-cafe-portreath",
+        "name": "Pod Café Portreath",
+        "km": 0.3
+      },
+      {
+        "slug": "basset-arms",
+        "name": "Basset Arms",
+        "km": 0.4
+      },
+      {
+        "slug": "the-waterfront-portreath",
+        "name": "The Waterfront",
+        "km": 0.4
+      },
+      {
+        "slug": "jay-bird-deli",
+        "name": "Jay Bird Deli",
+        "km": 0.6
+      },
+      {
+        "slug": "portreath-arms",
+        "name": "Portreath Arms",
+        "km": 0.6
+      },
+      {
+        "slug": "the-terrace-bar-and-restaurant",
+        "name": "The Terrace Bar and Restaurant",
+        "km": 1
+      }
     ]
   },
   {
@@ -566,6 +598,18 @@
         "slug": "st-mawes-ferry",
         "name": "St Mawes Ferry",
         "km": 2.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "beach-house-falmouth",
+        "name": "Beach House Falmouth",
+        "km": 0.8
+      },
+      {
+        "slug": "gylly-beach-cafe",
+        "name": "Gylly Beach Cafe",
+        "km": 1.6
       }
     ]
   },
@@ -942,6 +986,48 @@
         "name": "Upton Towans Nature Reserve",
         "km": 4.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "silco-bar-and-kitchen",
+        "name": "Silco Bar & Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "sloop-inn",
+        "name": "Sloop Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-wreck",
+        "name": "The Wreck",
+        "km": 0.2
+      },
+      {
+        "slug": "porthminster-kitchen",
+        "name": "Porthminster Kitchen",
+        "km": 0.3
+      },
+      {
+        "slug": "the-beach-restaurant",
+        "name": "The Beach Restaurant",
+        "km": 0.3
+      },
+      {
+        "slug": "the-rum-and-crab-shack",
+        "name": "The Rum & Crab Shack",
+        "km": 0.3
+      },
+      {
+        "slug": "brine-brunch-and-oysters",
+        "name": "Brine Brunch & Oysters",
+        "km": 0.4
+      },
+      {
+        "slug": "hub-st-ives",
+        "name": "Hub St Ives",
+        "km": 0.4
+      }
     ]
   },
   {
@@ -1190,6 +1276,48 @@
         "slug": "macdonalds-farm",
         "name": "Macdonald's Farm",
         "km": 4.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 0.8
+      },
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 0.9
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 1.2
+      },
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 1.3
+      },
+      {
+        "slug": "the-living-space",
+        "name": "The Living Space",
+        "km": 1.7
+      },
+      {
+        "slug": "wax-watergate-bay",
+        "name": "WAX Watergate Bay",
+        "km": 1.7
+      },
+      {
+        "slug": "zacrys",
+        "name": "Zacry's",
+        "km": 1.7
       }
     ]
   },
@@ -1490,6 +1618,48 @@
         "name": "Rage Cage Newquay",
         "km": 1.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "fistral-boardmasters-beach-bar",
+        "name": "Fistral Boardmasters Beach Bar",
+        "km": 0.4
+      },
+      {
+        "slug": "red-lion-newquay",
+        "name": "Red Lion Newquay",
+        "km": 0.4
+      },
+      {
+        "slug": "the-fish-house-fistral",
+        "name": "The Fish House Fistral",
+        "km": 0.4
+      },
+      {
+        "slug": "the-fistral-stable",
+        "name": "The Fistral Stable",
+        "km": 0.4
+      },
+      {
+        "slug": "ugly-butterfly-restaurant-and-bar-cornwall",
+        "name": "Ugly Butterfly Restaurant and Bar, Cornwall",
+        "km": 0.4
+      },
+      {
+        "slug": "parrilla",
+        "name": "Parrilla",
+        "km": 0.5
+      },
+      {
+        "slug": "rosa",
+        "name": "Rosa",
+        "km": 0.5
+      },
+      {
+        "slug": "fort-inn-newquay",
+        "name": "Fort Inn, Newquay",
+        "km": 0.6
+      }
     ]
   },
   {
@@ -1760,6 +1930,48 @@
         "name": "Tintagel Castle",
         "km": 1.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "vega",
+        "name": "Vega",
+        "km": 1.4
+      },
+      {
+        "slug": "charlies",
+        "name": "Charlie's",
+        "km": 1.5
+      },
+      {
+        "slug": "crossbow-cafe-and-grill",
+        "name": "Crossbow cafe & grill",
+        "km": 1.5
+      },
+      {
+        "slug": "irinas-restaurant-at-camelot-castle",
+        "name": "Irina's Restaurant at Camelot Castle",
+        "km": 1.5
+      },
+      {
+        "slug": "king-arthurs-arms-tintagel",
+        "name": "King Arthur's Arms",
+        "km": 1.5
+      },
+      {
+        "slug": "king-arthurs-arms-tintagel",
+        "name": "King Arthur's Arms",
+        "km": 1.5
+      },
+      {
+        "slug": "king-arthurs-cafe",
+        "name": "King Arthur's Cafe",
+        "km": 1.5
+      },
+      {
+        "slug": "the-cornishman-inn",
+        "name": "The Cornishman Inn",
+        "km": 1.5
+      }
     ]
   },
   {
@@ -2009,6 +2221,18 @@
         "slug": "st-michaels-mount",
         "name": "St Michael's Mount",
         "km": 4.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "stonesreef",
+        "name": "Stonesreef",
+        "km": 1.9
+      },
+      {
+        "slug": "the-welloe",
+        "name": "The Welloe",
+        "km": 1.9
       }
     ]
   },
@@ -2265,6 +2489,18 @@
         "name": "Lanyon Quoit",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "north-inn",
+        "name": "North Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "count-house-cafe",
+        "name": "Count House Café",
+        "km": 1.7
+      }
     ]
   },
   {
@@ -2516,6 +2752,13 @@
         "slug": "macdonalds-farm",
         "name": "Macdonald's Farm",
         "km": 4.2
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 1.6
       }
     ]
   },
@@ -2772,6 +3015,38 @@
         "name": "Hall Walk",
         "km": 4.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "sams-on-the-beach",
+        "name": "Sam's On The Beach",
+        "km": 0.6
+      },
+      {
+        "slug": "the-rashleigh-inn",
+        "name": "The Rashleigh Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "the-ship-inn-par",
+        "name": "The Ship Inn",
+        "km": 1
+      },
+      {
+        "slug": "welcome-home-inn",
+        "name": "Welcome Home Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "the-par-inn",
+        "name": "The Par Inn",
+        "km": 1.8
+      },
+      {
+        "slug": "the-new-inn-tywardreath",
+        "name": "The New Inn, Tywardreath.",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -3024,6 +3299,23 @@
         "slug": "penjerrick-garden",
         "name": "Penjerrick Garden",
         "km": 4.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 1.2
+      },
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 1.5
+      },
+      {
+        "slug": "the-new-inn-helford",
+        "name": "The New Inn",
+        "km": 1.7
       }
     ]
   },
@@ -3296,6 +3588,48 @@
         "slug": "ladies-window",
         "name": "Ladies Window",
         "km": 1.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "charlies",
+        "name": "Charlie's",
+        "km": 1.3
+      },
+      {
+        "slug": "crossbow-cafe-and-grill",
+        "name": "Crossbow cafe & grill",
+        "km": 1.3
+      },
+      {
+        "slug": "irinas-restaurant-at-camelot-castle",
+        "name": "Irina's Restaurant at Camelot Castle",
+        "km": 1.3
+      },
+      {
+        "slug": "king-arthurs-arms-tintagel",
+        "name": "King Arthur's Arms",
+        "km": 1.3
+      },
+      {
+        "slug": "king-arthurs-arms-tintagel",
+        "name": "King Arthur's Arms",
+        "km": 1.3
+      },
+      {
+        "slug": "king-arthurs-cafe",
+        "name": "King Arthur's Cafe",
+        "km": 1.3
+      },
+      {
+        "slug": "the-cornishman-inn",
+        "name": "The Cornishman Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-olde-malthouse",
+        "name": "The Olde Malthouse",
+        "km": 1.3
       }
     ]
   },
@@ -3629,6 +3963,43 @@
         "name": "The Ghost Walk Padstow",
         "km": 2.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-dining-room-restaurant",
+        "name": "The Dining Room restaurant",
+        "km": 1.1
+      },
+      {
+        "slug": "st-enodoc-by-paul-ainsworth",
+        "name": "St Enodoc by Paul Ainsworth",
+        "km": 1.4
+      },
+      {
+        "slug": "the-mariners-public-house-in-rock",
+        "name": "The Mariners Public House in Rock",
+        "km": 1.5
+      },
+      {
+        "slug": "bluntrock-brewery-and-taproom",
+        "name": "Bluntrock Brewery & Taproom",
+        "km": 1.9
+      },
+      {
+        "slug": "four-boys",
+        "name": "Four Boys",
+        "km": 1.9
+      },
+      {
+        "slug": "the-pityme-inn",
+        "name": "The Pityme Inn",
+        "km": 1.9
+      },
+      {
+        "slug": "the-upper-deck",
+        "name": "The Upper Deck",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -3914,6 +4285,33 @@
         "slug": "the-lizard-heritage-coast",
         "name": "The Lizard Heritage Coast",
         "km": 4.9
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "cadgwith-cove-crab",
+        "name": "Cadgwith Cove Crab",
+        "km": 0.1
+      },
+      {
+        "slug": "cadgwith-cove-inn",
+        "name": "Cadgwith Cove Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-old-cellars-cadgwith",
+        "name": "The Old Cellars Cadgwith",
+        "km": 0.1
+      },
+      {
+        "slug": "thai-wok-takeaway",
+        "name": "Thai Wok Takeaway",
+        "km": 1.9
+      },
+      {
+        "slug": "the-potters-bar",
+        "name": "The Potters Bar",
+        "km": 1.9
       }
     ]
   },
@@ -4283,6 +4681,48 @@
         "name": "Paradise Park and JungleBarn",
         "km": 3.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "romanos",
+        "name": "Romano's",
+        "km": 0.7
+      },
+      {
+        "slug": "porthminster-beach-cafe",
+        "name": "Porthminster Beach Cafe",
+        "km": 1.4
+      },
+      {
+        "slug": "bier-huis-grand-cafe",
+        "name": "Bier Huis Grand Café",
+        "km": 1.9
+      },
+      {
+        "slug": "feed",
+        "name": "Feed",
+        "km": 1.9
+      },
+      {
+        "slug": "mine-taproom",
+        "name": "Mine Taproom",
+        "km": 1.9
+      },
+      {
+        "slug": "the-kettle-and-wink",
+        "name": "The Kettle & Wink",
+        "km": 1.9
+      },
+      {
+        "slug": "the-three-ferrets",
+        "name": "The Three Ferrets",
+        "km": 1.9
+      },
+      {
+        "slug": "brine-brunch-and-oysters",
+        "name": "Brine Brunch & Oysters",
+        "km": 2
+      }
     ]
   },
   {
@@ -4584,7 +5024,24 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Carne and Pendower Beach is a large sand beach 3.7 km from Portloe, in South Coast. It faces south. On the map there is a car park beside the beach, public toilets and a café or kiosk nearby. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "shallikabooky-beach-hut",
+        "name": "Shallikabooky Beach Hut",
+        "km": 0.6
+      },
+      {
+        "slug": "elerkey-guest-house",
+        "name": "Elerkey Guest House",
+        "km": 1.9
+      },
+      {
+        "slug": "the-new-inn-portloe",
+        "name": "The New Inn",
+        "km": 1.9
+      }
+    ]
   },
   {
     "slug": "caunter-beach",
@@ -4792,7 +5249,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Caunter Beach is a beach 7.6 km from Bude, in North Coast. The beach faces west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "cawsand-beach",
@@ -5132,7 +5590,8 @@
         "name": "Mount Edgcumbe House and Country Park",
         "km": 3.2
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "cellars-beach",
@@ -5402,6 +5861,48 @@
         "slug": "st-mawes-ferry",
         "name": "St Mawes Ferry",
         "km": 4.5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "st-mawes-bakery",
+        "name": "St Mawes Bakery",
+        "km": 0.8
+      },
+      {
+        "slug": "st-mawes-hotel-and-restaurant",
+        "name": "St Mawes Hotel & Restaurant",
+        "km": 0.8
+      },
+      {
+        "slug": "the-idle-rocks-hotel-and-restaurant",
+        "name": "The Idle Rocks Hotel & Restaurant",
+        "km": 0.8
+      },
+      {
+        "slug": "mr-scorse-gourmet-deli-and-wines",
+        "name": "Mr Scorse Gourmet Deli and Wines",
+        "km": 0.9
+      },
+      {
+        "slug": "rising-sun-st-mawes",
+        "name": "Rising Sun, St Mawes",
+        "km": 0.9
+      },
+      {
+        "slug": "the-bohella-bar",
+        "name": "The Bohella Bar",
+        "km": 0.9
+      },
+      {
+        "slug": "the-victory-inn-st-mawes",
+        "name": "The Victory Inn St Mawes",
+        "km": 0.9
+      },
+      {
+        "slug": "the-watch-house",
+        "name": "The Watch House",
+        "km": 0.9
       }
     ]
   },
@@ -5713,6 +6214,18 @@
         "slug": "saint-agnes-museum",
         "name": "Saint Agnes Museum",
         "km": 2.4
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-victory-inn",
+        "name": "The Victory Inn",
+        "km": 1.4
+      },
+      {
+        "slug": "blue-bar",
+        "name": "Blue Bar",
+        "km": 1.5
       }
     ]
   },
@@ -6048,6 +6561,23 @@
         "name": "Bonython Estate Gardens",
         "km": 3.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "poldhu-beach-cafe-and-shop",
+        "name": "Poldhu Beach Cafe & Shop",
+        "km": 0.7
+      },
+      {
+        "slug": "polurrian-on-the-lizard",
+        "name": "Polurrian on the Lizard",
+        "km": 2
+      },
+      {
+        "slug": "the-halzephron-inn",
+        "name": "The Halzephron Inn",
+        "km": 2
+      }
     ]
   },
   {
@@ -6303,6 +6833,48 @@
         "name": "The Lost Gardens of Heligan",
         "km": 4.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-rising-sun-inn",
+        "name": "The Rising Sun Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-harbour-catch",
+        "name": "The Harbour Catch",
+        "km": 1.9
+      },
+      {
+        "slug": "harbour-tavern",
+        "name": "Harbour Tavern",
+        "km": 2
+      },
+      {
+        "slug": "one-polkirt-hill-restaurant",
+        "name": "ONE Polkirt Hill Restaurant",
+        "km": 2
+      },
+      {
+        "slug": "orange-ora",
+        "name": "Orange Ora",
+        "km": 2
+      },
+      {
+        "slug": "salamander",
+        "name": "Salamander",
+        "km": 2
+      },
+      {
+        "slug": "she-sells-mevagissey",
+        "name": "She Sells Mevagissey",
+        "km": 2
+      },
+      {
+        "slug": "the-kings-arms-mevagissey",
+        "name": "The Kings Arms",
+        "km": 2
+      }
     ]
   },
   {
@@ -6532,6 +7104,48 @@
         "slug": "the-bude-tunnel",
         "name": "The Bude Tunnel",
         "km": 0.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.6
+      },
+      {
+        "slug": "the-brendon-arms",
+        "name": "The Brendon Arms",
+        "km": 0.6
+      },
+      {
+        "slug": "the-coachmans-bar-and-grill",
+        "name": "The Coachman's Bar & Grill",
+        "km": 0.6
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.7
+      },
+      {
+        "slug": "olive-tree",
+        "name": "Olive Tree",
+        "km": 0.7
+      },
+      {
+        "slug": "temple-restaurant-terrace-bar",
+        "name": "Temple Restaurant + Terrace Bar",
+        "km": 0.8
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 0.9
+      },
+      {
+        "slug": "bencoolen-inn",
+        "name": "Bencoolen Inn",
+        "km": 0.9
       }
     ]
   },
@@ -6861,6 +7475,13 @@
         "name": "Macdonald's Farm",
         "km": 3.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 1.4
+      }
     ]
   },
   {
@@ -7125,6 +7746,48 @@
         "name": "Hall Walk",
         "km": 2.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-lugger-inn",
+        "name": "The Lugger Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-russell-inn",
+        "name": "The Russell Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-lugger-inn-fowey",
+        "name": "The Lugger Inn Fowey",
+        "km": 1.5
+      },
+      {
+        "slug": "the-ship-inn-fowey",
+        "name": "The Ship Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "haveners-fowey",
+        "name": "Havener's, Fowey",
+        "km": 1.6
+      },
+      {
+        "slug": "narla-by-charlie-walters",
+        "name": "Narla by Charlie Walters",
+        "km": 1.6
+      },
+      {
+        "slug": "olive-branch",
+        "name": "Olive Branch",
+        "km": 1.6
+      },
+      {
+        "slug": "sams-fowey",
+        "name": "Sam's Fowey",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -7333,7 +7996,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Cotton Beach is a beach 9.0 km from Bude, in North Coast. The beach faces west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "crackington-haven",
@@ -7649,7 +8313,29 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Crackington Haven is a medium sand beach at Crackington Haven, in North Coast. It faces west. On the map there is a car park about 250 m away, public toilets and cafés or kiosks nearby. RNLI lifeguards patrol in season, so check the RNLI page for this year’s dates. Dogs are not allowed 15 May to 30 September, 10am to 6pm. Outside those dates and times there is no Council restriction.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "the-cabin-cafe",
+        "name": "The Cabin Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "the-coombe-barton-inn",
+        "name": "The Coombe Barton Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "the-haven-beach-shop-and-cafe",
+        "name": "The Haven Beach Shop & Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "trevigue",
+        "name": "Trevigue",
+        "km": 1.8
+      }
+    ]
   },
   {
     "slug": "crantock-beach",
@@ -8003,6 +8689,18 @@
         "name": "The Killacourt",
         "km": 2.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "lewinnick-lodge",
+        "name": "Lewinnick Lodge",
+        "km": 0.6
+      },
+      {
+        "slug": "old-albion-inn",
+        "name": "Old Albion Inn",
+        "km": 1
+      }
     ]
   },
   {
@@ -8329,6 +9027,48 @@
         "slug": "menacuddle-well",
         "name": "Menacuddle Well",
         "km": 4.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "spice",
+        "name": "Spice",
+        "km": 1.2
+      },
+      {
+        "slug": "edies",
+        "name": "Edie's",
+        "km": 1.3
+      },
+      {
+        "slug": "the-four-lords-st-blazey-gate",
+        "name": "The Four Lords, St Blazey Gate",
+        "km": 1.6
+      },
+      {
+        "slug": "the-rum-sailor",
+        "name": "The Rum Sailor",
+        "km": 1.8
+      },
+      {
+        "slug": "beer-house-charlestown",
+        "name": "Beer House, Charlestown",
+        "km": 1.9
+      },
+      {
+        "slug": "holmbush-inn-st-austell",
+        "name": "Holmbush Inn, St Austell",
+        "km": 1.9
+      },
+      {
+        "slug": "pier-house-hotel-charlestown",
+        "name": "Pier House Hotel, Charlestown",
+        "km": 1.9
+      },
+      {
+        "slug": "rashleigh-arms-charlestown",
+        "name": "Rashleigh Arms, Charlestown",
+        "km": 1.9
       }
     ]
   },
@@ -8686,6 +9426,48 @@
         "name": "The Castle Bude",
         "km": 0.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.1
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.2
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.6
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 0.8
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 1
+      }
     ]
   },
   {
@@ -9004,6 +9786,48 @@
         "name": "National Lobster Hatchery",
         "km": 2.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 0.9
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 1.7
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 1.7
+      },
+      {
+        "slug": "four-boys",
+        "name": "Four Boys",
+        "km": 1.8
+      },
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 1.8
+      },
+      {
+        "slug": "the-upper-deck",
+        "name": "The Upper Deck",
+        "km": 1.8
+      },
+      {
+        "slug": "st-enodoc-by-paul-ainsworth",
+        "name": "St Enodoc by Paul Ainsworth",
+        "km": 1.9
+      },
+      {
+        "slug": "the-mariners-public-house-in-rock",
+        "name": "The Mariners Public House in Rock",
+        "km": 2
+      }
     ]
   },
   {
@@ -9282,6 +10106,18 @@
         "name": "Bonython Estate Gardens",
         "km": 3.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "poldhu-beach-cafe-and-shop",
+        "name": "Poldhu Beach Cafe & Shop",
+        "km": 1
+      },
+      {
+        "slug": "the-halzephron-inn",
+        "name": "The Halzephron Inn",
+        "km": 1.8
+      }
     ]
   },
   {
@@ -9532,7 +10368,8 @@
         "name": "National Trust - Old Serpentine Works",
         "km": 3.8
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "downderry-beach",
@@ -9840,7 +10677,29 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Downderry Beach is a medium beach at Downderry, in Bodmin Moor & East Cornwall. It faces south. On the map there is a car park about 70 m away, public toilets and a café or kiosk nearby. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "bewsheas-by-the-beach",
+        "name": "Bewshea's By The Beach",
+        "km": 0.5
+      },
+      {
+        "slug": "inn-on-the-shore",
+        "name": "Inn On The Shore",
+        "km": 0.5
+      },
+      {
+        "slug": "smugglers-inn",
+        "name": "Smugglers Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "the-beach-house",
+        "name": "The Beach House",
+        "km": 1.5
+      }
+    ]
   },
   {
     "slug": "duckpool",
@@ -10123,7 +10982,8 @@
         "name": "The Bude Tunnel",
         "km": 4.9
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "dunes",
@@ -10479,6 +11339,43 @@
         "name": "Trevelgue Head",
         "km": 5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 0.3
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 0.4
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 0.6
+      },
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 1.1
+      },
+      {
+        "slug": "retorrick-mill",
+        "name": "Retorrick Mill",
+        "km": 1.9
+      },
+      {
+        "slug": "buccas-kitchen",
+        "name": "Buccas Kitchen",
+        "km": 2
+      }
     ]
   },
   {
@@ -10780,6 +11677,48 @@
         "slug": "eden-project",
         "name": "Eden Project",
         "km": 3.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "beer-house-charlestown",
+        "name": "Beer House, Charlestown",
+        "km": 0.5
+      },
+      {
+        "slug": "pier-house-hotel-charlestown",
+        "name": "Pier House Hotel, Charlestown",
+        "km": 0.5
+      },
+      {
+        "slug": "springtide-charlestown",
+        "name": "Springtide, Charlestown",
+        "km": 0.5
+      },
+      {
+        "slug": "the-longstore-charlestown",
+        "name": "The Longstore Charlestown",
+        "km": 0.5
+      },
+      {
+        "slug": "rashleigh-arms-charlestown",
+        "name": "Rashleigh Arms, Charlestown",
+        "km": 0.6
+      },
+      {
+        "slug": "the-boathouse-charlestown",
+        "name": "The Boathouse Charlestown",
+        "km": 0.6
+      },
+      {
+        "slug": "the-rum-sailor",
+        "name": "The Rum Sailor",
+        "km": 0.6
+      },
+      {
+        "slug": "edies",
+        "name": "Edie's",
+        "km": 1.3
       }
     ]
   },
@@ -11104,7 +12043,49 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "East Looe Beach is a medium sand beach at Looe, in South Coast. On the map there is a car park about 300 m away, public toilets and cafés or kiosks nearby. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "jjs-street-kitchen",
+        "name": "JJ’s Street Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "jujus-tapas-and-small-plates-looe",
+        "name": "JuJu's Tapas & Small Plates Looe",
+        "km": 0.1
+      },
+      {
+        "slug": "the-admiral-boscarn",
+        "name": "The Admiral Boscarn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-fishermans-arms-looe",
+        "name": "The Fishermans Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "botel",
+        "name": "Botel",
+        "km": 0.2
+      },
+      {
+        "slug": "bullers-arms-looe",
+        "name": "Bullers Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "fifty-looe",
+        "name": "Fifty Looe",
+        "km": 0.2
+      },
+      {
+        "slug": "pepes-tex-mex-kitchen",
+        "name": "Pepe's Tex-Mex Kitchen",
+        "km": 0.2
+      }
+    ]
   },
   {
     "slug": "eliza-beach",
@@ -11348,7 +12329,8 @@
         "name": "The Castle Bude",
         "km": 4.3
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "finnygook-beach",
@@ -11661,6 +12643,13 @@
         "slug": "port-eliot-house-and-gardens",
         "name": "Port Eliot House & Gardens",
         "km": 4
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "silas-cove",
+        "name": "Silas Cove",
+        "km": 0.1
       }
     ]
   },
@@ -11978,6 +12967,48 @@
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
         "km": 1
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.3
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.3
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.7
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.8
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 0.9
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 1.1
       }
     ]
   },
@@ -12346,6 +13377,48 @@
         "name": "Rage Cage Newquay",
         "km": 1.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "fistral-boardmasters-beach-bar",
+        "name": "Fistral Boardmasters Beach Bar",
+        "km": 0.2
+      },
+      {
+        "slug": "the-fish-house-fistral",
+        "name": "The Fish House Fistral",
+        "km": 0.2
+      },
+      {
+        "slug": "the-fistral-stable",
+        "name": "The Fistral Stable",
+        "km": 0.2
+      },
+      {
+        "slug": "ugly-butterfly-restaurant-and-bar-cornwall",
+        "name": "Ugly Butterfly Restaurant and Bar, Cornwall",
+        "km": 0.2
+      },
+      {
+        "slug": "red-lion-newquay",
+        "name": "Red Lion Newquay",
+        "km": 0.7
+      },
+      {
+        "slug": "rosa",
+        "name": "Rosa",
+        "km": 0.7
+      },
+      {
+        "slug": "fort-inn-newquay",
+        "name": "Fort Inn, Newquay",
+        "km": 0.9
+      },
+      {
+        "slug": "parrilla",
+        "name": "Parrilla",
+        "km": 0.9
+      }
     ]
   },
   {
@@ -12592,7 +13665,8 @@
         "name": "National Trust - Carnewas at Bedruthan",
         "km": 4.3
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "freathy-beach",
@@ -12892,7 +13966,8 @@
         "name": "National Trust - Antony",
         "km": 4.8
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "furzy-cove",
@@ -13142,6 +14217,48 @@
         "name": "The Castle Bude",
         "km": 1.6
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.8
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.8
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.8
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 1.2
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 1.3
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 1.4
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -13346,6 +14463,43 @@
         "slug": "polperro-model-village",
         "name": "Polperro Model Village",
         "km": 1
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "blue-peter-inn",
+        "name": "Blue Peter Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "the-noughts-and-crosses",
+        "name": "The Noughts and Crosses",
+        "km": 0.8
+      },
+      {
+        "slug": "the-three-pilchards",
+        "name": "The Three Pilchards",
+        "km": 0.8
+      },
+      {
+        "slug": "couchs-great-house",
+        "name": "Couch's Great House",
+        "km": 0.9
+      },
+      {
+        "slug": "the-ship-inn-polperro",
+        "name": "The Ship Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "smugglers-rest",
+        "name": "Smugglers Rest",
+        "km": 1.2
+      },
+      {
+        "slug": "the-crumplehorn-inn-and-mill",
+        "name": "The Crumplehorn Inn & Mill",
+        "km": 1.3
       }
     ]
   },
@@ -13661,7 +14815,8 @@
         "name": "Upton Towans Nature Reserve",
         "km": 3.4
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "great-molunan",
@@ -13954,6 +15109,48 @@
         "name": "St Mawes Ferry",
         "km": 4.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "hotel-tresanton",
+        "name": "Hotel Tresanton",
+        "km": 1.4
+      },
+      {
+        "slug": "st-mawes-bakery",
+        "name": "St Mawes Bakery",
+        "km": 1.4
+      },
+      {
+        "slug": "st-mawes-hotel-and-restaurant",
+        "name": "St Mawes Hotel & Restaurant",
+        "km": 1.4
+      },
+      {
+        "slug": "the-victory-inn-st-mawes",
+        "name": "The Victory Inn St Mawes",
+        "km": 1.4
+      },
+      {
+        "slug": "mr-scorse-gourmet-deli-and-wines",
+        "name": "Mr Scorse Gourmet Deli and Wines",
+        "km": 1.5
+      },
+      {
+        "slug": "rising-sun-st-mawes",
+        "name": "Rising Sun, St Mawes",
+        "km": 1.5
+      },
+      {
+        "slug": "the-idle-rocks-hotel-and-restaurant",
+        "name": "The Idle Rocks Hotel & Restaurant",
+        "km": 1.5
+      },
+      {
+        "slug": "the-watch-house",
+        "name": "The Watch House",
+        "km": 1.5
+      }
     ]
   },
   {
@@ -14207,6 +15404,23 @@
         "slug": "the-lost-gardens-of-heligan",
         "name": "The Lost Gardens of Heligan",
         "km": 4.9
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mermaid-beach-cafe",
+        "name": "The Mermaid Beach Cafe",
+        "km": 0.6
+      },
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 1.7
+      },
+      {
+        "slug": "the-rising-sun-inn",
+        "name": "The Rising Sun Inn",
+        "km": 1.9
       }
     ]
   },
@@ -14601,6 +15815,48 @@
         "name": "Trenance Gardens",
         "km": 0.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "amalfis",
+        "name": "Amalfi's",
+        "km": 0.1
+      },
+      {
+        "slug": "ginger-and-joe",
+        "name": "Ginger & Joe",
+        "km": 0.2
+      },
+      {
+        "slug": "lost-brewing-co-taphouse-kitchen",
+        "name": "Lost Brewing Co • Taphouse • Kitchen",
+        "km": 0.2
+      },
+      {
+        "slug": "secret-garden",
+        "name": "Secret Garden",
+        "km": 0.2
+      },
+      {
+        "slug": "the-griffin-inn",
+        "name": "The Griffin Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "great-western",
+        "name": "Great Western",
+        "km": 0.3
+      },
+      {
+        "slug": "robo-newquay",
+        "name": "Robo Newquay",
+        "km": 0.3
+      },
+      {
+        "slug": "on-the-rocks",
+        "name": "On The Rocks",
+        "km": 0.4
+      }
     ]
   },
   {
@@ -14888,6 +16144,18 @@
         "name": "Penjerrick Garden",
         "km": 3.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 1.2
+      },
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 2
+      }
     ]
   },
   {
@@ -15142,6 +16410,28 @@
         "name": "National Lobster Hatchery",
         "km": 3.3
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 0.6
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 1.1
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 1.1
+      },
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 1.2
+      }
     ]
   },
   {
@@ -15374,7 +16664,8 @@
         "name": "National Trust - Godrevy",
         "km": 4.8
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "greenway-beach",
@@ -15582,7 +16873,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Greenway Beach is a beach 8.1 km from Bude, in North Coast. It faces west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "gully",
@@ -15835,6 +17127,28 @@
         "slug": "national-lobster-hatchery",
         "name": "National Lobster Hatchery",
         "km": 3
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 0.8
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 1.3
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 1.4
+      },
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 1.5
       }
     ]
   },
@@ -16130,6 +17444,13 @@
         "slug": "bonython-estate-gardens",
         "name": "Bonython Estate Gardens",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-halzephron-inn",
+        "name": "The Halzephron Inn",
+        "km": 1
       }
     ]
   },
@@ -16470,7 +17791,8 @@
         "name": "Upton Towans Nature Reserve",
         "km": 2.4
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "gwynver-beach",
@@ -16765,6 +18087,18 @@
         "slug": "cape-cornwall",
         "name": "Cape Cornwall",
         "km": 4.4
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "old-success-inn-sennen-cove",
+        "name": "Old Success Inn, Sennen Cove",
+        "km": 1.5
+      },
+      {
+        "slug": "shantys-fish-bar",
+        "name": "Shantys Fish Bar",
+        "km": 1.7
       }
     ]
   },
@@ -17136,6 +18470,48 @@
         "name": "Pendennis Castle",
         "km": 1.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "gylly-beach-cafe",
+        "name": "Gylly Beach Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "kona",
+        "name": "Kona",
+        "km": 0.8
+      },
+      {
+        "slug": "the-shed",
+        "name": "The Shed",
+        "km": 0.8
+      },
+      {
+        "slug": "beach-house-falmouth",
+        "name": "Beach House Falmouth",
+        "km": 0.9
+      },
+      {
+        "slug": "bodega-18-falmouth",
+        "name": "Bodega 18 Falmouth",
+        "km": 0.9
+      },
+      {
+        "slug": "casa-tapa",
+        "name": "Casa Tapa",
+        "km": 0.9
+      },
+      {
+        "slug": "cribbs-cornwall",
+        "name": "Cribbs Cornwall",
+        "km": 0.9
+      },
+      {
+        "slug": "culture-restaurant",
+        "name": "Culture Restaurant",
+        "km": 0.9
+      }
     ]
   },
   {
@@ -17485,6 +18861,48 @@
         "slug": "upton-towans-nature-reserve",
         "name": "Upton Towans Nature Reserve",
         "km": 4.9
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "brine-brunch-and-oysters",
+        "name": "Brine Brunch & Oysters",
+        "km": 0.1
+      },
+      {
+        "slug": "hub-st-ives",
+        "name": "Hub St Ives",
+        "km": 0.1
+      },
+      {
+        "slug": "lifeboat-inn-st-ives",
+        "name": "Lifeboat Inn, St Ives",
+        "km": 0.1
+      },
+      {
+        "slug": "mazza",
+        "name": "Mazza",
+        "km": 0.1
+      },
+      {
+        "slug": "pilchard-press-alehouse",
+        "name": "Pilchard Press Alehouse",
+        "km": 0.1
+      },
+      {
+        "slug": "talay-thai-kitchen",
+        "name": "Talay Thai Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "the-balcony-bar-and-kitchen",
+        "name": "The Balcony Bar & Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "bier-huis-grand-cafe",
+        "name": "Bier Huis Grand Café",
+        "km": 0.2
       }
     ]
   },
@@ -17848,6 +19266,48 @@
         "name": "Towan Headland",
         "km": 1.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "red-lion-newquay",
+        "name": "Red Lion Newquay",
+        "km": 0.1
+      },
+      {
+        "slug": "fort-inn-newquay",
+        "name": "Fort Inn, Newquay",
+        "km": 0.2
+      },
+      {
+        "slug": "parrilla",
+        "name": "Parrilla",
+        "km": 0.2
+      },
+      {
+        "slug": "herd",
+        "name": "HERD",
+        "km": 0.3
+      },
+      {
+        "slug": "rosa",
+        "name": "Rosa",
+        "km": 0.3
+      },
+      {
+        "slug": "on-the-rocks",
+        "name": "On The Rocks",
+        "km": 0.4
+      },
+      {
+        "slug": "rattler-beach-house",
+        "name": "Rattler Beach House",
+        "km": 0.4
+      },
+      {
+        "slug": "sailors-newquay",
+        "name": "Sailors Newquay",
+        "km": 0.4
+      }
     ]
   },
   {
@@ -18203,6 +19663,38 @@
         "slug": "macdonalds-farm",
         "name": "Macdonald's Farm",
         "km": 4.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-harlyn",
+        "name": "The Harlyn",
+        "km": 0.5
+      },
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 0.6
+      },
+      {
+        "slug": "ivy-house-restaurant-padstow",
+        "name": "Ivy House Restaurant Padstow",
+        "km": 1.8
+      },
+      {
+        "slug": "the-cornish-arms-harlyn",
+        "name": "The Cornish Arms",
+        "km": 1.8
+      },
+      {
+        "slug": "farmers-arms-inn",
+        "name": "Farmers Arms Inn",
+        "km": 1.9
+      },
+      {
+        "slug": "the-doghouse",
+        "name": "The Doghouse",
+        "km": 1.9
       }
     ]
   },
@@ -18601,7 +20093,29 @@
         "km": 4.4
       }
     ],
-    "customTitle": "Polzeath Beach"
+    "customTitle": "Polzeath Beach",
+    "nearbyFood": [
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 0.4
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 0.5
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 0.5
+      },
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 1.2
+      }
+    ]
   },
   {
     "slug": "hayle-towans-beach",
@@ -19000,6 +20514,48 @@
         "name": "Escape Time",
         "km": 4.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-bucket-of-blood",
+        "name": "The Bucket of Blood",
+        "km": 0.9
+      },
+      {
+        "slug": "gilberts-beach-bar-and-kitchen",
+        "name": "Gilbert's Beach Bar & Kitchen",
+        "km": 1.3
+      },
+      {
+        "slug": "the-cornish-arms-hayle",
+        "name": "The Cornish Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "the-terrace",
+        "name": "The Terrace",
+        "km": 1.4
+      },
+      {
+        "slug": "royal-standard-inn",
+        "name": "Royal Standard Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "the-copper-house-inn",
+        "name": "The Copper House Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "duckies-cafe",
+        "name": "Duckies Cafe",
+        "km": 1.9
+      },
+      {
+        "slug": "salt-kitchen-bar",
+        "name": "Salt Kitchen Bar",
+        "km": 2
+      }
     ]
   },
   {
@@ -19274,6 +20830,13 @@
         "name": "Mevagissey Museum",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -19527,6 +21090,18 @@
         "slug": "national-trust-godolphin",
         "name": "National Trust - Godolphin",
         "km": 4.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "stonesreef",
+        "name": "Stonesreef",
+        "km": 1.1
+      },
+      {
+        "slug": "the-welloe",
+        "name": "The Welloe",
+        "km": 1.1
       }
     ]
   },
@@ -19782,6 +21357,28 @@
         "name": "The Japanese Garden",
         "km": 3.6
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 0.9
+      },
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 1.3
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 1.4
+      }
     ]
   },
   {
@@ -20010,7 +21607,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Holacombe Beach is a beach 6.7 km from Bude, in North Coast. The beach faces north-west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "holywell-beach",
@@ -20356,6 +21954,13 @@
         "name": "Towan Headland",
         "km": 5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-treguth-inn",
+        "name": "The Treguth Inn",
+        "km": 0.8
+      }
     ]
   },
   {
@@ -20632,6 +22237,13 @@
         "name": "Port Eliot House & Gardens",
         "km": 4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "silas-cove",
+        "name": "Silas Cove",
+        "km": 0.5
+      }
     ]
   },
   {
@@ -20883,6 +22495,48 @@
         "name": "National Trust - Old Serpentine Works",
         "km": 4.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "fallowfields-restaurant",
+        "name": "Fallowfields Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "housel-bay",
+        "name": "Housel Bay",
+        "km": 0.1
+      },
+      {
+        "slug": "the-terrace-restaurant",
+        "name": "The Terrace Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "anns-pasties-and-bar",
+        "name": "Ann's Pasties & Bar",
+        "km": 0.7
+      },
+      {
+        "slug": "coast-coffee-bar-and-bistro",
+        "name": "Coast Coffee Bar & Bistro",
+        "km": 0.7
+      },
+      {
+        "slug": "lizard-shellfish",
+        "name": "Lizard Shellfish",
+        "km": 0.7
+      },
+      {
+        "slug": "the-top-house-inn",
+        "name": "The Top House Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "the-witchball",
+        "name": "The Witchball",
+        "km": 0.7
+      }
     ]
   },
   {
@@ -21126,6 +22780,28 @@
         "slug": "national-lobster-hatchery",
         "name": "National Lobster Hatchery",
         "km": 2.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 0.9
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 1.5
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 1.6
+      },
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 1.7
       }
     ]
   },
@@ -21489,6 +23165,23 @@
         "name": "Terence Coventry Sculpture Park",
         "km": 4.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "kennack-sands-beach-cafe",
+        "name": "Kennack Sands Beach Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "thai-wok-takeaway",
+        "name": "Thai Wok Takeaway",
+        "km": 1
+      },
+      {
+        "slug": "the-potters-bar",
+        "name": "The Potters Bar",
+        "km": 1
+      }
     ]
   },
   {
@@ -21731,6 +23424,18 @@
         "name": "St Michael's Mount",
         "km": 5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "stonesreef",
+        "name": "Stonesreef",
+        "km": 1.3
+      },
+      {
+        "slug": "the-welloe",
+        "name": "The Welloe",
+        "km": 1.3
+      }
     ]
   },
   {
@@ -21956,6 +23661,18 @@
         "slug": "st-michaels-mount",
         "name": "St Michael's Mount",
         "km": 4.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "stonesreef",
+        "name": "Stonesreef",
+        "km": 1.7
+      },
+      {
+        "slug": "the-welloe",
+        "name": "The Welloe",
+        "km": 1.7
       }
     ]
   },
@@ -22257,6 +23974,13 @@
         "name": "National Trust - Old Serpentine Works",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "kynance-cove-cafe",
+        "name": "Kynance Cove Cafe",
+        "km": 0
+      }
     ]
   },
   {
@@ -22517,7 +24241,8 @@
         "name": "National Trust - Fowey Estuary",
         "km": 3.5
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "leggan-cove",
@@ -22769,6 +24494,33 @@
         "name": "Terence Coventry Sculpture Park",
         "km": 4.6
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "roskillys",
+        "name": "Roskilly's",
+        "km": 1.4
+      },
+      {
+        "slug": "the-three-tuns",
+        "name": "The Three Tuns",
+        "km": 1.6
+      },
+      {
+        "slug": "fat-apples-cafe",
+        "name": "Fat Apples Cafe",
+        "km": 1.7
+      },
+      {
+        "slug": "the-greenhouse",
+        "name": "The Greenhouse",
+        "km": 1.7
+      },
+      {
+        "slug": "the-white-hart-st-keverne",
+        "name": "The White Hart",
+        "km": 1.7
+      }
     ]
   },
   {
@@ -23003,6 +24755,43 @@
         "slug": "polperro-model-village",
         "name": "Polperro Model Village",
         "km": 1.5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "smugglers-rest",
+        "name": "Smugglers Rest",
+        "km": 0.7
+      },
+      {
+        "slug": "blue-peter-inn",
+        "name": "Blue Peter Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-three-pilchards",
+        "name": "The Three Pilchards",
+        "km": 1.3
+      },
+      {
+        "slug": "the-noughts-and-crosses",
+        "name": "The Noughts and Crosses",
+        "km": 1.4
+      },
+      {
+        "slug": "couchs-great-house",
+        "name": "Couch's Great House",
+        "km": 1.5
+      },
+      {
+        "slug": "the-ship-inn-polperro",
+        "name": "The Ship Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "the-crumplehorn-inn-and-mill",
+        "name": "The Crumplehorn Inn & Mill",
+        "km": 1.7
       }
     ]
   },
@@ -23268,7 +25057,8 @@
         "name": "National Trust - Fowey Estuary",
         "km": 3.7
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "little-molunan",
@@ -23587,6 +25377,48 @@
         "slug": "st-mawes-ferry",
         "name": "St Mawes Ferry",
         "km": 4.2
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "hotel-tresanton",
+        "name": "Hotel Tresanton",
+        "km": 1.5
+      },
+      {
+        "slug": "st-mawes-bakery",
+        "name": "St Mawes Bakery",
+        "km": 1.5
+      },
+      {
+        "slug": "st-mawes-hotel-and-restaurant",
+        "name": "St Mawes Hotel & Restaurant",
+        "km": 1.5
+      },
+      {
+        "slug": "mr-scorse-gourmet-deli-and-wines",
+        "name": "Mr Scorse Gourmet Deli and Wines",
+        "km": 1.6
+      },
+      {
+        "slug": "rising-sun-st-mawes",
+        "name": "Rising Sun, St Mawes",
+        "km": 1.6
+      },
+      {
+        "slug": "the-idle-rocks-hotel-and-restaurant",
+        "name": "The Idle Rocks Hotel & Restaurant",
+        "km": 1.6
+      },
+      {
+        "slug": "the-victory-inn-st-mawes",
+        "name": "The Victory Inn St Mawes",
+        "km": 1.6
+      },
+      {
+        "slug": "the-watch-house",
+        "name": "The Watch House",
+        "km": 1.6
       }
     ]
   },
@@ -23915,6 +25747,18 @@
         "name": "Mevagissey Museum",
         "km": 3.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mermaid-beach-cafe",
+        "name": "The Mermaid Beach Cafe",
+        "km": 0.2
+      },
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -24201,6 +26045,48 @@
         "name": "The Lost Gardens of Heligan",
         "km": 2.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "bens-plaice-mevagissey",
+        "name": "Ben's Plaice Mevagissey",
+        "km": 0.4
+      },
+      {
+        "slug": "cellar-bar",
+        "name": "Cellar Bar",
+        "km": 0.4
+      },
+      {
+        "slug": "she-sells-mevagissey",
+        "name": "She Sells Mevagissey",
+        "km": 0.4
+      },
+      {
+        "slug": "teacup-tearoom",
+        "name": "Teacup Tearoom",
+        "km": 0.4
+      },
+      {
+        "slug": "the-fountain-inn-mevagissey",
+        "name": "The Fountain Inn",
+        "km": 0.4
+      },
+      {
+        "slug": "the-harbour-catch",
+        "name": "The Harbour Catch",
+        "km": 0.4
+      },
+      {
+        "slug": "the-sharksfin",
+        "name": "The Sharksfin",
+        "km": 0.4
+      },
+      {
+        "slug": "harbour-tavern",
+        "name": "Harbour Tavern",
+        "km": 0.5
+      }
     ]
   },
   {
@@ -24443,6 +26329,13 @@
         "slug": "the-marconi-centre",
         "name": "The Marconi Centre",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "atlantic-inn",
+        "name": "Atlantic Inn",
+        "km": 1.9
       }
     ]
   },
@@ -24718,6 +26611,13 @@
         "slug": "king-harry-ferry",
         "name": "King Harry Ferry",
         "km": 2.1
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "pandora-inn",
+        "name": "Pandora Inn",
+        "km": 1.4
       }
     ]
   },
@@ -25086,6 +26986,23 @@
         "name": "Penzance Promenade",
         "km": 2.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mexico-inn",
+        "name": "The Mexico Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "tremenheere-kitchen",
+        "name": "Tremenheere Kitchen",
+        "km": 1.4
+      },
+      {
+        "slug": "the-coldstreamer-inn-gulval",
+        "name": "The Coldstreamer Inn, Gulval",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -25395,6 +27312,48 @@
         "name": "Pirate's Quest Adventure Golf",
         "km": 1.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "ansum",
+        "name": "Ansum",
+        "km": 0.9
+      },
+      {
+        "slug": "porth-beach-hotel-and-restaurant",
+        "name": "Porth Beach Hotel and Restaurant",
+        "km": 0.9
+      },
+      {
+        "slug": "the-mermaid-inn",
+        "name": "The Mermaid Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "great-western",
+        "name": "Great Western",
+        "km": 1
+      },
+      {
+        "slug": "the-lanherne-pub",
+        "name": "The Lanherne Pub",
+        "km": 1
+      },
+      {
+        "slug": "robo-newquay",
+        "name": "Robo Newquay",
+        "km": 1.1
+      },
+      {
+        "slug": "secret-garden",
+        "name": "Secret Garden",
+        "km": 1.1
+      },
+      {
+        "slug": "tallo-newquay",
+        "name": "Tallo Newquay",
+        "km": 1.2
+      }
     ]
   },
   {
@@ -25623,7 +27582,8 @@
         "name": "Trevose Head Lighthouse",
         "km": 0.5
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "maenporth-beach",
@@ -25966,6 +27926,13 @@
         "name": "Kernow Escape",
         "km": 3.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "beach-house-falmouth",
+        "name": "Beach House Falmouth",
+        "km": 2
+      }
     ]
   },
   {
@@ -26214,6 +28181,48 @@
       {
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
+        "km": 1.4
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.6
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.6
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.6
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 1.1
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 1.1
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 1.2
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
         "km": 1.4
       }
     ]
@@ -26465,6 +28474,48 @@
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
         "km": 1.2
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.4
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.4
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.4
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.5
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.8
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.9
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 1
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 1.3
       }
     ]
   },
@@ -26838,6 +28889,23 @@
         "name": "Penzance Promenade",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-cutty-sark-restaurant-and-bar",
+        "name": "The Cutty Sark Restaurant and Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "the-kings-arms-marazion",
+        "name": "The Kings Arms",
+        "km": 0.1
+      },
+      {
+        "slug": "the-fire-engine",
+        "name": "The Fire Engine",
+        "km": 0.7
+      }
     ]
   },
   {
@@ -27175,6 +29243,33 @@
         "slug": "trevelgue-head",
         "name": "Trevelgue Head",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 0.5
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 0.5
+      },
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 0.5
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 0.8
+      },
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 1.3
       }
     ]
   },
@@ -27535,6 +29630,48 @@
         "name": "The Castle Bude",
         "km": 0.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.2
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.2
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.3
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.3
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.5
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 0.7
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 0.8
+      }
     ]
   },
   {
@@ -27842,7 +29979,49 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Millendreath Beach is a small sand beach 1.6 km from Looe, in South Coast. It faces south. On the map there is a car park about 100 m away, public toilets and a café or kiosk nearby. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "the-barbican",
+        "name": "The Barbican",
+        "km": 0.9
+      },
+      {
+        "slug": "the-coddy-shack",
+        "name": "The Coddy Shack",
+        "km": 1.3
+      },
+      {
+        "slug": "the-black-swan-looe",
+        "name": "The Black Swan",
+        "km": 1.4
+      },
+      {
+        "slug": "the-globe-inn-looe",
+        "name": "The Globe Inn, Looe",
+        "km": 1.4
+      },
+      {
+        "slug": "bullers-arms-looe",
+        "name": "Bullers Arms",
+        "km": 1.5
+      },
+      {
+        "slug": "fifty-looe",
+        "name": "Fifty Looe",
+        "km": 1.5
+      },
+      {
+        "slug": "jjs-street-kitchen",
+        "name": "JJ’s Street Kitchen",
+        "km": 1.5
+      },
+      {
+        "slug": "jujus-tapas-and-small-plates-looe",
+        "name": "JuJu's Tapas & Small Plates Looe",
+        "km": 1.5
+      }
+    ]
   },
   {
     "slug": "mother-ivys-bay",
@@ -28141,6 +30320,18 @@
         "slug": "macdonalds-farm",
         "name": "Macdonald's Farm",
         "km": 4.9
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 1.3
+      },
+      {
+        "slug": "the-harlyn",
+        "name": "The Harlyn",
+        "km": 1.7
       }
     ]
   },
@@ -28512,6 +30703,23 @@
         "name": "The Merry Maidens Stone Circle",
         "km": 4.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "2-fore-street-restaurant",
+        "name": "2 Fore Street Restaurant",
+        "km": 0.1
+      },
+      {
+        "slug": "mousehole-deli-and-kitchen",
+        "name": "Mousehole Deli & Kitchen",
+        "km": 0.1
+      },
+      {
+        "slug": "the-old-coastguard",
+        "name": "The Old Coastguard",
+        "km": 0.2
+      }
     ]
   },
   {
@@ -28777,6 +30985,13 @@
         "slug": "logan-rock",
         "name": "Logan Rock",
         "km": 4.2
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "first-and-last-inn",
+        "name": "First & Last Inn",
+        "km": 1.9
       }
     ]
   },
@@ -29080,6 +31295,43 @@
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
         "km": 2.2
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 1.4
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 1.4
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 1.4
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 1.4
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 1.9
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 1.9
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 1.9
       }
     ]
   },
@@ -29427,6 +31679,43 @@
         "name": "Eden Project",
         "km": 4.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-ship-inn-par",
+        "name": "The Ship Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "sams-on-the-beach",
+        "name": "Sam's On The Beach",
+        "km": 1
+      },
+      {
+        "slug": "the-rashleigh-inn",
+        "name": "The Rashleigh Inn",
+        "km": 1
+      },
+      {
+        "slug": "welcome-home-inn",
+        "name": "Welcome Home Inn",
+        "km": 1.2
+      },
+      {
+        "slug": "the-par-inn",
+        "name": "The Par Inn",
+        "km": 1.3
+      },
+      {
+        "slug": "the-new-inn-tywardreath",
+        "name": "The New Inn, Tywardreath.",
+        "km": 1.7
+      },
+      {
+        "slug": "the-royal-inn",
+        "name": "The Royal Inn",
+        "km": 1.8
+      }
     ]
   },
   {
@@ -29699,6 +31988,23 @@
         "name": "Penjerrick Garden",
         "km": 4.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 0.9
+      },
+      {
+        "slug": "the-new-inn-helford",
+        "name": "The New Inn",
+        "km": 2
+      }
     ]
   },
   {
@@ -29927,6 +32233,48 @@
       {
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
+        "km": 1.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 0.9
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 0.9
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 0.9
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 1.4
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 1.5
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 1.5
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
         "km": 1.7
       }
     ]
@@ -30189,6 +32537,18 @@
         "slug": "the-merry-maidens-stone-circle",
         "name": "The Merry Maidens Stone Circle",
         "km": 4.5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "farm-fort",
+        "name": "Farm + Fort",
+        "km": 0.7
+      },
+      {
+        "slug": "the-logan-rock-inn",
+        "name": "The Logan Rock Inn",
+        "km": 0.8
       }
     ]
   },
@@ -30468,6 +32828,23 @@
         "name": "Halliggye Fogou",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 1
+      },
+      {
+        "slug": "the-new-inn-helford",
+        "name": "The New Inn",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -30727,6 +33104,18 @@
         "slug": "chysauster-ancient-village",
         "name": "Chysauster Ancient Village",
         "km": 4.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-tinners-arms",
+        "name": "The Tinners Arms",
+        "km": 0.8
+      },
+      {
+        "slug": "the-gurnards-head",
+        "name": "The Gurnard's Head",
+        "km": 1.8
       }
     ]
   },
@@ -31077,6 +33466,48 @@
         "name": "The Lost Gardens of Heligan",
         "km": 2.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "hub-box-pentewan",
+        "name": "Hub Box Pentewan",
+        "km": 0.1
+      },
+      {
+        "slug": "into-the-woods",
+        "name": "Into The Woods",
+        "km": 0.5
+      },
+      {
+        "slug": "little-bay-cafe",
+        "name": "Little Bay Cafe",
+        "km": 0.5
+      },
+      {
+        "slug": "ship-inn",
+        "name": "Ship Inn",
+        "km": 0.5
+      },
+      {
+        "slug": "the-cove-cafe",
+        "name": "The Cove Cafe",
+        "km": 0.5
+      },
+      {
+        "slug": "cellar-bar",
+        "name": "Cellar Bar",
+        "km": 1.9
+      },
+      {
+        "slug": "teacup-tearoom",
+        "name": "Teacup Tearoom",
+        "km": 1.9
+      },
+      {
+        "slug": "the-fountain-inn-mevagissey",
+        "name": "The Fountain Inn",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -31354,6 +33785,28 @@
         "slug": "national-lobster-hatchery",
         "name": "National Lobster Hatchery",
         "km": 4.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 0.8
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 0.9
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 0.9
+      },
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 1.6
       }
     ]
   },
@@ -31653,6 +34106,28 @@
         "name": "National Lobster Hatchery",
         "km": 4.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "surfside-polzeath",
+        "name": "Surfside Polzeath",
+        "km": 0.7
+      },
+      {
+        "slug": "the-waterfront-polzeath",
+        "name": "The Waterfront",
+        "km": 0.8
+      },
+      {
+        "slug": "tjs-roof-terrace-and-bar",
+        "name": "TJ's Roof Terrace and Bar",
+        "km": 0.8
+      },
+      {
+        "slug": "the-mowhay",
+        "name": "The Mowhay",
+        "km": 1.5
+      }
     ]
   },
   {
@@ -31920,6 +34395,48 @@
         "name": "National Trust - Old Serpentine Works",
         "km": 4.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "anns-pasties-and-bar",
+        "name": "Ann's Pasties & Bar",
+        "km": 1
+      },
+      {
+        "slug": "coast-coffee-bar-and-bistro",
+        "name": "Coast Coffee Bar & Bistro",
+        "km": 1
+      },
+      {
+        "slug": "the-top-house-inn",
+        "name": "The Top House Inn",
+        "km": 1
+      },
+      {
+        "slug": "chimichangas",
+        "name": "Chimichangas",
+        "km": 1.1
+      },
+      {
+        "slug": "kynance-cove-cafe",
+        "name": "Kynance Cove Cafe",
+        "km": 1.1
+      },
+      {
+        "slug": "lizard-shellfish",
+        "name": "Lizard Shellfish",
+        "km": 1.1
+      },
+      {
+        "slug": "the-witchball",
+        "name": "The Witchball",
+        "km": 1.1
+      },
+      {
+        "slug": "polpeor-cafe",
+        "name": "Polpeor Cafe",
+        "km": 1.4
+      }
     ]
   },
   {
@@ -32186,7 +34703,8 @@
         "name": "National Trust - Carnewas at Bedruthan",
         "km": 4.7
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "perbean-beach",
@@ -32440,7 +34958,14 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Perbean Beach is a small beach 3.4 km from Portloe, in South Coast. The beach faces south. On the map there is a car park about 250 m away. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "caerhays-beach-cafe",
+        "name": "Caerhays Beach Cafe",
+        "km": 0.9
+      }
+    ]
   },
   {
     "slug": "perhaver-beach",
@@ -32766,6 +35291,18 @@
         "slug": "mevagissey-museum",
         "name": "Mevagissey Museum",
         "km": 3.3
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mermaid-beach-cafe",
+        "name": "The Mermaid Beach Cafe",
+        "km": 0
+      },
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 1.6
       }
     ]
   },
@@ -33121,6 +35658,48 @@
         "name": "Perranporth Boating Lake",
         "km": 2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "coast-beach-bar",
+        "name": "Coast Beach Bar",
+        "km": 0.6
+      },
+      {
+        "slug": "surfbay",
+        "name": "Surfbay",
+        "km": 0.6
+      },
+      {
+        "slug": "the-watering-hole",
+        "name": "The Watering Hole",
+        "km": 1.4
+      },
+      {
+        "slug": "alcatraz-bar-and-cafe",
+        "name": "Alcatraz Bar & Cafe",
+        "km": 1.5
+      },
+      {
+        "slug": "summer-house",
+        "name": "Summer House",
+        "km": 1.6
+      },
+      {
+        "slug": "no-4-breakfast-and-bistro",
+        "name": "No.4 Breakfast & Bistro",
+        "km": 1.7
+      },
+      {
+        "slug": "seiners-arms",
+        "name": "Seiners Arms",
+        "km": 1.7
+      },
+      {
+        "slug": "the-perranporth-inn",
+        "name": "The Perranporth Inn",
+        "km": 1.7
+      }
     ]
   },
   {
@@ -33473,6 +36052,48 @@
         "name": "Perranporth Boating Lake",
         "km": 0.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "seiners-arms",
+        "name": "Seiners Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "alcatraz-bar-and-cafe",
+        "name": "Alcatraz Bar & Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "droskyn-lookout",
+        "name": "Droskyn Lookout",
+        "km": 0.3
+      },
+      {
+        "slug": "no-4-breakfast-and-bistro",
+        "name": "No.4 Breakfast & Bistro",
+        "km": 0.3
+      },
+      {
+        "slug": "summer-house",
+        "name": "Summer House",
+        "km": 0.3
+      },
+      {
+        "slug": "the-green-parrot",
+        "name": "The Green Parrot",
+        "km": 0.3
+      },
+      {
+        "slug": "swell-cafe-and-takeaway",
+        "name": "Swell Café and Takeaway",
+        "km": 0.4
+      },
+      {
+        "slug": "the-cove",
+        "name": "The Cove",
+        "km": 0.4
+      }
     ]
   },
   {
@@ -33788,7 +36409,8 @@
         "name": "St Michael's Mount",
         "km": 2.6
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "piskies-cove",
@@ -34028,7 +36650,8 @@
         "name": "St Michael's Mount",
         "km": 4.5
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "plaidy-beach",
@@ -34324,7 +36947,49 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Plaidy Beach is a medium beach 1.3 km from Looe, in South Coast. It faces south-east. On the map there is a car park about 350 m away, public toilets and a café or kiosk nearby. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "the-barbican",
+        "name": "The Barbican",
+        "km": 0.6
+      },
+      {
+        "slug": "jjs-street-kitchen",
+        "name": "JJ’s Street Kitchen",
+        "km": 1.1
+      },
+      {
+        "slug": "jujus-tapas-and-small-plates-looe",
+        "name": "JuJu's Tapas & Small Plates Looe",
+        "km": 1.1
+      },
+      {
+        "slug": "the-admiral-boscarn",
+        "name": "The Admiral Boscarn",
+        "km": 1.1
+      },
+      {
+        "slug": "the-black-swan-looe",
+        "name": "The Black Swan",
+        "km": 1.1
+      },
+      {
+        "slug": "the-globe-inn-looe",
+        "name": "The Globe Inn, Looe",
+        "km": 1.1
+      },
+      {
+        "slug": "the-golden-guinea",
+        "name": "The Golden Guinea",
+        "km": 1.1
+      },
+      {
+        "slug": "botel",
+        "name": "Botel",
+        "km": 1.2
+      }
+    ]
   },
   {
     "slug": "poldhu-cove",
@@ -34650,6 +37315,43 @@
         "name": "The Lizard Heritage Coast",
         "km": 4.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "poldhu-beach-cafe-and-shop",
+        "name": "Poldhu Beach Cafe & Shop",
+        "km": 0.2
+      },
+      {
+        "slug": "polurrian-on-the-lizard",
+        "name": "Polurrian on the Lizard",
+        "km": 1.3
+      },
+      {
+        "slug": "the-old-inn-mullion",
+        "name": "The Old Inn, Mullion",
+        "km": 1.5
+      },
+      {
+        "slug": "the-mounts-bay-inn",
+        "name": "The Mounts Bay Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "the-village-restaurant",
+        "name": "The Village Restaurant",
+        "km": 1.6
+      },
+      {
+        "slug": "mullion-cove-hotel-cornwall",
+        "name": "Mullion Cove Hotel Cornwall",
+        "km": 1.9
+      },
+      {
+        "slug": "porthmellin-cafe",
+        "name": "Porthmellin Cafe",
+        "km": 2
+      }
     ]
   },
   {
@@ -34956,6 +37658,48 @@
         "name": "The Lost Gardens of Heligan",
         "km": 3.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-rising-sun-inn",
+        "name": "The Rising Sun Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "harbour-tavern",
+        "name": "Harbour Tavern",
+        "km": 0.6
+      },
+      {
+        "slug": "one-polkirt-hill-restaurant",
+        "name": "ONE Polkirt Hill Restaurant",
+        "km": 0.6
+      },
+      {
+        "slug": "orange-ora",
+        "name": "Orange Ora",
+        "km": 0.6
+      },
+      {
+        "slug": "the-harbour-catch",
+        "name": "The Harbour Catch",
+        "km": 0.6
+      },
+      {
+        "slug": "the-kings-arms-mevagissey",
+        "name": "The Kings Arms",
+        "km": 0.6
+      },
+      {
+        "slug": "the-sharksfin",
+        "name": "The Sharksfin",
+        "km": 0.6
+      },
+      {
+        "slug": "the-wheelhouse",
+        "name": "The Wheelhouse",
+        "km": 0.6
+      }
     ]
   },
   {
@@ -35231,6 +37975,43 @@
         "name": "Polperro Model Village",
         "km": 0.3
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "blue-peter-inn",
+        "name": "Blue Peter Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-three-pilchards",
+        "name": "The Three Pilchards",
+        "km": 0.1
+      },
+      {
+        "slug": "couchs-great-house",
+        "name": "Couch's Great House",
+        "km": 0.2
+      },
+      {
+        "slug": "the-noughts-and-crosses",
+        "name": "The Noughts and Crosses",
+        "km": 0.2
+      },
+      {
+        "slug": "the-ship-inn-polperro",
+        "name": "The Ship Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "the-crumplehorn-inn-and-mill",
+        "name": "The Crumplehorn Inn & Mill",
+        "km": 0.8
+      },
+      {
+        "slug": "smugglers-rest",
+        "name": "Smugglers Rest",
+        "km": 1.8
+      }
     ]
   },
   {
@@ -35482,6 +38263,48 @@
         "slug": "the-lost-gardens-of-heligan",
         "name": "The Lost Gardens of Heligan",
         "km": 2.4
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "teacup-tearoom",
+        "name": "Teacup Tearoom",
+        "km": 0.5
+      },
+      {
+        "slug": "the-harbour-catch",
+        "name": "The Harbour Catch",
+        "km": 0.5
+      },
+      {
+        "slug": "bens-plaice-mevagissey",
+        "name": "Ben's Plaice Mevagissey",
+        "km": 0.6
+      },
+      {
+        "slug": "cellar-bar",
+        "name": "Cellar Bar",
+        "km": 0.6
+      },
+      {
+        "slug": "harbour-tavern",
+        "name": "Harbour Tavern",
+        "km": 0.6
+      },
+      {
+        "slug": "salamander",
+        "name": "Salamander",
+        "km": 0.6
+      },
+      {
+        "slug": "she-sells-mevagissey",
+        "name": "She Sells Mevagissey",
+        "km": 0.6
+      },
+      {
+        "slug": "the-fountain-inn-mevagissey",
+        "name": "The Fountain Inn",
+        "km": 0.6
       }
     ]
   },
@@ -35797,6 +38620,43 @@
         "name": "The Lizard Heritage Coast",
         "km": 4.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "polurrian-on-the-lizard",
+        "name": "Polurrian on the Lizard",
+        "km": 0.2
+      },
+      {
+        "slug": "mullion-cove-hotel-cornwall",
+        "name": "Mullion Cove Hotel Cornwall",
+        "km": 0.6
+      },
+      {
+        "slug": "porthmellin-cafe",
+        "name": "Porthmellin Cafe",
+        "km": 0.8
+      },
+      {
+        "slug": "the-mounts-bay-inn",
+        "name": "The Mounts Bay Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "the-old-inn-mullion",
+        "name": "The Old Inn, Mullion",
+        "km": 1.1
+      },
+      {
+        "slug": "the-village-restaurant",
+        "name": "The Village Restaurant",
+        "km": 1.2
+      },
+      {
+        "slug": "poldhu-beach-cafe-and-shop",
+        "name": "Poldhu Beach Cafe & Shop",
+        "km": 1.3
+      }
     ]
   },
   {
@@ -36087,7 +38947,49 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Port Gaverne Beach is a small beach at Port Isaac, in North Coast. On the map there is a car park about 300 m away and public toilets. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "pilchards-at-port-gaverne",
+        "name": "Pilchards at Port Gaverne",
+        "km": 0.1
+      },
+      {
+        "slug": "port-gaverne",
+        "name": "Port Gaverne",
+        "km": 0.1
+      },
+      {
+        "slug": "port-gaverne-hotel",
+        "name": "Port Gaverne Hotel",
+        "km": 0.1
+      },
+      {
+        "slug": "the-view-port-isaac",
+        "name": "The VIEW Port Isaac",
+        "km": 0.3
+      },
+      {
+        "slug": "all-aboard",
+        "name": "All Aboard",
+        "km": 0.4
+      },
+      {
+        "slug": "outlaws-guest-house-and-bistro",
+        "name": "Outlaw's Guest House & Bistro",
+        "km": 0.4
+      },
+      {
+        "slug": "fresh-from-the-sea",
+        "name": "Fresh From The Sea",
+        "km": 0.5
+      },
+      {
+        "slug": "outlaws-fish-kitchen",
+        "name": "Outlaw's Fish Kitchen",
+        "km": 0.6
+      }
+    ]
   },
   {
     "slug": "porth-beach",
@@ -36449,6 +39351,48 @@
         "name": "Pirate's Quest Adventure Golf",
         "km": 2.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "porth-beach-hotel-and-restaurant",
+        "name": "Porth Beach Hotel and Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "ansum",
+        "name": "Ansum",
+        "km": 0.5
+      },
+      {
+        "slug": "the-mermaid-inn",
+        "name": "The Mermaid Inn",
+        "km": 0.5
+      },
+      {
+        "slug": "tallo-newquay",
+        "name": "Tallo Newquay",
+        "km": 0.8
+      },
+      {
+        "slug": "great-western",
+        "name": "Great Western",
+        "km": 1.4
+      },
+      {
+        "slug": "the-farmers-arms",
+        "name": "The Farmers Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "the-lanherne-pub",
+        "name": "The Lanherne Pub",
+        "km": 1.4
+      },
+      {
+        "slug": "robo-newquay",
+        "name": "Robo Newquay",
+        "km": 1.5
+      }
     ]
   },
   {
@@ -36738,6 +39682,18 @@
         "name": "Land's End",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "farm-fort",
+        "name": "Farm + Fort",
+        "km": 1.7
+      },
+      {
+        "slug": "the-logan-rock-inn",
+        "name": "The Logan Rock Inn",
+        "km": 1.7
+      }
     ]
   },
   {
@@ -37017,6 +39973,23 @@
         "slug": "the-killacourt",
         "name": "The Killacourt",
         "km": 4.1
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "lewinnick-lodge",
+        "name": "Lewinnick Lodge",
+        "km": 1.7
+      },
+      {
+        "slug": "the-treguth-inn",
+        "name": "The Treguth Inn",
+        "km": 1.8
+      },
+      {
+        "slug": "old-albion-inn",
+        "name": "Old Albion Inn",
+        "km": 2
       }
     ]
   },
@@ -37344,6 +40317,48 @@
         "name": "St Ives Head",
         "km": 3.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "gilberts-beach-bar-and-kitchen",
+        "name": "Gilbert's Beach Bar & Kitchen",
+        "km": 1
+      },
+      {
+        "slug": "romanos",
+        "name": "Romano's",
+        "km": 1.4
+      },
+      {
+        "slug": "royal-standard-inn",
+        "name": "Royal Standard Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "duckies-cafe",
+        "name": "Duckies Cafe",
+        "km": 1.9
+      },
+      {
+        "slug": "salt-kitchen-bar",
+        "name": "Salt Kitchen Bar",
+        "km": 1.9
+      },
+      {
+        "slug": "the-terrace",
+        "name": "The Terrace",
+        "km": 1.9
+      },
+      {
+        "slug": "the-bucket-of-blood",
+        "name": "The Bucket of Blood",
+        "km": 2
+      },
+      {
+        "slug": "the-watermill",
+        "name": "The Watermill",
+        "km": 2
+      }
     ]
   },
   {
@@ -37608,6 +40623,48 @@
         "name": "Geevor Tin Mine Museum",
         "km": 4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "cape-cornwall-club",
+        "name": "Cape Cornwall Club",
+        "km": 0.8
+      },
+      {
+        "slug": "the-phoenix-cafe",
+        "name": "The Phoenix Café",
+        "km": 1.4
+      },
+      {
+        "slug": "the-copper-kettle",
+        "name": "The Copper Kettle",
+        "km": 1.5
+      },
+      {
+        "slug": "cafe-dog-and-rabbit",
+        "name": "Cafe Dog & Rabbit",
+        "km": 1.6
+      },
+      {
+        "slug": "kings-arms-st-just",
+        "name": "Kings Arms",
+        "km": 1.6
+      },
+      {
+        "slug": "pizza-plz-st-just",
+        "name": "Pizza Plz St. Just",
+        "km": 1.6
+      },
+      {
+        "slug": "the-commercial",
+        "name": "The Commercial",
+        "km": 1.6
+      },
+      {
+        "slug": "the-star-inn-st-just",
+        "name": "The Star Inn",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -37852,7 +40909,49 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Porthbean is a medium sand beach 1.6 km from Portscatho, in South Coast. The beach faces south-east. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "the-rosevine",
+        "name": "The Rosevine",
+        "km": 0.6
+      },
+      {
+        "slug": "the-hidden-hut",
+        "name": "The Hidden Hut",
+        "km": 0.9
+      },
+      {
+        "slug": "plume-of-feathers",
+        "name": "Plume of Feathers",
+        "km": 1.6
+      },
+      {
+        "slug": "portscatho-harbour-club",
+        "name": "Portscatho Harbour Club",
+        "km": 1.6
+      },
+      {
+        "slug": "the-boathouse-restaurant",
+        "name": "The Boathouse Restaurant",
+        "km": 1.6
+      },
+      {
+        "slug": "tide-and-thyme",
+        "name": "Tide & Thyme",
+        "km": 1.6
+      },
+      {
+        "slug": "the-standard-inn-portscatho",
+        "name": "The Standard Inn, Portscatho",
+        "km": 1.9
+      },
+      {
+        "slug": "shallikabooky-beach-hut",
+        "name": "Shallikabooky Beach Hut",
+        "km": 2
+      }
+    ]
   },
   {
     "slug": "porthbeer-cove",
@@ -38119,6 +41218,13 @@
         "name": "Terence Coventry Sculpture Park",
         "km": 0.3
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "paris-hotel",
+        "name": "Paris Hotel",
+        "km": 0.7
+      }
     ]
   },
   {
@@ -38363,6 +41469,48 @@
         "slug": "national-maritime-museum-cornwall",
         "name": "National Maritime Museum Cornwall",
         "km": 4.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-thirstea-co",
+        "name": "The Thirstea Co",
+        "km": 1.1
+      },
+      {
+        "slug": "mr-scorse-gourmet-deli-and-wines",
+        "name": "Mr Scorse Gourmet Deli and Wines",
+        "km": 1.8
+      },
+      {
+        "slug": "rising-sun-st-mawes",
+        "name": "Rising Sun, St Mawes",
+        "km": 1.8
+      },
+      {
+        "slug": "st-mawes-bakery",
+        "name": "St Mawes Bakery",
+        "km": 1.8
+      },
+      {
+        "slug": "st-mawes-hotel-and-restaurant",
+        "name": "St Mawes Hotel & Restaurant",
+        "km": 1.8
+      },
+      {
+        "slug": "the-idle-rocks-hotel-and-restaurant",
+        "name": "The Idle Rocks Hotel & Restaurant",
+        "km": 1.8
+      },
+      {
+        "slug": "the-watch-house",
+        "name": "The Watch House",
+        "km": 1.8
+      },
+      {
+        "slug": "the-bohella-bar",
+        "name": "The Bohella Bar",
+        "km": 1.9
       }
     ]
   },
@@ -38688,7 +41836,8 @@
         "name": "Trevose Head Lighthouse",
         "km": 4.4
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "porthcurnick",
@@ -38952,7 +42101,44 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Porthcurnick is a medium sand beach 700 m from Portscatho, in South Coast. It faces south-east. On the map there is a car park about 250 m away and public toilets. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "the-hidden-hut",
+        "name": "The Hidden Hut",
+        "km": 0.1
+      },
+      {
+        "slug": "the-rosevine",
+        "name": "The Rosevine",
+        "km": 0.3
+      },
+      {
+        "slug": "portscatho-harbour-club",
+        "name": "Portscatho Harbour Club",
+        "km": 0.7
+      },
+      {
+        "slug": "tide-and-thyme",
+        "name": "Tide & Thyme",
+        "km": 0.7
+      },
+      {
+        "slug": "plume-of-feathers",
+        "name": "Plume of Feathers",
+        "km": 0.8
+      },
+      {
+        "slug": "the-boathouse-restaurant",
+        "name": "The Boathouse Restaurant",
+        "km": 0.8
+      },
+      {
+        "slug": "the-standard-inn-portscatho",
+        "name": "The Standard Inn, Portscatho",
+        "km": 1.1
+      }
+    ]
   },
   {
     "slug": "porthcurno",
@@ -39329,6 +42515,18 @@
         "name": "Logan Rock",
         "km": 1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "farm-fort",
+        "name": "Farm + Fort",
+        "km": 1
+      },
+      {
+        "slug": "the-logan-rock-inn",
+        "name": "The Logan Rock Inn",
+        "km": 1.1
+      }
     ]
   },
   {
@@ -39602,6 +42800,18 @@
         "name": "Lanyon Quoit",
         "km": 4.6
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "north-inn",
+        "name": "North Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "count-house-cafe",
+        "name": "Count House Café",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -39852,6 +43062,18 @@
         "slug": "lanyon-quoit",
         "name": "Lanyon Quoit",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-gurnards-head",
+        "name": "The Gurnard's Head",
+        "km": 1.1
+      },
+      {
+        "slug": "the-tinners-arms",
+        "name": "The Tinners Arms",
+        "km": 1.2
       }
     ]
   },
@@ -40190,7 +43412,8 @@
         "name": "Land's End",
         "km": 4.3
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "porthgwidden-beach",
@@ -40561,6 +43784,48 @@
         "name": "Upton Towans Nature Reserve",
         "km": 4.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "silco-bar-and-kitchen",
+        "name": "Silco Bar & Kitchen",
+        "km": 0.2
+      },
+      {
+        "slug": "sloop-inn",
+        "name": "Sloop Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "the-wreck",
+        "name": "The Wreck",
+        "km": 0.3
+      },
+      {
+        "slug": "porthminster-kitchen",
+        "name": "Porthminster Kitchen",
+        "km": 0.4
+      },
+      {
+        "slug": "st-eia",
+        "name": "St. Eia",
+        "km": 0.4
+      },
+      {
+        "slug": "the-balcony-bar-and-kitchen",
+        "name": "The Balcony Bar & Kitchen",
+        "km": 0.4
+      },
+      {
+        "slug": "the-beach-restaurant",
+        "name": "The Beach Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "the-rum-and-crab-shack",
+        "name": "The Rum & Crab Shack",
+        "km": 0.4
+      }
     ]
   },
   {
@@ -40901,6 +44166,48 @@
         "name": "RNAS Culdrose public viewing area",
         "km": 4.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "atlantic-inn",
+        "name": "Atlantic Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "the-ship-inn-porthleven",
+        "name": "The Ship Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "amelie",
+        "name": "Amélie",
+        "km": 1.2
+      },
+      {
+        "slug": "harbour-inn-porthleven",
+        "name": "Harbour Inn, Porthleven",
+        "km": 1.2
+      },
+      {
+        "slug": "the-corner-deli",
+        "name": "The Corner Deli",
+        "km": 1.2
+      },
+      {
+        "slug": "the-square-at-porthleven",
+        "name": "The Square At Porthleven",
+        "km": 1.2
+      },
+      {
+        "slug": "kota-food-and-wine",
+        "name": "Kota Food & Wine",
+        "km": 1.3
+      },
+      {
+        "slug": "kota-kai-kitchen-bar",
+        "name": "Kota Kai Kitchen Bar",
+        "km": 1.3
+      }
     ]
   },
   {
@@ -41220,7 +44527,14 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Porthluney Beach is a medium sand beach 3.6 km from Gorran Haven, in South Coast. It faces south. On the map there is a car park beside the beach, public toilets and a café or kiosk nearby. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "caerhays-beach-cafe",
+        "name": "Caerhays Beach Cafe",
+        "km": 0.1
+      }
+    ]
   },
   {
     "slug": "porthmeor-beach",
@@ -41595,6 +44909,48 @@
         "slug": "trencrom-hill",
         "name": "Trencrom Hill",
         "km": 4.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "porthmeor-beach-cafe",
+        "name": "Porthmeor Beach Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "st-eia",
+        "name": "St. Eia",
+        "km": 0.1
+      },
+      {
+        "slug": "porthminster-kitchen",
+        "name": "Porthminster Kitchen",
+        "km": 0.2
+      },
+      {
+        "slug": "sloop-inn",
+        "name": "Sloop Inn",
+        "km": 0.2
+      },
+      {
+        "slug": "the-beach-restaurant",
+        "name": "The Beach Restaurant",
+        "km": 0.2
+      },
+      {
+        "slug": "the-rum-and-crab-shack",
+        "name": "The Rum & Crab Shack",
+        "km": 0.2
+      },
+      {
+        "slug": "the-wreck",
+        "name": "The Wreck",
+        "km": 0.2
+      },
+      {
+        "slug": "brine-brunch-and-oysters",
+        "name": "Brine Brunch & Oysters",
+        "km": 0.3
       }
     ]
   },
@@ -41978,6 +45334,48 @@
         "name": "Upton Towans Nature Reserve",
         "km": 4.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "porthminster-beach-cafe",
+        "name": "Porthminster Beach Cafe",
+        "km": 0.1
+      },
+      {
+        "slug": "bier-huis-grand-cafe",
+        "name": "Bier Huis Grand Café",
+        "km": 0.4
+      },
+      {
+        "slug": "mine-taproom",
+        "name": "Mine Taproom",
+        "km": 0.4
+      },
+      {
+        "slug": "hub-st-ives",
+        "name": "Hub St Ives",
+        "km": 0.5
+      },
+      {
+        "slug": "lifeboat-inn-st-ives",
+        "name": "Lifeboat Inn, St Ives",
+        "km": 0.5
+      },
+      {
+        "slug": "mazza",
+        "name": "Mazza",
+        "km": 0.5
+      },
+      {
+        "slug": "the-cornish-deli",
+        "name": "The Cornish Deli",
+        "km": 0.5
+      },
+      {
+        "slug": "the-kettle-and-wink",
+        "name": "The Kettle & Wink",
+        "km": 0.5
+      }
     ]
   },
   {
@@ -42294,6 +45692,48 @@
         "slug": "hangloose-adventure",
         "name": "Hangloose Adventure",
         "km": 4.3
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "beer-house-charlestown",
+        "name": "Beer House, Charlestown",
+        "km": 1.1
+      },
+      {
+        "slug": "pier-house-hotel-charlestown",
+        "name": "Pier House Hotel, Charlestown",
+        "km": 1.1
+      },
+      {
+        "slug": "springtide-charlestown",
+        "name": "Springtide, Charlestown",
+        "km": 1.1
+      },
+      {
+        "slug": "the-boathouse-charlestown",
+        "name": "The Boathouse Charlestown",
+        "km": 1.1
+      },
+      {
+        "slug": "the-longstore-charlestown",
+        "name": "The Longstore Charlestown",
+        "km": 1.1
+      },
+      {
+        "slug": "the-rum-sailor",
+        "name": "The Rum Sailor",
+        "km": 1.1
+      },
+      {
+        "slug": "rashleigh-arms-charlestown",
+        "name": "Rashleigh Arms, Charlestown",
+        "km": 1.2
+      },
+      {
+        "slug": "duke-of-cornwall",
+        "name": "Duke of Cornwall",
+        "km": 1.7
       }
     ]
   },
@@ -42654,6 +46094,18 @@
         "name": "Cornwall Gold",
         "km": 3.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "blue-bar",
+        "name": "Blue Bar",
+        "km": 0.1
+      },
+      {
+        "slug": "the-victory-inn",
+        "name": "The Victory Inn",
+        "km": 1.5
+      }
     ]
   },
   {
@@ -42893,6 +46345,13 @@
         "slug": "men-an-tol",
         "name": "Mên-an-Tol",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-tinners-arms",
+        "name": "The Tinners Arms",
+        "km": 0.8
       }
     ]
   },
@@ -43205,6 +46664,48 @@
         "slug": "the-lost-gardens-of-heligan",
         "name": "The Lost Gardens of Heligan",
         "km": 3.3
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-rising-sun-inn",
+        "name": "The Rising Sun Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "one-polkirt-hill-restaurant",
+        "name": "ONE Polkirt Hill Restaurant",
+        "km": 0.8
+      },
+      {
+        "slug": "orange-ora",
+        "name": "Orange Ora",
+        "km": 0.8
+      },
+      {
+        "slug": "the-kings-arms-mevagissey",
+        "name": "The Kings Arms",
+        "km": 0.8
+      },
+      {
+        "slug": "the-wheelhouse",
+        "name": "The Wheelhouse",
+        "km": 0.8
+      },
+      {
+        "slug": "bens-plaice-mevagissey",
+        "name": "Ben's Plaice Mevagissey",
+        "km": 0.9
+      },
+      {
+        "slug": "harbour-tavern",
+        "name": "Harbour Tavern",
+        "km": 0.9
+      },
+      {
+        "slug": "salamander",
+        "name": "Salamander",
+        "km": 0.9
       }
     ]
   },
@@ -43565,6 +47066,38 @@
         "name": "Tuckingmill Valley Park",
         "km": 4.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "pod-cafe-portreath",
+        "name": "Pod Café Portreath",
+        "km": 0.3
+      },
+      {
+        "slug": "basset-arms",
+        "name": "Basset Arms",
+        "km": 0.4
+      },
+      {
+        "slug": "the-waterfront-portreath",
+        "name": "The Waterfront",
+        "km": 0.4
+      },
+      {
+        "slug": "jay-bird-deli",
+        "name": "Jay Bird Deli",
+        "km": 0.6
+      },
+      {
+        "slug": "portreath-arms",
+        "name": "Portreath Arms",
+        "km": 0.6
+      },
+      {
+        "slug": "the-terrace-bar-and-restaurant",
+        "name": "The Terrace Bar and Restaurant",
+        "km": 1
+      }
     ]
   },
   {
@@ -43844,6 +47377,13 @@
         "slug": "port-eliot-house-and-gardens",
         "name": "Port Eliot House & Gardens",
         "km": 4
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "silas-cove",
+        "name": "Silas Cove",
+        "km": 0.4
       }
     ]
   },
@@ -44195,6 +47735,18 @@
         "name": "National Trust - Godolphin",
         "km": 4.5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "stonesreef",
+        "name": "Stonesreef",
+        "km": 0.3
+      },
+      {
+        "slug": "the-welloe",
+        "name": "The Welloe",
+        "km": 0.3
+      }
     ]
   },
   {
@@ -44483,6 +48035,48 @@
         "name": "Carn Euny Ancient Village",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "cape-cornwall-club",
+        "name": "Cape Cornwall Club",
+        "km": 1.3
+      },
+      {
+        "slug": "the-phoenix-cafe",
+        "name": "The Phoenix Café",
+        "km": 1.7
+      },
+      {
+        "slug": "cafe-dog-and-rabbit",
+        "name": "Cafe Dog & Rabbit",
+        "km": 1.8
+      },
+      {
+        "slug": "kings-arms-st-just",
+        "name": "Kings Arms",
+        "km": 1.8
+      },
+      {
+        "slug": "pizza-plz-st-just",
+        "name": "Pizza Plz St. Just",
+        "km": 1.8
+      },
+      {
+        "slug": "the-commercial",
+        "name": "The Commercial",
+        "km": 1.8
+      },
+      {
+        "slug": "the-copper-kettle",
+        "name": "The Copper Kettle",
+        "km": 1.8
+      },
+      {
+        "slug": "the-star-inn-st-just",
+        "name": "The Star Inn",
+        "km": 1.8
+      }
     ]
   },
   {
@@ -44711,7 +48305,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Rane Beach is a beach 6.9 km from Bude, in North Coast. It faces west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "readymoney-cove-beach",
@@ -45021,6 +48616,48 @@
         "name": "Hall Walk",
         "km": 1.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-lugger-inn",
+        "name": "The Lugger Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "the-russell-inn",
+        "name": "The Russell Inn",
+        "km": 0.8
+      },
+      {
+        "slug": "haveners-fowey",
+        "name": "Havener's, Fowey",
+        "km": 1
+      },
+      {
+        "slug": "narla-by-charlie-walters",
+        "name": "Narla by Charlie Walters",
+        "km": 1
+      },
+      {
+        "slug": "the-galleon-inn",
+        "name": "The Galleon Inn",
+        "km": 1
+      },
+      {
+        "slug": "the-king-of-prussia",
+        "name": "The King of Prussia",
+        "km": 1
+      },
+      {
+        "slug": "the-lugger-inn-fowey",
+        "name": "The Lugger Inn Fowey",
+        "km": 1
+      },
+      {
+        "slug": "the-ship-inn-fowey",
+        "name": "The Ship Inn",
+        "km": 1
+      }
     ]
   },
   {
@@ -45292,6 +48929,13 @@
         "name": "National Trust - Godolphin",
         "km": 5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "lion-and-lamb",
+        "name": "Lion & Lamb",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -45559,7 +49203,8 @@
         "name": "Penjerrick Garden",
         "km": 3.6
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "samphire-beach",
@@ -45813,6 +49458,48 @@
         "slug": "polperro-model-village",
         "name": "Polperro Model Village",
         "km": 3.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "smugglers-rest",
+        "name": "Smugglers Rest",
+        "km": 1.6
+      },
+      {
+        "slug": "botel",
+        "name": "Botel",
+        "km": 1.9
+      },
+      {
+        "slug": "the-jolly-sailor-inn",
+        "name": "The Jolly Sailor Inn",
+        "km": 1.9
+      },
+      {
+        "slug": "the-sardine-factory-looe",
+        "name": "The Sardine Factory Looe",
+        "km": 1.9
+      },
+      {
+        "slug": "bullers-arms-looe",
+        "name": "Bullers Arms",
+        "km": 2
+      },
+      {
+        "slug": "fifty-looe",
+        "name": "Fifty Looe",
+        "km": 2
+      },
+      {
+        "slug": "jjs-street-kitchen",
+        "name": "JJ’s Street Kitchen",
+        "km": 2
+      },
+      {
+        "slug": "jujus-tapas-and-small-plates-looe",
+        "name": "JuJu's Tapas & Small Plates Looe",
+        "km": 2
       }
     ]
   },
@@ -46109,6 +49796,48 @@
         "name": "Trewidden Garden and Tearoom",
         "km": 2.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-fishermans-arms-newlyn",
+        "name": "The Fisherman's Arms",
+        "km": 0.2
+      },
+      {
+        "slug": "the-red-lion-inn",
+        "name": "The Red Lion Inn",
+        "km": 0.3
+      },
+      {
+        "slug": "argoe",
+        "name": "Argoe",
+        "km": 0.5
+      },
+      {
+        "slug": "favorita",
+        "name": "Favorita",
+        "km": 0.6
+      },
+      {
+        "slug": "the-swordfish-inn",
+        "name": "The Swordfish Inn",
+        "km": 0.7
+      },
+      {
+        "slug": "mackerel-sky-seafood-bar",
+        "name": "Mackerel Sky Seafood Bar",
+        "km": 0.8
+      },
+      {
+        "slug": "45-queen-street",
+        "name": "45 Queen Street",
+        "km": 1.9
+      },
+      {
+        "slug": "admiral-benbow",
+        "name": "Admiral Benbow",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -46392,7 +50121,8 @@
         "name": "Compass Point",
         "km": 3.7
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "seaton-beach",
@@ -46730,7 +50460,29 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Seaton Beach is a medium shingle beach at Seaton, in South Coast. It faces south-west. On the map there is a car park beside the beach, public toilets and a café or kiosk nearby. RNLI lifeguards patrol in season, so check the RNLI page for this year’s dates. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "smugglers-inn",
+        "name": "Smugglers Inn",
+        "km": 0.1
+      },
+      {
+        "slug": "the-beach-house",
+        "name": "The Beach House",
+        "km": 0.1
+      },
+      {
+        "slug": "bewsheas-by-the-beach",
+        "name": "Bewshea's By The Beach",
+        "km": 1.1
+      },
+      {
+        "slug": "inn-on-the-shore",
+        "name": "Inn On The Shore",
+        "km": 1.1
+      }
+    ]
   },
   {
     "slug": "sennen-cove",
@@ -47147,6 +50899,23 @@
         "name": "Carn Euny Ancient Village",
         "km": 4.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "old-success-inn-sennen-cove",
+        "name": "Old Success Inn, Sennen Cove",
+        "km": 0.5
+      },
+      {
+        "slug": "shantys-fish-bar",
+        "name": "Shantys Fish Bar",
+        "km": 0.8
+      },
+      {
+        "slug": "first-and-last-inn",
+        "name": "First & Last Inn",
+        "km": 1.2
+      }
     ]
   },
   {
@@ -47440,7 +51209,8 @@
         "name": "Antony Woodland Garden & Woodland Walk",
         "km": 5
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "shorthorn-beach",
@@ -47687,6 +51457,33 @@
         "slug": "poltair-park",
         "name": "Poltair Park",
         "km": 4.5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-four-lords-st-blazey-gate",
+        "name": "The Four Lords, St Blazey Gate",
+        "km": 1.5
+      },
+      {
+        "slug": "the-par-inn",
+        "name": "The Par Inn",
+        "km": 1.6
+      },
+      {
+        "slug": "spice",
+        "name": "Spice",
+        "km": 1.9
+      },
+      {
+        "slug": "edies",
+        "name": "Edie's",
+        "km": 2
+      },
+      {
+        "slug": "welcome-home-inn",
+        "name": "Welcome Home Inn",
+        "km": 2
       }
     ]
   },
@@ -47945,7 +51742,8 @@
         "name": "Mevagissey Museum",
         "km": 5
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "spit-beach",
@@ -48215,6 +52013,43 @@
         "slug": "st-catherines-castle",
         "name": "St Catherine's Castle",
         "km": 4.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-par-inn",
+        "name": "The Par Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "welcome-home-inn",
+        "name": "Welcome Home Inn",
+        "km": 1.2
+      },
+      {
+        "slug": "the-ship-inn-par",
+        "name": "The Ship Inn",
+        "km": 1.7
+      },
+      {
+        "slug": "the-four-lords-st-blazey-gate",
+        "name": "The Four Lords, St Blazey Gate",
+        "km": 1.8
+      },
+      {
+        "slug": "the-royal-inn",
+        "name": "The Royal Inn",
+        "km": 1.8
+      },
+      {
+        "slug": "sams-on-the-beach",
+        "name": "Sam's On The Beach",
+        "km": 1.9
+      },
+      {
+        "slug": "the-rashleigh-inn",
+        "name": "The Rashleigh Inn",
+        "km": 1.9
       }
     ]
   },
@@ -48488,6 +52323,48 @@
         "name": "National Lobster Hatchery",
         "km": 1.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "17-duke-street",
+        "name": "17 Duke Street",
+        "km": 1
+      },
+      {
+        "slug": "caffe-rojano-by-paul-ainsworth",
+        "name": "Caffè Rojano by Paul Ainsworth",
+        "km": 1
+      },
+      {
+        "slug": "prawn-on-the-lawn",
+        "name": "Prawn on the Lawn",
+        "km": 1
+      },
+      {
+        "slug": "sabzi",
+        "name": "Sabzi",
+        "km": 1
+      },
+      {
+        "slug": "shipwrights-padstow",
+        "name": "Shipwrights, Padstow",
+        "km": 1
+      },
+      {
+        "slug": "the-padstow-stable",
+        "name": "The Padstow Stable",
+        "km": 1
+      },
+      {
+        "slug": "old-custom-house-padstow",
+        "name": "Old Custom House, Padstow",
+        "km": 1.1
+      },
+      {
+        "slug": "padstow-tap-room-on-broad-street",
+        "name": "Padstow Tap Room on Broad Street",
+        "km": 1.1
+      }
     ]
   },
   {
@@ -48696,7 +52573,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Stanbury Beach is a beach 7.1 km from Bude, in North Coast. It faces west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "stem",
@@ -48955,6 +52833,48 @@
         "slug": "trevelgue-head",
         "name": "Trevelgue Head",
         "km": 3.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 0.9
+      },
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 1.1
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "the-beach-hut",
+        "name": "The Beach Hut",
+        "km": 1.4
+      },
+      {
+        "slug": "the-living-space",
+        "name": "The Living Space",
+        "km": 1.4
+      },
+      {
+        "slug": "wax-watergate-bay",
+        "name": "WAX Watergate Bay",
+        "km": 1.4
+      },
+      {
+        "slug": "zacrys",
+        "name": "Zacry's",
+        "km": 1.4
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 1.5
       }
     ]
   },
@@ -49333,6 +53253,48 @@
         "name": "The Bude Tunnel",
         "km": 0.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 0.2
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 0.3
+      },
+      {
+        "slug": "olive-tree",
+        "name": "Olive Tree",
+        "km": 0.5
+      },
+      {
+        "slug": "temple-restaurant-terrace-bar",
+        "name": "Temple Restaurant + Terrace Bar",
+        "km": 0.5
+      },
+      {
+        "slug": "the-brendon-arms",
+        "name": "The Brendon Arms",
+        "km": 0.5
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 0.5
+      },
+      {
+        "slug": "the-coachmans-bar-and-grill",
+        "name": "The Coachman's Bar & Grill",
+        "km": 0.5
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
+        "km": 0.6
+      }
     ]
   },
   {
@@ -49705,6 +53667,48 @@
         "name": "St Mawes Ferry",
         "km": 3.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "hotel-tresanton",
+        "name": "Hotel Tresanton",
+        "km": 0.1
+      },
+      {
+        "slug": "st-mawes-bakery",
+        "name": "St Mawes Bakery",
+        "km": 0.2
+      },
+      {
+        "slug": "st-mawes-hotel-and-restaurant",
+        "name": "St Mawes Hotel & Restaurant",
+        "km": 0.2
+      },
+      {
+        "slug": "the-victory-inn-st-mawes",
+        "name": "The Victory Inn St Mawes",
+        "km": 0.3
+      },
+      {
+        "slug": "mr-scorse-gourmet-deli-and-wines",
+        "name": "Mr Scorse Gourmet Deli and Wines",
+        "km": 0.4
+      },
+      {
+        "slug": "rising-sun-st-mawes",
+        "name": "Rising Sun, St Mawes",
+        "km": 0.4
+      },
+      {
+        "slug": "the-bohella-bar",
+        "name": "The Bohella Bar",
+        "km": 0.4
+      },
+      {
+        "slug": "the-idle-rocks-hotel-and-restaurant",
+        "name": "The Idle Rocks Hotel & Restaurant",
+        "km": 0.4
+      }
     ]
   },
   {
@@ -50053,6 +54057,48 @@
         "name": "Penjerrick Garden",
         "km": 2.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "beach-house-falmouth",
+        "name": "Beach House Falmouth",
+        "km": 0.1
+      },
+      {
+        "slug": "gylly-beach-cafe",
+        "name": "Gylly Beach Cafe",
+        "km": 0.8
+      },
+      {
+        "slug": "the-oddfellows-arms",
+        "name": "The Oddfellows Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "bodega-18-falmouth",
+        "name": "Bodega 18 Falmouth",
+        "km": 1.5
+      },
+      {
+        "slug": "cribbs-cornwall",
+        "name": "Cribbs Cornwall",
+        "km": 1.5
+      },
+      {
+        "slug": "culture-restaurant",
+        "name": "Culture Restaurant",
+        "km": 1.5
+      },
+      {
+        "slug": "kona",
+        "name": "Kona",
+        "km": 1.5
+      },
+      {
+        "slug": "seaview-inn",
+        "name": "Seaview Inn",
+        "km": 1.5
+      }
     ]
   },
   {
@@ -50371,6 +54417,43 @@
         "name": "Polperro Model Village",
         "km": 1.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "smugglers-rest",
+        "name": "Smugglers Rest",
+        "km": 0.3
+      },
+      {
+        "slug": "blue-peter-inn",
+        "name": "Blue Peter Inn",
+        "km": 1.5
+      },
+      {
+        "slug": "the-three-pilchards",
+        "name": "The Three Pilchards",
+        "km": 1.6
+      },
+      {
+        "slug": "couchs-great-house",
+        "name": "Couch's Great House",
+        "km": 1.7
+      },
+      {
+        "slug": "the-noughts-and-crosses",
+        "name": "The Noughts and Crosses",
+        "km": 1.7
+      },
+      {
+        "slug": "the-ship-inn-polperro",
+        "name": "The Ship Inn",
+        "km": 1.7
+      },
+      {
+        "slug": "the-crumplehorn-inn-and-mill",
+        "name": "The Crumplehorn Inn & Mill",
+        "km": 1.8
+      }
     ]
   },
   {
@@ -50666,7 +54749,44 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Tattams Beach is a small beach at Portscatho, in South Coast. The beach faces east. On the map there is a car park about 100 m away and public toilets. Dogs are not allowed 1 July to 31 August, 10am to 6pm. Outside those dates and times there is no Council restriction.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": [
+      {
+        "slug": "plume-of-feathers",
+        "name": "Plume of Feathers",
+        "km": 0.1
+      },
+      {
+        "slug": "portscatho-harbour-club",
+        "name": "Portscatho Harbour Club",
+        "km": 0.1
+      },
+      {
+        "slug": "tide-and-thyme",
+        "name": "Tide & Thyme",
+        "km": 0.1
+      },
+      {
+        "slug": "the-boathouse-restaurant",
+        "name": "The Boathouse Restaurant",
+        "km": 0.2
+      },
+      {
+        "slug": "the-standard-inn-portscatho",
+        "name": "The Standard Inn, Portscatho",
+        "km": 0.6
+      },
+      {
+        "slug": "the-hidden-hut",
+        "name": "The Hidden Hut",
+        "km": 0.7
+      },
+      {
+        "slug": "the-rosevine",
+        "name": "The Rosevine",
+        "km": 0.9
+      }
+    ]
   },
   {
     "slug": "the-bar-sand-and-shingle-tidal-area",
@@ -50948,6 +55068,18 @@
         "slug": "cornish-seal-sanctuary",
         "name": "Cornish Seal Sanctuary",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 0.7
       }
     ]
   },
@@ -51302,6 +55434,48 @@
         "slug": "trenance-gardens",
         "name": "Trenance Gardens",
         "km": 1.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "cave-activity-bar",
+        "name": "Cave Activity Bar",
+        "km": 1
+      },
+      {
+        "slug": "central-inn-newquay",
+        "name": "Central Inn, Newquay",
+        "km": 1
+      },
+      {
+        "slug": "concho-lounge",
+        "name": "Concho Lounge",
+        "km": 1
+      },
+      {
+        "slug": "the-pagan-arms",
+        "name": "The Pagan Arms",
+        "km": 1
+      },
+      {
+        "slug": "herd",
+        "name": "HERD",
+        "km": 1.1
+      },
+      {
+        "slug": "old-albion-inn",
+        "name": "Old Albion Inn",
+        "km": 1.1
+      },
+      {
+        "slug": "rosa",
+        "name": "Rosa",
+        "km": 1.1
+      },
+      {
+        "slug": "sailors-newquay",
+        "name": "Sailors Newquay",
+        "km": 1.1
       }
     ]
   },
@@ -51663,6 +55837,48 @@
         "name": "Rage Cage Newquay",
         "km": 0.9
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "great-western",
+        "name": "Great Western",
+        "km": 0.2
+      },
+      {
+        "slug": "secret-garden",
+        "name": "Secret Garden",
+        "km": 0.2
+      },
+      {
+        "slug": "robo-newquay",
+        "name": "Robo Newquay",
+        "km": 0.3
+      },
+      {
+        "slug": "amalfis",
+        "name": "Amalfi's",
+        "km": 0.4
+      },
+      {
+        "slug": "the-griffin-inn",
+        "name": "The Griffin Inn",
+        "km": 0.4
+      },
+      {
+        "slug": "ginger-and-joe",
+        "name": "Ginger & Joe",
+        "km": 0.5
+      },
+      {
+        "slug": "lost-brewing-co-taphouse-kitchen",
+        "name": "Lost Brewing Co • Taphouse • Kitchen",
+        "km": 0.5
+      },
+      {
+        "slug": "the-lanherne-pub",
+        "name": "The Lanherne Pub",
+        "km": 0.5
+      }
     ]
   },
   {
@@ -51989,6 +56205,13 @@
         "slug": "pendennis-castle",
         "name": "Pendennis Castle",
         "km": 4.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-thirstea-co",
+        "name": "The Thirstea Co",
+        "km": 0.2
       }
     ]
   },
@@ -52371,6 +56594,48 @@
         "name": "Trenance Gardens",
         "km": 1.1
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "fort-inn-newquay",
+        "name": "Fort Inn, Newquay",
+        "km": 0.2
+      },
+      {
+        "slug": "herd",
+        "name": "HERD",
+        "km": 0.2
+      },
+      {
+        "slug": "on-the-rocks",
+        "name": "On The Rocks",
+        "km": 0.2
+      },
+      {
+        "slug": "parrilla",
+        "name": "Parrilla",
+        "km": 0.2
+      },
+      {
+        "slug": "rattler-beach-house",
+        "name": "Rattler Beach House",
+        "km": 0.2
+      },
+      {
+        "slug": "saltsheds-bar-and-bistro",
+        "name": "Saltsheds Bar & Bistro",
+        "km": 0.2
+      },
+      {
+        "slug": "red-lion-newquay",
+        "name": "Red Lion Newquay",
+        "km": 0.3
+      },
+      {
+        "slug": "sailors-newquay",
+        "name": "Sailors Newquay",
+        "km": 0.3
+      }
     ]
   },
   {
@@ -52653,6 +56918,18 @@
         "slug": "penjerrick-garden",
         "name": "Penjerrick Garden",
         "km": 4.2
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "ferry-boat-inn",
+        "name": "Ferry Boat Inn",
+        "km": 0.5
+      },
+      {
+        "slug": "shipwrights-arms",
+        "name": "Shipwrights Arms",
+        "km": 1.3
       }
     ]
   },
@@ -53006,6 +57283,28 @@
         "name": "St Nectan's Waterfall",
         "km": 4.2
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "port-william-inn",
+        "name": "Port william inn",
+        "km": 0.3
+      },
+      {
+        "slug": "port-william-trebarwith-strand",
+        "name": "Port William, Trebarwith Strand",
+        "km": 0.3
+      },
+      {
+        "slug": "the-strand-cafe",
+        "name": "The Strand Cafe",
+        "km": 0.3
+      },
+      {
+        "slug": "the-millhouse-inn",
+        "name": "The Millhouse Inn",
+        "km": 1.2
+      }
     ]
   },
   {
@@ -53248,6 +57547,18 @@
         "slug": "chysauster-ancient-village",
         "name": "Chysauster Ancient Village",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-gurnards-head",
+        "name": "The Gurnard's Head",
+        "km": 0.7
+      },
+      {
+        "slug": "the-tinners-arms",
+        "name": "The Tinners Arms",
+        "km": 2
       }
     ]
   },
@@ -53526,7 +57837,8 @@
         "name": "Antony Woodland Garden & Woodland Walk",
         "km": 5
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "tregardock",
@@ -53764,6 +58076,13 @@
         "slug": "merlins-cave",
         "name": "Merlin's Cave",
         "km": 5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-poldark-inn",
+        "name": "The Poldark Inn",
+        "km": 1.9
       }
     ]
   },
@@ -54077,6 +58396,13 @@
         "name": "Mount Edgcumbe House and Country Park",
         "km": 5
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-devon-and-cornwall",
+        "name": "The Devon & Cornwall",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -54310,6 +58636,28 @@
         "slug": "the-japanese-garden",
         "name": "The Japanese Garden",
         "km": 3.6
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "wild-cafe",
+        "name": "Wild Cafe",
+        "km": 1
+      },
+      {
+        "slug": "catch-seafood-bar-and-grill",
+        "name": "Catch Seafood, Bar & Grill",
+        "km": 1.4
+      },
+      {
+        "slug": "the-merrymoor-inn",
+        "name": "The Merrymoor Inn",
+        "km": 1.4
+      },
+      {
+        "slug": "dough-donnys",
+        "name": "Dough Donnys",
+        "km": 1.5
       }
     ]
   },
@@ -54622,6 +58970,18 @@
         "slug": "perranzabuloe-museum",
         "name": "Perranzabuloe Museum",
         "km": 4.5
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "verdant-schooners",
+        "name": "Verdant Schooners",
+        "km": 0.1
+      },
+      {
+        "slug": "the-driftwood-spars",
+        "name": "The Driftwood Spars",
+        "km": 0.3
       }
     ]
   },
@@ -54957,6 +59317,23 @@
         "name": "Trevose Head Lighthouse",
         "km": 4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-harlyn",
+        "name": "The Harlyn",
+        "km": 1.4
+      },
+      {
+        "slug": "ivy-house-restaurant-padstow",
+        "name": "Ivy House Restaurant Padstow",
+        "km": 1.8
+      },
+      {
+        "slug": "the-cornish-arms-harlyn",
+        "name": "The Cornish Arms",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -55289,6 +59666,13 @@
         "slug": "macdonalds-farm",
         "name": "Macdonald's Farm",
         "km": 3
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-pig-at-harlyn-bay-restaurant",
+        "name": "THE PIG-at Harlyn Bay Restaurant",
+        "km": 1.8
       }
     ]
   },
@@ -55648,6 +60032,48 @@
         "name": "St Mawes Ferry",
         "km": 1.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "casa-tapa",
+        "name": "Casa Tapa",
+        "km": 0.2
+      },
+      {
+        "slug": "the-shed",
+        "name": "The Shed",
+        "km": 0.5
+      },
+      {
+        "slug": "kona",
+        "name": "Kona",
+        "km": 0.6
+      },
+      {
+        "slug": "bodega-18-falmouth",
+        "name": "Bodega 18 Falmouth",
+        "km": 0.8
+      },
+      {
+        "slug": "culture-restaurant",
+        "name": "Culture Restaurant",
+        "km": 0.8
+      },
+      {
+        "slug": "the-fish-cabin",
+        "name": "The Fish Cabin",
+        "km": 0.8
+      },
+      {
+        "slug": "the-front",
+        "name": "The Front",
+        "km": 0.8
+      },
+      {
+        "slug": "cribbs-cornwall",
+        "name": "Cribbs Cornwall",
+        "km": 0.9
+      }
     ]
   },
   {
@@ -55917,6 +60343,18 @@
         "name": "Mevagissey Museum",
         "km": 4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-mermaid-beach-cafe",
+        "name": "The Mermaid Beach Cafe",
+        "km": 0.7
+      },
+      {
+        "slug": "the-barley-sheaf-at-gorran",
+        "name": "The Barley Sheaf at Gorran",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -56177,6 +60615,18 @@
         "name": "Chysauster Ancient Village",
         "km": 4.7
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-tinners-arms",
+        "name": "The Tinners Arms",
+        "km": 1
+      },
+      {
+        "slug": "the-gurnards-head",
+        "name": "The Gurnard's Head",
+        "km": 1.6
+      }
     ]
   },
   {
@@ -56405,6 +60855,48 @@
       {
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
+        "km": 1.8
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 1
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 1
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 1
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 1
+      },
+      {
+        "slug": "lifes-a-beach",
+        "name": "Life's A Beach",
+        "km": 1.4
+      },
+      {
+        "slug": "elements-bude",
+        "name": "Elements Bude",
+        "km": 1.5
+      },
+      {
+        "slug": "the-club-house",
+        "name": "The Club House",
+        "km": 1.5
+      },
+      {
+        "slug": "bar-35",
+        "name": "Bar 35",
         "km": 1.8
       }
     ]
@@ -56651,7 +61143,8 @@
         "name": "The Castle Bude",
         "km": 4.7
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "warren-long-beach",
@@ -56875,7 +61368,8 @@
         "name": "The Castle Bude",
         "km": 3.9
       }
-    ]
+    ],
+    "nearbyFood": []
   },
   {
     "slug": "watergate-beach",
@@ -57182,6 +61676,43 @@
         "name": "The Killacourt",
         "km": 4.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "the-beach-hut",
+        "name": "The Beach Hut",
+        "km": 0.2
+      },
+      {
+        "slug": "the-living-space",
+        "name": "The Living Space",
+        "km": 0.2
+      },
+      {
+        "slug": "zacrys",
+        "name": "Zacry's",
+        "km": 0.2
+      },
+      {
+        "slug": "wax-watergate-bay",
+        "name": "WAX Watergate Bay",
+        "km": 0.3
+      },
+      {
+        "slug": "travellers-rest-inn-trevarrian",
+        "name": "Travellers Rest Inn Trevarrian",
+        "km": 1.7
+      },
+      {
+        "slug": "tallo-newquay",
+        "name": "Tallo Newquay",
+        "km": 1.8
+      },
+      {
+        "slug": "the-barn-at-coastal-valley",
+        "name": "The Barn at Coastal Valley",
+        "km": 1.9
+      }
     ]
   },
   {
@@ -57425,6 +61956,28 @@
         "slug": "the-castle-bude",
         "name": "The Castle Bude",
         "km": 2.7
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "crooklets-beach-cafe",
+        "name": "Crooklets Beach Cafe",
+        "km": 1.9
+      },
+      {
+        "slug": "crooklets-inn",
+        "name": "Crooklets Inn",
+        "km": 1.9
+      },
+      {
+        "slug": "rosies-kitchen-and-starboard-wood-fired-bistro",
+        "name": "Rosies Kitchen And Starboard Wood Fired Bistro",
+        "km": 1.9
+      },
+      {
+        "slug": "tjs-bar-and-kitchen",
+        "name": "TJ's Bar and Kitchen",
+        "km": 1.9
       }
     ]
   },
@@ -57788,6 +62341,48 @@
         "name": "Trewidden Garden and Tearoom",
         "km": 2.4
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "mackerel-sky-seafood-bar",
+        "name": "Mackerel Sky Seafood Bar",
+        "km": 0.5
+      },
+      {
+        "slug": "the-swordfish-inn",
+        "name": "The Swordfish Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "favorita",
+        "name": "Favorita",
+        "km": 0.7
+      },
+      {
+        "slug": "argoe",
+        "name": "Argoe",
+        "km": 0.8
+      },
+      {
+        "slug": "the-red-lion-inn",
+        "name": "The Red Lion Inn",
+        "km": 0.9
+      },
+      {
+        "slug": "45-queen-street",
+        "name": "45 Queen Street",
+        "km": 1
+      },
+      {
+        "slug": "alverne-restaurant-and-lounge",
+        "name": "Alverne Restaurant & Lounge",
+        "km": 1
+      },
+      {
+        "slug": "globe-and-ale-house",
+        "name": "Globe & Ale House",
+        "km": 1
+      }
     ]
   },
   {
@@ -58046,6 +62641,48 @@
         "slug": "newquay-activity-centre-surf-school",
         "name": "Newquay Activity Centre Surf School",
         "km": 2.9
+      }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "tallo-newquay",
+        "name": "Tallo Newquay",
+        "km": 0.2
+      },
+      {
+        "slug": "porth-beach-hotel-and-restaurant",
+        "name": "Porth Beach Hotel and Restaurant",
+        "km": 0.4
+      },
+      {
+        "slug": "ansum",
+        "name": "Ansum",
+        "km": 0.6
+      },
+      {
+        "slug": "the-mermaid-inn",
+        "name": "The Mermaid Inn",
+        "km": 0.6
+      },
+      {
+        "slug": "the-farmers-arms",
+        "name": "The Farmers Arms",
+        "km": 1.4
+      },
+      {
+        "slug": "the-barn-at-coastal-valley",
+        "name": "The Barn at Coastal Valley",
+        "km": 1.7
+      },
+      {
+        "slug": "the-beach-hut",
+        "name": "The Beach Hut",
+        "km": 1.7
+      },
+      {
+        "slug": "the-living-space",
+        "name": "The Living Space",
+        "km": 1.8
       }
     ]
   },
@@ -58421,6 +63058,13 @@
         "name": "The Bude Tunnel",
         "km": 4.8
       }
+    ],
+    "nearbyFood": [
+      {
+        "slug": "bay-view-inn",
+        "name": "Bay View Inn",
+        "km": 0.8
+      }
     ]
   },
   {
@@ -58649,7 +63293,8 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Wren Beach is a beach 5.9 km from Bude, in North Coast. The beach faces south-west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   },
   {
     "slug": "yoel-mouth",
@@ -58877,6 +63522,7 @@
       "method": "Derived automatically from the facts on this page; not a first-hand recommendation."
     },
     "description": "Yoel Mouth is a beach 10.1 km from Bude, in North Coast. It faces north-west. It isn’t on Cornwall Council’s dog restriction list, but check signs on arrival.",
-    "nearbyAttractions": []
+    "nearbyAttractions": [],
+    "nearbyFood": []
   }
 ]

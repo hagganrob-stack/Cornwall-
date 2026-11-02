@@ -11,9 +11,24 @@ const NEGATION_BEFORE = /\b(no|not|never|don'?t|doesn'?t|isn'?t|aren'?t|won'?t|u
 const CHROME = /\b(find (a|your) (pub|local)|pubs? near (you|me)|search (for )?pubs|pubs with|all (our )?pubs|book a table at any|cookie|newsletter|if you(')?re interested in|if you are interested in|interested in (running|hosting)|\d+ (\w+ )?pubs (have|are|across)|across (all )?our (pubs|venues)|sign up|privacy policy|terms (and|&) conditions|gift cards?)\b/i;
 
 export const FEATURES = {
+  vegan: {
+    label: 'Vegan options',
+    yes: /\b(vegan (options?|menu|dishes|choices?|friendly|food|alternatives?|available)|plant[- ]based (options?|menu|dishes)|vegans? (are )?(catered|welcome)|caters? for vegans?|\(ve\)|ve = vegan|v ?= ?vegetarian,? ve ?= ?vegan)\b/i,
+    no: /\b(no vegan (options?|menu))\b/i,
+  },
+  vegetarian: {
+    label: 'Vegetarian options',
+    yes: /\b(vegetarian (options?|menu|dishes|choices?|friendly|food|alternatives?|available)|veggie (options?|menu|dishes|friendly|choices?)|vegetarians? (are )?(catered|welcome)|caters? for vegetarians?|v ?= ?vegetarian|\(v\) ?=)\b/i,
+    no: /\b(no vegetarian (options?|menu))\b/i,
+  },
+  glutenFree: {
+    label: 'Gluten-free options',
+    yes: /\b(gluten[- ]free (options?|menu|dishes|choices?|bread|buns?|bases?|alternatives?|available|friendly|pizza|food)|gf (options?|available|menu)|coeliac[- ]friendly|cater(s|ing)? for (coeliacs?|gluten)|\(gf\)|gf ?= ?gluten[- ]free)\b/i,
+    no: /\b(no gluten[- ]free (options?|menu)|cannot (cater|guarantee)[^.]{0,40}gluten|not suitable for coeliacs)\b/i,
+  },
   seaView: {
     label: 'Sea views',
-    yes: /\b(sea views?|views? (over|across|of) (the )?(sea|harbour|bay|beach|estuary|ocean|atlantic|coast)|overlooking (the )?(sea|harbour|bay|beach|estuary|ocean|atlantic|cove)|(harbour|harbourside|beachside|waterside|seafront|sea[- ]front|on the beach|right on the beach|beach[- ]front|clifftop|cliff[- ]top) (pub|inn|bar|restaurant|cafe|café|bistro|location|setting|terrace|views?)|ocean views?|views? out to sea|panoramic views)\b/i,
+    yes: /\b(sea views?|views? (over|across|of) (the )?(sea|harbour|bay|beach|estuary|ocean|atlantic|coast)|overlooking (the )?(sea|harbour|bay|beach|estuary|ocean|atlantic|cove)|(harbour|harbourside|beachside|waterside|seafront|sea[- ]front|on the beach|right on the beach|beach[- ]front|clifftop|cliff[- ]top) (pub|inn|bar|restaurant|cafe|café|bistro|location|setting|terrace|views?(?! (house|road|terrace|close|park|holiday|cottage|apartments?)))|ocean views?|views? out to sea|panoramic views)\b/i,
     no: /\b(no sea views?)\b/i,
   },
   familyFriendly: {
@@ -23,7 +38,7 @@ export const FEATURES = {
   },
   outdoorSeating: {
     label: 'Outdoor seating',
-    yes: /\b(outdoor (seating|tables|dining|area)|outside (seating|tables|dining|area)|al fresco|alfresco|terrace|patio|decking|seating outside|eat outside|sit outside|picnic benches)\b/i,
+    yes: /\b(outdoor (seating|tables|dining|area)|outside (seating|tables|dining|area)|al ?fresco|(our|sun|sunny|outdoor|outside|garden|front|back|rear|dog[- ]friendly|decked|heated|covered|beachside|waterside|riverside|harbourside|south[- ]facing|large|big|lovely|beautiful) (terrace|patio|decking)|on the (terrace|patio|decking)|seating outside|eat outside|sit outside|picnic benches)\b/i,
     no: /\b(no outdoor (seating|area)|no outside (seating|area))\b/i,
   },
   beerGarden: {
@@ -33,7 +48,7 @@ export const FEATURES = {
   },
   dogFriendly: {
     label: 'Dog friendly',
-    yes: /\b(dog[- ]friendly|(?<!(assistance|guide|service) )dogs (are )?(very |always |more than |most )?welcome|well[- ]behaved dogs|four[- ]legged (friends|guests|companions)|dogs (are )?allowed|dog bowls?|doggy (treats|biscuits|bowls)|dog treats|bring (your|the) dogs?|pooch(es)?)\b/i,
+    yes: /\b(dog[- ]friendly|(?<!(assistance|guide|service) )dogs (are )?(very |always |more than |most )?welcome|well[- ]behaved dogs|four[- ]legged (friends|guests|companions)|dogs (are )?allowed|water bowls? for (your )?dogs|doggy (treats|biscuits)|dog treats|bring (your|the) dogs?|pooch(es)?)\b/i,
     no: /\b(no dogs|dogs (are )?not (allowed|permitted)|(only )?(assistance|guide) dogs only|not dog[- ]friendly)\b/i,
   },
   liveMusic: {

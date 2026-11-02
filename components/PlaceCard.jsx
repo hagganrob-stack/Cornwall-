@@ -6,6 +6,7 @@ import MapCard from './MapCard';
 import Badges from './Badges';
 import AttractionBadges from './AttractionBadges';
 import FoodBadges from './FoodBadges';
+import Rating from './Rating';
 
 // Large image card for a beach or town. Credit sits under the image, as plain text (the card is a link).
 export default function PlaceCard({ place, href, meta, beach = false, attraction = false, food = false, size = 'md' }) {
@@ -26,6 +27,7 @@ export default function PlaceCard({ place, href, meta, beach = false, attraction
           {meta ? <p className="mt-0.5 text-sm text-atlantic-950/60">{meta}</p> : null}
           {beach ? <Badges b={place} className="mt-3" /> : null}
           {attraction ? <AttractionBadges a={place} className="mt-3" /> : null}
+          {food ? <Rating rating={place.rating} compact className="mt-1" /> : null}
           {food ? <FoodBadges v={place} className="mt-3" /> : null}
         </div>
       </Link>

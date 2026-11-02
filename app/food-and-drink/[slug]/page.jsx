@@ -6,6 +6,7 @@ import { foodTitle, foodDescription, foodLd } from '../../../lib/seo';
 import Hero from '../../../components/Hero';
 import Byline from '../../../components/Byline';
 import FoodBadges from '../../../components/FoodBadges';
+import Rating from '../../../components/Rating';
 import HoursTable from '../../../components/HoursTable';
 import OsmMap from '../../../components/OsmMap';
 import Nearby from '../../../components/Nearby';
@@ -77,6 +78,7 @@ export default async function FoodPage({ params }) {
       <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
           <WeVisited place={v} />
+          <Rating rating={v.rating} className="mb-4" />
           <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{v.customDescription || v.description}</p>
           <div className="mt-5 flex flex-wrap gap-3">
             {v.website ? (
@@ -97,7 +99,7 @@ export default async function FoodPage({ params }) {
 
           {v.address ? <p className="mt-8 text-sm text-atlantic-950/70"><strong>Address:</strong> {v.address}</p> : null}
           <StayNearby place={v} />
-          <Sources sources={v.sources} lastChecked={v.lastChecked} note="Type, hours and address come from the Google Maps listing; facilities come only from the venue’s own website. We never use Google’s photos, reviews or ratings." />
+          <Sources sources={v.sources} lastChecked={v.lastChecked} note="Type, hours, address and the Google rating come from the Google Maps listing; facilities come only from the venue’s own website. We don’t use Google’s photos or review text." />
         </div>
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
           <OsmMap lat={v.lat} lng={v.lng} zoomDeg={0.006} label={name} />
