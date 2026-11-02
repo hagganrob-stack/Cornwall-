@@ -115,6 +115,8 @@ export const ATTRACTION_EXCLUDE = [
   'Bude Town Centre', 'Pendennis Castle Car Park', 'Land\'s End Sign', 'Roly\'s Fudge Pantry Looe', 'Treguddick Distillery',
   'Field of Dreams', 'Launceston Road Recreation Ground', 'Cargreen Park', 'Camborne Park', 'Porthleven Harbour & Dock Co',
   'Mevagissey Harbour', 'Polperro Harbour', 'Boscastle Harbour', 'Little Petherick Creek Bridge - Camel Trail',
+  // Duplicate listings of the same place.
+  'English Heritage - Launceston Castle',
 ];
 // Google title -> the name we show, where Google's listing title is a marketing string.
 export const ATTRACTION_RENAME = {

@@ -1,0 +1,79 @@
+{
+  "slug": "wheal-martyn-clay-works",
+  "written": "2026-11-02",
+  "overview": [
+    "Wheal Martyn is a museum of the china clay industry at Carthew, about two miles north of St Austell, set in 26 acres around two preserved Victorian clay works. China clay shaped this whole area, from the white spoil heaps you see on the skyline to the Eden Project’s old pit, and this is the place to understand it.",
+    "There’s an exhibition building with collections of machinery, objects and photographs, and outside you can walk round the old works, from the pits to the kiln where the clay was dried. Some of it is protected as a Scheduled Monument."
+  ],
+  "expect": [
+    {
+      "title": "The clay works",
+      "text": "Wander round preserved Victorian works, including a pan kiln used for drying clay until 1969.",
+      "source": 0
+    },
+    {
+      "title": "Exhibitions",
+      "text": "Indoor displays on the industry and the people who worked in it.",
+      "source": 0
+    },
+    {
+      "title": "Woods and trails",
+      "text": "The 26-acre site includes woodland and a protected geological site.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "At Carthew on the B3274, about two miles north of St Austell.",
+      "source": 0
+    },
+    {
+      "label": "Tickets",
+      "text": "Paid entry; the standard ticket gives free return visits for a year.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Two to three hours",
+    "text": "A good rainy-day or mixed-weather plan around St Austell, with indoor exhibitions and outdoor works. Pair it with the Eden Project for a clay-country day.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "eden-project",
+        "why": "the Biomes in a former clay pit"
+      },
+      {
+        "kind": "town",
+        "slug": "charlestown",
+        "why": "the old clay port with tall ships"
+      },
+      {
+        "kind": "attraction",
+        "slug": "menacuddle-well",
+        "why": "a little holy well in a wooded valley"
+      }
+    ]
+  },
+  "tips": [
+    "Combine it with a visit to Charlestown, where the clay was shipped out."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Wheal Martyn",
+      "url": "https://en.wikipedia.org/wiki/Wheal_Martyn",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "Wheal Martyn – official website",
+      "url": "http://www.wheal-martyn.com/"
+    }
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "An exhibition building plus outdoor clay works"
+    }
+  }
+}

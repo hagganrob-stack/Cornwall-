@@ -1,0 +1,72 @@
+{
+  "slug": "national-trust-trengwainton-garden",
+  "written": "2026-11-02",
+  "overview": [
+    "Trengwainton is a National Trust garden in Madron, just outside Penzance, with views out over Mount’s Bay to the Lizard. It’s famous for its rare and exotic trees and shrubs, which thrive in the mild far-west climate. (The house itself is private.)",
+    "Its old walled gardens are a quirk of history: built in Elizabethan times, probably to protect fruit trees during a long spell of colder weather, their walls held in the warmth on chilly nights."
+  ],
+  "expect": [
+    {
+      "title": "Exotic planting",
+      "text": "Rare trees and shrubs from around the world fill the garden.",
+      "source": 0
+    },
+    {
+      "title": "The walled gardens",
+      "text": "Historic walled gardens built to shelter frost-tender plants.",
+      "source": 0
+    },
+    {
+      "title": "The view",
+      "text": "Look out across Mount’s Bay towards the Lizard.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Tickets",
+      "text": "Paid entry for non-members; National Trust members get in free.",
+      "source": 1
+    },
+    {
+      "label": "Before you go",
+      "text": "Check the National Trust website for opening times.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "Two hours or so",
+    "text": "A lovely gentle visit near Penzance, at its most colourful in spring. Pair it with Trewidden, another garden nearby, or Penlee House gallery in town.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "trewidden-garden-and-tearoom",
+        "why": "another garden a couple of kilometres away"
+      },
+      {
+        "kind": "attraction",
+        "slug": "penlee-house-gallery-and-museum",
+        "why": "Penzance’s art gallery and museum"
+      },
+      {
+        "kind": "town",
+        "slug": "penzance",
+        "why": "the main town for food and shops"
+      }
+    ]
+  },
+  "tips": [
+    "Visit in spring for the flowering shrubs at their most colourful."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Trengwainton Garden",
+      "url": "https://en.wikipedia.org/wiki/Trengwainton_Garden",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "National Trust – Trengwainton Garden",
+      "url": "http://www.nationaltrust.org.uk/trengwainton-garden/"
+    }
+  ]
+}

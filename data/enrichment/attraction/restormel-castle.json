@@ -1,0 +1,83 @@
+{
+  "slug": "restormel-castle",
+  "written": "2026-11-02",
+  "overview": [
+    "Restormel Castle is a striking ruin just outside Lostwithiel: a huge, almost perfectly round keep standing on a high mound with a deep ditch, looking down over the River Fowey. It dates from the later 13th century and was at its grandest under Edward the Black Prince, who stayed here twice.",
+    "It’s an easy, peaceful visit run by English Heritage: climb the steps to walk round the battlements, trace the outline of the great hall, then have a picnic on the grass with views over the valley."
+  ],
+  "expect": [
+    {
+      "title": "The round keep",
+      "text": "Walk the battlements of the circular keep for views over the countryside.",
+      "source": 0
+    },
+    {
+      "title": "Inside the walls",
+      "text": "Trace the great hall and other rooms the Black Prince used.",
+      "source": 0
+    },
+    {
+      "title": "For children",
+      "text": "A family trail to build your own forest.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking",
+      "text": "Plenty of free parking about 70 metres from the entrance.",
+      "source": 1
+    },
+    {
+      "label": "Where it is",
+      "text": "About a mile and a half north of Lostwithiel, off the A390.",
+      "source": 1
+    },
+    {
+      "label": "Without a car",
+      "text": "The nearest bus stop is in Lostwithiel, then a walk of just over a mile along a minor road.",
+      "source": 1
+    }
+  ],
+  "week": {
+    "slot": "An hour or so",
+    "text": "A short, scenic stop to combine with Lanhydrock or a wander round Lostwithiel’s antique shops. It also makes a good base for walks along the Fowey valley.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "national-trust-lanhydrock-house-and-garden",
+        "why": "a grand house and estate nearby"
+      },
+      {
+        "kind": "town",
+        "slug": "lostwithiel",
+        "why": "a small historic town on the Fowey"
+      },
+      {
+        "kind": "attraction",
+        "slug": "cardinham-woods",
+        "why": "forest trails a short drive away"
+      }
+    ]
+  },
+  "tips": [
+    "Bring a picnic: the castle lawns have lovely views."
+  ],
+  "sources": [
+    {
+      "label": "English Heritage – Restormel Castle",
+      "url": "https://www.english-heritage.org.uk/visit/places/restormel-castle/"
+    },
+    {
+      "label": "English Heritage – Restormel Castle directions",
+      "url": "https://www.english-heritage.org.uk/visit/places/restormel-castle/directions/"
+    }
+  ],
+  "facts": {
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "A family trail for children"
+    }
+  }
+}

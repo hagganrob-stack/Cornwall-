@@ -1,0 +1,83 @@
+{
+  "slug": "launceston-castle",
+  "written": "2026-11-02",
+  "overview": [
+    "Launceston Castle stands on a great mound above the town, guarding what was once the main road into Cornwall. Its unusual keep, built in tiers of stone by Richard, Earl of Cornwall in the 13th century, gives you sweeping views over the town and countryside from the top.",
+    "Later it became a grim prison nicknamed ‘Castle Terrible’. Today the grounds are a peaceful spot for a picnic, and English Heritage looks after the site."
+  ],
+  "expect": [
+    {
+      "title": "The keep",
+      "text": "Climb up through the tiered keep for views over Launceston and the surrounding countryside.",
+      "source": 0
+    },
+    {
+      "title": "Displays",
+      "text": "Exhibits trace the castle’s history, including finds such as whale bones that may be leftovers from a medieval feast, and poems by local poet Charles Causley.",
+      "source": 0
+    },
+    {
+      "title": "For children",
+      "text": "A family trail led by Charles Causley’s cat, Rupert, and a build-your-own-legend trail.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking",
+      "text": "There’s no parking at the castle: use the pay-and-display multi-storey opposite. Accessible parking can be arranged in advance by phone.",
+      "source": 1
+    },
+    {
+      "label": "By bus",
+      "text": "The nearest stop, Westgate Street, is a short walk away, with services from Plymouth and Bude.",
+      "source": 1
+    },
+    {
+      "label": "Tickets",
+      "text": "English Heritage members get in free; check the website for prices and opening times.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "An hour or so",
+    "text": "A short, easy castle visit if you’re near the A30 on your way in or out of Cornwall, or exploring Launceston. Combine it with the steam railway or Lawrence House museum in town.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "launceston-steam-railway",
+        "why": "a narrow-gauge steam railway in town"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-lawrence-house",
+        "why": "the town museum in a Georgian house"
+      },
+      {
+        "kind": "attraction",
+        "slug": "hidden-valley",
+        "why": "a puzzle park just outside town"
+      }
+    ]
+  },
+  "tips": [
+    "Bring a picnic for the castle lawns."
+  ],
+  "sources": [
+    {
+      "label": "English Heritage – Launceston Castle",
+      "url": "https://www.english-heritage.org.uk/visit/places/launceston-castle/"
+    },
+    {
+      "label": "English Heritage – Launceston Castle directions",
+      "url": "https://www.english-heritage.org.uk/visit/places/launceston-castle/directions/"
+    }
+  ],
+  "facts": {
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "Family trails for children"
+    }
+  }
+}

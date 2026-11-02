@@ -1706,7 +1706,7 @@
         "km": 9.3
       }
     ],
-    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 5 with indoor space for a rainy day. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km).",
+    "description": "Wadebridge is a visitor base in North Coast. No named beaches are mapped within 5 km. 10 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Rock (6.3 km) and Padstow (7.7 km).",
     "attractionsNearby": [
       {
         "slug": "pencarrow-house-and-garden",
@@ -14845,7 +14845,7 @@
         "km": 15.5
       }
     ],
-    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 11 attractions are listed within 10 km, 6 with indoor space for a rainy day. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km).",
+    "description": "Bodmin is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 11 attractions are listed within 10 km, 7 with indoor space for a rainy day. The nearest other bases are Lostwithiel (8.1 km) and Wadebridge (9.3 km).",
     "attractionsNearby": [
       {
         "slug": "discovering42",
@@ -15229,13 +15229,8 @@
         "km": 22.2
       }
     ],
-    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 6 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km).",
+    "description": "Launceston is a visitor base in Bodmin Moor & East Cornwall. No named beaches are mapped within 5 km. 5 attractions are listed within 10 km, 4 with indoor space for a rainy day. The nearest other bases are Callington (15.3 km) and Calstock (18.9 km).",
     "attractionsNearby": [
-      {
-        "slug": "english-heritage-launceston-castle",
-        "name": "English Heritage - Launceston Castle",
-        "km": 0.1
-      },
       {
         "slug": "launceston-castle",
         "name": "Launceston Castle",

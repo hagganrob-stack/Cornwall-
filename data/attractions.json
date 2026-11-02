@@ -6722,227 +6722,6 @@
     "description": "Eden Project is an attractions 3.1 km from Par, in South Coast. It has both indoor and outdoor areas. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Crinnis Beach (2.8 km)."
   },
   {
-    "slug": "english-heritage-launceston-castle",
-    "name": "English Heritage - Launceston Castle",
-    "category": "Castle",
-    "categories": [
-      "Castle"
-    ],
-    "town": "launceston",
-    "townDistanceKm": 0.1,
-    "region": "bodmin-moor-east-cornwall",
-    "lat": 50.63664,
-    "lng": -4.36214,
-    "address": "Launceston Castle, Castle Lodge, Guildhall Square, Launceston, PL15 7DR",
-    "website": "http://www.english-heritage.org.uk/visit/places/launceston-castle/",
-    "setting": {
-      "value": "outdoor",
-      "method": "From its Google Maps categories (Castle)",
-      "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJNXBTzNlibEgRD5570cWoz5g"
-      }
-    },
-    "rainyDay": {
-      "value": "not stated"
-    },
-    "kids": {
-      "value": "not stated"
-    },
-    "entry": {
-      "value": "not stated"
-    },
-    "hours": {
-      "value": "listed",
-      "days": [
-        [
-          "Monday",
-          "Closed"
-        ],
-        [
-          "Tuesday",
-          "Closed"
-        ],
-        [
-          "Wednesday",
-          "10 am–5 pm"
-        ],
-        [
-          "Thursday",
-          "10 am–5 pm"
-        ],
-        [
-          "Friday",
-          "10 am–5 pm"
-        ],
-        [
-          "Saturday",
-          "10 am–5 pm"
-        ],
-        [
-          "Sunday",
-          "10 am–5 pm"
-        ]
-      ],
-      "closedDays": [
-        "Monday",
-        "Tuesday"
-      ],
-      "note": "Hours from the Google Maps listing. Many Cornish attractions change their hours by season, so check the website before you go.",
-      "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJNXBTzNlibEgRD5570cWoz5g"
-      }
-    },
-    "allow": {
-      "value": "An hour or two",
-      "method": "Typical time for this kind of place, worked out from its category; not first-hand."
-    },
-    "googlePlaceId": "ChIJNXBTzNlibEgRD5570cWoz5g",
-    "lastChecked": "2026-11-02",
-    "ourNotes": "",
-    "weVisited": false,
-    "images": [
-      {
-        "file": "File:Launceston Castle - geograph.org.uk - 4525744.jpg",
-        "title": "Launceston Castle - geograph.org.uk - 4525744",
-        "description": "Launceston Castle",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Launceston_Castle_-_geograph.org.uk_-_4525744.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Launceston_Castle_-_geograph.org.uk_-_4525744.jpg/1920px-Launceston_Castle_-_geograph.org.uk_-_4525744.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 2144,
-        "height": 1609,
-        "photographer": "don cload",
-        "licence": "CC BY-SA 2.0",
-        "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Launceston_Castle_-_geograph.org.uk_-_4525744.jpg",
-        "via": "Geograph (via Wikimedia Commons)",
-        "geographUrl": "https://www.geograph.org.uk/photo/4525744",
-        "dateTaken": "2015-06-06",
-        "distanceM": 14,
-        "quality": null,
-        "score": 61,
-        "retrieved": "2026-11-02"
-      },
-      {
-        "file": "File:Launceston Castle - geograph.org.uk - 4182066.jpg",
-        "title": "Launceston Castle - geograph.org.uk - 4182066",
-        "description": "Launceston Castle",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Launceston_Castle_-_geograph.org.uk_-_4182066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Launceston_Castle_-_geograph.org.uk_-_4182066.jpg/1920px-Launceston_Castle_-_geograph.org.uk_-_4182066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 2560,
-        "height": 1920,
-        "photographer": "Ruth Sharville",
-        "licence": "CC BY-SA 2.0",
-        "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Launceston_Castle_-_geograph.org.uk_-_4182066.jpg",
-        "via": "Geograph (via Wikimedia Commons)",
-        "geographUrl": "https://www.geograph.org.uk/photo/4182066",
-        "dateTaken": "2014-09-25",
-        "distanceM": 4,
-        "quality": null,
-        "score": 56,
-        "retrieved": "2026-11-02"
-      },
-      {
-        "file": "File:Launceston Castle - geograph.org.uk - 4941057.jpg",
-        "title": "Launceston Castle - geograph.org.uk - 4941057",
-        "description": "Launceston Castle",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Launceston_Castle_-_geograph.org.uk_-_4941057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Launceston_Castle_-_geograph.org.uk_-_4941057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1600,
-        "height": 1200,
-        "photographer": "David Weston",
-        "licence": "CC BY-SA 2.0",
-        "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Launceston_Castle_-_geograph.org.uk_-_4941057.jpg",
-        "via": "Geograph (via Wikimedia Commons)",
-        "geographUrl": "https://www.geograph.org.uk/photo/4941057",
-        "dateTaken": "2016-04-26",
-        "distanceM": 62,
-        "quality": null,
-        "score": 56,
-        "retrieved": "2026-11-02"
-      },
-      {
-        "file": "geograph:5085319",
-        "title": "Launceston Castle",
-        "description": "",
-        "url": "https://s3.geograph.org.uk/geophotos/05/08/53/5085319_9fd30ed4.jpg",
-        "thumbUrl": "https://s3.geograph.org.uk/geophotos/05/08/53/5085319_9fd30ed4.jpg",
-        "width": null,
-        "height": null,
-        "photographer": "Chris Allen",
-        "licence": "CC BY-SA 2.0",
-        "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "sourceUrl": "https://www.geograph.org.uk/photo/5085319",
-        "via": "Geograph",
-        "geographUrl": "https://www.geograph.org.uk/photo/5085319",
-        "dateTaken": "2016-08-15",
-        "distanceM": 74,
-        "quality": null,
-        "score": 55,
-        "retrieved": "2026-11-02"
-      }
-    ],
-    "sources": [
-      {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJNXBTzNlibEgRD5570cWoz5g"
-      },
-      {
-        "label": "English Heritage - Launceston Castle – official website",
-        "url": "http://www.english-heritage.org.uk/visit/places/launceston-castle/"
-      }
-    ],
-    "nearbyAttractions": [
-      {
-        "slug": "launceston-castle",
-        "name": "Launceston Castle",
-        "km": 0.1
-      },
-      {
-        "slug": "national-trust-lawrence-house",
-        "name": "National Trust - Lawrence House",
-        "km": 0.2
-      },
-      {
-        "slug": "launceston-steam-railway",
-        "name": "Launceston Steam Railway",
-        "km": 0.5
-      },
-      {
-        "slug": "trethorne-leisure-park",
-        "name": "Trethorne Leisure Park",
-        "km": 4.7
-      },
-      {
-        "slug": "hidden-valley",
-        "name": "Hidden Valley",
-        "km": 5.2
-      }
-    ],
-    "nearbyBeaches": [],
-    "nearbyTowns": [
-      {
-        "slug": "launceston",
-        "name": "Launceston",
-        "km": 0.1
-      }
-    ],
-    "guide": {
-      "whoItSuits": [
-        "a dry day outdoors"
-      ],
-      "howLongToAllow": "An hour or two",
-      "bestTimeToGo": [
-        "On a dry day",
-        "Not on Monday and Tuesday, when the listing shows it closed"
-      ],
-      "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
-    },
-    "description": "English Heritage - Launceston Castle is a castle in Launceston, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day."
-  },
-  {
     "slug": "enigma-escape-cornwall",
     "name": "Enigma Escape Cornwall",
     "category": "Education Centre",
@@ -9914,11 +9693,6 @@
         "slug": "trethorne-leisure-park",
         "name": "Trethorne Leisure Park",
         "km": 1.7
-      },
-      {
-        "slug": "english-heritage-launceston-castle",
-        "name": "English Heritage - Launceston Castle",
-        "km": 5.2
       },
       {
         "slug": "launceston-castle",
@@ -13284,7 +13058,12 @@
       "value": "not stated"
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Family trails for children",
+      "source": {
+        "label": "English Heritage – Launceston Castle",
+        "url": "https://www.english-heritage.org.uk/visit/places/launceston-castle/"
+      }
     },
     "entry": {
       "value": "not stated"
@@ -13433,11 +13212,6 @@
     ],
     "nearbyAttractions": [
       {
-        "slug": "english-heritage-launceston-castle",
-        "name": "English Heritage - Launceston Castle",
-        "km": 0.1
-      },
-      {
         "slug": "national-trust-lawrence-house",
         "name": "National Trust - Lawrence House",
         "km": 0.1
@@ -13468,6 +13242,7 @@
     ],
     "guide": {
       "whoItSuits": [
+        "families with children",
         "a dry day outdoors"
       ],
       "howLongToAllow": "An hour or two",
@@ -13477,7 +13252,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Launceston Castle is a heritage building in Launceston, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day."
+    "description": "Launceston Castle is a heritage building in Launceston, in Bodmin Moor & East Cornwall. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children."
   },
   {
     "slug": "launceston-steam-railway",
@@ -13629,11 +13404,6 @@
         "slug": "launceston-castle",
         "name": "Launceston Castle",
         "km": 0.4
-      },
-      {
-        "slug": "english-heritage-launceston-castle",
-        "name": "English Heritage - Launceston Castle",
-        "km": 0.5
       },
       {
         "slug": "trethorne-leisure-park",
@@ -19279,11 +19049,6 @@
         "km": 0.1
       },
       {
-        "slug": "english-heritage-launceston-castle",
-        "name": "English Heritage - Launceston Castle",
-        "km": 0.2
-      },
-      {
         "slug": "launceston-steam-railway",
         "name": "Launceston Steam Railway",
         "km": 0.3
@@ -21452,18 +21217,28 @@
     "address": "Washaway, Bodmin, PL30 3AG",
     "website": "http://www.pencarrow.co.uk/",
     "setting": {
-      "value": "outdoor",
-      "method": "From the kind of place it is",
+      "value": "indoor and outdoor",
+      "method": "A historic house plus gardens and grounds",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJXxVgLE93a0gRr2T2lCggxmI"
+        "label": "Pencarrow House and Gardens",
+        "url": "https://www.pencarrow.co.uk/"
       }
     },
     "rainyDay": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Has indoor areas",
+      "source": {
+        "label": "Pencarrow House and Gardens",
+        "url": "https://www.pencarrow.co.uk/"
+      }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Play area and family-friendly grounds",
+      "source": {
+        "label": "Pencarrow House and Gardens",
+        "url": "https://www.pencarrow.co.uk/"
+      }
     },
     "entry": {
       "value": "not stated"
@@ -21542,15 +21317,16 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a dry day outdoors"
+        "families with children",
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "Two hours to half a day",
       "bestTimeToGo": [
-        "On a dry day"
+        "Any day, including wet ones"
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Pencarrow House & Garden is an attraction 4.9 km from Wadebridge, in North Coast. It’s outdoors, so it’s best on a dry day."
+    "description": "Pencarrow House & Garden is an attraction 4.9 km from Wadebridge, in North Coast. It has both indoor and outdoor areas. It’s aimed at families with children."
   },
   {
     "slug": "pendennis-castle",
@@ -26045,7 +25821,12 @@
       "value": "not stated"
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "A family trail for children",
+      "source": {
+        "label": "English Heritage – Restormel Castle",
+        "url": "https://www.english-heritage.org.uk/visit/places/restormel-castle/"
+      }
     },
     "entry": {
       "value": "not stated"
@@ -26241,6 +26022,7 @@
     ],
     "guide": {
       "whoItSuits": [
+        "families with children",
         "a dry day outdoors"
       ],
       "howLongToAllow": "An hour or two",
@@ -26249,7 +26031,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Restormel Castle is a heritage building 1.6 km from Lostwithiel, in South Coast. It’s outdoors, so it’s best on a dry day."
+    "description": "Restormel Castle is a heritage building 1.6 km from Lostwithiel, in South Coast. It’s outdoors, so it’s best on a dry day. It’s aimed at families with children."
   },
   {
     "slug": "rnas-culdrose-public-viewing-area",
@@ -35324,11 +35106,6 @@
         "km": 1.7
       },
       {
-        "slug": "english-heritage-launceston-castle",
-        "name": "English Heritage - Launceston Castle",
-        "km": 4.7
-      },
-      {
         "slug": "launceston-castle",
         "name": "Launceston Castle",
         "km": 4.8
@@ -37857,19 +37634,19 @@
     "address": "Carthew, Saint Austell, PL26 8XG",
     "website": "http://www.wheal-martyn.com/",
     "setting": {
-      "value": "indoor",
-      "method": "From its Google Maps categories (Cafe, Gift shop, Heritage museum, Museum)",
+      "value": "indoor and outdoor",
+      "method": "An exhibition building plus outdoor clay works",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2M8cIxua0gR3q0aSU8lKnc"
+        "label": "Wikipedia – Wheal Martyn",
+        "url": "https://en.wikipedia.org/wiki/Wheal_Martyn"
       }
     },
     "rainyDay": {
       "value": "yes",
-      "method": "Indoors",
+      "method": "Has indoor areas",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2M8cIxua0gR3q0aSU8lKnc"
+        "label": "Wikipedia – Wheal Martyn",
+        "url": "https://en.wikipedia.org/wiki/Wheal_Martyn"
       }
     },
     "kids": {
@@ -38019,7 +37796,7 @@
     ],
     "guide": {
       "whoItSuits": [
-        "a rainy day (it’s indoors)"
+        "a changeable day (there’s indoor space)"
       ],
       "howLongToAllow": "An hour or two",
       "bestTimeToGo": [
@@ -38027,6 +37804,6 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "Wheal Martyn Clay Works is a cafe 3.0 km from St Austell, in South Coast. It’s indoors, so it works on a rainy day. The nearest beach is Duporth Beach (5.2 km)."
+    "description": "Wheal Martyn Clay Works is a cafe 3.0 km from St Austell, in South Coast. It has both indoor and outdoor areas. The nearest beach is Duporth Beach (5.2 km)."
   }
 ]

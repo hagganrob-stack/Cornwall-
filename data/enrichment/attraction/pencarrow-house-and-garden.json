@@ -1,0 +1,79 @@
+{
+  "slug": "pencarrow-house-and-garden",
+  "written": "2026-11-02",
+  "overview": [
+    "Pencarrow is a Georgian country house on the edge of Bodmin Moor near Wadebridge, still the home of the same family, the Molesworth-St Aubyns, after almost 500 years, and not part of the National Trust. That gives it a lived-in, slightly eccentric charm.",
+    "There’s plenty for families: 50 acres of grounds with gardens that change through the seasons, an Iron Age fort, a children’s play area with a little slate-roofed Wendy house, and a café. Dogs are welcome too."
+  ],
+  "expect": [
+    {
+      "title": "Guided house tours",
+      "text": "Tours reveal hidden passages, portraits whose eyes follow you and statues wearing top hats.",
+      "source": 0
+    },
+    {
+      "title": "Gardens and grounds",
+      "text": "A Grade II listed garden with something in flower through the seasons, and an Iron Age fort in the grounds.",
+      "source": 0
+    },
+    {
+      "title": "For children",
+      "text": "A play area with a Wendy house next to the café.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Café",
+      "text": "Light lunches, cakes (with gluten-free options) and cream teas, made with Cornish produce.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Dog-friendly across the 50 acres.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Two to three hours",
+    "text": "A good half day inland when you want a change from the beach, with something for adults and children. It’s close to Wadebridge and the Camel Trail.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "wadebridge",
+        "why": "the market town on the Camel Trail"
+      },
+      {
+        "kind": "attraction",
+        "slug": "bodmin-jail-museum",
+        "why": "a spooky indoor visit in Bodmin"
+      },
+      {
+        "kind": "attraction",
+        "slug": "bodmin-and-wenford-railway-boscarne-junction",
+        "why": "a heritage steam railway nearby"
+      }
+    ]
+  },
+  "tips": [
+    "Join a guided tour to hear the house’s stories."
+  ],
+  "sources": [
+    {
+      "label": "Pencarrow House and Gardens",
+      "url": "https://www.pencarrow.co.uk/"
+    }
+  ],
+  "facts": {
+    "setting": {
+      "value": "indoor and outdoor",
+      "source": 0,
+      "note": "A historic house plus gardens and grounds"
+    },
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "Play area and family-friendly grounds"
+    }
+  }
+}
