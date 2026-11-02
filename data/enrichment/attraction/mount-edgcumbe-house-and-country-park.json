@@ -1,0 +1,69 @@
+{
+  "slug": "mount-edgcumbe-house-and-country-park",
+  "written": "2026-11-02",
+  "overview": [
+    "Mount Edgcumbe is a Tudor stately home and a big country park on the Rame Peninsula, looking straight across the water at Plymouth. The house was built in the mid-1500s for the Edgcumbe family, gutted by bombs in 1941 and later restored, with its rooms now done up in 18th-century style.",
+    "The parkland and gardens are the real draw: they’re some of the earliest landscaped grounds in Cornwall and nationally important, and a favourite with walkers. You can stroll right through the park from the Cremyll ferry and on to Kingsand and Cawsand."
+  ],
+  "expect": [
+    {
+      "title": "The country park",
+      "text": "Woods, lawns and coastal paths with views over Plymouth Sound, dotted with follies and historic features, including a sheltered anchorage the Vikings used in 997.",
+      "source": 0
+    },
+    {
+      "title": "The house and Earl’s Garden",
+      "text": "The restored house and the Earl’s Garden beside it open in the summer, from April to the end of September.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Getting there",
+      "text": "The main entrance is at Cremyll. A foot ferry still runs between Cremyll and Plymouth, as it has in some form since the Middle Ages.",
+      "source": 0
+    },
+    {
+      "label": "Ownership",
+      "text": "The estate is jointly owned by Cornwall and Plymouth councils, and visitors have been welcome since 1988.",
+      "source": 0
+    },
+    {
+      "label": "Before you go",
+      "text": "Check the official website for current house opening times and prices.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "Half a day",
+    "text": "A good choice for a fine day if you’re staying in south-east Cornwall. Walk through the park to Kingsand and Cawsand for lunch by the sea, or take the little ferry across for a look at Plymouth.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "kingsand",
+        "why": "a pretty seaside village at the end of the park"
+      },
+      {
+        "kind": "beach",
+        "slug": "cawsand-beach",
+        "why": "a sheltered village beach"
+      },
+      {
+        "kind": "attraction",
+        "slug": "national-trust-antony",
+        "why": "another historic house across the Tamar inlet"
+      }
+    ]
+  },
+  "tips": [
+    "Visit the house between April and September if you want to go inside.",
+    "Wear walking shoes and allow time to explore the park on foot."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – Mount Edgcumbe House",
+      "url": "https://en.wikipedia.org/wiki/Mount_Edgcumbe_House",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}

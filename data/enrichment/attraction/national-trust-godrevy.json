@@ -1,0 +1,88 @@
+{
+  "slug": "national-trust-godrevy",
+  "written": "2026-11-02",
+  "overview": [
+    "Godrevy is the headland at the far eastern end of St Ives Bay, with a huge sandy beach on one side and wild cliffs on the other, all looked after by the National Trust. Just offshore, on a reef called the Stones, stands Godrevy Lighthouse, built in 1859 after a steamer was wrecked there with the loss of everyone on board.",
+    "It’s a fabulous all-rounder: sand and rock pools for the children, surf, coast path walks with big views back to St Ives, and, the highlight for many visitors, a colony of grey seals that hauls out on a beach below the cliffs."
+  ],
+  "expect": [
+    {
+      "title": "Seals at Mutton Cove",
+      "text": "A gently sloping track from the headland car park leads to a viewpoint over Mutton Cove, where at certain times of year seals haul out on the beach below. Keep quiet near them, as the signs ask.",
+      "source": 0
+    },
+    {
+      "title": "The beach",
+      "text": "Godrevy beach has golden sand, rock pools to explore and waves that draw surfers.",
+      "source": 0
+    },
+    {
+      "title": "Walks",
+      "text": "The coast path heads east along the clifftops towards Hell’s Mouth and Portreath, with views back across the bay to St Ives and the lighthouse.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking",
+      "text": "The main car park is open all year but small; extra field parking opens in the warmer months, weather permitting. Pay by app or machine; National Trust members park free.",
+      "source": 0
+    },
+    {
+      "label": "Dogs on the beach",
+      "text": "There’s a Council dog ban on the beach from Harvey’s Towans to Godrevy Point, 1 July to 31 August, 10am to 6pm.",
+      "source": 0
+    },
+    {
+      "label": "Facilities",
+      "text": "There are toilets up in the field car park on the headland, and the Godrevy Café (not run by the Trust) with an ice cream hut in summer.",
+      "source": 0
+    },
+    {
+      "label": "Access",
+      "text": "There’s an accessible path from the field parking up to the headland, fairly level paths with boardwalk in places, and accessible toilets.",
+      "source": 0
+    },
+    {
+      "label": "By bus",
+      "text": "Buses stop in Gwithian, about a mile’s walk from the headland.",
+      "source": 0
+    },
+    {
+      "label": "Opening",
+      "text": "The countryside is open dawn to dusk.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Godrevy can fill a whole day on a fine one: beach and rock pools in the morning, seal-spotting and a clifftop walk in the afternoon, and a café on hand. Arrive early in summer, as the car park fills up.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "gwithian-beach",
+        "why": "the long sandy beach next door"
+      },
+      {
+        "kind": "beach",
+        "slug": "hayle-towans-beach",
+        "why": "more miles of sand across St Ives Bay"
+      },
+      {
+        "kind": "attraction",
+        "slug": "paradise-park-and-junglebarn",
+        "why": "a wildlife park with indoor play if it rains"
+      }
+    ]
+  },
+  "tips": [
+    "Bring binoculars for the seals at Mutton Cove, and keep your voice down when you’re there.",
+    "In July and August, walk the dog on the headland paths rather than the beach during the day."
+  ],
+  "sources": [
+    {
+      "label": "National Trust – Godrevy",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/godrevy"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "lappa-valley",
+  "written": "2026-11-02",
+  "overview": [
+    "Lappa Valley is a 35-acre family park in the countryside just outside Newquay, and the fun starts in the car park: you ride a little steam-style train into the valley. Once there, it’s a gentle, old-fashioned day of train and boat rides, play areas and woodland walks, ideal for younger children.",
+    "There’s a big indoor soft play and café in the middle, the Engine Shed, which makes it a safe bet when the weather can’t make up its mind."
+  ],
+  "expect": [
+    {
+      "title": "The trains",
+      "text": "The train ride in from the car park is the bit children remember. The park has a fleet of locomotives, and grown-up train fans can book driver experiences after hours.",
+      "source": 0
+    },
+    {
+      "title": "Outdoor fun",
+      "text": "A boating lake, adventure golf, a musical trail and woodland walks, with plenty of space to let off steam.",
+      "source": 1
+    },
+    {
+      "title": "The Engine Shed",
+      "text": "A multi-level indoor soft play with rope walks, slides and a net floor, plus a separate toddler area with sensory play for under-5s.",
+      "source": 2
+    },
+    {
+      "title": "Festive days",
+      "text": "On selected dates in late November and December there are special festive days with a visit to Father Christmas.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Food",
+      "text": "The Engine Shed café serves hot meals, burgers, pizzas, sandwiches and cakes year round, and the Crib Hut does grab-and-go pasties, rolls and ice cream from March to October.",
+      "source": 1
+    },
+    {
+      "label": "Before you go",
+      "text": "Opening days, admission prices and train times change through the year, so check the website before you set off.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "Half a day to a full day",
+    "text": "A lovely gentle day for families with little ones, and a handy plan for a changeable day around Newquay. Combine it with a wander round Trerice, the Elizabethan manor just down the road, if the grown-ups want a turn.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "trerice",
+        "why": "an Elizabethan manor house nearby"
+      },
+      {
+        "kind": "attraction",
+        "slug": "newquay-zoo",
+        "why": "another family favourite in Newquay"
+      },
+      {
+        "kind": "beach",
+        "slug": "the-gannel",
+        "why": "a sheltered estuary beach on the edge of Newquay"
+      }
+    ]
+  },
+  "tips": [
+    "Bring socks for the soft play.",
+    "Check the train timetable on the website when you plan your day."
+  ],
+  "facts": {
+    "kids": {
+      "value": "yes",
+      "source": 0,
+      "note": "Train and boat rides, play areas and soft play for children"
+    }
+  },
+  "sources": [
+    {
+      "label": "Lappa Valley",
+      "url": "https://www.lappavalley.co.uk/"
+    },
+    {
+      "label": "Lappa Valley – What’s here",
+      "url": "https://www.lappavalley.co.uk/whats-here/"
+    },
+    {
+      "label": "Lappa Valley – The Engine Shed",
+      "url": "https://www.lappavalley.co.uk/the-engine-shed/"
+    }
+  ]
+}

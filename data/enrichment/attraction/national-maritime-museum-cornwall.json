@@ -1,0 +1,36 @@
+{
+  "slug": "national-maritime-museum-cornwall",
+  "written": "2026-11-02",
+  "overview": [
+    "The National Maritime Museum Cornwall sits right on Falmouth’s harbourside and is all about the sea: boats, Cornish fishing and seafaring, and Falmouth’s own long maritime history. It’s an independent charity in a modern building opened in 2002, with 15 galleries over five floors.",
+    "It’s a great rainy-day pick in the south, and much more hands-on than the name suggests, with remote-controlled boats, a pirate play zone and an RNLI area for children, and a big changing exhibition for the grown-ups. Allow at least an hour and a half."
+  ],
+  "expect": [
+    { "title": "Boat Hall", "text": "You start under a flotilla of small boats hanging from the ceiling, part of a big collection of small craft.", "source": 5 },
+    { "title": "For children", "text": "Steer remote-controlled boats on the Boat Pool, become a pirate in the Skull Island play zone, and clamber on rescue vehicles and dress up in the RNLI Rescue Zone.", "source": 5 },
+    { "title": "Under the harbour and up the tower", "text": "The Tidal Zone takes you below the waterline to watch the harbour through big windows as the tide rises and falls, while the Lookout at the top of the tower gives views over the harbour, docks and estuary.", "source": 5 },
+    { "title": "Exhibitions and boatbuilding", "text": "The Hold hosts the main temporary exhibition, and in the workshop you can watch volunteers building historic boats from scratch.", "source": 5 }
+  ],
+  "goodToKnow": [
+    { "label": "Opening", "text": "Open daily from 10am to 5pm, except for the three days around Christmas.", "source": 2 },
+    { "label": "Tickets", "text": "Paid entry, and a standard ticket becomes an annual pass, so you can pop back free for a year. Booking online before the day saves 10%. A cheaper twilight ticket from 3pm doesn’t include the annual pass.", "source": 3 },
+    { "label": "Children", "text": "Under-16s need to be with an adult.", "source": 3 },
+    { "label": "Parking", "text": "The Maritime car park and Grove Place car park have more than 400 short-stay spaces within about 150 metres of the museum.", "source": 4 },
+    { "label": "Access", "text": "Most floors are reached by lift or ramp; check before you go, as the tower lift (for the Tidal Zone and Lookout) has recently been out of action.", "source": 5 },
+    { "label": "Food", "text": "The Waterside Café looks out over the harbour.", "source": 0 }
+  ],
+  "week": { "slot": "One and a half to three hours", "text": "Save it for a wet day around Falmouth, and because the ticket covers a year you can come back if the weather turns again later in the week. Afterwards, wander Falmouth’s shops and harbour, or take the ferry across to St Mawes if it clears up.", "pairWith": [
+    { "kind": "beach", "slug": "gyllyngvase-beach", "why": "Falmouth’s main town beach" },
+    { "kind": "attraction", "slug": "st-mawes-ferry", "why": "a short boat trip across to St Mawes" },
+    { "kind": "attraction", "slug": "pendennis-castle", "why": "a Tudor castle on the headland" } ] },
+  "tips": [ "Book online the day before for the discount.", "Keep your ticket: it gets you back in free for a year." ],
+  "facts": { "kids": { "value": "yes", "source": 1, "note": "Boat pool, pirate play zone and RNLI rescue zone for children" } },
+  "sources": [
+    { "label": "National Maritime Museum Cornwall", "url": "https://nmmc.co.uk/" },
+    { "label": "NMMC – What’s here", "url": "https://nmmc.co.uk/whats-here/" },
+    { "label": "NMMC – Opening times", "url": "https://nmmc.co.uk/visit/opening-times/" },
+    { "label": "NMMC – Ticket prices", "url": "https://nmmc.co.uk/visit/ticket-prices/" },
+    { "label": "NMMC – Getting here", "url": "https://nmmc.co.uk/visit/getting-here/" },
+    { "label": "NMMC – Accessibility", "url": "https://nmmc.co.uk/visit/accessibility/" }
+  ]
+}

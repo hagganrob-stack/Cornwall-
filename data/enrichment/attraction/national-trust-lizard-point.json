@@ -1,0 +1,73 @@
+{
+  "slug": "national-trust-lizard-point",
+  "written": "2026-11-02",
+  "overview": [
+    "Lizard Point is as far south as you can go on the British mainland: a rugged headland of dark rock and wildflowers at the tip of the Lizard peninsula, with the sea on three sides. The National Trust looks after the land around it.",
+    "There’s something stirring about standing at the very end of Britain, and the coast here has a long and dramatic history. The waters around the Lizard were once nicknamed the ‘Graveyard of Ships’, which is why the Lizard Lighthouse was built on the point in 1752 and a lifeboat station still operates nearby."
+  ],
+  "expect": [
+    {
+      "title": "The point",
+      "text": "Clifftop paths lead out to the southernmost tip, with views along the coast in both directions and plenty of seabirds wheeling below.",
+      "source": 0
+    },
+    {
+      "title": "The lighthouse",
+      "text": "The Lizard Lighthouse, first built in 1752, stands on the headland and is a landmark for miles around.",
+      "source": 0
+    },
+    {
+      "title": "Coast path walks",
+      "text": "The South West Coast Path runs right past, so you can walk west to Kynance Cove or east to Housel Bay and Cadgwith.",
+      "source": null
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Where it is",
+      "text": "Just south of Lizard village, at the end of the A3083 from Helston.",
+      "source": 0
+    },
+    {
+      "label": "Before you go",
+      "text": "Check the National Trust website for current parking arrangements and facilities.",
+      "source": null
+    }
+  ],
+  "week": {
+    "slot": "An hour or two",
+    "text": "A must for most Lizard days: combine it with Kynance Cove at low tide and you’ve got one of the classic Cornish days out. It’s exposed, so it’s at its most atmospheric on a breezy day and pleasantest on a calm one.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "kynance-cove",
+        "why": "the famous serpentine cove, a short way west"
+      },
+      {
+        "kind": "beach",
+        "slug": "housel-bay",
+        "why": "a quiet sandy cove just to the east"
+      },
+      {
+        "kind": "town",
+        "slug": "cadgwith",
+        "why": "a little fishing village further along the coast"
+      }
+    ]
+  },
+  "tips": [
+    "Bring a windproof: there’s nothing between you and the open sea.",
+    "Combine it with Kynance and time that part of the day for low tide."
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia – The Lizard",
+      "url": "https://en.wikipedia.org/wiki/The_Lizard",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "label": "Lizard Point – official website",
+      "url": "http://www.nationaltrust.org.uk/lizard-point-and-kynance-cove/"
+    }
+  ]
+}

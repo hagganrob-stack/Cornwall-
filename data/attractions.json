@@ -12994,10 +12994,10 @@
     },
     "kids": {
       "value": "yes",
-      "method": "Aimed at families (Google Maps category: Indoor playground)",
+      "method": "Train and boat rides, play areas and soft play for children",
       "source": {
-        "label": "Google Maps listing (via SerpApi)",
-        "url": "https://www.google.com/maps/place/?q=place_id:ChIJo1BeXpcRa0gRzTiQMMnD2e0"
+        "label": "Lappa Valley",
+        "url": "https://www.lappavalley.co.uk/"
       }
     },
     "entry": {
@@ -16995,7 +16995,12 @@
       }
     },
     "kids": {
-      "value": "not stated"
+      "value": "yes",
+      "method": "Boat pool, pirate play zone and RNLI rescue zone for children",
+      "source": {
+        "label": "NMMC – What’s here",
+        "url": "https://nmmc.co.uk/whats-here/"
+      }
     },
     "entry": {
       "value": "paid",
@@ -17207,6 +17212,7 @@
     ],
     "guide": {
       "whoItSuits": [
+        "families with children",
         "a rainy day (it’s indoors)"
       ],
       "howLongToAllow": "An hour or two",
@@ -17215,7 +17221,7 @@
       ],
       "method": "Worked out from the facts on this page (category, setting, opening hours); not a first-hand recommendation."
     },
-    "description": "National Maritime Museum Cornwall is a museum in Falmouth, in South Coast. It’s indoors, so it works on a rainy day. There’s an entry charge; prices are on its website. The nearest beach is Tunnel Beach (500 m)."
+    "description": "National Maritime Museum Cornwall is a museum in Falmouth, in South Coast. It’s indoors, so it works on a rainy day. It’s aimed at families with children. There’s an entry charge; prices are on its website. The nearest beach is Tunnel Beach (500 m)."
   },
   {
     "slug": "national-trust-antony",

@@ -1,0 +1,92 @@
+{
+  "slug": "mullion-cove",
+  "written": "2026-11-02",
+  "overview": [
+    "Mullion Cove is a tiny, picture-postcard harbour on the west side of the Lizard, looked after by the National Trust. Its granite harbour walls have been taking a battering from the Atlantic since the 1890s, and offshore sits Mullion Island, home to big colonies of seabirds.",
+    "It’s a place to wander, look and breathe in rather than spend all day: watch the waves hit the harbour wall, look out for seals, and then pick up the coast path in either direction."
+  ],
+  "expect": [
+    {
+      "title": "The harbour",
+      "text": "A working little harbour still used by fishing boats, sheltered by stone breakwaters built in the late 19th century.",
+      "source": 1
+    },
+    {
+      "title": "Wildlife",
+      "text": "Seals and seabirds are regulars, and Mullion Island, about half a mile offshore, has large seabird colonies.",
+      "source": 0
+    },
+    {
+      "title": "Kayaking and walks",
+      "text": "There’s the chance to go kayaking, and the coast path runs past, north to Poldhu and south towards Kynance.",
+      "source": 0
+    }
+  ],
+  "goodToKnow": [
+    {
+      "label": "Parking",
+      "text": "There’s no parking at the harbour itself; the nearest car park (satnav TR12 7EP) is a short walk of about 250 yards.",
+      "source": 0
+    },
+    {
+      "label": "Getting there",
+      "text": "From Helston, take the A3083 towards The Lizard, turn right onto the B3296 at Mullion Holiday Park, then drive through Mullion village following signs for the cove. The village roads aren’t suitable for coaches.",
+      "source": 0
+    },
+    {
+      "label": "Dogs",
+      "text": "Dogs on leads are welcome all year.",
+      "source": 0
+    },
+    {
+      "label": "Swimming",
+      "text": "There are no lifeguards here.",
+      "source": 0
+    },
+    {
+      "label": "On foot",
+      "text": "Walk in along the coast path from Poldhu, about 1.9 miles to the south.",
+      "source": 0
+    }
+  ],
+  "week": {
+    "slot": "An hour or so",
+    "text": "A short, scenic stop to fit into a day exploring the Lizard, combined with a beach like Polurrian or Poldhu and a cream tea. On a stormy day it’s dramatic to watch the waves breaking over the harbour wall, from a safe distance.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "polurrian-cove",
+        "why": "a sandy cove just around the corner"
+      },
+      {
+        "kind": "beach",
+        "slug": "poldhu-cove",
+        "why": "a family beach with a café, along the coast path"
+      },
+      {
+        "kind": "attraction",
+        "slug": "the-marconi-centre",
+        "why": "the story of the 1901 transatlantic radio signal from Poldhu"
+      }
+    ]
+  },
+  "tips": [
+    "Stand well back from the harbour wall in rough seas.",
+    "Bring binoculars for the seabirds on Mullion Island."
+  ],
+  "sources": [
+    {
+      "label": "National Trust – Mullion Cove",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/mullion-cove"
+    },
+    {
+      "label": "National Trust – Our work at Mullion Cove",
+      "url": "https://www.nationaltrust.org.uk/visit/cornwall/mullion-cove/our-work-at-mullion-cove"
+    },
+    {
+      "label": "Wikipedia – Mullion, Cornwall",
+      "url": "https://en.wikipedia.org/wiki/Mullion%2C_Cornwall",
+      "licence": "CC BY-SA 4.0"
+    }
+  ]
+}
