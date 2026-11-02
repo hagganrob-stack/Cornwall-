@@ -2,45 +2,45 @@
   "slug": "newquay-zoo",
   "written": "2026-11-02",
   "overview": [
-    "Newquay Zoo is a compact zoo set in 13 acres of subtropical gardens inside Trenance Leisure Park, about ten minutes’ walk from Newquay railway station. It opened in 1969 and is the largest zoo in Cornwall, with several hundred animals from dozens of species, including some of the world’s rarest small carnivores.",
-    "Most families spend two to three hours here. Paths wind between the enclosures and planting, and there are keeper talks, play areas and a few indoor houses to duck into if a shower comes over."
+    "Newquay Zoo is a compact, manageable zoo tucked into 13 acres of subtropical gardens in Trenance Leisure Park, about ten minutes’ walk from Newquay station. It opened in 1969 and is the biggest zoo in Cornwall, with several hundred animals from dozens of species, including some of the rarest small carnivores in the world.",
+    "It’s a comfortable size for little legs: most families spend two to three hours here, wandering between enclosures and planting, catching a keeper talk or two and letting the children loose in the play areas. A few indoor animal houses give you somewhere to duck into if a shower blows through."
   ],
   "expect": [
     {
-      "title": "Animals",
-      "text": "Expect penguins, red pandas, primates, tropical birds and reptiles alongside less familiar threatened species, and new arrivals as the zoo develops.",
+      "title": "The animals",
+      "text": "Penguins, red pandas, monkeys, tropical birds and reptiles, plus less familiar threatened species and new arrivals as the zoo develops.",
       "source": 2
     },
     {
       "title": "Indoor houses",
-      "text": "Gems of the Jungle is a walk-through space with free-flying tropical birds, and the Tropical House is a warm stop on a cold day.",
+      "text": "Gems of the Jungle is a walk-through space with free-flying tropical birds, and the Tropical House is a warm place to thaw out on a cold day.",
       "source": 2
     },
     {
       "title": "Talks and feeds",
-      "text": "Keeper talks and feeding times run through the day and are included in the ticket, as are the play areas.",
+      "text": "Keeper talks and feeding times run throughout the day and are included in your ticket, as are the play areas.",
       "source": 0
     }
   ],
   "goodToKnow": [
     {
       "label": "Opening",
-      "text": "Open every day from 10am, all year; closing time changes with the season and last entry is an hour before closing.",
+      "text": "Open every day from 10am, all year round. Closing time changes with the season, and last entry is an hour before.",
       "source": 4
     },
     {
       "label": "Tickets",
-      "text": "Entry is paid. Online tickets are 15% cheaper as long as you buy them by 10am on the day you go. There are no set family tickets: you choose adult and child tickets individually. Annual memberships are available, including joint ones with Paignton Zoo.",
+      "text": "Entry is paid. Online tickets are 15% cheaper as long as you buy them by 10am on the day you go. There are no set family tickets, so you choose adult and child tickets individually. Annual memberships include joint ones with Paignton Zoo.",
       "source": 1
     },
     {
       "label": "Food",
-      "text": "Café Lemur and two seasonal outlets sell meals, snacks and ice cream, and you’re welcome to bring a picnic. Keep an eye on your food: the local gulls are bold.",
+      "text": "Café Lemur and two seasonal outlets sell meals, snacks and ice cream, and picnics are welcome. Guard your sandwiches: the gulls are bold.",
       "source": 1
     },
     {
       "label": "Getting there",
-      "text": "The zoo is within Trenance Leisure Park, close to the town centre and a short walk from the station.",
+      "text": "It’s in Trenance Leisure Park, near the town centre and a short walk from the station.",
       "source": 4
     }
   ],
@@ -77,5 +77,30 @@
       "source": 1,
       "note": "Paid entry; tickets online or at the gate"
     }
-  }
+  },
+  "week": {
+    "slot": "Two to three hours",
+    "text": "The zoo is an easy half day if you’re staying in or near Newquay, and a good fallback when the surf’s flat or the weather’s iffy. Pair it with a run-around in Trenance Gardens next door or an afternoon on one of the town beaches.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "trenance-gardens",
+        "why": "gardens and a boating lake right next door"
+      },
+      {
+        "kind": "beach",
+        "slug": "tolcarne-beach",
+        "why": "one of Newquay’s town beaches"
+      },
+      {
+        "kind": "attraction",
+        "slug": "blue-reef-aquarium-newquay",
+        "why": "an indoor aquarium if it turns wet"
+      }
+    ]
+  },
+  "tips": [
+    "Buy tickets online before 10am on the day for the discount.",
+    "Go first thing for the most active animals and an easier time parking."
+  ]
 }

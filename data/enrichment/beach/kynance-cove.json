@@ -2,19 +2,68 @@
   "slug": "kynance-cove",
   "written": "2026-11-02",
   "overview": [
-    "Kynance Cove is a small cove on the west side of the Lizard peninsula, about three kilometres north of Lizard Point. At low tide a sandy beach opens up between dark islands and stacks of serpentine rock, a stone that’s rare in Britain and gives the cove its colours.",
-    "It has drawn visitors since Victorian times, when Queen Victoria and Prince Albert came, and the National Trust now owns and looks after the cove and the surrounding cliffs, which are protected for their plants and geology."
+    "Kynance Cove is a small cove on the west side of the Lizard, about three kilometres north of Lizard Point. When the tide drops, white sand appears between islands and stacks of dark serpentine rock, a stone that’s rare in Britain and gives the cove its colours. It’s a gorgeous spot and it knows it, so expect company in summer.",
+    "Visitors have been coming since Victorian times, Queen Victoria and Prince Albert among them, and the National Trust now looks after the cove and the cliffs around it, which are protected for their plants and geology."
   ],
   "expect": [
-    { "title": "Tides matter", "text": "Much of the sand and the paths between the rocks disappear at high tide, so check tide times and aim to be there around low water.", "source": null },
-    { "title": "The rocks", "text": "Two kinds of serpentine meet here: the coarse, speckled rock you walk over on the way down, and the finer, banded stone of the islands and stacks in the cove.", "source": 0 },
-    { "title": "Café", "text": "A café down at the cove has been serving visitors since 1929.", "source": 0 }
+    {
+      "title": "Tides make the day",
+      "text": "Much of the sand and the paths between the rocks vanish at high tide, so check the tide times and aim for low water.",
+      "source": null
+    },
+    {
+      "title": "The rocks",
+      "text": "Two kinds of serpentine meet here: the coarse, speckled stone you walk over on the way down, and the finer, banded stone of the islands and stacks.",
+      "source": 0
+    },
+    {
+      "title": "Café",
+      "text": "A café down in the cove has been serving visitors since 1929.",
+      "source": 0
+    }
   ],
   "goodToKnow": [
-    { "label": "Getting there", "text": "There’s no road to the beach: park in the National Trust car park on the clifftop and follow the footpath down. The South West Coast Path runs along the cliffs above.", "source": 0 },
-    { "label": "Busy times", "text": "It’s a small beach and fills up quickly on summer days.", "source": null }
+    {
+      "label": "Getting there",
+      "text": "No road goes to the beach: park in the National Trust car park on the clifftop and follow the footpath down. The coast path runs along the cliffs above.",
+      "source": 0
+    },
+    {
+      "label": "Busy times",
+      "text": "It’s small and fills up fast on summer days.",
+      "source": null
+    }
   ],
   "sources": [
-    { "label": "Wikipedia – Kynance Cove", "url": "https://en.wikipedia.org/wiki/Kynance_Cove", "licence": "CC BY-SA 4.0" }
+    {
+      "label": "Wikipedia – Kynance Cove",
+      "url": "https://en.wikipedia.org/wiki/Kynance_Cove",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "week": {
+    "slot": "Two hours to half a day",
+    "text": "Plan your Lizard day around low tide at Kynance, then walk or drive on to Lizard Point, mainland Britain’s most southerly point. On a busy summer day, arrive early or late to find space on the sand.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "national-trust-lizard-point",
+        "why": "mainland Britain’s most southerly point"
+      },
+      {
+        "kind": "beach",
+        "slug": "pentreath",
+        "why": "a bigger, wilder beach just along the coast"
+      },
+      {
+        "kind": "attraction",
+        "slug": "mullion-cove",
+        "why": "a little harbour"
+      }
+    ]
+  },
+  "tips": [
+    "Check the tide times before you go: low tide is when Kynance is at its most beautiful.",
+    "The walk down and back up is steep, so allow time and wear proper shoes."
   ]
 }

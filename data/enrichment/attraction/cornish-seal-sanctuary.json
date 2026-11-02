@@ -2,45 +2,45 @@
   "slug": "cornish-seal-sanctuary",
   "written": "2026-11-02",
   "overview": [
-    "The Cornish Seal Sanctuary is a rescue centre on the banks of the Helford River at Gweek, run by the SEA LIFE Trust charity. Its main job is nursing sick and orphaned grey seal pups from around the Cornish coast back to health and returning them to the sea; most years it takes in several dozen pups, mostly between September and March.",
-    "Alongside the rescue work, it’s home to resident animals that can’t be released, including grey seals and a group of puffins. It began in 1958 when the founder rescued a stranded pup near St Agnes, and moved to Gweek in 1975."
+    "The Cornish Seal Sanctuary is a rescue centre beside the Helford River at Gweek, run by the SEA LIFE Trust charity, and it’s a gentle, feel-good visit. Its main job is nursing sick and orphaned grey seal pups found around the Cornish coast back to health and releasing them; most years it takes in several dozen, mainly between September and March.",
+    "As well as pups in recovery, there are permanent residents that can’t go back to the wild, including grey seals and a little colony of puffins. The sanctuary started in 1958 when its founder rescued a stranded pup near St Agnes, and moved here in 1975."
   ],
   "expect": [
     {
       "title": "The seal hospital",
-      "text": "You can look in on the hospital and nursery pools to see pups at different stages of recovery, from close care to learning to compete for fish before release. It’s busiest in the autumn and winter pup season.",
+      "text": "Peek into the hospital and nursery pools to see pups at different stages, from close care to learning to compete for fish before release. Autumn and winter, during pup season, is when it’s busiest.",
       "source": 3
     },
     {
-      "title": "Resident seals and talks",
-      "text": "The permanent residents live in larger outdoor pools. Seal talks explain each animal’s story, and there are underwater viewing windows to watch them swim.",
+      "title": "Resident seals",
+      "text": "The permanent residents live in bigger outdoor pools. Catch a seal talk to hear their stories, and watch them swim through the underwater viewing windows.",
       "source": 2
     },
     {
       "title": "Puffin Island",
-      "text": "Ten puffins that can’t return to the wild because of injuries live in their own habitat, having come from the charity’s sister sanctuary in Iceland.",
+      "text": "Ten puffins that can’t be released because of old injuries live in their own habitat, having come from the charity’s sister sanctuary in Iceland.",
       "source": 4
     }
   ],
   "goodToKnow": [
     {
       "label": "Tickets",
-      "text": "Entry is paid, and your ticket lets you come back free for 12 months if you keep the receipt. Booking ahead is advised.",
+      "text": "Entry is paid, but keep your receipt: it gets you back in free for 12 months. Booking ahead is advised.",
       "source": 1
     },
     {
       "label": "Opening",
-      "text": "Recent opening hours have been 11am to 4pm with last entry at 3pm; check before you go as hours change with the season.",
+      "text": "Recent hours have been 11am to 4pm, last entry 3pm; check before you go, as they change with the season.",
       "source": 1
     },
     {
       "label": "Children",
-      "text": "Under-17s must be with an adult aged 18 or over.",
+      "text": "Under-17s need to be with an adult aged 18 or over.",
       "source": 1
     },
     {
       "label": "Weather",
-      "text": "Most of the site is outdoors around open-air pools, so dress for the weather.",
+      "text": "Most of it is outdoors around open-air pools, so dress for the weather.",
       "source": 2
     }
   ],
@@ -77,5 +77,30 @@
       "source": 1,
       "note": "Paid entry, valid for return visits for 12 months"
     }
-  }
+  },
+  "week": {
+    "slot": "Two hours",
+    "text": "An easy, unhurried couple of hours that suits younger children, especially in pup season. It’s at the head of the Helford River, so you can combine it with the creeks and gardens of the Helford or a trip down onto the Lizard.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "halliggye-fogou",
+        "why": "a mysterious Iron Age underground passage"
+      },
+      {
+        "kind": "town",
+        "slug": "helston",
+        "why": "the nearest market town for lunch and supplies"
+      },
+      {
+        "kind": "attraction",
+        "slug": "glendurgan",
+        "why": "a valley garden running down to the Helford"
+      }
+    ]
+  },
+  "tips": [
+    "Visit between September and March if you want to see pups in the hospital.",
+    "Time your visit to catch a seal talk."
+  ]
 }

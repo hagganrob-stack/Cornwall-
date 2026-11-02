@@ -13,8 +13,8 @@ import { Container, Crumbs, WeVisited, StayNearby, Sources, Callout } from '../.
 import JsonLd from '../../../components/JsonLd';
 import { beachTitle, beachDescription, beachLd } from '../../../lib/seo';
 import { imgSrc } from '../../../lib/data';
-import { enrichment } from '../../../lib/enrichment';
-import { EnrichedOverview, EnrichedExpect, EnrichedGoodToKnow, EnrichedNote } from '../../../components/Enriched';
+import { enrichment, pairLookup } from '../../../lib/enrichment';
+import { EnrichedOverview, EnrichedExpect, EnrichedGoodToKnow, EnrichedNote, EnrichedWeek, EnrichedTips } from '../../../components/Enriched';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => beaches.map((b) => ({ slug: b.slug }));
@@ -91,12 +91,14 @@ export default async function BeachPage({ params }) {
             </Callout>
           ) : null}
 
-          <EnrichedExpect e={e} title="What it’s like" />
+          <EnrichedExpect e={e} title="What’s it like?" />
+          <EnrichedWeek e={e} nearby={pairLookup(b, e)} />
           <EnrichedGoodToKnow e={e} />
+          <EnrichedTips e={e} />
 
-          <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2>
-          <Planner guide={b.guide} />
-          {b.guide?.method ? <p className="mt-2 text-xs text-atlantic-950/50">{b.guide.method}</p> : null}
+          {!e?.week ? <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2> : null}
+          {!e?.week ? <Planner guide={b.guide} /> : null}
+          {!e?.week && b.guide?.method ? <p className="mt-2 text-xs text-atlantic-950/50">{b.guide.method}</p> : null}
 
           <h2 className="mt-12 mb-4 text-2xl">The facts</h2>
           <FactTable

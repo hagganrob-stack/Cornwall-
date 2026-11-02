@@ -46,7 +46,7 @@ export function EnrichedGoodToKnow({ e }) {
   if (!e?.goodToKnow?.length) return null;
   return (
     <section>
-      <h2 className="mt-12 mb-4 text-2xl">Good to know</h2>
+      <h2 className="mt-12 mb-4 text-2xl">Before you go</h2>
       <dl className="divide-y divide-atlantic-950/10 overflow-hidden rounded-2xl ring-1 ring-atlantic-950/10">
         {e.goodToKnow.map((x) => (
           <div key={x.label} className="grid gap-1 px-5 py-4 sm:grid-cols-[180px_1fr] sm:gap-6">
@@ -74,5 +74,53 @@ export function EnrichedNote({ e }) {
       Guide written {fmtDate(e.written)} with AI assistance, in our own words, from the sources listed below.{' '}
       {e.reviewedByRob ? 'Checked by Rob.' : 'Not yet checked in person.'} <Link href="/editorial-policy/#guides">How we write our guides</Link>.
     </p>
+  );
+}
+
+// "Fitting it into your week": time to allow, how to slot it in, and what to pair it with nearby.
+export function EnrichedWeek({ e, nearby = {} }) {
+  if (!e?.week) return null;
+  const href = { beach: '/beaches/', attraction: '/things-to-do/', town: '/towns/' };
+  return (
+    <section className="mt-12 rounded-3xl bg-atlantic-900 p-6 text-atlantic-100 sm:p-8">
+      <p className="text-sm font-semibold uppercase tracking-wider text-seaglass-300">Fitting it into your week</p>
+      <p className="mt-2 font-[family-name:var(--font-display)] text-2xl font-bold text-white">{e.week.slot}</p>
+      <p className="mt-3 max-w-[62ch] leading-relaxed">{e.week.text}</p>
+      {e.week.pairWith?.length ? (
+        <>
+          <p className="mt-6 text-sm font-semibold text-white">Pair it with</p>
+          <ul className="mt-2 grid gap-3 sm:grid-cols-3">
+            {e.week.pairWith.map((p) => (
+              <li key={p.slug}>
+                <Link href={`${href[p.kind]}${p.slug}/`} className="block h-full rounded-2xl bg-white/10 p-4 no-underline ring-1 ring-white/10 hover:bg-white/15">
+                  <span className="block font-semibold text-white">
+                    {nearby[p.slug]?.name || p.slug}
+                    {nearby[p.slug]?.km != null ? <span className="font-normal text-atlantic-100/70"> · {nearby[p.slug].km} km</span> : null}
+                  </span>
+                  <span className="mt-1 block text-sm text-atlantic-100/80">{p.why}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </>
+      ) : null}
+    </section>
+  );
+}
+
+export function EnrichedTips({ e }) {
+  if (!e?.tips?.length) return null;
+  return (
+    <section className="mt-8 rounded-2xl bg-seaglass-100/60 p-6">
+      <h2 className="text-xl">Handy tips</h2>
+      <ul className="mt-3 space-y-2">
+        {e.tips.map((t) => (
+          <li key={t} className="flex gap-3 leading-relaxed">
+            <span className="text-seaglass-600" aria-hidden="true">→</span>
+            {t}
+          </li>
+        ))}
+      </ul>
+    </section>
   );
 }

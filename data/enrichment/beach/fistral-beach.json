@@ -2,30 +2,30 @@
   "slug": "fistral-beach",
   "written": "2026-11-02",
   "overview": [
-    "Fistral is Newquay’s big surf beach: a straight run of sand about 750 metres long on the west side of town, held between the headlands of Towan Head and Pentire Point East and backed by high dunes. It faces the open Atlantic, which is why it picks up such consistent waves.",
-    "It’s the home of British surfing in many ways, with the national surfing association and local surf clubs based here, international competitions held on the beach, and the Boardmasters festival each summer."
+    "Fistral is Newquay’s famous surf beach: a straight run of sand about 750 metres long on the west side of town, between the headlands of Towan Head and Pentire Point East, backed by high dunes. It faces straight out into the Atlantic, which is why the waves are so consistent.",
+    "It’s a real hub of British surfing, with the national surfing association and local surf clubs based here, international competitions on the beach, and the Boardmasters festival every summer. Even if you don’t surf, it’s great fun to watch."
   ],
   "expect": [
     {
       "title": "Surfing",
-      "text": "The waves are powerful beach breaks, better suited to improvers and experienced surfers; beginners usually go with a surf school. When a big swell runs, a reef at the north end called the Cribbar can throw up some of the largest waves in Cornwall.",
+      "text": "The waves are powerful beach breaks, better for improvers and experienced surfers; if you’re new to it, book a lesson with a surf school. When a big swell rolls in, a reef at the north end called the Cribbar can throw up some of the biggest waves in Cornwall.",
       "source": 0
     },
     {
       "title": "Swimming",
-      "text": "With surf this strong, swim between the red and yellow flags when the lifeguards are on duty and keep out of the areas marked for surfboards.",
+      "text": "With surf this strong, stick to the area between the red and yellow flags when the lifeguards are on, and stay out of the zones marked for surfboards.",
       "source": null
     },
     {
       "title": "Around the beach",
-      "text": "A purpose-built surf centre stands at the north end of the beach, with the large Headland Hotel on the clifftop above.",
+      "text": "There’s a surf centre at the north end and the big Headland Hotel up on the clifftop.",
       "source": 0
     }
   ],
   "goodToKnow": [
     {
       "label": "Getting there",
-      "text": "The beach is about half a mile west of Newquay town centre, so you can walk from town over the headland.",
+      "text": "It’s about half a mile west of Newquay town centre, so you can walk over the headland from town.",
       "source": 0
     },
     {
@@ -40,5 +40,30 @@
       "url": "https://en.wikipedia.org/wiki/Fistral_Beach",
       "licence": "CC BY-SA 4.0"
     }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Fistral is a natural base for a surf lesson day or an afternoon watching the surfers. It faces west, so it’s a lovely spot to finish the day with the sun going down over the sea.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "towan-headland",
+        "why": "a short walk out to the headland for views over the bay"
+      },
+      {
+        "kind": "attraction",
+        "slug": "blue-reef-aquarium-newquay",
+        "why": "an indoor option if the weather turns"
+      },
+      {
+        "kind": "beach",
+        "slug": "harbour-beach-newquay",
+        "why": "a calmer, more sheltered beach by the harbour"
+      }
+    ]
+  },
+  "tips": [
+    "If you’re new to surfing, book a lesson rather than hiring a board: this isn’t a gentle beginner wave.",
+    "Stay for sunset: the beach faces north-west."
   ]
 }

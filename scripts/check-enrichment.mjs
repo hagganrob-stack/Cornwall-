@@ -17,7 +17,7 @@ const shingles = (s) => {
   for (let i = 0; i + N <= w.length; i++) out.add(w.slice(i, i + N).join(' '));
   return out;
 };
-const ourText = (e) => [...(e.overview || []), ...(e.expect || []).flatMap((x) => [x.title, x.text]), ...(e.goodToKnow || []).flatMap((x) => [x.label, x.text])].join('\n');
+const ourText = (e) => [...(e.overview || []), ...(e.expect || []).flatMap((x) => [x.title, x.text]), ...(e.goodToKnow || []).flatMap((x) => [x.label, x.text]), e.week?.slot || '', e.week?.text || '', ...(e.week?.pairWith || []).map((p) => p.why), ...(e.tips || [])].join('\n');
 const FIRST_PERSON = /\b(we|we're|we've|our|us|i|i'm|my)\b/i;
 const SUPERLATIVE = /\b(best|stunning|breathtaking|must-see|must see|hidden gem|unmissable|world-class|iconic|perfect|amazing|incredible|spectacular)\b/i;
 

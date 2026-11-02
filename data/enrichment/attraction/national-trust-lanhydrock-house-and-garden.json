@@ -2,65 +2,65 @@
   "slug": "national-trust-lanhydrock-house-and-garden",
   "written": "2026-11-02",
   "overview": [
-    "Lanhydrock is a grand country house just south of Bodmin, set in around 890 acres of gardens, parkland and woods above the River Fowey. Building started in the 1620s for the Robartes family, but most of the interior was rebuilt after a fire in 1881, so what you walk through today is largely a late-Victorian family home. The National Trust has looked after it since 1953.",
-    "It works for a mixed group: the house for anyone who likes seeing how people lived, gardens and woodland walks for a fine day, and play areas and trails for children. Dogs are welcome across much of the estate."
+    "Lanhydrock is a grand country house near Bodmin, set in around 890 acres of gardens, parkland and woods above the River Fowey, and it’s a good all-rounder for a mixed group. The house was first built in the 1620s for the Robartes family, but most of the inside was rebuilt after a fire in 1881, so what you walk round today feels like a late-Victorian family home, from the grand rooms to the servants’ quarters. The National Trust has run it since 1953.",
+    "There’s something for most people: the house if you like seeing how people lived, gardens and woodland walks for a fine day, play areas and trails for the children, and dogs are welcome across much of the estate."
   ],
   "expect": [
     {
       "title": "The house",
-      "text": "Rooms are set out as the family and their staff used them, from the long run of Victorian kitchens and servants’ quarters to the nursery. The highlight is the Long Gallery, with a 17th-century plaster ceiling 35 metres long that was conserved in 2024.",
+      "text": "Rooms are laid out as the family and staff used them, from the long run of Victorian kitchens to the nursery. Don’t miss the Long Gallery, with a 35-metre 17th-century plaster ceiling that was conserved in 2024.",
       "source": 4
     },
     {
       "title": "The garden",
-      "text": "Formal borders, clipped yews and a croquet lawn sit near the house, with woodland paths above planted with rhododendrons and magnolias, which are at their peak in spring. Lanhydrock is especially known for its magnolias.",
+      "text": "Formal borders, clipped yews and a croquet lawn near the house, then woodland paths above with rhododendrons and magnolias. Lanhydrock is known for its magnolias, at their peak in spring.",
       "source": 3
     },
     {
       "title": "Walks and cycling",
-      "text": "Four signed circular walks head out across the estate, including a riverside route from Respryn Bridge where otters and kingfishers live. There are also dedicated cycle trails.",
+      "text": "Four signed circular walks lead out across the estate, including a riverside route from Respryn Bridge where otters and kingfishers live, plus dedicated cycle trails.",
       "source": 5
     },
     {
       "title": "For children",
-      "text": "There’s a play area by the Park Café, a family route with hands-on activities, children’s menus in the cafés, and seasonal trails and games.",
+      "text": "A play area by the Park Café, a family route with hands-on activities, children’s menus and seasonal trails and games.",
       "source": 1
     }
   ],
   "goodToKnow": [
     {
       "label": "Tickets",
-      "text": "Entry is paid for non-members, with family tickets available; under-5s go free and National Trust members get in free.",
+      "text": "Paid entry for non-members, with family tickets; under-5s and National Trust members go free.",
       "source": 0
     },
     {
       "label": "Parking",
-      "text": "National Trust members park free. Non-members pay by the hour or for the whole day, at the machines, by app or at the café or reception.",
+      "text": "Free for National Trust members. Everyone else pays by the hour or for the day, at the machines, by app or at the café or reception.",
       "source": 0
     },
     {
       "label": "Busy times",
-      "text": "It’s busiest between 11am and 2pm, when there can be queues to get into the house, so an afternoon visit is often quieter.",
+      "text": "It’s busiest between 11am and 2pm, when there can be queues for the house, so afternoons are often calmer.",
       "source": 0
     },
     {
       "label": "Bags",
-      "text": "Large bags and backpacks aren’t allowed inside the house; there are free lockers.",
+      "text": "Big bags and backpacks aren’t allowed in the house, but there are free lockers.",
       "source": 0
     },
     {
       "label": "Dogs",
-      "text": "Dogs are welcome on the walking trails and in most of the garden, but only assistance dogs are allowed in the house and shop. Keep dogs off the cycle trails.",
+      "text": "Welcome on the walking trails and in most of the garden; only assistance dogs in the house and shop. Keep dogs off the cycle trails.",
       "source": 2
     },
     {
       "label": "Access",
-      "text": "Some paths suit wheelchairs and buggies, there are accessible parking bays, and an all-terrain mobility scooter can be booked for the wider estate. The satnav postcode is PL30 4AB.",
+      "text": "Some paths suit wheelchairs and buggies, there are accessible parking bays, and an all-terrain mobility scooter can be booked for the wider estate. Satnav: PL30 4AB.",
       "source": 6
     },
     {
       "label": "Food",
-      "text": "The Park Café is by the main hub and the Stables Café in the courtyard.",
+      "text": "The Park Café is by the main hub and the Stables Café is in the courtyard.",
       "source": 0
     }
   ],
@@ -115,5 +115,31 @@
       "source": 0,
       "note": "Paid entry for non-members"
     }
-  }
+  },
+  "week": {
+    "slot": "Half a day to a full day",
+    "text": "Lanhydrock works whatever the weather, which makes it a useful day to have in reserve: the house if it rains, the gardens and estate walks if it’s fine. It’s just off the A30 and A38 near Bodmin, so it’s also a good stop on your journey in or out of Cornwall.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "restormel-castle",
+        "why": "a round medieval castle ruin"
+      },
+      {
+        "kind": "attraction",
+        "slug": "bodmin-jail-museum",
+        "why": "for older children who like something spooky"
+      },
+      {
+        "kind": "attraction",
+        "slug": "cardinham-woods",
+        "why": "more forest walks and trails nearby"
+      }
+    ]
+  },
+  "tips": [
+    "Arrive after 2pm to miss the queues for the house.",
+    "Bring bikes, or check the cycle trails: they’re a big part of the estate.",
+    "If you’re a National Trust member, bring your card: entry and parking are free."
+  ]
 }

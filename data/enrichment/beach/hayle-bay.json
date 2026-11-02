@@ -2,23 +2,23 @@
   "slug": "hayle-bay",
   "written": "2026-11-02",
   "overview": [
-    "This is Polzeath’s main beach (Ordnance Survey and OpenStreetMap call the bay Hayle Bay). It’s a wide, flat stretch of sand right in front of the village, roughly 460 metres across, that runs a long way out at low tide, though most of it is covered at high water.",
-    "Polzeath is a lively little surfing village about ten kilometres north-west of Wadebridge, with shops, cafés and pubs along the seafront, and the beach is one of the busiest on this stretch of coast in summer."
+    "This is Polzeath’s main beach (maps call the bay Hayle Bay): a wide, flat stretch of sand right in front of the village, about 460 metres across, that runs a long way out at low tide. Most of it disappears under the sea at high water, so the size of your beach depends on the tide.",
+    "Polzeath is a lively little surfing village about ten kilometres north-west of Wadebridge, with shops, cafés and pubs along the seafront. It’s one of the busiest beaches on this bit of coast in summer, and has a fun, bustling feel."
   ],
   "expect": [
     {
       "title": "Surf",
-      "text": "The RNLI describes the surf here as good quality, and with some shelter from the wind the bay is busy with surfers of all kinds in summer.",
+      "text": "The RNLI describes the surf here as good quality, and with some shelter from the wind the bay is full of surfers of all kinds in summer.",
       "source": 0
     },
     {
       "title": "Wildlife",
-      "text": "Dolphins are sometimes seen in the bay, and the cliffs to the north are good for birdwatching, with puffins occasionally nesting on the offshore islands.",
+      "text": "Dolphins are sometimes spotted in the bay, and the cliffs to the north are good for birdwatching, with puffins occasionally nesting on the offshore islands.",
       "source": 0
     },
     {
       "title": "Pentireglaze",
-      "text": "At the northern end, a smaller beach known locally as Baby Bay is cut off from the main beach by a rocky point at high tide.",
+      "text": "At the northern end, a smaller beach locals call Baby Bay is cut off from the main beach by a rocky point at high tide.",
       "source": 0
     }
   ],
@@ -30,7 +30,7 @@
     },
     {
       "label": "Coast path",
-      "text": "The South West Coast Path runs through the village, south to Daymer Bay and north out to Pentire Head.",
+      "text": "The coast path runs through the village, south to Daymer Bay and north out to Pentire Head.",
       "source": 0
     }
   ],
@@ -40,5 +40,30 @@
       "url": "https://en.wikipedia.org/wiki/Polzeath",
       "licence": "CC BY-SA 4.0"
     }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Go when the tide’s low to mid for the most sand. Polzeath makes an easy beach day with everything on hand, and the walk out to Pentire Head is a great way to stretch your legs afterwards.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "pentireglaze-haven",
+        "why": "the smaller cove just to the north"
+      },
+      {
+        "kind": "beach",
+        "slug": "greenaway-beach",
+        "why": "a quieter beach towards Daymer Bay"
+      },
+      {
+        "kind": "town",
+        "slug": "padstow",
+        "why": "across the estuary for harbour, food and boat trips"
+      }
+    ]
+  },
+  "tips": [
+    "Check the tide times: at high tide there’s very little beach left.",
+    "In summer, arrive early to get a parking space near the front."
   ]
 }

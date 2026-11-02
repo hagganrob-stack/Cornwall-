@@ -25,6 +25,17 @@ own words from public sources, with every practical point cited.
      (also `kids`, `entry`). Re-run `npm run data:attractions && npm run data:describe` to apply.
    - `written` (date) and `reviewedByRob` (true once Rob has checked it, ideally in person).
 
+   - `week`: `{ slot, text, pairWith: [{ kind: beach|attraction|town, slug, why }] }` — "Fitting it
+     into your week": how long to give it, what kind of day it suits (weather, tide, travel day), and
+     2–3 nearby places to pair it with, chosen from the place's nearby lists. Don't repeat distances in
+     `why` (the page shows them).
+   - `tips`: 2–3 short practical tips, phrased as advice ("Check the tide times…"), never as claimed
+     experience.
+
+   Voice: a friendly advisor helping someone plan their own week, not a directory or review site.
+   Talk to the reader as "you", be warm and practical, say what kind of day it makes and who'll enjoy
+   it, and be honest about downsides (crowds, steep paths, weather).
+
    House rules (from the site plan): warm, practical UK English for a family planning one week; no
    first person (that's only in Rob's `ourNotes`); no superlatives the sources don't support; facts only
    when a source confirms them, so check details against the source text before including them; don't

@@ -13,8 +13,8 @@ import OsmMap from '../../../components/OsmMap';
 import Nearby from '../../../components/Nearby';
 import JsonLd from '../../../components/JsonLd';
 import { Container, Crumbs, WeVisited, StayNearby, Sources } from '../../../components/Blocks';
-import { enrichment } from '../../../lib/enrichment';
-import { EnrichedOverview, EnrichedExpect, EnrichedGoodToKnow, EnrichedNote } from '../../../components/Enriched';
+import { enrichment, pairLookup } from '../../../lib/enrichment';
+import { EnrichedOverview, EnrichedExpect, EnrichedGoodToKnow, EnrichedNote, EnrichedWeek, EnrichedTips } from '../../../components/Enriched';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => attractions.map((a) => ({ slug: a.slug }));
@@ -86,12 +86,14 @@ export default async function AttractionPage({ params }) {
             </p>
           ) : null}
 
-          <EnrichedExpect e={e} />
+          <EnrichedExpect e={e} title="What you’ll find" />
+          <EnrichedWeek e={e} nearby={pairLookup(a, e)} />
           <EnrichedGoodToKnow e={e} />
+          <EnrichedTips e={e} />
 
-          <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2>
-          <Planner guide={a.guide} />
-          {a.guide?.method ? <p className="mt-2 text-xs text-atlantic-950/50">{a.guide.method}</p> : null}
+          {!e?.week ? <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2> : null}
+          {!e?.week ? <Planner guide={a.guide} /> : null}
+          {!e?.week && a.guide?.method ? <p className="mt-2 text-xs text-atlantic-950/50">{a.guide.method}</p> : null}
 
           {a.hours?.value === 'listed' ? (
             <>

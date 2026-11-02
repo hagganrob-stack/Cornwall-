@@ -2,61 +2,61 @@
   "slug": "tintagel-castle",
   "written": "2026-11-02",
   "overview": [
-    "Tintagel Castle is a ruin spread across a headland and a rocky island on the north coast, a short walk from Tintagel village. Between the 5th and 7th centuries it was an important settlement of Cornish rulers who traded with places as far away as the Mediterranean, and in the 13th century Richard, Earl of Cornwall built a castle here.",
-    "Its fame comes from legend. Writing in the 12th century, Geoffrey of Monmouth claimed King Arthur was conceived at Tintagel, and that story runs through the site today. English Heritage looks after it.",
-    "This is an outdoor visit on steep, exposed ground, so it suits a dry day and comfortable shoes."
+    "Tintagel is a wonderfully dramatic spot: castle ruins scattered across a headland and a rocky island on the north coast, a short walk down from Tintagel village. Long before the castle, between the 5th and 7th centuries, this was an important settlement of Cornish rulers who traded as far afield as the Mediterranean. Richard, Earl of Cornwall built the castle you see the remains of in the 13th century.",
+    "The legend is what gets most people here. Writing in the 12th century, Geoffrey of Monmouth claimed King Arthur was conceived at Tintagel, and English Heritage, who look after the site, lean into the story with sculpture and displays. Even if you’re not into Arthur, the wild, windswept setting on the cliffs is worth the trip on its own.",
+    "It’s all outdoors on steep, exposed ground with plenty of steps, so pick a dry day and wear proper shoes."
   ],
   "expect": [
     {
-      "title": "The footbridge to the island",
-      "text": "A modern footbridge links the mainland courtyard to the island, roughly where the medieval castle’s two halves were once joined. You cross at a time set by your ticket, then explore the island at your own pace.",
+      "title": "The footbridge",
+      "text": "A modern footbridge spans the gap between the mainland and the island, roughly where the medieval castle’s two halves were once joined. You cross at the time on your ticket, then explore the island at your own pace.",
       "source": 1
     },
     {
-      "title": "Castle ruins and early settlement",
-      "text": "On the island you can walk through the remains of the 13th-century Great Hall and the outlines of houses from the early medieval settlement, with outdoor displays explaining what each part was.",
+      "title": "Ruins and early settlement",
+      "text": "On the island you’ll find the remains of the 13th-century Great Hall and outlines of much older houses, with outdoor panels explaining what you’re looking at.",
       "source": 3
     },
     {
       "title": "Gallos",
-      "text": "A life-sized bronze figure inspired by the Arthurian legend stands on the island looking out to sea, and it’s one of the most photographed spots on site.",
+      "text": "A life-sized bronze figure inspired by the Arthur legend looks out to sea from the island. It’s the photo everyone takes.",
       "source": 0
     },
     {
       "title": "Beach and Merlin’s Cave",
-      "text": "Below the castle there’s a small sandy beach that appears when the tide is out, with a large sea cave known as Merlin’s Cave.",
+      "text": "At low tide a small sandy beach appears below the castle, with a big sea cave known as Merlin’s Cave to explore.",
       "source": 0
     },
     {
       "title": "Exhibition and café",
-      "text": "Near the entrance there’s an exhibition on the site’s history and legends, a shop and a café with sea views.",
+      "text": "By the entrance there’s an exhibition on the history and legends, a shop and a café with sea views.",
       "source": 1
     }
   ],
   "goodToKnow": [
     {
       "label": "Tickets",
-      "text": "Entry is paid and English Heritage members get in free. Booking online by midnight the day before is cheaper than paying on the day. Tickets cover the whole day.",
+      "text": "Entry is paid and free for English Heritage members. Booking online by midnight the day before saves money, and tickets are valid all day.",
       "source": 2
     },
     {
       "label": "Parking",
-      "text": "There’s no car park at the castle itself. Park in one of the village’s paid car parks, about 600 metres away, and leave a good half hour to walk down to the footbridge before your time slot.",
+      "text": "There’s no car park at the castle. Use one of the paid car parks in the village, about 600 metres away, and give yourself a good half hour to walk down before your bridge time.",
       "source": 1
     },
     {
-      "label": "Getting down",
-      "text": "The path down to the site is steep. A limited shuttle runs from near the shop and café, but you still walk the last stretch.",
+      "label": "The walk down",
+      "text": "The path to the site is steep. A limited shuttle runs from near the shop and café, but you still walk the last stretch.",
       "source": 1
     },
     {
       "label": "Weather",
-      "text": "The castle sometimes closes in high winds or bad weather, so check the English Heritage website or social media before setting off if a storm is forecast.",
+      "text": "The castle sometimes shuts in high winds, so check the English Heritage website or social media before setting off if it’s stormy.",
       "source": 1
     },
     {
       "label": "Toilets",
-      "text": "Toilets are by the shop and café at the bottom of Castle Road, and there are public toilets in the village.",
+      "text": "There are toilets by the shop and café at the bottom of Castle Road, plus public ones in the village.",
       "source": 1
     }
   ],
@@ -89,5 +89,31 @@
       "source": 2,
       "note": "Paid entry; free for English Heritage members"
     }
-  }
+  },
+  "week": {
+    "slot": "Two to three hours",
+    "text": "Tintagel makes a great half-day on a dry day in north Cornwall, and fits well with a lazy afternoon on a beach nearby. Check the tide times if you want to see Merlin’s Cave and the beach below the castle.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "trebarwith-strand",
+        "why": "a sandy surf beach, at its biggest around low tide"
+      },
+      {
+        "kind": "beach",
+        "slug": "bossiney-haven",
+        "why": "a quieter cove a short drive up the coast"
+      },
+      {
+        "kind": "town",
+        "slug": "boscastle",
+        "why": "a pretty harbour village a few miles along the coast"
+      }
+    ]
+  },
+  "tips": [
+    "Book a bridge slot early in the day in summer and you’ll have more space on the island.",
+    "Leave pushchairs in the car: there are lots of steps.",
+    "Time your visit with low tide if you want to explore the beach and Merlin’s Cave."
+  ]
 }

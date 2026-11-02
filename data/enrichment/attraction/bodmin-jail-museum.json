@@ -2,24 +2,91 @@
   "slug": "bodmin-jail-museum",
   "written": "2026-11-02",
   "overview": [
-    "Bodmin Jail is a former county prison on the edge of Bodmin, built in 1779 and closed in 1927. It was the first prison in Britain to hold prisoners in separate cells, and over its working life more than 50 public hangings took place here; the last execution was in 1909.",
-    "Part of the old prison is now a museum telling the story of crime and punishment in Georgian and Victorian Cornwall, and another part has been turned into a hotel. Most of the visit is indoors, so it’s a useful option on a wet day."
+    "Bodmin Jail is a gloomy old county prison on the edge of Bodmin, built in 1779 and closed in 1927, and it’s a gripping way to spend a rainy morning. It was the first prison in Britain to give prisoners their own cells, and more than 50 public hangings took place here over the years; the last execution was in 1909.",
+    "Part of the old jail is now a museum about crime and punishment in Georgian and Victorian Cornwall, and part has become a hotel. It’s mostly indoors, so it’s a sound plan B when the weather turns."
   ],
   "expect": [
-    { "title": "Cells and corridors", "text": "You walk through original cell blocks and corridors, with displays and stories about the people held here and the harsh punishments of the time, down to the execution pit.", "source": 0 },
-    { "title": "The Dark Walk", "text": "An immersive, theatrical walk-through telling the jail’s history with sound and lighting. It’s atmospheric and may be too intense for younger children.", "source": 0 },
-    { "title": "Tours and ghost nights", "text": "Choose a self-guided visit or a guided tour. The jail also leans into its reputation as a haunted place with evening paranormal experiences.", "source": 0 },
-    { "title": "A wartime secret", "text": "Near the end of the First World War, national records including the Domesday Book were stored here for safekeeping.", "source": 2 }
+    {
+      "title": "Cells and corridors",
+      "text": "You walk through original cell blocks and corridors, with the stories of people held here and the grim punishments of the time, right down to the execution pit.",
+      "source": 0
+    },
+    {
+      "title": "The Dark Walk",
+      "text": "An immersive walk-through that tells the jail’s history with sound and lighting effects. It’s meant to be atmospheric and a bit scary, so it may be too much for younger children.",
+      "source": 0
+    },
+    {
+      "title": "Tours and ghost nights",
+      "text": "Go self-guided or join a guided tour. The jail plays up its haunted reputation too, with evening paranormal experiences for brave adults.",
+      "source": 0
+    },
+    {
+      "title": "A wartime secret",
+      "text": "Near the end of the First World War, national records including the Domesday Book were kept here for safety.",
+      "source": 2
+    }
   ],
   "goodToKnow": [
-    { "label": "Getting there", "text": "The jail is a couple of minutes from Bodmin town centre and signed with brown tourist signs. If you park on nearby streets, be considerate of the neighbours.", "source": 0 },
-    { "label": "Access", "text": "If you have mobility needs, contact the jail before you visit to talk through what’s possible.", "source": 0 },
-    { "label": "Food", "text": "The Moor Café on site is open every day.", "source": 0 },
-    { "label": "Contact", "text": "Phone 01208 76292, 9am to 5pm on weekdays.", "source": 1 }
+    {
+      "label": "Getting there",
+      "text": "It’s a couple of minutes from Bodmin town centre, signed with brown tourist signs. If you park on nearby streets, be considerate of the neighbours.",
+      "source": 0
+    },
+    {
+      "label": "Access",
+      "text": "If you have mobility needs, phone ahead to talk through what’s possible.",
+      "source": 0
+    },
+    {
+      "label": "Food",
+      "text": "The Moor Café on site is open every day.",
+      "source": 0
+    },
+    {
+      "label": "Contact",
+      "text": "01208 76292, 9am to 5pm on weekdays.",
+      "source": 1
+    }
   ],
   "sources": [
-    { "label": "Bodmin Jail", "url": "https://www.bodminjail.org/" },
-    { "label": "Bodmin Jail – Contact", "url": "https://www.bodminjail.org/contact-us/" },
-    { "label": "Wikipedia – Bodmin Jail", "url": "https://en.wikipedia.org/wiki/Bodmin_Jail", "licence": "CC BY-SA 4.0" }
+    {
+      "label": "Bodmin Jail",
+      "url": "https://www.bodminjail.org/"
+    },
+    {
+      "label": "Bodmin Jail – Contact",
+      "url": "https://www.bodminjail.org/contact-us/"
+    },
+    {
+      "label": "Wikipedia – Bodmin Jail",
+      "url": "https://en.wikipedia.org/wiki/Bodmin_Jail",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "week": {
+    "slot": "Two hours or so",
+    "text": "Bodmin sits in the middle of Cornwall, so the jail is easy to reach from either coast. Save it for a wet day, or combine it with a walk in the woods at Cardinham or a visit to Lanhydrock nearby.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "national-trust-lanhydrock-house-and-garden",
+        "why": "a grand house and gardens just south of town"
+      },
+      {
+        "kind": "attraction",
+        "slug": "cardinham-woods",
+        "why": "forest walks and trails"
+      },
+      {
+        "kind": "attraction",
+        "slug": "bodmin-town-museum",
+        "why": "a small free-to-browse museum in town"
+      }
+    ]
+  },
+  "tips": [
+    "Check the age guidance for the Dark Walk if you have young or easily spooked children.",
+    "It’s a handy stop on the way to or from the A30 on travel day."
   ]
 }

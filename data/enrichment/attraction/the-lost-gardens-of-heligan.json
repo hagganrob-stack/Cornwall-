@@ -2,55 +2,55 @@
   "slug": "the-lost-gardens-of-heligan",
   "written": "2026-11-02",
   "overview": [
-    "Heligan is a large historic estate garden on the hill above Mevagissey. The Tremayne family laid it out between the mid-1700s and the early 1900s, but after the First World War, when many of its gardeners left to fight, it was abandoned and swallowed by brambles. It was rediscovered and restored in the 1990s, and the story of that restoration is a big part of the visit.",
-    "Today more than 200 acres of gardens, woodland and farmland are open, ranging from neat walled kitchen gardens near the house to wild, steep valleys running down towards the sea. Most of it is outdoors and on slopes, so wear shoes you can walk in."
+    "Heligan has a story that makes the gardens far more interesting than a pretty day out. The Tremayne family laid them out on the hill above Mevagissey between the 1700s and the early 1900s, but after the First World War, when so many of the gardeners went off to fight, the place was left to go wild and disappeared under brambles. It was rediscovered and brought back to life in the 1990s.",
+    "There’s a lot of it: over 200 acres, from tidy, working kitchen gardens near the house to steep, jungly valleys running down towards the sea, plus woodland and a farm. It’s almost all outdoors and much of it is on slopes, so wear shoes you can walk in and bring a waterproof just in case."
   ],
   "expect": [
     {
       "title": "The productive gardens",
-      "text": "Flower and vegetable gardens are kept productive, much as they would have been in Victorian times. Look out for the pineapple pit, warmed by rotting manure, where gardeners managed to grow pineapples in Cornwall.",
+      "text": "Flower and vegetable gardens are still kept productive, much as they would have been in Victorian times. Hunt out the pineapple pit, heated by rotting manure, where gardeners managed to grow pineapples in Cornwall.",
       "source": 5
     },
     {
       "title": "The Jungle",
-      "text": "A steep, sheltered valley full of subtropical tree ferns and bamboo, which feels nothing like the rest of Cornwall.",
+      "text": "A deep, sheltered valley packed with subtropical tree ferns and bamboo that feels a world away from the rest of Cornwall. Children tend to love it.",
       "source": 4
     },
     {
       "title": "The Mud Maid and Giant’s Head",
-      "text": "Two large figures shaped from rock, soil and plants are hidden along the woodland walks, and are a favourite with children.",
+      "text": "Two big figures sculpted from rock, earth and plants are tucked away along the woodland walks. Make finding them a mission.",
       "source": 5
     },
     {
-      "title": "Woods and farm",
-      "text": "Beyond the gardens there are about 60 acres of woodland, meadows and a farm with traditional and rare breeds of livestock and poultry.",
+      "title": "Woods and farm animals",
+      "text": "Beyond the gardens are around 60 acres of woodland and meadows, and a farm with traditional and rare breeds of animals and poultry.",
       "source": 4
     },
     {
       "title": "Seasonal events",
-      "text": "Through the year there are guided walks and workshops, and on selected winter evenings a lantern-lit night garden trail that needs its own ticket.",
+      "text": "Guided walks and workshops run through the year, and on selected winter evenings there’s a lantern-lit night garden trail with its own tickets.",
       "source": 2
     }
   ],
   "goodToKnow": [
     {
       "label": "Opening",
-      "text": "The gardens open every day. Booking ahead is recommended for day visitors and local pass holders.",
+      "text": "Open every day. Booking ahead is a good idea, for day tickets and local passes alike.",
       "source": 1
     },
     {
       "label": "Tickets",
-      "text": "Entry is paid. Residents of Cornwall and Devon can buy a locals’ pass, and there are annual passes for repeat visits.",
+      "text": "Entry is paid. Cornwall and Devon residents can get a locals’ pass, and there are annual passes if you’ll be back.",
       "source": 3
     },
     {
       "label": "Food",
-      "text": "The Heligan Kitchen restaurant serves meals made with meat and produce from the estate, including Sunday roasts.",
+      "text": "The Heligan Kitchen restaurant cooks with meat and produce from the estate, and does Sunday roasts.",
       "source": 2
     },
     {
       "label": "Where it is",
-      "text": "Heligan is about 2.5 km north-west of Mevagissey and around 10 km by road from St Austell and its railway station.",
+      "text": "About 2.5 km north-west of Mevagissey, and roughly 10 km by road from St Austell and its station.",
       "source": 5
     }
   ],
@@ -87,5 +87,30 @@
       "source": 3,
       "note": "Paid entry, with locals’ and annual passes"
     }
-  }
+  },
+  "week": {
+    "slot": "Half a day",
+    "text": "Heligan suits a dry or showery day on the south coast. Give it a good half day so you’re not rushing the Jungle, then drop down into Mevagissey for the harbour and something to eat, or head for the beach at Pentewan.",
+    "pairWith": [
+      {
+        "kind": "town",
+        "slug": "mevagissey",
+        "why": "a busy fishing harbour just down the hill"
+      },
+      {
+        "kind": "beach",
+        "slug": "pentewan-beach",
+        "why": "a long sandy beach"
+      },
+      {
+        "kind": "attraction",
+        "slug": "eden-project",
+        "why": "the other big garden day out, if you want to compare"
+      }
+    ]
+  },
+  "tips": [
+    "Start with the Jungle while legs are fresh: the climb back up is the hardest part of the visit.",
+    "Pack a waterproof; there’s little cover once you’re out in the valleys."
+  ]
 }

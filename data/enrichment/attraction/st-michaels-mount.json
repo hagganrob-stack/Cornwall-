@@ -2,60 +2,60 @@
   "slug": "st-michaels-mount",
   "written": "2026-11-02",
   "overview": [
-    "St Michael’s Mount is a small tidal island in Mount’s Bay, just off the beach at Marazion. A castle sits on the summit, with a priory church that dates back to the 12th century, and below it there’s a harbour and a little village of cobbled lanes, shops and cafés.",
-    "Getting there is part of the fun. At low tide a cobbled causeway appears and you can walk across in about 15 minutes; when the tide is in, small boats run from Marazion in the main season. The island only opens when the tide and weather allow, so it pays to check times before you set off."
+    "St Michael’s Mount is the little castle-topped island you’ll see from all along Mount’s Bay, just off the beach at Marazion. Up top there’s a castle with a priory church dating back to the 12th century; down below is a small harbour and village with cobbled lanes, shops and cafés.",
+    "Getting there is half the fun. At low tide a cobbled causeway appears and you can walk across in about 15 minutes; at high tide, little boats ferry people over from Marazion in the main season. The island only opens when the tide and weather allow, so check times before you set off and plan your day around them."
   ],
   "expect": [
     {
-      "title": "The castle and summit",
-      "text": "A steep climb takes you up to the castle, its rooms full of the island’s myths and history, and out onto the battlements with views right across Mount’s Bay. Guides give talks at the top.",
+      "title": "Castle and summit",
+      "text": "It’s a steep, uneven climb up to the castle, but you’re rewarded with rooms full of stories and battlements looking right across Mount’s Bay. Guides give talks at the top.",
       "source": 0
     },
     {
-      "title": "The terraced gardens",
-      "text": "Subtropical gardens are planted on terraces that cling to the cliffs. They open in the warmer months only, roughly from May to early September.",
+      "title": "Terraced gardens",
+      "text": "Subtropical gardens cling to the cliffs in terraces. They’re only open in the warmer months, roughly May to early September.",
       "source": 3
     },
     {
-      "title": "Harbour, village and gallery",
-      "text": "Around the harbour there are shops, a café and the Steward’s House gallery, which shows paintings by Newlyn School artists of everyday life in west Cornwall.",
+      "title": "Harbour and village",
+      "text": "Pottering around the harbour is free in winter. There are shops, a café and the Steward’s House gallery, which shows Newlyn School paintings of everyday life in west Cornwall.",
       "source": 0
     },
     {
       "title": "For children",
-      "text": "There’s a trail following the legendary giant’s footsteps up to the castle, and open lawns for younger children to run around on.",
+      "text": "Kids can follow the legendary giant’s footsteps up to the castle, and there are open lawns for little ones to run about on.",
       "source": 4
     }
   ],
   "goodToKnow": [
     {
       "label": "Getting across",
-      "text": "Walk the causeway at low tide, or take a boat at high tide between mid-March and the end of October. Only cross the causeway at the advised times: the sea comes in quickly and the cobbles are uneven.",
+      "text": "Walk the causeway at low tide, or catch a boat at high tide between mid-March and the end of October. Only cross at the advised times: the tide comes in fast and the cobbles are uneven.",
       "source": 1
     },
     {
       "label": "Opening",
-      "text": "In summer the island opens Sunday to Friday, with last entry onto the island at 3.45pm. Over winter the castle and gardens close, but you can still wander the harbour and village, browse the shops and gallery and visit the cafés for free whenever the causeway is open.",
+      "text": "In summer the island opens Sunday to Friday, with last entry at 3.45pm. Over winter the castle and gardens close, but you can still wander the harbour and village, browse the shops and gallery and visit the cafés for free when the causeway is open.",
       "source": 3
     },
     {
       "label": "Tickets",
-      "text": "Castle and garden tickets are paid and cheaper bought in advance. Under-5s go free, there are family tickets, and National Trust members get a discount on entry.",
+      "text": "Castle and garden tickets are paid and cheaper booked ahead. Under-5s go free, there are family tickets, and National Trust members get a discount.",
       "source": 2
     },
     {
       "label": "Pushchairs and wheelchairs",
-      "text": "There’s no pushchair or wheelchair access up to the castle, and the causeway is hard going with wheels; a baby carrier is easier. You can leave a pushchair in a park opposite the shop.",
+      "text": "There’s no pushchair or wheelchair access up to the castle, and the causeway is hard work with wheels, so a baby carrier is easier. You can leave a pushchair opposite the shop.",
       "source": 4
     },
     {
       "label": "Weather",
-      "text": "Strong winds or rough seas can close the island, usually with notice on the website and social media.",
+      "text": "Strong winds or rough seas can close the island, usually announced on the website and social media.",
       "source": 2
     },
     {
       "label": "Dogs",
-      "text": "Dogs are welcome in the village during the winter season.",
+      "text": "Dogs are welcome in the village in the winter season.",
       "source": 3
     }
   ],
@@ -101,5 +101,31 @@
       "source": 2,
       "note": "Castle and garden tickets are paid"
     }
-  }
+  },
+  "week": {
+    "slot": "Half a day",
+    "text": "Plan this one around the tide: the causeway is open for a few hours either side of low water. It pairs nicely with a beach morning in Mount’s Bay or an afternoon in Penzance, and it’s a good choice on a calm, settled day.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "marazion-beach",
+        "why": "the beach the causeway starts from"
+      },
+      {
+        "kind": "beach",
+        "slug": "perranuthnoe-beach",
+        "why": "a sandy cove a few kilometres east"
+      },
+      {
+        "kind": "attraction",
+        "slug": "tremenheere-sculpture-gardens",
+        "why": "art in a valley garden"
+      }
+    ]
+  },
+  "tips": [
+    "Check the tide table before anything else and work backwards from it.",
+    "Wear trainers or boots: the causeway and the path to the castle are cobbled and slippery when wet.",
+    "Leave the pushchair behind and bring a baby carrier if you have little ones."
+  ]
 }

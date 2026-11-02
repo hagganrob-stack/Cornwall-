@@ -2,35 +2,35 @@
   "slug": "the-minack-theatre",
   "written": "2026-11-02",
   "overview": [
-    "The Minack is an open-air theatre cut into the granite cliffs above Porthcurno, about six kilometres from Land’s End. The stage and stepped seating sit in a gully with the sea behind, so the view is a big part of any performance.",
-    "It was built by hand. Rowena Cade, who lived in the house above, first lent her cliff garden to a local drama group for a production of The Tempest in 1932, and then spent the next five decades improving it, mostly over the winters with the help of her gardener. It has been run as a charity since 1976."
+    "The Minack is an open-air theatre carved into the granite cliffs above Porthcurno, about six kilometres from Land’s End, with the sea as its backdrop. Even if you never see a show here, it’s worth a look just for the setting.",
+    "The story behind it is lovely. Rowena Cade, who lived in the house above, lent her cliff garden to a local drama group to put on The Tempest in 1932, then spent the next fifty-odd years building and improving the theatre, much of it by hand over the winters with her gardener. It’s been a charity since 1976."
   ],
   "expect": [
     {
       "title": "Shows from spring to autumn",
-      "text": "Performances take place between Easter and late October: plays, musicals and concerts, some staged by the Minack itself and others by touring companies.",
+      "text": "There are performances between Easter and late October: plays, musicals and concerts, some put on by the Minack itself and others by touring companies. Watching a play as the light fades over the sea is a memorable evening.",
       "source": 0
     },
     {
       "title": "Daytime visits",
-      "text": "You can also visit when there’s no show on, to look around the theatre itself. There are fewer visiting days in winter.",
+      "text": "When there’s no show you can visit to look round the theatre itself. There are fewer visiting days in winter.",
       "source": 0
     },
     {
       "title": "Porthcurno below",
-      "text": "The beach at Porthcurno is just below the theatre, so it’s easy to combine the two in one outing.",
+      "text": "The beach at Porthcurno is right below, so it’s easy to combine the two.",
       "source": null
     }
   ],
   "goodToKnow": [
     {
       "label": "Weather",
-      "text": "Everything here is outdoors and exposed to the weather, so bring layers and something waterproof.",
+      "text": "Everything is outdoors and exposed, so bring layers and a waterproof whatever the forecast says.",
       "source": null
     },
     {
       "label": "Before you go",
-      "text": "Check the Minack’s own website for current visiting times, show dates and tickets.",
+      "text": "Check the Minack’s website for current visiting times, show dates and tickets.",
       "source": null
     }
   ],
@@ -44,5 +44,30 @@
       "label": "The Minack Theatre – official website",
       "url": "https://www.minack.com/"
     }
+  ],
+  "week": {
+    "slot": "An hour to visit, an evening for a show",
+    "text": "A daytime visit takes about an hour and slots easily into a beach day at Porthcurno. If you can, book an evening performance for one night of your week: it’s a very different way to spend an evening in Cornwall.",
+    "pairWith": [
+      {
+        "kind": "beach",
+        "slug": "porthcurno",
+        "why": "the beach directly below the theatre"
+      },
+      {
+        "kind": "attraction",
+        "slug": "pk-porthcurno",
+        "why": "the cable station museum, a good wet-weather backup"
+      },
+      {
+        "kind": "attraction",
+        "slug": "lands-end",
+        "why": "the far western tip, along the coast"
+      }
+    ]
+  },
+  "tips": [
+    "For an evening show, think about taking a cushion and a blanket: the seats are stone and it can get chilly once the sun goes down.",
+    "Combine a daytime visit with a swim at Porthcurno, which is right below."
   ]
 }

@@ -2,18 +2,18 @@
   "slug": "porthcurno",
   "written": "2026-11-02",
   "overview": [
-    "Porthcurno is a small valley and beach on the far south-west coast, about four kilometres from Land’s End. The beach is pale sand shelving into clear water, enclosed by granite cliffs, with the open-air Minack Theatre on the clifftop above.",
-    "The village has an unusual history. In 1870 the first undersea telegraph cable linking Britain with India came ashore here, and between the two world wars Porthcurno became the biggest cable station of its kind anywhere. A listed concrete hut where the cables came ashore is still at the head of the beach."
+    "Porthcurno is a small valley and beach on the far south-west coast, about four kilometres from Land’s End, and it’s a beautiful spot on a sunny day: pale sand shelving into clear water, enclosed by granite cliffs, with the open-air Minack Theatre on the clifftop above.",
+    "The village has a surprising history. In 1870 the first undersea telegraph cable linking Britain with India came ashore here, and between the two world wars Porthcurno became the biggest cable station of its kind anywhere. A listed concrete hut where the cables came ashore is still at the head of the beach."
   ],
   "expect": [
     {
       "title": "The beach",
-      "text": "Steep-sided and sheltered by the cliffs, with sand that shelves quickly into the sea. Its colours on a sunny day are what most people come for.",
+      "text": "Sheltered by the cliffs, with sand that shelves quickly into the sea. Its colours on a sunny day are what most people come for.",
       "source": null
     },
     {
       "title": "PK Porthcurno museum",
-      "text": "The story of the cable station is told at the museum in the valley, which makes a good indoor stop.",
+      "text": "The story of the cable station is told at the museum in the valley, a good indoor stop.",
       "source": 0
     },
     {
@@ -45,5 +45,30 @@
       "url": "https://en.wikipedia.org/wiki/Minack_Theatre",
       "licence": "CC BY-SA 4.0"
     }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Make a day of it: a swim at Porthcurno, a look round the Minack, and the cable museum if the weather turns. It faces south-east, so it catches the morning sun and is sheltered when the wind is from the west.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "the-minack-theatre",
+        "why": "the clifftop theatre right above the beach"
+      },
+      {
+        "kind": "attraction",
+        "slug": "pk-porthcurno",
+        "why": "the cable station museum in the valley"
+      },
+      {
+        "kind": "attraction",
+        "slug": "logan-rock",
+        "why": "a short headland walk"
+      }
+    ]
+  },
+  "tips": [
+    "The beach shelves steeply, so keep an eye on younger swimmers.",
+    "The car park fills up early on sunny summer days."
   ]
 }

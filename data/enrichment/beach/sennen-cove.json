@@ -2,18 +2,18 @@
   "slug": "sennen-cove",
   "written": "2026-11-02",
   "overview": [
-    "Sennen Cove is the first beach you reach heading north from Land’s End, about three kilometres along the coast. The beach sits below a small granite village at the southern end of Whitesand Bay, and the sand runs on northwards towards Gwenver at the far end of the bay.",
-    "It’s a working cove as well as a holiday beach: the RNLI lifeboat station here dates back to 1853, and next to it a restored round building that once housed a winch for hauling boats out of the water is now a gallery and shop."
+    "Sennen Cove is the first beach north of Land’s End, about three kilometres up the coast: a long sweep of sand below a small granite village at the southern end of Whitesand Bay, running on towards Gwenver.",
+    "It’s a working cove as well as a holiday beach. The RNLI lifeboat station dates back to 1853, and next door a restored round building that once held a winch for hauling boats out of the sea is now a gallery and shop."
   ],
   "expect": [
     {
       "title": "Surfing",
-      "text": "Sennen is a popular surf spot, a little more sheltered from the wind and swell than Gwenver further up the bay. It works at most stages of the tide except the very top.",
+      "text": "A popular surf beach, a little more sheltered from the wind and swell than Gwenver further up the bay. It works at most stages of the tide except the very top.",
       "source": 0
     },
     {
       "title": "Facilities",
-      "text": "There’s a car park and a beach café by the sand, and surf equipment can be hired at the beach.",
+      "text": "There’s a car park and beach café by the sand, and you can hire surf gear right at the beach.",
       "source": 0
     },
     {
@@ -25,12 +25,12 @@
   "goodToKnow": [
     {
       "label": "Getting there",
-      "text": "The village is on a short road off the A30 near Land’s End; the last stretch down to the beach is steep.",
+      "text": "The village is on a short road off the A30 near Land’s End, and the last stretch down is steep.",
       "source": 0
     },
     {
       "label": "Coast path",
-      "text": "The South West Coast Path passes through the village, so you can walk to Land’s End along the cliffs.",
+      "text": "The coast path passes through the village, so you can walk to Land’s End along the cliffs.",
       "source": 0
     }
   ],
@@ -40,5 +40,30 @@
       "url": "https://en.wikipedia.org/wiki/Sennen_Cove",
       "licence": "CC BY-SA 4.0"
     }
+  ],
+  "week": {
+    "slot": "Half a day or more",
+    "text": "Sennen is a great beach day in the far west, with everything you need close at hand. Combine it with the clifftop walk to Land’s End, or with Porthcurno and the Minack on the south side.",
+    "pairWith": [
+      {
+        "kind": "attraction",
+        "slug": "lands-end",
+        "why": "a clifftop walk away"
+      },
+      {
+        "kind": "beach",
+        "slug": "gwynver-beach",
+        "why": "a wilder beach at the other end of the bay"
+      },
+      {
+        "kind": "beach",
+        "slug": "porthcurno",
+        "why": "a sheltered south-coast beach if the wind’s in the west"
+      }
+    ]
+  },
+  "tips": [
+    "Walk the coast path to Land’s End and back for a couple of hours of cliff scenery.",
+    "Lessons and board hire are right on the beach if you fancy trying surfing."
   ]
 }
