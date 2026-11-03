@@ -45,19 +45,15 @@ export default async function TownPage({ params }) {
   return (
     <article>
       <JsonLd data={townLd(t, `/towns/${t.slug}/`)} />
-      <Hero image={heroImage(t)} title={t.name} kicker={`${region.name} · ${near.length} beaches within 5 km`} lat={t.lat} lng={t.lng} />
-      <Container className="mt-6">
-        <Crumbs items={[['Home', '/'], [region.name, `/regions/${region.slug}/`], [t.name]]} />
-        <Byline lastChecked={t.lastChecked} className="mt-3" />
-      </Container>
+      <Hero crumbs={[['Home', '/'], [region.name, `/regions/${region.slug}/`], [t.name]]} lastChecked={t.lastChecked} image={heroImage(t)} title={t.name} kicker={`${region.name} · ${near.length} beaches within 5 km`} lat={t.lat} lng={t.lng} />
       <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
           <WeVisited place={t} />
-          <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{t.description}</p>
+          <p className="max-w-[60ch] font-[family-name:var(--font-display)] text-[1.6rem] leading-[1.45] text-atlantic-950">{t.description}</p>
           {combos.length ? (
             <div className="mt-6 flex flex-wrap gap-2">
               {combos.map(({ r, n, href, what }) => (
-                <Link key={href} href={href} className="chip bg-seaglass-100 px-4 py-2 text-sm text-atlantic-900 no-underline hover:bg-seaglass-300">
+                <Link key={href} href={href} className="pill-link">
                   {n} {r.label.toLowerCase()} {what} nearby →
                 </Link>
               ))}
@@ -91,14 +87,14 @@ export default async function TownPage({ params }) {
           <section className="mt-14">
             <SectionHeading kicker="Within 3 km">Where to eat and drink</SectionHeading>
             {eat.length ? (
-              <ul className="grid gap-3 sm:grid-cols-2">
+              <ul className="grid gap-x-10 sm:grid-cols-2">
                 {eat.slice(0, 10).map(({ v, km }) => (
-                  <li key={v.slug}>
-                    <Link href={`/food-and-drink/${v.slug}/`} className="block h-full rounded-2xl bg-white p-4 no-underline ring-1 ring-atlantic-950/10 hover:ring-seaglass-500">
-                      <span className="block font-semibold text-atlantic-900">{v.name}</span>
+                  <li key={v.slug} className="border-t border-atlantic-950/10">
+                    <Link href={`/food-and-drink/${v.slug}/`} className="group block h-full py-4 text-atlantic-950 no-underline">
+                      <span className="block font-[family-name:var(--font-display)] text-xl group-hover:text-seaglass-600">{v.name}</span>
                       <span className="text-sm text-atlantic-950/60">{v.category} · {km} km</span>
                       <Rating rating={v.rating} compact className="ml-2" />
-                      <FoodBadges v={v} className="mt-2" max={3} />
+                      <FoodBadges v={v} className="mt-2.5" max={2} kind={false} />
                     </Link>
                   </li>
                 ))}

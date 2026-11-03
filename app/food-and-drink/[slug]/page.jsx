@@ -35,10 +35,10 @@ function WebsiteSays({ v }) {
   return (
     <>
       {said.length ? (
-        <dl className="divide-y divide-atlantic-950/10 overflow-hidden rounded-2xl ring-1 ring-atlantic-950/10">
+        <dl className="divide-y divide-atlantic-950/10 border-y border-atlantic-950/10">
           {said.map(({ k, label, f }) => (
-            <div key={k} className="grid gap-1 px-5 py-4 sm:grid-cols-[170px_1fr] sm:gap-6">
-              <dt className="text-sm font-semibold text-atlantic-900">{label}</dt>
+            <div key={k} className="grid gap-1 py-4 sm:grid-cols-[170px_1fr] sm:gap-8">
+              <dt className="pt-0.5 text-[11px] font-semibold uppercase tracking-[0.14em] text-atlantic-950/50">{label}</dt>
               <dd>
                 <span className="font-medium">{f.value === 'yes' ? 'Yes' : 'No'}</span>
                 {f.evidence?.quote ? <span className="mt-0.5 block text-sm text-atlantic-950/70">“{f.evidence.quote}”</span> : null}
@@ -68,31 +68,27 @@ export default async function FoodPage({ params }) {
   return (
     <article>
       <JsonLd data={foodLd(v, `/food-and-drink/${v.slug}/`)} />
-      <Hero image={heroImage(v)} title={name} kicker={`${KIND_LABEL[v.kind]} · ${v.townDistanceKm < 1 ? 'in' : `${v.townDistanceKm} km from`} ${town.name}`} lat={v.lat} lng={v.lng}>
-        <FoodBadges v={v} className="mt-4" max={6} />
+      <Hero crumbs={[['Home', '/'], ['Food and drink', '/food-and-drink/'], [town.name, `/towns/${town.slug}/`], [name]]} lastChecked={v.lastChecked} image={heroImage(v)} title={name} kicker={`${KIND_LABEL[v.kind]} · ${v.townDistanceKm < 1 ? 'in' : `${v.townDistanceKm} km from`} ${town.name}`} lat={v.lat} lng={v.lng}>
+        <FoodBadges v={v} className="mt-6" max={6} />
       </Hero>
-      <Container className="mt-6">
-        <Crumbs items={[['Home', '/'], ['Food and drink', '/food-and-drink/'], [town.name, `/towns/${town.slug}/`], [name]]} />
-        <Byline lastChecked={v.lastChecked} className="mt-3" />
-      </Container>
       <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
           <WeVisited place={v} />
-          <Rating rating={v.rating} className="mb-4" />
-          <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{v.customDescription || v.description}</p>
-          <div className="mt-5 flex flex-wrap gap-3">
+          <Rating rating={v.rating} className="mb-6" />
+          <p className="max-w-[60ch] font-[family-name:var(--font-display)] text-[1.6rem] leading-[1.45] text-atlantic-950">{v.customDescription || v.description}</p>
+          <div className="mt-8 flex flex-wrap gap-3">
             {v.website ? (
-              <a href={v.website} rel="nofollow noopener" target="_blank" className="inline-block rounded-full bg-atlantic-900 px-5 py-2.5 font-semibold text-white no-underline hover:bg-atlantic-700 hover:text-white">Website and menus ↗</a>
+              <a href={v.website} rel="nofollow noopener" target="_blank" className="inline-block rounded-full bg-atlantic-950 px-5 py-2.5 font-semibold text-white no-underline hover:bg-seaglass-600 hover:text-white">Website and menus ↗</a>
             ) : null}
-            {v.phone ? <a href={`tel:${v.phone.replace(/\s/g, '')}`} className="inline-block rounded-full px-5 py-2.5 font-semibold no-underline ring-1 ring-atlantic-950/20">Call {v.phone}</a> : null}
+            {v.phone ? <a href={`tel:${v.phone.replace(/\s/g, '')}`} className="inline-block rounded-full px-5 py-2.5 font-semibold no-underline border border-atlantic-950/20 text-atlantic-950 hover:border-atlantic-950/50">Call {v.phone}</a> : null}
           </div>
 
-          <h2 className="mt-12 mb-4 text-2xl">What their website says</h2>
+          <h2 className="mt-16 mb-6 text-3xl">What their website says</h2>
           <WebsiteSays v={v} />
 
           {v.hours?.value === 'listed' ? (
             <>
-              <h2 className="mt-12 mb-4 text-2xl">Opening hours</h2>
+              <h2 className="mt-16 mb-6 text-3xl">Opening hours</h2>
               <HoursTable hours={v.hours} />
             </>
           ) : null}
@@ -109,7 +105,7 @@ export default async function FoodPage({ params }) {
           {inRoundups.length ? (
             <div className="flex flex-wrap gap-2">
               {inRoundups.map((r) => (
-                <Link key={r.slug} href={foodRoundupPath(r)} className="chip bg-seaglass-100 text-seaglass-600 no-underline">More {r.label.toLowerCase()} →</Link>
+                <Link key={r.slug} href={foodRoundupPath(r)} className="pill-link">More {r.label.toLowerCase()} →</Link>
               ))}
             </div>
           ) : null}

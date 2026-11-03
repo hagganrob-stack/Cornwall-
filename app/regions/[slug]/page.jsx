@@ -20,11 +20,8 @@ export default async function RegionPage({ params }) {
   const hero = heroImage(rb.filter((b) => heroImage(b)?.width > 1500).sort((a, b) => (heroImage(b).score || 0) - (heroImage(a).score || 0))[0] || rb[0]);
   return (
     <>
-      <Hero image={hero} title={r.name} kicker={`${rb.length} beaches · ${rt.length} places to stay`} />
+      <Hero image={hero} title={r.name} kicker={`${rb.length} beaches · ${rt.length} places to stay`} crumbs={[['Home', '/'], [r.name]]} lastChecked={latestChecked(rb)} standfirst={r.summary} />
       <Container className="mt-6">
-        <Crumbs items={[['Home', '/'], [r.name]]} />
-        <Byline lastChecked={latestChecked(rb)} className="mt-3" />
-        <p className="mt-6 max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{r.summary}</p>
         {r.status === 'draft' ? <p className="mt-2 text-sm text-atlantic-950/55">{r.boundaryNote}</p> : null}
       </Container>
       <Container className="mt-14">

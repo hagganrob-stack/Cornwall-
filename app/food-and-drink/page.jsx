@@ -13,16 +13,16 @@ export const metadata = {
 
 export default function FoodAndDrink() {
   return (
-    <Container className="pt-8">
+    <Container className="pt-8 sm:pt-12">
       <Crumbs items={[['Home', '/'], ['Food and drink']]} />
-      <h1 className="mt-4 text-4xl sm:text-5xl">Pubs, cafés and restaurants</h1>
-      <p className="mt-3 max-w-[68ch] text-lg text-atlantic-950/75">
+      <h1 className="mt-8 max-w-5xl text-[2.75rem] sm:text-6xl lg:text-[5.25rem]">Pubs, cafés and restaurants</h1>
+      <p className="mt-6 max-w-[60ch] text-xl leading-relaxed text-atlantic-950/75 sm:text-[1.35rem]">
         {food.length} places to eat and drink, from harbourside pubs to beach cafés. Ratings come from Google. The filters only use what each venue’s own website says, so a place without a tick might still welcome your dog or do a vegan dish; it just doesn’t say so online.
       </p>
-      <Byline lastChecked={latestChecked(food)} sourcesHref="/editorial-policy/" className="mt-4" />
-      <div className="mt-6 flex flex-wrap gap-2">
+      <Byline lastChecked={latestChecked(food)} sourcesHref="/editorial-policy/" className="mt-6" />
+      <div className="mt-8 flex flex-wrap gap-2">
         {Object.values(FOOD_ROUNDUPS).map((r) => (
-          <Link key={r.slug} href={foodRoundupPath(r)} className="chip bg-sand-100 px-4 py-2 text-sm text-atlantic-900 no-underline hover:bg-sand-200">
+          <Link key={r.slug} href={foodRoundupPath(r)} className="pill-link">
             {r.label} ({foodRoundupItems(r).length})
           </Link>
         ))}

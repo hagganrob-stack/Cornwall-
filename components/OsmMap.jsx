@@ -6,7 +6,7 @@ export default function OsmMap({ lat, lng, zoomDeg = 0.012, label }) {
       <iframe
         title={`Map of ${label}`}
         loading="lazy"
-        className="h-64 w-full rounded-2xl ring-1 ring-atlantic-950/10"
+        className="h-64 w-full rounded-2xl bg-sand-100"
         src={`https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lng}`}
       />
       <p className="mt-2 flex gap-4 text-sm">

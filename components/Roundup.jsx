@@ -23,12 +23,9 @@ export default function Roundup({ title, intro, criteria, crumbs, items, seconda
   return (
     <>
       <JsonLd data={(kind === 'attraction' ? attractionListLd : kind === 'food' ? foodListLd : itemListLd)(title, items.map((x) => x.b), path)} />
-      <Hero image={hero} title={title} kicker={`${items.length} ${kind === 'beach' ? 'beaches' : 'places'}`} lat={50.3} lng={-5} />
-      <Container className="mt-6">
-        <Crumbs items={crumbs} />
-        <Byline lastChecked={latestChecked(all)} className="mt-3" />
-        <p className="mt-6 max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{intro}</p>
-        <p className="mt-3 max-w-[68ch] text-sm text-atlantic-950/60"><strong>How we chose them:</strong> {criteria}</p>
+      <Hero image={hero} title={title} kicker={`${items.length} ${kind === 'beach' ? 'beaches' : 'places'}`} lat={50.3} lng={-5} crumbs={crumbs} lastChecked={latestChecked(all)} standfirst={intro} />
+      <Container className="mt-8">
+        <p className="max-w-[68ch] text-sm text-atlantic-950/60"><strong>How we chose them:</strong> {criteria}</p>
         <div className="mt-10">
           <CardGrid>{items.map(card)}</CardGrid>
         </div>

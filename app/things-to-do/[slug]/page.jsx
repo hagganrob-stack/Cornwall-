@@ -40,9 +40,9 @@ function Planner({ guide }) {
   return (
     <div className="grid gap-4 sm:grid-cols-3">
       {items.map(([k, v]) => (
-        <div key={k} className="rounded-2xl bg-sand-50 p-5 ring-1 ring-sand-200">
-          <p className="text-xs font-semibold uppercase tracking-wider text-sand-700">{k}</p>
-          <p className="mt-1.5 leading-snug">{v[0].toUpperCase() + v.slice(1)}</p>
+        <div key={k} className="border-t border-atlantic-950/15 pt-4">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-atlantic-950/50">{k}</p>
+          <p className="mt-2 font-[family-name:var(--font-display)] text-xl leading-snug">{v[0].toUpperCase() + v.slice(1)}</p>
         </div>
       ))}
     </div>
@@ -64,19 +64,14 @@ export default async function AttractionPage({ params }) {
   return (
     <article>
       <JsonLd data={attractionLd(a, `/things-to-do/${a.slug}/`)} />
-      <Hero image={hero} title={name} kicker={`${a.category} · ${a.townDistanceKm < 1 ? 'in' : `${a.townDistanceKm} km from`} ${town.name}`} lat={a.lat} lng={a.lng}>
-        <AttractionBadges a={a} className="mt-4" />
+      <Hero crumbs={[['Home', '/'], ['Things to do', '/things-to-do/'], [town.name, `/towns/${town.slug}/`], [name]]} lastChecked={a.lastChecked} image={hero} title={name} kicker={`${a.category} · ${a.townDistanceKm < 1 ? 'in' : `${a.townDistanceKm} km from`} ${town.name}`} lat={a.lat} lng={a.lng}>
+        <AttractionBadges a={a} className="mt-6" />
       </Hero>
-
-      <Container className="mt-6">
-        <Crumbs items={[['Home', '/'], ['Things to do', '/things-to-do/'], [town.name, `/towns/${town.slug}/`], [name]]} />
-        <Byline lastChecked={a.lastChecked} className="mt-3" />
-      </Container>
 
       <Container className="mt-8 grid gap-12 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div>
           <WeVisited place={a} />
-          {e ? <EnrichedOverview e={e} /> : <p className="max-w-[68ch] text-xl leading-relaxed text-atlantic-950/85">{a.customDescription || a.description}</p>}
+          {e ? <EnrichedOverview e={e} /> : <p className="max-w-[60ch] font-[family-name:var(--font-display)] text-[1.6rem] leading-[1.45] text-atlantic-950">{a.customDescription || a.description}</p>}
           <EnrichedNote e={e} />
           {a.website ? (
             <p className="mt-5">
@@ -91,18 +86,18 @@ export default async function AttractionPage({ params }) {
           <EnrichedGoodToKnow e={e} />
           <EnrichedTips e={e} />
 
-          {!e?.week ? <h2 className="mt-12 mb-4 text-2xl">Planning your visit</h2> : null}
+          {!e?.week ? <h2 className="mt-16 mb-6 text-3xl">Planning your visit</h2> : null}
           {!e?.week ? <Planner guide={a.guide} /> : null}
           {!e?.week && a.guide?.method ? <p className="mt-2 text-xs text-atlantic-950/50">{a.guide.method}</p> : null}
 
           {a.hours?.value === 'listed' ? (
             <>
-              <h2 className="mt-12 mb-4 text-2xl">Opening hours</h2>
+              <h2 className="mt-16 mb-6 text-3xl">Opening hours</h2>
               <HoursTable hours={a.hours} />
             </>
           ) : null}
 
-          <h2 className="mt-12 mb-4 text-2xl">The facts</h2>
+          <h2 className="mt-16 mb-6 text-3xl">The facts</h2>
           <FactTable
             rows={[
               ['Indoor or outdoor', withMethod(a.setting)],
@@ -116,7 +111,7 @@ export default async function AttractionPage({ params }) {
 
           {gallery.length ? (
             <>
-              <h2 className="mt-12 mb-4 text-2xl">More photos</h2>
+              <h2 className="mt-16 mb-6 text-3xl">More photos</h2>
               <div className="grid gap-5 sm:grid-cols-2">
                 {gallery.map((i) => (
                   <Photo key={i.file} image={i} alt={`${name}: ${i.title}`} />
@@ -137,7 +132,7 @@ export default async function AttractionPage({ params }) {
           {inRoundups.length ? (
             <div className="flex flex-wrap gap-2">
               {inRoundups.map((r) => (
-                <Link key={r.slug} href={ttdRoundupPath(r)} className="chip bg-seaglass-100 text-seaglass-600 no-underline">More {r.label.toLowerCase()} ideas →</Link>
+                <Link key={r.slug} href={ttdRoundupPath(r)} className="pill-link">More {r.label.toLowerCase()} ideas →</Link>
               ))}
             </div>
           ) : null}

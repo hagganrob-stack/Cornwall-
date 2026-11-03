@@ -1,32 +1,33 @@
 import Image from 'next/image';
 import { Credit } from './Photo';
 import MapCard from './MapCard';
+import Byline from './Byline';
+import { Container, Crumbs } from './Blocks';
 import { imgSrc } from '../lib/data';
 
-// Full-width hero: photo with the title over a gradient, credit underneath.
-export default function Hero({ image, title, kicker, children, lat, lng }) {
+// Editorial header: breadcrumbs, kicker, big serif title and byline on paper, then a wide photo
+// (or the map when there's no openly licensed photo) with its credit underneath.
+export default function Hero({ image, title, kicker, children, lat, lng, crumbs, lastChecked, sourcesHref, standfirst }) {
   return (
-    <section className="relative">
-      <div className="relative h-[52vh] min-h-[320px] max-h-[620px] w-full overflow-hidden bg-atlantic-900">
-        {image ? (
-          <Image src={imgSrc(image)} alt={image.title || title} fill priority sizes="100vw" className="object-cover" />
-        ) : (
-          <MapCard name="" lat={lat} lng={lng} className="h-full w-full" />
-        )}
-        <div className="absolute inset-0 bg-gradient-to-t from-atlantic-950/85 via-atlantic-950/25 to-transparent" />
-        <div className="absolute inset-x-0 bottom-0">
-          <div className="mx-auto max-w-6xl px-4 pb-8 sm:px-6">
-            {kicker ? <div className="mb-2 text-sm font-medium text-seaglass-300">{kicker}</div> : null}
-            <h1 className="max-w-4xl text-4xl text-white sm:text-5xl lg:text-6xl">{title}</h1>
-            {children}
-          </div>
+    <header>
+      <Container className="pt-8 sm:pt-12">
+        {crumbs ? <Crumbs items={crumbs} /> : null}
+        {kicker ? <p className="eyebrow mt-8">{kicker}</p> : null}
+        <h1 className="mt-3 max-w-5xl text-[2.75rem] sm:text-6xl lg:text-[5.25rem]">{title}</h1>
+        {standfirst ? <p className="mt-6 max-w-[60ch] text-xl leading-relaxed text-atlantic-950/75 sm:text-[1.35rem]">{standfirst}</p> : null}
+        {children}
+        {lastChecked ? <Byline lastChecked={lastChecked} sourcesHref={sourcesHref} className="mt-6" /> : null}
+      </Container>
+      <Container className="mt-8 sm:mt-10">
+        <div className={`relative w-full overflow-hidden rounded-3xl bg-sand-100 ${image ? 'aspect-[4/3] sm:aspect-[16/9] lg:aspect-[21/9]' : 'h-28 sm:h-40'}`}>
+          {image ? (
+            <Image src={imgSrc(image)} alt={image.title || title} fill priority sizes="(min-width: 1280px) 1216px, 100vw" className="object-cover" />
+          ) : (
+            <MapCard name="" lat={lat} lng={lng} className="h-full w-full" />
+          )}
         </div>
-      </div>
-      {image ? (
-        <div className="mx-auto max-w-6xl px-4 pt-1.5 sm:px-6">
-          <Credit image={image} />
-        </div>
-      ) : null}
-    </section>
+        {image ? <Credit image={image} className="mt-2 text-right" /> : null}
+      </Container>
+    </header>
   );
 }

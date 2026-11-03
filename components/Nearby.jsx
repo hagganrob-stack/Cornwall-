@@ -4,13 +4,15 @@ import Link from 'next/link';
 export default function Nearby({ title, items, base }) {
   if (!items?.length) return null;
   return (
-    <div className="rounded-2xl bg-sand-50 p-5 ring-1 ring-sand-200">
-      <h3 className="mb-3 text-base">{title}</h3>
-      <ul className="space-y-2 text-[15px]">
+    <div>
+      <h3 className="mb-2 font-sans text-[11px] font-semibold uppercase tracking-[0.16em] text-atlantic-950/50">{title}</h3>
+      <ul className="divide-y divide-atlantic-950/8 border-t border-atlantic-950/10 text-[15px]">
         {items.map((n) => (
-          <li key={n.slug} className="flex justify-between gap-3">
-            <Link href={`${base}${n.slug}/`} className="font-medium no-underline">{n.name}</Link>
-            <span className="shrink-0 text-atlantic-950/50">{n.km} km</span>
+          <li key={n.slug}>
+            <Link href={`${base}${n.slug}/`} className="group flex justify-between gap-3 py-2.5 text-atlantic-950 no-underline">
+              <span className="font-medium group-hover:text-seaglass-600">{n.name}</span>
+              <span className="shrink-0 text-sm tabular-nums text-atlantic-950/45">{n.km} km</span>
+            </Link>
           </li>
         ))}
       </ul>

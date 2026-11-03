@@ -7,8 +7,8 @@ export default function HoursTable({ hours }) {
         <tbody className="divide-y divide-atlantic-950/10">
           {hours.days.map(([d, h]) => (
             <tr key={d}>
-              <th scope="row" className="py-1.5 pr-4 text-left font-medium">{d}</th>
-              <td className={`py-1.5 ${/closed/i.test(h) ? 'text-atlantic-950/50' : ''}`}>{h}</td>
+              <th scope="row" className="py-2 pr-4 text-left font-medium">{d}</th>
+              <td className={`py-2 tabular-nums ${/closed/i.test(h) ? 'text-atlantic-950/50' : ''}`}>{h}</td>
             </tr>
           ))}
         </tbody>
