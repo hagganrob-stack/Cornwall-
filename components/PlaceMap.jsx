@@ -83,7 +83,7 @@ export default function PlaceMap({ points, kinds, label = 'Map', className = '' 
 
   return (
     <div className={className}>
-      <div ref={box} role="region" aria-label={label} className="relative z-0 h-[440px] w-full overflow-hidden rounded-3xl border border-atlantic-950/10 bg-sand-100 sm:h-[560px]">
+      <div ref={box} role="region" aria-label={label} className="relative z-0 h-[380px] w-full overflow-hidden rounded-3xl border border-atlantic-950/10 bg-sand-100 sm:h-[520px]">
         {!ready ? <p className="absolute inset-0 grid place-items-center text-sm text-atlantic-950/50">Loading map…</p> : null}
       </div>
       <ul className="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm text-atlantic-950/70">

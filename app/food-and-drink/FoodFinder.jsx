@@ -74,6 +74,13 @@ export default function FoodFinder({ rows, regions }) {
           ))}
         </div>
       </div>
+      <section className="mt-8" aria-labelledby="food-map-heading">
+        <h2 id="food-map-heading" className="sr-only">Map of matching places</h2>
+        <p className="mb-4 max-w-[68ch] text-sm text-atlantic-950/60">
+          {list.length === rows.length ? `All ${rows.length} places` : `The ${list.length} places matching your filters`} on the map. Tap a pin for the name and rating; the full list is below.
+        </p>
+        <PlaceMap points={mapPoints} kinds={MAP_KINDS} label="Map of pubs, cafés and restaurants" />
+      </section>
       <p className="mt-5 text-sm text-atlantic-950/60" aria-live="polite">Showing {Math.min(shown, list.length)} of {list.length} places</p>
       <ul className="mt-6 grid gap-x-10 sm:grid-cols-2 lg:grid-cols-3">
         {sorted.slice(0, shown).map((r) => (
@@ -94,13 +101,6 @@ export default function FoodFinder({ rows, regions }) {
           <button type="button" onClick={() => setShown((n) => n + PAGE)} className="rounded-full bg-atlantic-950 px-6 py-3 font-semibold text-white hover:bg-seaglass-600">Show more</button>
         </p>
       ) : null}
-      <section className="mt-16" aria-labelledby="food-map-heading">
-        <h2 id="food-map-heading" className="text-2xl sm:text-3xl">On the map</h2>
-        <p className="mt-2 mb-6 max-w-[68ch] text-atlantic-950/75">
-          {list.length === rows.length ? `All ${rows.length} places` : `The ${list.length} places matching your filters`}. Tap a pin for the name and rating, then follow the link for opening hours and what’s nearby.
-        </p>
-        <PlaceMap points={mapPoints} kinds={MAP_KINDS} label="Map of pubs, cafés and restaurants" />
-      </section>
     </div>
   );
 }
