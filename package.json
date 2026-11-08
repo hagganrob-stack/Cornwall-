@@ -23,6 +23,8 @@
     "node": ">=22.21"
   },
   "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
     "next": "16.4.3",
     "react": "19.3.1",
     "react-dom": "19.3.1"

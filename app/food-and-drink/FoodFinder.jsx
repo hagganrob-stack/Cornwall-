@@ -1,6 +1,7 @@
 'use client';
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
+import PlaceMap from '../../components/PlaceMap';
 
 const KINDS = [['', 'Everything'], ['pub', 'Pubs'], ['restaurant', 'Restaurants'], ['cafe', 'Cafés'], ['bar', 'Bars']];
 const TOGGLES = [
@@ -18,6 +19,13 @@ const TOGGLES = [
 ];
 const LABEL = { pub: 'Pub', restaurant: 'Restaurant', cafe: 'Café', bar: 'Bar' };
 const PAGE = 60;
+// Pin colours: brand palette, distinct enough to tell apart (and named in the legend).
+const MAP_KINDS = {
+  pub: { label: 'Pubs', color: '#1d4f7c' },
+  restaurant: { label: 'Restaurants', color: '#c2410c' },
+  cafe: { label: 'Cafés', color: '#12a196' },
+  bar: { label: 'Bars', color: '#7c3aed' },
+};
 
 export default function FoodFinder({ rows, regions }) {
   const [q, setQ] = useState('');
@@ -38,6 +46,7 @@ export default function FoodFinder({ rows, regions }) {
     );
   }, [rows, q, region, kind, need]);
   const sorted = useMemo(() => (sort === 'rating' ? [...list].sort((a, b) => (b.rating || 0) - (a.rating || 0) || b.reviews - a.reviews) : [...list].sort((a, b) => a.name.localeCompare(b.name))), [list, sort]);
+  const mapPoints = useMemo(() => list.map((r) => ({ slug: r.slug, name: r.name, lat: r.lat, lng: r.lng, kind: r.kind, sub: r.town, rating: r.rating, href: `/food-and-drink/${r.slug}/` })), [list]);
   const field = 'rounded-full border border-atlantic-950/15 bg-white px-4 py-2.5 text-[15px] focus:border-seaglass-500 focus:ring-2 focus:ring-seaglass-500/30 focus:outline-none';
   return (
     <div>
@@ -85,6 +94,13 @@ export default function FoodFinder({ rows, regions }) {
           <button type="button" onClick={() => setShown((n) => n + PAGE)} className="rounded-full bg-atlantic-950 px-6 py-3 font-semibold text-white hover:bg-seaglass-600">Show more</button>
         </p>
       ) : null}
+      <section className="mt-16" aria-labelledby="food-map-heading">
+        <h2 id="food-map-heading" className="text-2xl sm:text-3xl">On the map</h2>
+        <p className="mt-2 mb-6 max-w-[68ch] text-atlantic-950/75">
+          {list.length === rows.length ? `All ${rows.length} places` : `The ${list.length} places matching your filters`}. Tap a pin for the name and rating, then follow the link for opening hours and what’s nearby.
+        </p>
+        <PlaceMap points={mapPoints} kinds={MAP_KINDS} label="Map of pubs, cafés and restaurants" />
+      </section>
     </div>
   );
 }
