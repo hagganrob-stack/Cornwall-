@@ -7,13 +7,13 @@ export function Container({ children, className = '' }) {
   return <div className={`mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 ${className}`}>{children}</div>;
 }
 
-export function Crumbs({ items }) {
+export function Crumbs({ items, light = false }) {
   return (
-    <nav aria-label="Breadcrumb" className="text-[13px] text-atlantic-950/50">
+    <nav aria-label="Breadcrumb" className={`text-[13px] ${light ? 'text-white/80' : 'text-atlantic-950/50'}`}>
       <JsonLd data={breadcrumbLd(items)} />
       {items.map(([label, href], i) => (
         <span key={label}>
-          {i ? <span className="mx-2 text-atlantic-950/25">/</span> : null}
+          {i ? <span className={`mx-2 ${light ? 'text-white/45' : 'text-atlantic-950/25'}`}>/</span> : null}
           {href ? <Link href={href} className="text-inherit no-underline hover:underline">{label}</Link> : <span aria-current="page">{label}</span>}
         </span>
       ))}

@@ -1,17 +1,23 @@
 import { towns, regions, latestChecked } from '../../lib/data';
-import Byline from '../../components/Byline';
 import PlaceCard, { CardGrid } from '../../components/PlaceCard';
-import { Container, Crumbs, SectionHeading } from '../../components/Blocks';
+import { Container, SectionHeading } from '../../components/Blocks';
+import CategoryHero from '../../components/CategoryHero';
+import { CATEGORY_HEROES } from '../../lib/siteImages';
 
 export const metadata = { alternates: { canonical: '/towns/' }, title: 'Towns and villages to base your week', description: `${towns.length} towns and villages in Cornwall to base a week around, with the beaches near each.` };
 
 export default function TownsPage() {
   return (
-    <Container className="pt-8 sm:pt-12">
-      <Crumbs items={[['Home', '/'], ['Towns']]} />
-      <h1 className="mt-8 max-w-5xl text-[2.75rem] sm:text-6xl lg:text-[5.25rem]">Choose a base</h1>
-      <p className="mt-6 max-w-[60ch] text-xl leading-relaxed text-atlantic-950/75 sm:text-[1.35rem]">{towns.length} towns and villages, grouped by region, with the beaches within 5 km of each.</p>
-      <Byline lastChecked={latestChecked(towns)} sourcesHref="/editorial-policy/" className="mt-6" />
+    <>
+    <CategoryHero
+      hero={CATEGORY_HEROES.towns}
+      crumbs={[['Home', '/'], ['Towns']]}
+      kicker={`${towns.length} towns and villages`}
+      title="Choose a base"
+      standfirst={`${towns.length} towns and villages, grouped by region, with the beaches within 5 km of each.`}
+      lastChecked={latestChecked(towns)}
+    />
+    <Container>
       {regions.map((r) => (
         <section key={r.slug} className="mt-14">
           <SectionHeading>{r.name}</SectionHeading>
@@ -23,5 +29,6 @@ export default function TownsPage() {
         </section>
       ))}
     </Container>
+    </>
   );
 }

@@ -5,6 +5,7 @@ import JsonLd from './JsonLd';
 import { itemListLd, attractionListLd, foodListLd } from '../lib/seo';
 import { townName, latestChecked, heroImage } from '../lib/data';
 import Hero from './Hero';
+import CategoryHero from './CategoryHero';
 
 const SOURCES = [
   { label: 'Cornwall Council – Dogs on beaches (PSPO)', url: 'https://www.cornwall.gov.uk/environment/animal-welfare-and-enforcement/dogs-on-beaches/' },
@@ -13,7 +14,7 @@ const SOURCES = [
 ];
 
 // Shared layout for /beaches/<roundup>/ and /towns/<town>/<roundup>-beaches/.
-export default function Roundup({ title, intro, criteria, crumbs, items, secondary, distanceFrom, path, kind = 'beach', sources }) {
+export default function Roundup({ title, intro, criteria, crumbs, items, secondary, distanceFrom, path, kind = 'beach', sources, banner }) {
   const base = kind === 'attraction' ? '/things-to-do/' : kind === 'food' ? '/food-and-drink/' : '/beaches/';
   const all = [...items, ...(secondary?.items || [])].map((x) => x.b);
   const hero = heroImage(items.map((x) => x.b).find((b) => heroImage(b)?.width > 1500) || items[0]?.b);
@@ -23,7 +24,11 @@ export default function Roundup({ title, intro, criteria, crumbs, items, seconda
   return (
     <>
       <JsonLd data={(kind === 'attraction' ? attractionListLd : kind === 'food' ? foodListLd : itemListLd)(title, items.map((x) => x.b), path)} />
-      <Hero image={hero} title={title} kicker={`${items.length} ${kind === 'beach' ? 'beaches' : 'places'}`} lat={50.3} lng={-5} crumbs={crumbs} lastChecked={latestChecked(all)} standfirst={intro} />
+      {banner ? (
+        <CategoryHero hero={banner} title={title} kicker={`${items.length} ${kind === 'beach' ? 'beaches' : 'places'}`} crumbs={crumbs} lastChecked={latestChecked(all)} standfirst={intro} />
+      ) : (
+        <Hero image={hero} title={title} kicker={`${items.length} ${kind === 'beach' ? 'beaches' : 'places'}`} lat={50.3} lng={-5} crumbs={crumbs} lastChecked={latestChecked(all)} standfirst={intro} />
+      )}
       <Container className="mt-8">
         <p className="max-w-[68ch] text-sm text-atlantic-950/60"><strong>How we chose them:</strong> {criteria}</p>
         <div className="mt-10">
